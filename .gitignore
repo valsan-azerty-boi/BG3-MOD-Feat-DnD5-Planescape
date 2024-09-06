@@ -396,3 +396,20 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Main ignore
+Mods.lnk
+*.pak
+.vscode/
+Projects/GustavDev/*
+BG3modTest/*
+Editor/*
+Generated/*
+Mods/Gustav/*
+Mods/GustavDev/*
+Mods/Shared/*
+Mods/SharedDev/*
+Public/Engine/*
+Public/Shared/GUI/*
+Public/UserTemp/*
+language.lsx
