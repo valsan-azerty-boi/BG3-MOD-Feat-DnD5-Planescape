@@ -1,0 +1,12 @@
+new entry "Background_Paitm_GateWarden"
+type "PassiveData"
+data "DisplayName" "hbe28ccc0gde5cgb934gba26gb9d93b9ea01a;1"
+data "Description" "h930657efg00d8gecb5g8facg5b9b23e9e0ee;1"
+data "Boosts" "ProficiencyBonus(Skill,Persuasion);ProficiencyBonus(Skill,Survival)"
+
+new entry "Background_Paitm_PlanarPhilosopher"
+type "PassiveData"
+data "DisplayName" "h5044a308g8643g0253g4ba6ge2057b7fba3a;1"
+data "Description" "hcb31dc8bga795g55aegb3ebge686e0b3ef7c;1"
+data "Boosts" "ProficiencyBonus(Skill,Arcana);ProficiencyBonus(Skill,Investigation)"
+

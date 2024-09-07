@@ -1,0 +1,39 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+// Gate Warden goals
+// Act 1 Gate Warden
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_Hyenas", 439585d8-efb8-4f4e-ae74-335971a771a4);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_HagIllusion", 74bbf06c-86ae-45e8-ba67-81e9618a9aa9);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_FairyRings", 2fab92f2-a713-4a98-89f4-6cdaa0dfb3e8);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_BoulderTrap", 53255d82-43e0-46a6-9dc8-db159423ec4e);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_UndMushrooms", 1f1a5090-4e90-42b5-8487-f796dc88cd16);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_JumpFromBottomlessWell", 19930a26-0f14-4375-b908-06fa59a522d5);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_TameCub", b56a83e8-418d-4da5-9f3b-70b06c5a320a);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_DefeatOwlbear", 9623470f-0caa-406a-bed2-7a865f2ff7cb);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_OutpostSpiders", 92f75626-3bdd-4bb8-b5a5-2750c5e61c0d);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_CrawlerNest", 8e2cfe5e-16d5-4f95-b33a-82d3c9ec1109);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_UndBirdNest", a16d585b-8cda-42e2-bc04-a8f7f74c22b3);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_Noblestalk", ce58afd1-99cd-4119-88f7-663ea006d299);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_DefeatElemental", 0d69aa94-26b9-4c37-9db2-aed40b63a9cc);
+// Planar Philosopher goals
+// Act 1 Planar Philosopher
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_Hyenas", 439585d8-efb8-4f4e-ae74-335971a771a4);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_HagIllusion", 74bbf06c-86ae-45e8-ba67-81e9618a9aa9);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_FairyRings", 2fab92f2-a713-4a98-89f4-6cdaa0dfb3e8);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_BoulderTrap", 53255d82-43e0-46a6-9dc8-db159423ec4e);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_UndMushrooms", 1f1a5090-4e90-42b5-8487-f796dc88cd16);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_JumpFromBottomlessWell", 19930a26-0f14-4375-b908-06fa59a522d5);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_TameCub", b56a83e8-418d-4da5-9f3b-70b06c5a320a);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_DefeatOwlbear", 9623470f-0caa-406a-bed2-7a865f2ff7cb);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_OutpostSpiders", 92f75626-3bdd-4bb8-b5a5-2750c5e61c0d);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_CrawlerNest", 8e2cfe5e-16d5-4f95-b33a-82d3c9ec1109);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_UndBirdNest", a16d585b-8cda-42e2-bc04-a8f7f74c22b3);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_Noblestalk", ce58afd1-99cd-4119-88f7-663ea006d299);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_DefeatElemental", 0d69aa94-26b9-4c37-9db2-aed40b63a9cc);
+KBSECTION
+
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "Act1_GLO_Backgrounds_Goals"

@@ -1,0 +1,266 @@
+Version 1
+SubGoalCombiner SGC_OR
+INITSECTION
+// Gate Warden goals
+// Act 1 Gate Warden
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_Hyenas", c754e72f-cce4-4f38-b325-c9a0206b78ba);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_HagIllusion", c754e72f-cce4-4f38-b325-c9a0206b78ba);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_FairyRings", c754e72f-cce4-4f38-b325-c9a0206b78ba);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_BoulderTrap", c754e72f-cce4-4f38-b325-c9a0206b78ba);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_UndMushrooms", c754e72f-cce4-4f38-b325-c9a0206b78ba);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_JumpFromBottomlessWell", c754e72f-cce4-4f38-b325-c9a0206b78ba);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_TameCub", c754e72f-cce4-4f38-b325-c9a0206b78ba);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_DefeatOwlbear", c754e72f-cce4-4f38-b325-c9a0206b78ba);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_OutpostSpiders", c754e72f-cce4-4f38-b325-c9a0206b78ba);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_CrawlerNest", c754e72f-cce4-4f38-b325-c9a0206b78ba);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_UndBirdNest", c754e72f-cce4-4f38-b325-c9a0206b78ba);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_Noblestalk", c754e72f-cce4-4f38-b325-c9a0206b78ba);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_DefeatElemental", c754e72f-cce4-4f38-b325-c9a0206b78ba);
+// Planar Philosopher goals
+// Act 1 Planar Philosopher
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_Hyenas", 070b9ee7-c5a9-4dd9-b551-41b9a1cb5df9);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_HagIllusion", 070b9ee7-c5a9-4dd9-b551-41b9a1cb5df9);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_FairyRings", 070b9ee7-c5a9-4dd9-b551-41b9a1cb5df9);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_BoulderTrap", 070b9ee7-c5a9-4dd9-b551-41b9a1cb5df9);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_UndMushrooms", 070b9ee7-c5a9-4dd9-b551-41b9a1cb5df9);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_JumpFromBottomlessWell", 070b9ee7-c5a9-4dd9-b551-41b9a1cb5df9);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_TameCub", 070b9ee7-c5a9-4dd9-b551-41b9a1cb5df9);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_DefeatOwlbear", 070b9ee7-c5a9-4dd9-b551-41b9a1cb5df9);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_OutpostSpiders", 070b9ee7-c5a9-4dd9-b551-41b9a1cb5df9);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_CrawlerNest", 070b9ee7-c5a9-4dd9-b551-41b9a1cb5df9);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_UndBirdNest", 070b9ee7-c5a9-4dd9-b551-41b9a1cb5df9);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_Noblestalk", 070b9ee7-c5a9-4dd9-b551-41b9a1cb5df9);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_DefeatElemental", 070b9ee7-c5a9-4dd9-b551-41b9a1cb5df9);
+KBSECTION
+//REGION Outlander
+IF
+DB_GlobalFlag((FLAG)PLA_DyingHyena_State_Gone_62e3eb5c-d0c8-48ca-be82-b6c64008b093)
+AND
+DB_PLA_DyingHyenas_DeathEventStarted(_Player)
+AND
+DB_PartyMembers(_PartyMember)
+THEN
+PROC_GLO_Backgrounds_CompleteGoal(_PartyMember, "Act1_Outlander_Hyenas");
+
+IF
+UseStarted(_Player, _FairyRing)
+AND
+DB_UND_FairyRings_FairyRings(_FairyRing)
+THEN
+PROC_GLO_Backgrounds_CompleteGoal(_Player, "Act1_Outlander_FairyRings");
+
+IF
+DialogEnded((DIALOGRESOURCE)FOR_Bottomless_CINE_Descent_FF_7e5441a1-94e5-b285-5871-9cbeafa3f064, _InstanceId)
+AND
+DB_DialogPlayers(_InstanceId, _Player, _)
+THEN
+PROC_GLO_Backgrounds_CompleteGoal((CHARACTER)_Player, "Act1_Outlander_JumpFromBottomlessWell");
+
+// Boulder trap in Plains
+// disarm
+IF
+AttemptedDisarm(_TripWire, _Player, _, 1)
+AND
+DB_Players(_Player)
+AND
+DB_GLO_Backgrounds_Outlander_BoulderTrapWires(_TripWire)
+THEN
+DB_GLO_Backgrounds_Outlander_BoulderWireDisarmed((ITEM)_TripWire);
+
+IF
+DB_GLO_Backgrounds_Outlander_BoulderWireDisarmed(S_PLA_BanditCave_Trap_Tripwire_C_001_222325f6-8657-496a-8e34-1215ec1d58b6)
+AND
+DB_GLO_Backgrounds_Outlander_BoulderWireDisarmed(S_PLA_BanditCave_Trap_Tripwire_C_000_3de7f2e9-3f0b-4b43-a96e-a3688b207b33)
+AND
+NOT DB_PLA_BanditCave_BoulderTrap_TrapActivated(_)
+AND
+DB_Players(_Player)
+AND
+NOT DB_GLO_Backgrounds_Blocked("Act1_Outlander_BoulderTrap")
+THEN
+PROC_GLO_Backgrounds_CompleteGoal(_Player, "Act1_Outlander_BoulderTrap");
+PROC_GLO_Backgrounds_Outlander_BoulderCleanUp();
+
+
+// going through
+IF
+EnteredTrigger(_Player, S_PLA_Plains_SUB_bcc3efa5-bfe1-4224-9df1-6758cac764cd)
+AND
+DB_Players(_Player)
+AND
+QRY_OnlyOnce("PLA_BanditCave_TrapZoneRegister")
+AND
+DB_GLO_Backgrounds_Outlander_BoulderTrapZones(_Trigger)
+THEN
+PROC_TriggerRegisterForPlayers(_Trigger);
+
+IF
+LeftTrigger(_Player, _Trigger)
+AND
+DB_GLO_Backgrounds_Outlander_BoulderWasInZone(_Player, _Trigger)
+AND
+NOT QRY_GLO_Backgrounds_Outlander_BoulderPlayerInAnyZone(_Player)
+THEN
+PROC_GLO_Backgrounds_Outlander_BoulderRestart(_Player);
+
+IF
+EnteredTrigger(_Player, _Trigger)
+AND
+DB_GLO_Backgrounds_Outlander_BoulderTrapZones(_Trigger)
+THEN
+DB_GLO_Backgrounds_Outlander_BoulderWasInZone((CHARACTER)_Player, (TRIGGER)_Trigger);
+
+IF
+DB_GLO_Backgrounds_Outlander_BoulderWasInZone(_Player, S_PLA_BanditCave_TrapZone_A_7dbeb14f-881e-4200-a8c1-c2b94b403d43)
+AND
+DB_GLO_Backgrounds_Outlander_BoulderWasInZone(_Player, S_PLA_BanditCave_TrapZone_B_9bbe3d04-a1a3-45eb-a422-456af1b4a32c)
+AND
+DB_GLO_Backgrounds_Outlander_BoulderWasInZone(_Player, S_PLA_BanditCave_TrapZone_C_81f387e2-400e-4bf4-a776-cbda4dd59c60)
+AND
+NOT DB_PLA_BanditCave_BoulderTrap_TrapActivated(_)
+THEN
+PROC_GLO_Backgrounds_CompleteGoal(_Player, "Act1_Outlander_BoulderTrap");
+PROC_GLO_Backgrounds_Outlander_BoulderCleanUp();
+
+
+QRY
+QRY_GLO_Backgrounds_Outlander_BoulderPlayerInAnyZone((CHARACTER)_Player)
+AND
+DB_GLO_Backgrounds_Outlander_BoulderTrapZones(_Trigger)
+AND
+DB_InRegion(_Player, _Trigger)
+THEN
+DB_NOOP(1);
+
+PROC
+PROC_PLA_BanditCave_ActivateTrap(_)
+AND
+NOT DB_GLO_Backgrounds_Blocked("Act1_Outlander_BoulderTrap")
+THEN
+DB_GLO_Backgrounds_Blocked("Act1_Outlander_BoulderTrap");
+
+PROC
+PROC_PLA_BanditCave_ActivateTrap(_)
+THEN
+PROC_GLO_Backgrounds_Outlander_BoulderCleanUp();
+
+PROC
+PROC_LevelBecameUnreachable("WLD_Main_A")
+THEN
+PROC_GLO_Backgrounds_Outlander_BoulderCleanUp();
+
+PROC
+PROC_GLO_Backgrounds_Outlander_BoulderCleanUp()
+AND
+DB_GLO_Backgrounds_Outlander_BoulderTrapZones(_Trigger)
+THEN
+PROC_TriggerUnregisterForPlayers(_Trigger);
+
+PROC
+PROC_GLO_Backgrounds_Outlander_BoulderCleanUp()
+AND
+DB_Players(_Player)
+THEN
+PROC_GLO_Backgrounds_Outlander_BoulderRestart(_Player);
+
+PROC
+PROC_GLO_Backgrounds_Outlander_BoulderRestart((CHARACTER)_Player)
+AND
+DB_GLO_Backgrounds_Outlander_BoulderWasInZone(_Player, _Trigger)
+THEN
+NOT DB_GLO_Backgrounds_Outlander_BoulderWasInZone(_Player, _Trigger);
+
+// Undedark Mushrooms
+IF
+TemplateDestroyedBy(_ItemRoot, _, _, _PartyMember, _)
+AND
+DB_PartyMembers(_PartyMember)
+AND
+DB_GLO_Backgrounds_Outlander_MushroomRoots(_ItemRoot, _MushroomName)
+AND
+NOT DB_GLO_Backgrounds_Outlander_MushroomKilled(_MushroomName)
+THEN
+DB_GLO_Backgrounds_Outlander_MushroomKilled(_MushroomName);
+PROC_GLO_Backgrounds_Outlander_CheckMushroomKilled((CHARACTER)_PartyMember);
+
+IF
+TemplateDestroyedBy(_ItemRoot, _Item, _, _Destroyer, _)
+AND
+NOT DB_PartyMembers(_Destroyer)
+AND
+DB_GLO_Backgrounds_Outlander_MushroomRoots(_ItemRoot, _MushroomName)
+AND
+NOT DB_GLO_Backgrounds_Outlander_MushroomKilled(_MushroomName)
+AND
+GetClosestAlivePlayer(_Item, _Player, _Distance)
+AND
+_Distance < 20.0
+THEN
+DB_GLO_Backgrounds_Outlander_MushroomKilled(_MushroomName);
+PROC_GLO_Backgrounds_Outlander_CheckMushroomKilled(_Player);
+
+PROC
+PROC_GLO_Backgrounds_Outlander_CheckMushroomKilled((CHARACTER)_Player)
+AND
+SysCount("DB_GLO_Backgrounds_Outlander_MushroomKilled", 1, _Count)
+AND
+_Count >= 3
+THEN
+PROC_GLO_Backgrounds_CompleteGoal(_Player, "Act1_Outlander_UndMushrooms");
+
+// Act1_Outlander_Noblestalk
+IF
+TemplateUseStarted(_PartyMember, PUZ_Underdark_Mushroom_Noblestalk_A_48c679c1-b713-4d2f-9bba-1c43ed654404, _)
+AND
+DB_PartyMembers(_PartyMember)
+AND
+QRY_GLO_Backgrounds_Outlander_GoodUseNoblestalk(_PartyMember)
+THEN
+PROC_GLO_Backgrounds_CompleteGoal(_PartyMember, "Act1_Outlander_Noblestalk");
+
+QRY
+QRY_GLO_Backgrounds_Outlander_GoodUseNoblestalk((CHARACTER)_Player)
+AND
+GetHitpointsPercentage(_Player, _Percentage)
+AND
+_Percentage < 100.0
+THEN
+DB_NOOP(1);
+
+QRY
+QRY_GLO_Backgrounds_Outlander_GoodUseNoblestalk((CHARACTER)_Player)
+AND
+DB_GLO_Backgrounds_Outlander_NoblestalkStatusGroups(_StatusGroup)
+AND
+HasActiveStatusWithGroup(_Player, _StatusGroup, 1)
+THEN
+DB_NOOP(1);
+
+IF
+FlagSet(UND_MyconidCircle_InjuredGnome_Event_AteNoblestalk_fe616c56-097e-49ee-aa9b-e1b68a9917e9, S_GLO_InjuredGnome_fcf53ac7-1805-4e57-b6ed-4f7b0f90cf96, _ID)
+AND
+DialogGetInvolvedPlayer(_ID, 1, (CHARACTER)_Player)
+THEN
+PROC_GLO_Backgrounds_CompleteGoal(_Player, "Act1_Outlander_Noblestalk");
+
+IF
+FlagSet(UND_MushroomHunter_Event_GiveMushroom_d5da8505-841d-4d3f-8f56-00b2e31896ef, S_GLO_Derryth_2b537d2a-14c8-43b3-ab71-d537c925a2a7, _ID)
+AND
+DialogGetInvolvedPlayer(_ID, 1, (CHARACTER)_Player)
+THEN
+PROC_GLO_Backgrounds_CompleteGoal(_Player, "Act1_Outlander_Noblestalk");
+
+// Act1_Outlander_HagIllusion
+PROC
+PROC_GlobalFlagReactionAfterDialog(HAG_ForestIllusion_Event_DropIllusion_c8a36ee5-68eb-a944-8295-55188d026506, HAG_ForestIllusion_Illusioncheck_ad27b62d-9b83-dd71-4298-1a29a73b69bd, _InstanceID)
+AND
+NOT DB_GlobalFlag(HAG_Hag_Event_DropDisguise_30c887ff-c8b4-6442-dc43-4602df81d315)
+AND
+DB_DialogPlayers(_InstanceID, _Player, _)
+THEN
+PROC_GLO_Backgrounds_CompleteGoal((CHARACTER)_Player, "Act1_Outlander_HagIllusion");
+//END_REGION Outlander
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "Act1_GLO_Backgrounds_Goals"

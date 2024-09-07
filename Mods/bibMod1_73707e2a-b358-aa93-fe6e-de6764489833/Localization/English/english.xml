@@ -117,4 +117,8 @@
   <content contentuid="h34f28f4agbe84g2195gc3e0ga03f6a400896" version="1">Kill the cultist leader seeking Karlach.</content>
   <content contentuid="h00a04804g4d68ge9dfg5a0fgd2dc8e378c7f" version="1">Protect Them</content>
   <content contentuid="h513c2ee8g6160g7fafg8117gce7f6babd22b" version="1">Persuade Rolan to stay and protect the grove.</content>
+  <content contentuid="h5044a308g8643g0253g4ba6ge2057b7fba3a" version="1">Planar Philosopher</content>
+  <content contentuid="hcb31dc8bga795g55aegb3ebge686e0b3ef7c" version="1">You have &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Arcana"&gt;Arcana&lt;/LSTag&gt; and, regarding your distance from the factions of Sigil, &lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt;.</content>
+  <content contentuid="hbe28ccc0gde5cgb934gba26gb9d93b9ea01a" version="1">Gate Warden</content>
+  <content contentuid="h930657efg00d8gecb5g8facg5b9b23e9e0ee" version="1">You have &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Persuasion"&gt;Persuasion&lt;/LSTag&gt; and &lt;LSTag Tooltip="Survival"&gt;Survival&lt;/LSTag&gt;.</content>
 </contentList>
