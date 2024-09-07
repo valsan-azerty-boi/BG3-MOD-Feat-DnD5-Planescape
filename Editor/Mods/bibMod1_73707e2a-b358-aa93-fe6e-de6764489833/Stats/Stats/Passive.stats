@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3e76b74c-a5ae-4268-944a-aa9c31e2185e">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="89555fd0-75c2-4f25-a78c-12e9adf307a6" />
+        <field name="Name" type="NameTableFieldDefinition" value="Background_Paitm_GateWarden" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbe28ccc0gde5cgb934gba26gb9d93b9ea01a" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Persuasion);ProficiencyBonus(Skill,Survival)" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h930657efg00d8gecb5g8facg5b9b23e9e0ee" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c9a79a39-dfd0-42ad-9eea-ea3dfb217eea" />
+        <field name="Name" type="NameTableFieldDefinition" value="Background_Paitm_PlanarPhilosopher" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5044a308g8643g0253g4ba6ge2057b7fba3a" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Arcana);ProficiencyBonus(Skill,Investigation)" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcb31dc8bga795g55aegb3ebge686e0b3ef7c" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
