@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="11fa382c-a1d2-45ba-913c-b13062365ce8">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e1613280-ff79-4b0f-bfd2-dff28f7a334a" />
+        <field name="Name" type="NameTableFieldDefinition" value="Planar Infusion" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Paitm_PlanarInfusion_Poison,Paitm_PlanarInfusion_Necrotic,Paitm_PlanarInfusion_Radiant,Paitm_PlanarInfusion_Force,Paitm_PlanarInfusion_Psychic" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c9a2ff24-cbc8-4278-9c32-2b8c4cae822d" />
+        <field name="Name" type="NameTableFieldDefinition" value="Planar Wanderer" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Paitm_PlanarWanderer_Acid,Paitm_PlanarWanderer_Cold,Paitm_PlanarWanderer_Fire" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="87e8de8d-64a9-4bc6-b62f-954b56412f41" />
+        <field name="Name" type="NameTableFieldDefinition" value="Planar Agent" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Paitm_RighteousHeritor,Paitm_BalefulScion,Paitm_AgentOfOrder,Paitm_CohortOfChaos,Paitm_OutlandsEnvoy" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

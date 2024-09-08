@@ -1,0 +1,9 @@
+new entry "Mimir"
+type "Object"
+
+new entry "Portal Compass"
+type "Object"
+
+new entry "Sensory Stone"
+type "Object"
+

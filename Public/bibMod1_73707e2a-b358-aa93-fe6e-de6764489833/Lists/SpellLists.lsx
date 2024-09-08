@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Planar Wanderer"/>
+                    <attribute id="Spells" type="LSString" value="Teleportation_Paitm_PortalCracker"/>
+                    <attribute id="UUID" type="guid" value="35c837de-c04b-41ad-8668-d3ea3cb68596"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

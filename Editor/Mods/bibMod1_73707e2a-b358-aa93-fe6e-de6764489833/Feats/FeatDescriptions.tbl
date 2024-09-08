@@ -1,4 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <stats stat_object_definition_id="0bc6c1c1-edc3-45ae-badf-12732a57c361">
-  <stat_objects />
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c28b02f3-a3ed-4faf-81d9-13dc81e45a02" />
+        <field name="FeatId" type="GuidTableFieldDefinition" value="fc4f08b4-b626-427d-a562-b4e7349af5b2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h847ddcd7g272ag0430g716ag7f16375fc360" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hbe53f43dgeeacg8f37gd1d5g3cf9b78e6290" version="3" />
+        <field name="ExactMatch" type="FixedStringTableFieldDefinition" value="ScionOfTheOuterPlanes" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3baf0e99-4f2c-4250-8df1-3babb0a924d0" />
+        <field name="FeatId" type="GuidTableFieldDefinition" value="f24cdc77-e469-4c59-8e3f-278f60a9cbf4" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3b8cb656g7968gf2dag31b8g6a98e698cd3e" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h4b1b0ee0g2aabg6fb6ge12fg61d331c63717" version="2" />
+        <field name="ExactMatch" type="FixedStringTableFieldDefinition" value="PlanarWanderer" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_7" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f8587164-1077-4eb9-b5b9-21c117d28c3b" />
+        <field name="FeatId" type="GuidTableFieldDefinition" value="818f08eb-969c-4661-86a0-ddb1b4d844d4" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2e927036gebe3g0230gb9f4g4f25d8efeb09" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h1876774ag4ed5g697dgf1d7gbec26f0aab8f" version="2" />
+        <field name="ExactMatch" type="FixedStringTableFieldDefinition" value="PlanarAgent" />
+      </fields>
+    </stat_object>
+  </stat_objects>
 </stats>

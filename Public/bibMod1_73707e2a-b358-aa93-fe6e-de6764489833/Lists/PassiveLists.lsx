@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Planar Infusion"/>
+                    <attribute id="Passives" type="LSString" value="Paitm_PlanarInfusion_Poison,Paitm_PlanarInfusion_Necrotic,Paitm_PlanarInfusion_Radiant,Paitm_PlanarInfusion_Force,Paitm_PlanarInfusion_Psychic"/>
+                    <attribute id="UUID" type="guid" value="e1613280-ff79-4b0f-bfd2-dff28f7a334a"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Planar Wanderer"/>
+                    <attribute id="Passives" type="LSString" value="Paitm_PlanarWanderer_Acid,Paitm_PlanarWanderer_Cold,Paitm_PlanarWanderer_Fire"/>
+                    <attribute id="UUID" type="guid" value="c9a2ff24-cbc8-4278-9c32-2b8c4cae822d"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Planar Agent"/>
+                    <attribute id="Passives" type="LSString" value="Paitm_RighteousHeritor,Paitm_BalefulScion,Paitm_AgentOfOrder,Paitm_CohortOfChaos,Paitm_OutlandsEnvoy"/>
+                    <attribute id="UUID" type="guid" value="87e8de8d-64a9-4bc6-b62f-954b56412f41"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

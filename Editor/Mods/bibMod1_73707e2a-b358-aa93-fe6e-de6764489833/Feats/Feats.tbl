@@ -1,4 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <stats stat_object_definition_id="7358629f-4319-48b7-a377-58cb7027df69">
-  <stat_objects />
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fc4f08b4-b626-427d-a562-b4e7349af5b2" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="ScionOfTheOuterPlanes" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="SelectPassives(e1613280-ff79-4b0f-bfd2-dff28f7a334a,1)" />
+        <field name="CanBeTakenMultipleTimes" type="BoolTableFieldDefinition" value="False" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="818f08eb-969c-4661-86a0-ddb1b4d844d4" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="PlanarAgent" />
+        <field name="CanBeTakenMultipleTimes" type="BoolTableFieldDefinition" value="False" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,1,1,FeatASI);SelectPassives(87e8de8d-64a9-4bc6-b62f-954b56412f41,1)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_6" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f24cdc77-e469-4c59-8e3f-278f60a9cbf4" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="PlanarWanderer" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="SelectPassives(c9a2ff24-cbc8-4278-9c32-2b8c4cae822d,1)" />
+        <field name="CanBeTakenMultipleTimes" type="BoolTableFieldDefinition" value="False" />
+      </fields>
+    </stat_object>
+  </stat_objects>
 </stats>

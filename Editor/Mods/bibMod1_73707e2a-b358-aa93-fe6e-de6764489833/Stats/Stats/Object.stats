@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e078e210-b9ba-48e5-afe3-c5eb91ba8545">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a6176fba-e47e-4bfa-ab43-cfed1214a4c8" />
+        <field name="Name" type="NameTableFieldDefinition" value="Mimir" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b9301bfb-3fbd-43b2-8c37-bf6d2147ded5" />
+        <field name="Name" type="NameTableFieldDefinition" value="Portal Compass" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e0b5d1cc-0248-4f8a-9d9a-25acab481d31" />
+        <field name="Name" type="NameTableFieldDefinition" value="Sensory Stone" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

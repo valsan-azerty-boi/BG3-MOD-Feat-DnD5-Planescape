@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="Feats">
+        <node id="root">
+            <children>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="ScionOfTheOuterPlanes"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(e1613280-ff79-4b0f-bfd2-dff28f7a334a,1)"/>
+                    <attribute id="UUID" type="guid" value="fc4f08b4-b626-427d-a562-b4e7349af5b2"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="PlanarAgent"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,1,1,FeatASI);SelectPassives(87e8de8d-64a9-4bc6-b62f-954b56412f41,1)"/>
+                    <attribute id="UUID" type="guid" value="818f08eb-969c-4661-86a0-ddb1b4d844d4"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="PlanarWanderer"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(c9a2ff24-cbc8-4278-9c32-2b8c4cae822d,1)"/>
+                    <attribute id="UUID" type="guid" value="f24cdc77-e469-4c59-8e3f-278f60a9cbf4"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

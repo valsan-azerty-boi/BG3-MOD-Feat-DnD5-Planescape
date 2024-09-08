@@ -121,4 +121,79 @@
   <content contentuid="hcb31dc8bga795g55aegb3ebge686e0b3ef7c" version="1">You have &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Arcana"&gt;Arcana&lt;/LSTag&gt; and, regarding your distance from the factions of Sigil, &lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt;.</content>
   <content contentuid="hbe28ccc0gde5cgb934gba26gb9d93b9ea01a" version="1">Gate Warden</content>
   <content contentuid="h930657efg00d8gecb5g8facg5b9b23e9e0ee" version="1">You have &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Persuasion"&gt;Persuasion&lt;/LSTag&gt; and &lt;LSTag Tooltip="Survival"&gt;Survival&lt;/LSTag&gt;.</content>
+  <content contentuid="hcf0b47efgd95bgfa8eg4b9fg30c3dd231d45" version="1">test</content>
+  <content contentuid="h16ce8fbegb991gd37dg9d98g2faaa4ce9d99" version="1">test</content>
+  <content contentuid="h7d9e0d4cgef34gf222g75cdg4324e85f5c52" version="1">Hermit</content>
+  <content contentuid="h869edc6fga0e3gd6e8ge76dgb16ee8276eca" version="1">Hermit</content>
+  <content contentuid="h44ff07e5g4d64g758egccebg190b8a86595b" version="1">Acolyte</content>
+  <content contentuid="hbc029e23g9a94gf7a7g4a87g3d8bdde9f692" version="1">Acolyte</content>
+  <content contentuid="h847ddcd7g272ag0430g716ag7f16375fc360" version="1">Scion of the Outer Planes</content>
+  <content contentuid="hbe53f43dgeeacg8f37gd1d5g3cf9b78e6290" version="3">Your connection to an Outer Plane infuses you with its energies and you gain an appropriate cantrip.</content>
+  <content contentuid="hf64a139cgc948ga643gaf46g387aed0092f2" version="1">Chaotic Outer Plane</content>
+  <content contentuid="ha428d52dg1e57g58b8gbe02g8d2c9933c779" version="4">Your connection to Chaotic Outer Plane infuses you with a Poison &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and give you the minor spell &lt;LSTag Tooltip="MinorIllusion"&gt;Minor illusion&lt;/LSTag&gt;.</content>
+  <content contentuid="heef34103gf7d6g0291g8ee3gcf8d552b9124" version="1">Evil Outer Plane</content>
+  <content contentuid="h25332eefge01cg4b69g5faag55fd585718a1" version="5">Your connection to Evil Outer Plane infuses you with a Necrotic &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and give you the minor spell &lt;LSTag Tooltip="ChillTouch"&gt;Chill touch&lt;/LSTag&gt; (also known as &lt;LSTag Tooltip="ChillTouch"&gt;Bone chill&lt;/LSTag&gt;).</content>
+  <content contentuid="h11d6a73dg4fd4ged75g2e08g319314a0224c" version="1">Good Outer Plane</content>
+  <content contentuid="hcc33cf7agd7b9g00eage804g41b8a1eee356" version="4">Your connection to Good Outer Plane infuses you with a Radiant &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and give you the minor spell &lt;LSTag Tooltip="SacredFlame"&gt;Sacred flame&lt;/LSTag&gt;.</content>
+  <content contentuid="h3039dca7g4e3dgb8cfgc231g881d97ebf543" version="1">Lawful Outer Plane</content>
+  <content contentuid="h93f08ce1g78ccg7688gd450g22dd21334e0e" version="4">Your connection to Lawful Outer Plane infuses you with a Force &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and give you the minor spell &lt;LSTag Tooltip="Guidance"&gt;Guidance&lt;/LSTag&gt;.</content>
+  <content contentuid="hf4fbbe54g075dg035cge463g187b3f9dbea7" version="1">The Outlands</content>
+  <content contentuid="h5e30a580g99b8g4dfcg2abcgb2650539f572" version="4">Your connection to Outlands infuses you with a Psychic &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and give you the minor spell &lt;LSTag Tooltip="MageHand"&gt;Mage hand&lt;/LSTag&gt;.</content>
+  <content contentuid="h84afdf6bgb8ddgf802g3363g012146655083" version="1">Draconic Ancestry</content>
+  <content contentuid="h26048a06g4073ge615gb6b4g19bb44c23d83" version="1">The blood of ancient dragons flows through your veins. You are &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to Fire damage.</content>
+  <content contentuid="h3b8cb656g7968gf2dag31b8g6a98e698cd3e" version="1">Planar Wanderer</content>
+  <content contentuid="h4b1b0ee0g2aabg6fb6ge12fg61d331c63717" version="2">You can draw on the forces of the multiverse to survive cosmic extremes and you assert yourself as a true expert in planar portals.</content>
+  <content contentuid="h7922d8aag0730g408bg1301g0c3f6b90631b" version="1">Agent of Order</content>
+  <content contentuid="h080c4c35gb42dgca01ge8cfg244b47407ddb" version="2">OLD_You can channel cosmic forces of order to gain benefits.</content>
+  <content contentuid="hdaeb5abfg0ad1g2443g0f5bg3f7476e0a667" version="1">Baleful Scion</content>
+  <content contentuid="h4ef18962g3deegaa6fg1f5bg35cdad9ed299" version="2">OLD_You can channel cosmic forces of evil to gain benefits.</content>
+  <content contentuid="he5256e8dg9ddfgc0a4g9bb8gc1c8c97a4058" version="1">Cohort of Chaos</content>
+  <content contentuid="h502bfab7gb9a0gd257gd656g099d4c09c84d" version="2">OLD_You can channel cosmic forces of chaos to gain benefits.</content>
+  <content contentuid="h9fd845d9g641egebd9g981bg2ae35f4a9ffe" version="1">Outlands Envoy</content>
+  <content contentuid="h24184e08g396cg1910gf9dcg656df71d966b" version="2">OLD_You have spent significant time in the Outlands. Being steeped in converging planar energies grants you benefits.</content>
+  <content contentuid="h9c19cc12g6bcag28a1g99f8gb656a4cfd87c" version="1">Righteous Heritor</content>
+  <content contentuid="h395735d3gba45gb3d8ga495gbcb55fd7702a" version="2">OLD_You can channel cosmic forces of good to gain benefits.</content>
+  <content contentuid="h750430b5g480fgddabg4bc0g7dd11520f7a1" version="2">Acid Planar Adaptation</content>
+  <content contentuid="hffa64d14g00eage72agfbcdgf24965250c7e" version="7">With your experience of planar travel, you gain an Acid &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and the spell &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Portal cracker&lt;/LSTag&gt; usable one time per rest.</content>
+  <content contentuid="ha210fd4fg8dddg945ege2e9gf88344ebd3a2" version="2">Cold Planar Adaptation</content>
+  <content contentuid="h7a135195g8d7fg68cdg6fdfg5123354e16ac" version="7">With your experience of planar travel, you gain a Cold &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and the spell &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Portal cracker&lt;/LSTag&gt; usable one time per rest.</content>
+  <content contentuid="hdc672450g0e4dg4549g46c3g488968729677" version="2">Fire Planar Adaptation</content>
+  <content contentuid="h9f23fc0eg5eb8geb7bg3cebg93d2cbf3009f" version="8">With your experience of planar travel, you gain a Fire &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and the spell &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Portal Cracker&lt;/LSTag&gt; usable one time per rest.</content>
+  <content contentuid="hce1cd424g90f9gea76gb72dg44fdf98a3f8b" version="1">Agent of Order</content>
+  <content contentuid="hbc628baeg7924g2968g688ege1b27b9da425" version="5">You can channel cosmic forces of Order to gain benefits. You gain the spell &lt;LSTag Tooltip="Interrupt_Paitm_StasisStrike"&gt;Stasis Strike&lt;/LSTag&gt; usable one time per turn.</content>
+  <content contentuid="h5ff73c39g2f01g0d15g8d66ga682c91ea8eb" version="1">Baleful Scion</content>
+  <content contentuid="ha6e5632cgaf7cg4d26g70e5g1073b3542c2d" version="5">You can channel cosmic forces of Evil to gain benefits. You gain the necrotic reaction &lt;LSTag Tooltip="Interrupt_Paitm_GraspOfAvarice"&gt;Grasp of Avarice&lt;/LSTag&gt; usable one time per turn.</content>
+  <content contentuid="h6da757f1g64bbgef99g5eadg9ccaa0af91e5" version="1">Cohort of Chaos</content>
+  <content contentuid="hcb521ec4ge75ega4f2gee7cga136f770cf66" version="6">You can channel cosmic forces of Chaos to gain benefits. You gain the spell &lt;LSTag Tooltip="Paitm_ChaoticFlare"&gt;Chaotic flare&lt;/LSTag&gt; spell usable one time per combat.</content>
+  <content contentuid="h200b8582g0000g60deg6dcbg03ea70e221e0" version="1">Outlands Envoy</content>
+  <content contentuid="hf85ca431g8eaag85fegbadegd62822b34e33" version="8">You have spent significant time in the Outlands, being steeped in converging planar energies grants you benefits. You gain a planar &lt;LSTag Tooltip="Paitm_MistyStep"&gt;Misty step&lt;/LSTag&gt; spell usable one time per rest.</content>
+  <content contentuid="h4d785b39gae96ge296gd520gd6f9fabfd7f9" version="1">Righteous Heritor</content>
+  <content contentuid="hd0289576gccc2gcb7dg9966g992f0cb0c0f2" version="4">You can channel cosmic forces of Good to gain benefits. You gain the spell &lt;LSTag Tooltip="MistyStep"&gt;TODO&lt;/LSTag&gt; freely usable one time per day.</content>
+  <content contentuid="h2e927036gebe3g0230gb9f4g4f25d8efeb09" version="1">Planar Agent</content>
+  <content contentuid="h1876774ag4ed5g697dgf1d7gbec26f0aab8f" version="2">You can channel specific cosmic forces to gain benefits and you increase one Ability by 1 to a maximum of 20.</content>
+  <content contentuid="h1a1a5fd5g37f0g0d8bg6e4bg0a7864f5d8a4" version="1">Planar Misty Step</content>
+  <content contentuid="h7bc2a60ag2954gf3d4gb8a8g1d39c7db951e" version="1">Surrounded by planar energies, you teleport to an unoccupied space you can see.</content>
+  <content contentuid="h6d4f5178g1938g00a2gf920g880454834028" version="1">Gate Seal</content>
+  <content contentuid="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="1">You fortify the fabric of the planes in a silencing sphere. All within are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.</content>
+  <content contentuid="h1ee85063g393bg7bb3g8fd4g24cd706369eb" version="1">Warp Sense</content>
+  <content contentuid="h9efc7d47ga644ge2f4g79a9g781f5dfbd738" version="1">You sense the presence of planar energies, even the most residual.</content>
+  <content contentuid="h1a4889b6gba5dg1e02gbb15g9aa6c8e7b7eb" version="2">Portal Cracker</content>
+  <content contentuid="h8a984c65g71d0g34e3g4613gfd46275b7fe6" version="3">Your experience with portals allows you to open two linked portals without the need to concentrate.</content>
+  <content contentuid="h40448845g14b4geda1g4211g54ed4ba847a1" version="1">Plane Shift</content>
+  <content contentuid="hf5e987ffg552bgbc4cg889bg64093ebfa108" version="1">At the end of your turn, roll a d20. On 11 or higher, you vanish into another plane. While there, you can't be harmed or seen in this world.</content>
+  <content contentuid="haee124b2g7045g3318g3b62gaf8bb2fc76c1" version="1">When you do vanish, your presence here is a representation of the location you'll come back to. You can choose to teleport it up to [1].</content>
+  <content contentuid="hadc29260g511dg0a0dg9af6g3d7a79feb6b0" version="1">Chaotic Flare</content>
+  <content contentuid="h43ad99eegb956gf273g0135gba52c1915d0b" version="1">Conjure a flare of chaotic energy.</content>
+  <content contentuid="h7026956ag83e6g3148g6b3dg2c94fa6de2ff" version="1">Planar Portal</content>
+  <content contentuid="hffefc047ge9aag4369gb494g6b5827064dfa" version="1">You open two linked portals.</content>
+  <content contentuid="h95e5ad46gcbeagd4cag1762gb51be2e9dfcb" version="1">Outlander</content>
+  <content contentuid="ha8accc9dg42c6g2becg3eb8gc7b56e0bfa88" version="4">You grew up in the wilds, learning to survive far from the comforts of civilisation. Surviving unusual hazards of the wild will enhance your prowess and understanding. &lt;LSTag&gt;Note:&lt;/LSTag&gt; This background can be used as an alternative to a background like &lt;LSTag Tooltip=""&gt;Gate Warden&lt;/LSTag&gt; or &lt;LSTag Tooltip=""&gt;Planar Philosopher&lt;/LSTag&gt; if your character come from a &lt;LSTag&gt;Planescape&lt;/LSTag&gt; setting.</content>
+  <content contentuid="hc635cd26ge771g46fbgaef8ga24b8487873c" version="1">Grasp of Avarice</content>
+  <content contentuid="h38be499bg66cegfe7eg554ag39e19c04a5b9" version="1">Once per turn, when you damage a creature, you can also deal necrotic damage to it. The necrotic damage equals 1d6, and you regain 1d6 hit points.</content>
+  <content contentuid="h1c8b8d38gc2a8g380cg8a2cgc7cbaaa07449" version="1">Grasp of Avarice</content>
+  <content contentuid="h6be0c2degf8d2gf7d4g2601g3fef053dc7fe" version="4">As a Baleful Scion, once per turn, if you damage a creature you can also deal an additional [1] and you regain [2].</content>
+  <content contentuid="h179c540dg33ecg394dgd2cagb075484fbbd4" version="1">Stasis Strike</content>
+  <content contentuid="heab337b1g2162gdd98gc8aag6cde93106e6c" version="2">As an Agent of Order, once per turn, if you damage a creature you can also deal an additional [1] and impose a saving throw of Wisdom on the opponent to restrain him.</content>
+  <content contentuid="h1277ed5cgfce9g69bdg7ba3g5da310c9534b" version="1">Soothe Pain</content>
+  <content contentuid="hee33068dgb4edg1702gcc1cga51de5ad3d5f" version="1">As a Righteous Heritor, once per turn, you can use this reaction to reduce 1d10 damage suffered by you or an ally.</content>
 </contentList>
