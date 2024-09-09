@@ -96,5 +96,30 @@
         <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="5eccabb5-4b4f-4d3a-87ed-69a2c27b7f18" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cf83e507-80f5-4290-83ff-6cd269c33c22" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_ChaoticFlare_Unbound_Teleport" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:TeleportSource();" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="CanStand('') and not Character() and not Self()" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Conjuration_MistyStep" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h01740d57gb618g3b71g416cgd6fb78f59454" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h0150b07ageb11g8fddg1619g048d8caefad1" version="2" />
+        <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Utility_MistyStep_L1to3" />
+        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Utility_MistyStep_L1to3" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="dd86aa43-8189-4d9f-9a5c-454b5fe4a197,,;,,;39daf365-ec06-49a8-81f3-9032640699d7,,;5c400e93-0266-499c-a2e1-75d53358460f,,;cc5b0caf-3ed1-4711-a50d-11dc3f1fdc6a,,;,,;1715b877-4512-472e-9bd0-fd568a112e90,,;,,;,," />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Utility" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;Invisible;Temporary" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellPrepareCost" type="IntegerTableFieldDefinition" value="1" />
+        <field name="LineOfSightFlags" type="EnumerationListTableFieldDefinition" value="AddSourceHeight" enumeration_type_name="LineOfSightFlags" version="1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="7121a488-7c9a-4ba1-a585-f79aaa77e97c" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="71859b27-bdda-44c3-8c65-7f142a1a2f60" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

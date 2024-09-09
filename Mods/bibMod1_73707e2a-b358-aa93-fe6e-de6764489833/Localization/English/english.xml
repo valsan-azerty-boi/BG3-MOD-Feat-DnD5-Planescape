@@ -164,7 +164,7 @@
   <content contentuid="h5ff73c39g2f01g0d15g8d66ga682c91ea8eb" version="1">Baleful Scion</content>
   <content contentuid="ha6e5632cgaf7cg4d26g70e5g1073b3542c2d" version="8">You can channel cosmic forces of Evil to gain benefits. You gain the necrotic reaction &lt;LSTag Tooltip="Interrupt_Paitm_GraspOfAvarice"&gt;Grasp of Avarice&lt;/LSTag&gt; to deal additional Necrotic damage and Heal yourself.</content>
   <content contentuid="h6da757f1g64bbgef99g5eadg9ccaa0af91e5" version="1">Cohort of Chaos</content>
-  <content contentuid="hcb521ec4ge75ega4f2gee7cga136f770cf66" version="7">You can channel cosmic forces of Chaos to gain benefits. You gain the spell &lt;LSTag Tooltip="Paitm_ChaoticFlare"&gt;Chaotic flare&lt;/LSTag&gt; spell usable one time per combat. TODO</content>
+  <content contentuid="hcb521ec4ge75ega4f2gee7cga136f770cf66" version="9">You can channel cosmic forces of Chaos to gain benefits. You gain the reaction &lt;LSTag Tooltip="Paitm_ChaoticFlare"&gt;Chaotic flare&lt;/LSTag&gt; to gain chaotic powers on Critical Miss and Critical Hit attacks.</content>
   <content contentuid="h200b8582g0000g60deg6dcbg03ea70e221e0" version="1">Outlands Envoy</content>
   <content contentuid="hf85ca431g8eaag85fegbadegd62822b34e33" version="12">You have spent significant time in the Outlands, being steeped in converging planar energies grants you benefits. You gain a planar &lt;LSTag Tooltip="Paitm_MistyStep"&gt;Misty Step&lt;/LSTag&gt; spell to teleport and a &lt;LSTag Tooltip="Paitm_Tongues"&gt;Tongues&lt;/LSTag&gt; spell for conversations one time per short rest.</content>
   <content contentuid="h4d785b39gae96ge296gd520gd6f9fabfd7f9" version="1">Righteous Heritor</content>
@@ -198,9 +198,9 @@
   <content contentuid="hee33068dgb4edg1702gcc1cga51de5ad3d5f" version="4">As a Righteous Heritor, once per turn, you can use this reaction and try to reduce damage suffered by you or an ally for the current turn.</content>
   <content contentuid="h772d8616gf778g0bd8gc9efge2f5b95f85ce" version="2">Heal through Avarice</content>
   <content contentuid="h2ffb529dgfbdeg648bg9421g3f1b503ed664" version="1">Soothe Pain</content>
-  <content contentuid="h429acdddg853fg9bfeg3e1ag3dcd338f5bf4" version="2">Has a temporary protection.</content>
+  <content contentuid="h429acdddg853fg9bfeg3e1ag3dcd338f5bf4" version="3">Cosmic forces of Good gave you a temporary protection to reduce damage suffered.</content>
   <content contentuid="he44d3a3eg97abge426g3092gdbe21b5d95ad" version="1">Restrictive Stasis</content>
-  <content contentuid="h2442377eg66e9gcab1g6f99g168da3d4a5e0" version="1">Cannot move.</content>
+  <content contentuid="h2442377eg66e9gcab1g6f99g168da3d4a5e0" version="2">Cosmic forces of Order prevent you from moving.</content>
   <content contentuid="h1fd2ebbbgb28ag61f9g122bga7e5e051cb8b" version="1">%%% EMPTY</content>
   <content contentuid="hcf9b6f82g0a03g0941g27e1g5365898a25f3" version="1">Warp Sense</content>
   <content contentuid="h74112800gd1b6g6d15g2b3ag99b4ef5b61e7" version="5">You sense the presence of planar energies, like portals, even the most residual. Oddly, this spell seems much more enduring on this material world.</content>
@@ -212,4 +212,29 @@
   <content contentuid="hd2dec18dg5019g8bbdga4d8g1c1d2e3c4626" version="2">The understanding of your target goes up a notch, whether in terms of logic or language. For a little while your target become better at conversations with all types of people.</content>
   <content contentuid="h3f0810e4g6c6bgb62bg26fag878f03d8f4e2" version="1">Tongues</content>
   <content contentuid="h30f00253g6a92g9d58g7d82g39a60cd5e31b" version="3">You are better at conversations with all types of people.</content>
+  <content contentuid="h7d291fffgc234gea18gd43bg4116082efaf9" version="2">Battle Fury</content>
+  <content contentuid="h2f8fef43g97a8g45bfgeec3ga414ed8d5448" version="2">Cosmic forces of Chaos fill you with a reckless fury. You gain advantage on attack rolls and disadvantage on ability checks.</content>
+  <content contentuid="h864543e4g81a6g163bg5d94g21aa181f7f48" version="2">Disruption Field</content>
+  <content contentuid="h19a9a274gcdc2g340cg4c77ga5b523369756" version="2">Unbound</content>
+  <content contentuid="hd4f12e4fgbbbbgb03cgfdf9g91407993bcf8" version="2">Wailing Winds</content>
+  <content contentuid="h22d0cc80g2a3fg2da9g74e3g4b750be30c23" version="3">Cosmic forces of Chaos ripple waves of energy around you. This effect damages nearby creatures.</content>
+  <content contentuid="h03832da7gc05bga637gbfd8gcc89d6335336" version="3">Cosmic forces of Chaos allow you to teleport.</content>
+  <content contentuid="h8b867102g7084gfa8ag806dgcef27324f5df" version="3">Cosmic forces of Chaos affects the Wisdom saving throws of entities surrounding the aura.</content>
+  <content contentuid="h01740d57gb618g3b71g416cgd6fb78f59454" version="1">Unbound</content>
+  <content contentuid="h0150b07ageb11g8fddg1619g048d8caefad1" version="2">Cosmic forces of Chaos allow you to teleport.</content>
+  <content contentuid="haf7bfe00g5b51g2e49gf6bbg33a5f79ba0cf" version="1">Chaotic Flare</content>
+  <content contentuid="habbd4ca6gd7b9gb061gcf44gb220701f10dd" version="2">As an Agent of Chaos, on a Critical Hit or Critical Miss attack roll, you can randomly gain a chaotic effect for the current turn.</content>
+  <content contentuid="h2151ec82ge6beg66bege538g9d5cfc9795c6" version="1">Chaotic Flare</content>
+  <content contentuid="h42589640g788cg1485g4e38gda5fce54fb78" version="1">As an Agent of Chaos, on an attack roll, you can randomly gain a chaotic effect for the current turn.</content>
+  <content contentuid="ha6b6349ege712ge389ge8e4g34555c999327" version="1">Chaotic Flare</content>
+  <content contentuid="h39b8eabagc511g5197g0ad2g228857a732f8" version="1">As an Agent of Chaos, on an attack roll, you can randomly gain a chaotic effect for the current turn.</content>
+  <content contentuid="hdf8de10cg455cg9379gf463gb50959cfcb46" version="1">Disruption Field</content>
+  <content contentuid="h174d21e6gad79g9e5eg412cg823a6bf46744" version="2">Cosmic forces of Chaos ripple waves of energy around you. This effect damages nearby creatures.</content>
+  <content contentuid="hd283775dg53b9g6f1fg1cecgdad08464eec5" version="1">Wailing Winds</content>
+  <content contentuid="h377a8762g5050g2747gbc46g9ca597b67200" version="2">Cosmic forces of Chaos affects the Wisdom saving throws of entities surrounding the aura.</content>
+  <content contentuid="h133dda90ga151gb786g3c9ag898a5aeaedeb" version="1">%%% EMPTY</content>
+  <content contentuid="h1098086fg5fd1g4096g0be0g7878cbfbb02c" version="1">Disruption Field</content>
+  <content contentuid="hc0de0d99g828dga24ag5826g5173a7c17174" version="2">Cosmic forces of Chaos assail entities surrounding the aura.</content>
+  <content contentuid="h41072ba9g1b28g1653g89c3geb945c1c6df1" version="1">Disruption Field</content>
+  <content contentuid="h12336d96gfb44g9ff8g5522gc851002c3ad3" version="3">Cosmic forces of Chaos assail entities surrounding the aura.</content>
 </contentList>

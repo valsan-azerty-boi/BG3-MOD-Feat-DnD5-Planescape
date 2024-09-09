@@ -134,10 +134,10 @@
         <field name="UUID" type="IdTableFieldDefinition" value="17e6e498-3f35-4578-ae78-652ab4ab8940" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_CohortOfChaos" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6da757f1g64bbgef99g5eadg9ccaa0af91e5" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcb521ec4ge75ega4f2gee7cga136f770cf66" version="7" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcb521ec4ge75ega4f2gee7cga136f770cf66" version="9" />
         <field name="Icon" type="StringTableFieldDefinition" value="Action_Barbarian_Frenzy" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Paitm_ChaoticFlare)" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_ChaoticFlare)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

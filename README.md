@@ -1,2 +1,6 @@
 # BG3-MOD-DnD5-Planescape-Adventures-in-the-Multiverse
-Implements features from the official book D&amp;D 5E Planescape: Adventures in the Multiverse into Baldur's Gate 3.
+
+- TO DO: add learnable spells "Gate Seal" and "Warp Sense" to Wizzard+Sorcerer+Warlock table
+- TO DO: create the 3 magic items + add them to vendors
+- TO DO: localization FR
+- TO DO: fix the 2 backgrounds and goals
