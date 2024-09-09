@@ -174,7 +174,7 @@
   <content contentuid="h1a1a5fd5g37f0g0d8bg6e4bg0a7864f5d8a4" version="2">Misty Step</content>
   <content contentuid="h7bc2a60ag2954gf3d4gb8a8g1d39c7db951e" version="1">Surrounded by planar energies, you teleport to an unoccupied space you can see.</content>
   <content contentuid="h6d4f5178g1938g00a2gf920g880454834028" version="1">Gate Seal</content>
-  <content contentuid="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="1">You fortify the fabric of the planes in a silencing sphere. All within are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.</content>
+  <content contentuid="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="2">You fortify the fabric of the planes in a silencing sphere without any need to concentrate. All within are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.</content>
   <content contentuid="h1ee85063g393bg7bb3g8fd4g24cd706369eb" version="1">Warp Sense</content>
   <content contentuid="h9efc7d47ga644ge2f4g79a9g781f5dfbd738" version="1">You sense the presence of planar energies, even the most residual.</content>
   <content contentuid="h1a4889b6gba5dg1e02gbb15g9aa6c8e7b7eb" version="2">Portal Cracker</content>
@@ -203,13 +203,13 @@
   <content contentuid="h2442377eg66e9gcab1g6f99g168da3d4a5e0" version="1">Cannot move.</content>
   <content contentuid="h1fd2ebbbgb28ag61f9g122bga7e5e051cb8b" version="1">%%% EMPTY</content>
   <content contentuid="hcf9b6f82g0a03g0941g27e1g5365898a25f3" version="1">Warp Sense</content>
-  <content contentuid="h74112800gd1b6g6d15g2b3ag99b4ef5b61e7" version="3">You sense the presence of planar energies, like portals, even the most residual. Until long rest, you gain advantage on Wisdom saving throws, as well as a Proficienty bonus in Arcana and Perception.</content>
+  <content contentuid="h74112800gd1b6g6d15g2b3ag99b4ef5b61e7" version="5">You sense the presence of planar energies, like portals, even the most residual. Oddly, this spell seems much more enduring on this material world.</content>
   <content contentuid="h19807a4dgb9b4g6a11g1ad1g33886795753c" version="1">Warp Sense</content>
-  <content contentuid="hc53f42ecg57cagf9f1gd923gd71c1f3dee48" version="2">Until long rest, you have advantage on Wisdom saving throws, as well as a Proficienty bonus in Arcana and Perception.</content>
+  <content contentuid="hc53f42ecg57cagf9f1gd923gd71c1f3dee48" version="3">You have advantage on Wisdom saving throws, as well as a Proficienty bonus in Arcana and Perception.</content>
   <content contentuid="h4e017016g5c6bg5ce5g3ab0g22f43f822bfe" version="1">Tongues</content>
   <content contentuid="h416260c2g5063gcb28gc5d5g202db23685fd" version="1">Your brain's understanding goes up a notch, whether in terms of logic or language. For a little while you become better at conversations with all types of people.</content>
   <content contentuid="he719e3e7gb7a6ge63cg73e5g0a5d2bddec22" version="1">Tongues</content>
   <content contentuid="hd2dec18dg5019g8bbdga4d8g1c1d2e3c4626" version="2">The understanding of your target goes up a notch, whether in terms of logic or language. For a little while your target become better at conversations with all types of people.</content>
   <content contentuid="h3f0810e4g6c6bgb62bg26fag878f03d8f4e2" version="1">Tongues</content>
-  <content contentuid="h30f00253g6a92g9d58g7d82g39a60cd5e31b" version="2">Your understanding goes up a notch, whether in terms of logic or language. For a little while you are better at conversations with all types of people.</content>
+  <content contentuid="h30f00253g6a92g9d58g7d82g39a60cd5e31b" version="3">You are better at conversations with all types of people.</content>
 </contentList>

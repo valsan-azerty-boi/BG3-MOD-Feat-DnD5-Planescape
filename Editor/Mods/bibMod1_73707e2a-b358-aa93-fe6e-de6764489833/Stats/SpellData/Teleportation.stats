@@ -32,36 +32,5 @@
         <field name="IgnoreTeleport" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="37ff90ed-8f32-4403-8cd6-25d7415fb0aa" />
-        <field name="Name" type="NameTableFieldDefinition" value="Paitm_PlanarPortal" />
-        <field name="Level" type="IntegerTableFieldDefinition" value="4" />
-        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerShortRest" enumeration_type_name="CooldownType" version="1" />
-        <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
-        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="18" />
-        <field name="LineOfSightFlags" type="EnumerationListTableFieldDefinition" value="AddSourceHeight" enumeration_type_name="LineOfSightFlags" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(721dcc51-9733-463b-87c5-6afcda6fef65,10,,ArcaneGate2)" />
-        <field name="TargetConditions" type="StringTableFieldDefinition" value="CanStand('721dcc51-9733-463b-87c5-6afcda6fef65') and not Character()" />
-        <field name="OriginSpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(721dcc51-9733-463b-87c5-6afcda6fef65,10,,,ArcaneGate1)" />
-        <field name="OriginTargetConditions" type="StringTableFieldDefinition" value="CanStand('721dcc51-9733-463b-87c5-6afcda6fef65') and not Character() and not Item()" />
-        <field name="TeleportSelf" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
-        <field name="TeleportSurface" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ArcaneGate" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7026956ag83e6g3148g6b3dg2c94fa6de2ff" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hffefc047ge9aag4369gb494g6b5827064dfa" version="1" />
-        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Utility_ArcaneLock_L1to3" />
-        <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
-        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
-        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
-        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="dd86aa43-8189-4d9f-9a5c-454b5fe4a197,,;,,;7abe77ed-9c77-4eac-872c-5b8caed070b6,,;cb171bda-f065-4520-b470-e447f678ba1f,,;cc5b0caf-3ed1-4711-a50d-11dc3f1fdc6a,,;,,;1715b877-4512-472e-9bd0-fd568a112e90,,;,,;,," />
-        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;HasHighGroundRangeExtension;IsSpell;CannotTargetItems;CannotTargetCharacter;RangeIgnoreVerticalThreshold" enumeration_type_name="SpellFlagList" version="1" />
-        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Utility" enumeration_type_name="VerbalIntent" version="1" />
-        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="7121a488-7c9a-4ba1-a585-f79aaa77e97c" />
-        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="518bc78f-c169-43ba-b951-977d75429199" />
-        <field name="IgnoreTeleport" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-      </fields>
-    </stat_object>
   </stat_objects>
 </stats>
