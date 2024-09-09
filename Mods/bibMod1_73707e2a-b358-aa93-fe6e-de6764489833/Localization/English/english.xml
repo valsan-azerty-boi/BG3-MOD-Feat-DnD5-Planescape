@@ -154,24 +154,24 @@
   <content contentuid="h9c19cc12g6bcag28a1g99f8gb656a4cfd87c" version="1">Righteous Heritor</content>
   <content contentuid="h395735d3gba45gb3d8ga495gbcb55fd7702a" version="2">OLD_You can channel cosmic forces of good to gain benefits.</content>
   <content contentuid="h750430b5g480fgddabg4bc0g7dd11520f7a1" version="2">Acid Planar Adaptation</content>
-  <content contentuid="hffa64d14g00eage72agfbcdgf24965250c7e" version="7">With your experience of planar travel, you gain an Acid &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and the spell &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Portal cracker&lt;/LSTag&gt; usable one time per rest.</content>
+  <content contentuid="hffa64d14g00eage72agfbcdgf24965250c7e" version="9">With your experience of planar travel, you gain an Acid &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and the spell &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Portal cracker&lt;/LSTag&gt; to create 2 portals one time per short rest.</content>
   <content contentuid="ha210fd4fg8dddg945ege2e9gf88344ebd3a2" version="2">Cold Planar Adaptation</content>
-  <content contentuid="h7a135195g8d7fg68cdg6fdfg5123354e16ac" version="7">With your experience of planar travel, you gain a Cold &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and the spell &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Portal cracker&lt;/LSTag&gt; usable one time per rest.</content>
+  <content contentuid="h7a135195g8d7fg68cdg6fdfg5123354e16ac" version="9">With your experience of planar travel, you gain a Cold &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and the spell &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Portal cracker&lt;/LSTag&gt; to create 2 portals one time per short rest.</content>
   <content contentuid="hdc672450g0e4dg4549g46c3g488968729677" version="2">Fire Planar Adaptation</content>
-  <content contentuid="h9f23fc0eg5eb8geb7bg3cebg93d2cbf3009f" version="8">With your experience of planar travel, you gain a Fire &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and the spell &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Portal Cracker&lt;/LSTag&gt; usable one time per rest.</content>
+  <content contentuid="h9f23fc0eg5eb8geb7bg3cebg93d2cbf3009f" version="10">With your experience of planar travel, you gain a Fire &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and the spell &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Portal Cracker&lt;/LSTag&gt; to create 2 portals one time per short rest.</content>
   <content contentuid="hce1cd424g90f9gea76gb72dg44fdf98a3f8b" version="1">Agent of Order</content>
-  <content contentuid="hbc628baeg7924g2968g688ege1b27b9da425" version="5">You can channel cosmic forces of Order to gain benefits. You gain the spell &lt;LSTag Tooltip="Interrupt_Paitm_StasisStrike"&gt;Stasis Strike&lt;/LSTag&gt; usable one time per turn.</content>
+  <content contentuid="hbc628baeg7924g2968g688ege1b27b9da425" version="9">You can channel cosmic forces of Order to gain benefits. You gain the force reaction &lt;LSTag Tooltip="Interrupt_Paitm_StasisStrike"&gt;Stasis Strike&lt;/LSTag&gt; to deal additional Force damage with a Restrain chance.</content>
   <content contentuid="h5ff73c39g2f01g0d15g8d66ga682c91ea8eb" version="1">Baleful Scion</content>
-  <content contentuid="ha6e5632cgaf7cg4d26g70e5g1073b3542c2d" version="5">You can channel cosmic forces of Evil to gain benefits. You gain the necrotic reaction &lt;LSTag Tooltip="Interrupt_Paitm_GraspOfAvarice"&gt;Grasp of Avarice&lt;/LSTag&gt; usable one time per turn.</content>
+  <content contentuid="ha6e5632cgaf7cg4d26g70e5g1073b3542c2d" version="8">You can channel cosmic forces of Evil to gain benefits. You gain the necrotic reaction &lt;LSTag Tooltip="Interrupt_Paitm_GraspOfAvarice"&gt;Grasp of Avarice&lt;/LSTag&gt; to deal additional Necrotic damage and Heal yourself.</content>
   <content contentuid="h6da757f1g64bbgef99g5eadg9ccaa0af91e5" version="1">Cohort of Chaos</content>
-  <content contentuid="hcb521ec4ge75ega4f2gee7cga136f770cf66" version="6">You can channel cosmic forces of Chaos to gain benefits. You gain the spell &lt;LSTag Tooltip="Paitm_ChaoticFlare"&gt;Chaotic flare&lt;/LSTag&gt; spell usable one time per combat.</content>
+  <content contentuid="hcb521ec4ge75ega4f2gee7cga136f770cf66" version="7">You can channel cosmic forces of Chaos to gain benefits. You gain the spell &lt;LSTag Tooltip="Paitm_ChaoticFlare"&gt;Chaotic flare&lt;/LSTag&gt; spell usable one time per combat. TODO</content>
   <content contentuid="h200b8582g0000g60deg6dcbg03ea70e221e0" version="1">Outlands Envoy</content>
-  <content contentuid="hf85ca431g8eaag85fegbadegd62822b34e33" version="8">You have spent significant time in the Outlands, being steeped in converging planar energies grants you benefits. You gain a planar &lt;LSTag Tooltip="Paitm_MistyStep"&gt;Misty step&lt;/LSTag&gt; spell usable one time per rest.</content>
+  <content contentuid="hf85ca431g8eaag85fegbadegd62822b34e33" version="12">You have spent significant time in the Outlands, being steeped in converging planar energies grants you benefits. You gain a planar &lt;LSTag Tooltip="Paitm_MistyStep"&gt;Misty Step&lt;/LSTag&gt; spell to teleport and a &lt;LSTag Tooltip="Paitm_Tongues"&gt;Tongues&lt;/LSTag&gt; spell for conversations one time per short rest.</content>
   <content contentuid="h4d785b39gae96ge296gd520gd6f9fabfd7f9" version="1">Righteous Heritor</content>
-  <content contentuid="hd0289576gccc2gcb7dg9966g992f0cb0c0f2" version="4">You can channel cosmic forces of Good to gain benefits. You gain the spell &lt;LSTag Tooltip="MistyStep"&gt;TODO&lt;/LSTag&gt; freely usable one time per day.</content>
+  <content contentuid="hd0289576gccc2gcb7dg9966g992f0cb0c0f2" version="7">You can channel cosmic forces of Good to gain benefits. You gain the protective reaction &lt;LSTag Tooltip="Interrupt_Paitm_SoothePain"&gt;Soothe Pain&lt;/LSTag&gt; to try to reduce the damage suffered by you or an ally.</content>
   <content contentuid="h2e927036gebe3g0230gb9f4g4f25d8efeb09" version="1">Planar Agent</content>
   <content contentuid="h1876774ag4ed5g697dgf1d7gbec26f0aab8f" version="2">You can channel specific cosmic forces to gain benefits and you increase one Ability by 1 to a maximum of 20.</content>
-  <content contentuid="h1a1a5fd5g37f0g0d8bg6e4bg0a7864f5d8a4" version="1">Planar Misty Step</content>
+  <content contentuid="h1a1a5fd5g37f0g0d8bg6e4bg0a7864f5d8a4" version="2">Misty Step</content>
   <content contentuid="h7bc2a60ag2954gf3d4gb8a8g1d39c7db951e" version="1">Surrounded by planar energies, you teleport to an unoccupied space you can see.</content>
   <content contentuid="h6d4f5178g1938g00a2gf920g880454834028" version="1">Gate Seal</content>
   <content contentuid="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="1">You fortify the fabric of the planes in a silencing sphere. All within are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.</content>
@@ -193,7 +193,23 @@
   <content contentuid="h1c8b8d38gc2a8g380cg8a2cgc7cbaaa07449" version="1">Grasp of Avarice</content>
   <content contentuid="h6be0c2degf8d2gf7d4g2601g3fef053dc7fe" version="4">As a Baleful Scion, once per turn, if you damage a creature you can also deal an additional [1] and you regain [2].</content>
   <content contentuid="h179c540dg33ecg394dgd2cagb075484fbbd4" version="1">Stasis Strike</content>
-  <content contentuid="heab337b1g2162gdd98gc8aag6cde93106e6c" version="2">As an Agent of Order, once per turn, if you damage a creature you can also deal an additional [1] and impose a saving throw of Wisdom on the opponent to restrain him.</content>
+  <content contentuid="heab337b1g2162gdd98gc8aag6cde93106e6c" version="3">As an Agent of Order, once per turn, if you damage a creature you can also deal an additional [1] and, if lucky, restrain it.</content>
   <content contentuid="h1277ed5cgfce9g69bdg7ba3g5da310c9534b" version="1">Soothe Pain</content>
-  <content contentuid="hee33068dgb4edg1702gcc1cga51de5ad3d5f" version="1">As a Righteous Heritor, once per turn, you can use this reaction to reduce 1d10 damage suffered by you or an ally.</content>
+  <content contentuid="hee33068dgb4edg1702gcc1cga51de5ad3d5f" version="4">As a Righteous Heritor, once per turn, you can use this reaction and try to reduce damage suffered by you or an ally for the current turn.</content>
+  <content contentuid="h772d8616gf778g0bd8gc9efge2f5b95f85ce" version="2">Heal through Avarice</content>
+  <content contentuid="h2ffb529dgfbdeg648bg9421g3f1b503ed664" version="1">Soothe Pain</content>
+  <content contentuid="h429acdddg853fg9bfeg3e1ag3dcd338f5bf4" version="2">Has a temporary protection.</content>
+  <content contentuid="he44d3a3eg97abge426g3092gdbe21b5d95ad" version="1">Restrictive Stasis</content>
+  <content contentuid="h2442377eg66e9gcab1g6f99g168da3d4a5e0" version="1">Cannot move.</content>
+  <content contentuid="h1fd2ebbbgb28ag61f9g122bga7e5e051cb8b" version="1">%%% EMPTY</content>
+  <content contentuid="hcf9b6f82g0a03g0941g27e1g5365898a25f3" version="1">Warp Sense</content>
+  <content contentuid="h74112800gd1b6g6d15g2b3ag99b4ef5b61e7" version="3">You sense the presence of planar energies, like portals, even the most residual. Until long rest, you gain advantage on Wisdom saving throws, as well as a Proficienty bonus in Arcana and Perception.</content>
+  <content contentuid="h19807a4dgb9b4g6a11g1ad1g33886795753c" version="1">Warp Sense</content>
+  <content contentuid="hc53f42ecg57cagf9f1gd923gd71c1f3dee48" version="2">Until long rest, you have advantage on Wisdom saving throws, as well as a Proficienty bonus in Arcana and Perception.</content>
+  <content contentuid="h4e017016g5c6bg5ce5g3ab0g22f43f822bfe" version="1">Tongues</content>
+  <content contentuid="h416260c2g5063gcb28gc5d5g202db23685fd" version="1">Your brain's understanding goes up a notch, whether in terms of logic or language. For a little while you become better at conversations with all types of people.</content>
+  <content contentuid="he719e3e7gb7a6ge63cg73e5g0a5d2bddec22" version="1">Tongues</content>
+  <content contentuid="hd2dec18dg5019g8bbdga4d8g1c1d2e3c4626" version="2">The understanding of your target goes up a notch, whether in terms of logic or language. For a little while your target become better at conversations with all types of people.</content>
+  <content contentuid="h3f0810e4g6c6bgb62bg26fag878f03d8f4e2" version="1">Tongues</content>
+  <content contentuid="h30f00253g6a92g9d58g7d82g39a60cd5e31b" version="2">Your understanding goes up a notch, whether in terms of logic or language. For a little while you are better at conversations with all types of people.</content>
 </contentList>

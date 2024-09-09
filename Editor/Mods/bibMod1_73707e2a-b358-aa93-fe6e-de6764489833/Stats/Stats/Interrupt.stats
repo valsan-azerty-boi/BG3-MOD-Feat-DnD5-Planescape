@@ -12,43 +12,46 @@
         <field name="InterruptContext" type="EnumerationListTableFieldDefinition" value="OnCastHit" enumeration_type_name="InterruptContext" version="1" />
         <field name="InterruptContextScope" type="EnumerationListTableFieldDefinition" value="Self" enumeration_type_name="InterruptContextScope" version="1" />
         <field name="Container" type="StringTableFieldDefinition" value="YesNoDecision" />
-        <field name="Conditions" type="StringTableFieldDefinition" value="IsAbleToReact(context.Observer) and not Item() and Self(context.Source,context.Observer) and HasDamageEffectFlag(DamageFlags.Hit) and not IsKillingBlow() and not AnyEntityIsItem()" />
-        <field name="Properties" type="StringTableFieldDefinition" value="DealDamage(OBSERVER_TARGET,1d6,Necrotic);RegainHitPoints(1d6)" />
+        <field name="Conditions" type="StringTableFieldDefinition" value="IsAbleToReact(context.Observer) and not Item() and Self(context.Source,context.Observer) and HasDamageEffectFlag(DamageFlags.Hit) and not IsKillingBlow() and not AnyEntityIsItem() and IsAttack() and not SpellId('Shout_END_Gale_ActivateNethereseOrb')" />
+        <field name="Properties" type="StringTableFieldDefinition" value="DealDamage(OBSERVER_TARGET,1d6,Necrotic);ApplyStatus(OBSERVER_OBSERVER,Paitm_GraspOfAvarice_Heal,100,1)" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
         <field name="InterruptDefaultValue" type="EnumerationListTableFieldDefinition" value="Ask;Enabled" enumeration_type_name="InterruptDefaultValue" version="1" />
+        <field name="Cost" type="StringTableFieldDefinition" value="ReactionActionPoint:1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="2a558143-74fb-40d6-a61c-8636d6012c99" />
-        <field name="Name" type="NameTableFieldDefinition" value="Interrupt_Paitm_StatisStrike" />
+        <field name="Name" type="NameTableFieldDefinition" value="Interrupt_Paitm_StasisStrike" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h179c540dg33ecg394dgd2cagb075484fbbd4" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="heab337b1g2162gdd98gc8aag6cde93106e6c" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="heab337b1g2162gdd98gc8aag6cde93106e6c" version="3" />
         <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(1d8,Force)" />
         <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_JackOfAllTrades" />
         <field name="InterruptContext" type="EnumerationListTableFieldDefinition" value="OnCastHit" enumeration_type_name="InterruptContext" version="1" />
         <field name="InterruptContextScope" type="EnumerationListTableFieldDefinition" value="Self" enumeration_type_name="InterruptContextScope" version="1" />
         <field name="Container" type="StringTableFieldDefinition" value="YesNoDecision" />
-        <field name="Conditions" type="StringTableFieldDefinition" value="IsAbleToReact(context.Observer) and not Item() and Self(context.Source,context.Observer) and HasDamageEffectFlag(DamageFlags.Hit) and not IsKillingBlow() and not AnyEntityIsItem()" />
-        <field name="Properties" type="StringTableFieldDefinition" value="DealDamage(OBSERVER_TARGET,1d8,Force)" />
+        <field name="Conditions" type="StringTableFieldDefinition" value="IsAbleToReact(context.Observer) and not Item() and Self(context.Source,context.Observer) and HasDamageEffectFlag(DamageFlags.Hit) and not IsKillingBlow() and not AnyEntityIsItem() and IsAttack() and not SpellId('Shout_END_Gale_ActivateNethereseOrb')" />
+        <field name="Properties" type="StringTableFieldDefinition" value="DealDamage(OBSERVER_TARGET,1d8,Force);IF(not SavingThrow(Ability.Wisdom, SourceSpellDC(),AdvantageOnRestrained(),DisadvantageOnRestrained())):ApplyStatus(OBSERVER_TARGET,Paitm_StasisStrike_Restain,100,1)" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
         <field name="InterruptDefaultValue" type="EnumerationListTableFieldDefinition" value="Ask;Enabled" enumeration_type_name="InterruptDefaultValue" version="1" />
+        <field name="Cost" type="StringTableFieldDefinition" value="ReactionActionPoint:1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="3140250c-f88f-4d47-ad24-698d01486377" />
-        <field name="Name" type="NameTableFieldDefinition" value="Interrupt_Paitm_RighteousHeritor" />
+        <field name="Name" type="NameTableFieldDefinition" value="Interrupt_Paitm_SoothePain" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1277ed5cgfce9g69bdg7ba3g5da310c9534b" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hee33068dgb4edg1702gcc1cga51de5ad3d5f" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hee33068dgb4edg1702gcc1cga51de5ad3d5f" version="4" />
         <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_DarkOnesBlessing" />
         <field name="InterruptContext" type="EnumerationListTableFieldDefinition" value="OnPreDamage" enumeration_type_name="InterruptContext" version="1" />
-        <field name="InterruptContextScope" type="EnumerationListTableFieldDefinition" value="Nearby;Far" enumeration_type_name="InterruptContextScope" version="1" />
+        <field name="InterruptContextScope" type="EnumerationListTableFieldDefinition" value="Nearby" enumeration_type_name="InterruptContextScope" version="1" />
         <field name="Container" type="StringTableFieldDefinition" value="YesNoDecision" />
-        <field name="Conditions" type="StringTableFieldDefinition" value="IsAbleToReact(context.Observer) and not Item() and Self(context.Source,context.Observer) and HasDamageEffectFlag(DamageFlags.Hit) and not IsKillingBlow() and not AnyEntityIsItem()" />
-        <field name="Properties" type="StringTableFieldDefinition" value="RegainHitPoints(1d10)" />
+        <field name="Conditions" type="StringTableFieldDefinition" value="IsAbleToReact(context.Observer) and not Self(context.Source, context.Observer) and Enemy(context.Source, context.Observer) and IsAttack() and not AnyEntityIsItem() and not SpellId('Shout_END_Gale_ActivateNethereseOrb')" />
+        <field name="Properties" type="StringTableFieldDefinition" value="ApplyStatus(OBSERVER_TARGET,Paitm_SoothePain_Protection,100,1)" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
         <field name="InterruptDefaultValue" type="EnumerationListTableFieldDefinition" value="Ask;Enabled" enumeration_type_name="InterruptDefaultValue" version="1" />
+        <field name="Cost" type="StringTableFieldDefinition" value="ReactionActionPoint:1" />
       </fields>
     </stat_object>
   </stat_objects>

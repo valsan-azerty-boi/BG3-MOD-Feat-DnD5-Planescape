@@ -79,7 +79,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="35b542bb-dc3a-4814-bbac-2ae0b3e33145" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_PlanarWanderer_Acid" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h750430b5g480fgddabg4bc0g7dd11520f7a1" version="2" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hffa64d14g00eage72agfbcdgf24965250c7e" version="7" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hffa64d14g00eage72agfbcdgf24965250c7e" version="9" />
         <field name="Icon" type="StringTableFieldDefinition" value="GenericIcon_DamageType_Acid" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Resistance(Acid,Resistant);UnlockSpell(Teleportation_Paitm_PortalCracker)" />
@@ -90,7 +90,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="32b18e0e-8815-4e7f-a7d7-c31baf5c3d49" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_PlanarWanderer_Cold" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha210fd4fg8dddg945ege2e9gf88344ebd3a2" version="2" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7a135195g8d7fg68cdg6fdfg5123354e16ac" version="7" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7a135195g8d7fg68cdg6fdfg5123354e16ac" version="9" />
         <field name="Icon" type="StringTableFieldDefinition" value="GenericIcon_DamageType_Cold" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Resistance(Cold,Resistant);UnlockSpell(Teleportation_Paitm_PortalCracker)" />
@@ -101,7 +101,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="f39f99ba-0f74-4ad9-a6e8-3caed6336961" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_PlanarWanderer_Fire" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdc672450g0e4dg4549g46c3g488968729677" version="2" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9f23fc0eg5eb8geb7bg3cebg93d2cbf3009f" version="8" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9f23fc0eg5eb8geb7bg3cebg93d2cbf3009f" version="10" />
         <field name="Icon" type="StringTableFieldDefinition" value="GenericIcon_DamageType_Fire" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Resistance(Fire,Resistant);UnlockSpell(Teleportation_Paitm_PortalCracker)" />
@@ -112,7 +112,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="281a7fbf-b4da-4f89-8bae-0fa47e95a5f5" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_AgentOfOrder" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hce1cd424g90f9gea76gb72dg44fdf98a3f8b" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hbc628baeg7924g2968g688ege1b27b9da425" version="5" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hbc628baeg7924g2968g688ege1b27b9da425" version="9" />
         <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_JackOfAllTrades" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_StasisStrike)" />
@@ -123,7 +123,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="6fff7141-f452-47d2-b609-205e976001da" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_BalefulScion" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5ff73c39g2f01g0d15g8d66ga682c91ea8eb" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha6e5632cgaf7cg4d26g70e5g1073b3542c2d" version="5" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha6e5632cgaf7cg4d26g70e5g1073b3542c2d" version="8" />
         <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_DevilsSight" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_GraspOfAvarice)" />
@@ -134,7 +134,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="17e6e498-3f35-4578-ae78-652ab4ab8940" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_CohortOfChaos" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6da757f1g64bbgef99g5eadg9ccaa0af91e5" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcb521ec4ge75ega4f2gee7cga136f770cf66" version="6" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcb521ec4ge75ega4f2gee7cga136f770cf66" version="7" />
         <field name="Icon" type="StringTableFieldDefinition" value="Action_Barbarian_Frenzy" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_Paitm_ChaoticFlare)" />
@@ -145,10 +145,10 @@
         <field name="UUID" type="IdTableFieldDefinition" value="9c69381d-264c-40d7-a91d-6356556c94e2" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_OutlandsEnvoy" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h200b8582g0000g60deg6dcbg03ea70e221e0" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf85ca431g8eaag85fegbadegd62822b34e33" version="8" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf85ca431g8eaag85fegbadegd62822b34e33" version="12" />
         <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_Generic_Magical" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_Paitm_MistyStep)" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_Paitm_MistyStep);UnlockSpell(Target_Paitm_Tongues)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -156,7 +156,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="81e736cf-ad36-4b9a-bec8-8535bb1e1093" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_RighteousHeritor" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4d785b39gae96ge296gd520gd6f9fabfd7f9" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd0289576gccc2gcb7dg9966g992f0cb0c0f2" version="4" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd0289576gccc2gcb7dg9966g992f0cb0c0f2" version="7" />
         <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_DarkOnesBlessing" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_SoothePain)" />
