@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="DLC">
+        <node id="root">
+            <children>
+                <node id="DLC">
+                    <attribute id="CustomDice" type="guid" value="d2d03636-0d5c-4b17-a071-b7a1e6a7f6bd"/>
+                    <attribute id="Name" type="LSString" value="Planescape"/>
+                    <attribute id="UUID" type="guid" value="26b16cf5-429c-4172-93d9-af17fae1ef9f"/>
+                    <attribute id="UnlockType" type="uint8" value="2"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

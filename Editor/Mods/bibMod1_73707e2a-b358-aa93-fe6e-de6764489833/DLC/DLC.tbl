@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="cf9c12be-6c5c-4a71-ae12-3e55bf777121">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="Planescape" />
+        <field name="UUID" type="IdTableFieldDefinition" value="26b16cf5-429c-4172-93d9-af17fae1ef9f" />
+        <field name="CustomDice" type="GuidObjectTableFieldDefinition" value="d2d03636-0d5c-4b17-a071-b7a1e6a7f6bd" />
+        <field name="UnlockType" type="EnumerationTableFieldDefinition" value="FreeDLC" enumeration_type_name="UnlockType" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

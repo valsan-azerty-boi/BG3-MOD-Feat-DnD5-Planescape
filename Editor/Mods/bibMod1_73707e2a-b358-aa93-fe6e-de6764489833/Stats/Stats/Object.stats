@@ -4,19 +4,97 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="a6176fba-e47e-4bfa-ab43-cfed1214a4c8" />
-        <field name="Name" type="NameTableFieldDefinition" value="Mimir" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_Mimir" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="568d8985-9dde-4338-ad40-58e515af7d4b" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="1f40e7a6-fb87-41ab-9da9-282a359b7e89" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1200" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="5" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="12" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="5" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="CriticalHit(AttackTarget,Failure,Never);CriticalHit(AttackTarget,Success,Never)" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" value="Vulnerable" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="SlashingResistance" type="EnumerationListTableFieldDefinition" value="Vulnerable" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PiercingResistance" type="EnumerationListTableFieldDefinition" value="Vulnerable" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="NecroticResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PoisonResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="not IsSummonWithoutMouth()" />
+        <field name="FallingHitEffect" type="StringTableFieldDefinition" value="VFX_Combat_Bludgeoning_Damage_Critical_01" />
+        <field name="FallingLandEffect" type="StringTableFieldDefinition" value="VFX_Combat_Force_Land_01" />
+        <field name="Sight" type="IntegerTableFieldDefinition" value="0" />
+        <field name="FOV" type="IntegerTableFieldDefinition" value="0" />
+        <field name="DarkvisionRange" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MinimumDetectionRange" type="IntegerTableFieldDefinition" value="0" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="b9301bfb-3fbd-43b2-8c37-bf6d2147ded5" />
-        <field name="Name" type="NameTableFieldDefinition" value="Portal Compass" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_PortalCompass" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b0e5c04a-9ef9-4730-a34b-cdc19c379936" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="1f40e7a6-fb87-41ab-9da9-282a359b7e89" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="250" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.1" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="5" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="0" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="CriticalHit(AttackTarget,Failure,Never);CriticalHit(AttackTarget,Success,Never)" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="NecroticResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PoisonResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PsychicResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="RadiantResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="not IsSummonWithoutMouth()" />
+        <field name="FallingHitEffect" type="StringTableFieldDefinition" value="VFX_Combat_Bludgeoning_Damage_Critical_01" />
+        <field name="FallingLandEffect" type="StringTableFieldDefinition" value="VFX_Combat_Force_Land_01" />
+        <field name="Sight" type="IntegerTableFieldDefinition" value="0" />
+        <field name="FOV" type="IntegerTableFieldDefinition" value="0" />
+        <field name="DarkvisionRange" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MinimumDetectionRange" type="IntegerTableFieldDefinition" value="0" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="e0b5d1cc-0248-4f8a-9d9a-25acab481d31" />
-        <field name="Name" type="NameTableFieldDefinition" value="Sensory Stone" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5ab43e65-77a0-48ea-a294-0e6058aa27d4" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_SensoryStone" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="523d0cea-7f79-4f5c-ad4b-3c09633609e6" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="1f40e7a6-fb87-41ab-9da9-282a359b7e89" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.2" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="0" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="CriticalHit(AttackTarget,Failure,Never);CriticalHit(AttackTarget,Success,Never)" />
+        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Consumable" enumeration_type_name="InventoryTabs" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Potion" enumeration_type_name="ItemUseTypes" version="1" />
+        <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" value="Vulnerable" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="SlashingResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PiercingResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="NecroticResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PoisonResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PsychicResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="RadiantResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="not IsSummonWithoutMouth()" />
+        <field name="FallingHitEffect" type="StringTableFieldDefinition" value="VFX_Combat_Bludgeoning_Damage_Critical_01" />
+        <field name="FallingLandEffect" type="StringTableFieldDefinition" value="VFX_Combat_Force_Land_01" />
+        <field name="Sight" type="IntegerTableFieldDefinition" value="0" />
+        <field name="FOV" type="IntegerTableFieldDefinition" value="0" />
+        <field name="DarkvisionRange" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MinimumDetectionRange" type="IntegerTableFieldDefinition" value="0" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="400" />
       </fields>
     </stat_object>
   </stat_objects>

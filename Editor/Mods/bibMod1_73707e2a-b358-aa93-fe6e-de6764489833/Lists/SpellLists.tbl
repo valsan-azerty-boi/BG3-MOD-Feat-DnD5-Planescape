@@ -3,9 +3,82 @@
   <stat_objects>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="35c837de-c04b-41ad-8668-d3ea3cb68596" />
-        <field name="Name" type="NameTableFieldDefinition" value="Planar Wanderer" />
-        <field name="Spells" type="StringTableFieldDefinition" value="Teleportation_Paitm_PortalCracker" />
+        <field name="UUID" type="IdTableFieldDefinition" value="18df4b9d-dd22-4511-9a74-db0d5f7a5c6b" />
+        <field name="Name" type="NameTableFieldDefinition" value="Wizard SLevel 2 expanded" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_Paitm_WarpSense" />
+        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="80c6b070-c3a6-4864-84ca-e78626784eb4" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b6043815-7e85-4cf9-a177-d11d3ff4246f" />
+        <field name="Name" type="NameTableFieldDefinition" value="Wizard SLevel 4" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Paitm_GateSeal" />
+        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="820b1220-0385-426d-ae15-458dc8a6f5c0" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3cd9653b-dd09-40ed-9765-6d03b61a3427" />
+        <field name="Name" type="NameTableFieldDefinition" value="Sorcerer SLevel 2 expanded" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_Paitm_WarpSense" />
+        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="f80396e2-cb76-4694-b0db-5c34da61a478" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="00e61843-910d-4e48-88f4-534d46b4c9d8" />
+        <field name="Name" type="NameTableFieldDefinition" value="Sorcerer SLevel 4" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Paitm_GateSeal" />
+        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="5fe40622-1d3e-4cc1-8d89-e66fe51d8c5c" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="01708473-958d-4f07-b19b-59c801655365" />
+        <field name="Name" type="NameTableFieldDefinition" value="Warlock Archfey SLevel 2" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_Paitm_WarpSense" />
+        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="0cc2c8ab-9bbc-43a7-a66d-08e47da4c172" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="73e82327-7d9b-4677-9803-f2d01388996b" />
+        <field name="Name" type="NameTableFieldDefinition" value="Warlock Archfey SLevel 4" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Paitm_GateSeal" />
+        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="c3d8a4a5-9dae-4193-8322-a5d1c5b89f47" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fde09a28-a693-46d7-a9c1-f385987a3ef6" />
+        <field name="Name" type="NameTableFieldDefinition" value="Warlock Fiend SLevel 2" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_Paitm_WarpSense" />
+        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="835aeca7-c64a-4aaa-a25c-143aa14a5cec" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="00d004e0-3527-495a-a68a-dbcf4b0ccfab" />
+        <field name="Name" type="NameTableFieldDefinition" value="Warlock Fiend SLevel 4" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Paitm_GateSeal" />
+        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="7ad7dbd0-751b-4bcd-8034-53bcc7bfb19d" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6b48cf3f-72eb-426b-a5a9-957171dff66a" />
+        <field name="Name" type="NameTableFieldDefinition" value="Warlock The Great Old One SLevel 2" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_Paitm_WarpSense" />
+        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="fe101a94-8619-49b2-859d-a68c2c291054" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="526b8cb9-05dc-4635-9d0d-ec6781ac4bd2" />
+        <field name="Name" type="NameTableFieldDefinition" value="Warlock The Great Old One SLevel 4" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Paitm_GateSeal" />
+        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="b64e527e-1f97-4125-84f7-78376ab1440b" />
       </fields>
     </stat_object>
   </stat_objects>

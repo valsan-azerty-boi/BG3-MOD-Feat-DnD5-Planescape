@@ -98,6 +98,7 @@
         <field name="StackId" type="StringTableFieldDefinition" value="PAITM_CHAOTICFLARE_STACK" />
         <field name="Boosts" type="StringTableFieldDefinition" value="IF(IsMeleeAttack()):Advantage(AttackRoll);IF(IsRangedUnarmedAttack()):Advantage(AttackRoll);IF(IsAttack()):Advantage(AttackRoll);Advantage(AttackTarget)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
+        <field name="StatusEffect" type="GuidObjectTableFieldDefinition" value="42f435cf-f492-49da-bfe0-41c845192227" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -111,6 +112,7 @@
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_Paitm_ChaoticFlare_Unbound_Teleport)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
+        <field name="StatusEffect" type="GuidObjectTableFieldDefinition" value="a8002aeb-dc58-4ef1-9d4c-a200cdb13c92" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

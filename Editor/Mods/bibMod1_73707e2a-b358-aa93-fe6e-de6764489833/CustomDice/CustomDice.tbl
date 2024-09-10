@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="84136f58-dc6e-4f58-bf84-6e2d501ce1af">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="Planescape" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d2d03636-0d5c-4b17-a071-b7a1e6a7f6bd" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3f7528ffg6fb3g3eceg1e48g1a30d3cf0062" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h642eba50g33edg2d5cgdb25gc572ea36a0fc" version="1" />
+        <field name="IsDefault" type="BoolTableFieldDefinition" value="False" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

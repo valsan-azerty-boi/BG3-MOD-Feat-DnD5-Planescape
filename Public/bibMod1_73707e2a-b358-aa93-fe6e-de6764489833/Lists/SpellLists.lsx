@@ -5,9 +5,64 @@
         <node id="root">
             <children>
                 <node id="SpellList">
-                    <attribute id="Name" type="FixedString" value="Planar Wanderer"/>
-                    <attribute id="Spells" type="LSString" value="Teleportation_Paitm_PortalCracker"/>
-                    <attribute id="UUID" type="guid" value="35c837de-c04b-41ad-8668-d3ea3cb68596"/>
+                    <attribute id="MergedInto" type="guid" value="f80396e2-cb76-4694-b0db-5c34da61a478"/>
+                    <attribute id="Name" type="FixedString" value="Sorcerer SLevel 2 expanded"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Paitm_WarpSense"/>
+                    <attribute id="UUID" type="guid" value="3cd9653b-dd09-40ed-9765-6d03b61a3427"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="80c6b070-c3a6-4864-84ca-e78626784eb4"/>
+                    <attribute id="Name" type="FixedString" value="Wizard SLevel 2 expanded"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Paitm_WarpSense"/>
+                    <attribute id="UUID" type="guid" value="18df4b9d-dd22-4511-9a74-db0d5f7a5c6b"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="820b1220-0385-426d-ae15-458dc8a6f5c0"/>
+                    <attribute id="Name" type="FixedString" value="Wizard SLevel 4"/>
+                    <attribute id="Spells" type="LSString" value="Target_Paitm_GateSeal"/>
+                    <attribute id="UUID" type="guid" value="b6043815-7e85-4cf9-a177-d11d3ff4246f"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="5fe40622-1d3e-4cc1-8d89-e66fe51d8c5c"/>
+                    <attribute id="Name" type="FixedString" value="Sorcerer SLevel 4"/>
+                    <attribute id="Spells" type="LSString" value="Target_Paitm_GateSeal"/>
+                    <attribute id="UUID" type="guid" value="00e61843-910d-4e48-88f4-534d46b4c9d8"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="0cc2c8ab-9bbc-43a7-a66d-08e47da4c172"/>
+                    <attribute id="Name" type="FixedString" value="Warlock Archfey SLevel 2"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Paitm_WarpSense"/>
+                    <attribute id="UUID" type="guid" value="01708473-958d-4f07-b19b-59c801655365"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="c3d8a4a5-9dae-4193-8322-a5d1c5b89f47"/>
+                    <attribute id="Name" type="FixedString" value="Warlock Archfey SLevel 4"/>
+                    <attribute id="Spells" type="LSString" value="Target_Paitm_GateSeal"/>
+                    <attribute id="UUID" type="guid" value="73e82327-7d9b-4677-9803-f2d01388996b"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="835aeca7-c64a-4aaa-a25c-143aa14a5cec"/>
+                    <attribute id="Name" type="FixedString" value="Warlock Fiend SLevel 2"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Paitm_WarpSense"/>
+                    <attribute id="UUID" type="guid" value="fde09a28-a693-46d7-a9c1-f385987a3ef6"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="7ad7dbd0-751b-4bcd-8034-53bcc7bfb19d"/>
+                    <attribute id="Name" type="FixedString" value="Warlock Fiend SLevel 4"/>
+                    <attribute id="Spells" type="LSString" value="Target_Paitm_GateSeal"/>
+                    <attribute id="UUID" type="guid" value="00d004e0-3527-495a-a68a-dbcf4b0ccfab"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="fe101a94-8619-49b2-859d-a68c2c291054"/>
+                    <attribute id="Name" type="FixedString" value="Warlock The Great Old One SLevel 2"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Paitm_WarpSense"/>
+                    <attribute id="UUID" type="guid" value="6b48cf3f-72eb-426b-a5a9-957171dff66a"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="b64e527e-1f97-4125-84f7-78376ab1440b"/>
+                    <attribute id="Name" type="FixedString" value="Warlock The Great Old One SLevel 4"/>
+                    <attribute id="Spells" type="LSString" value="Target_Paitm_GateSeal"/>
+                    <attribute id="UUID" type="guid" value="526b8cb9-05dc-4635-9d0d-ec6781ac4bd2"/>
                 </node>
             </children>
         </node>

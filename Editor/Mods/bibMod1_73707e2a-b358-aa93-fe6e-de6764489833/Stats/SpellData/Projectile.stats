@@ -1,4 +1,51 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <stats stat_object_definition_id="67731907-4ad8-4be6-9326-d6f5b982140e">
-  <stat_objects />
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bc2e6c14-644c-4273-84a6-329cd32c4a2a" />
+        <field name="Name" type="NameTableFieldDefinition" value="Potion_Destroy_Paitm_SensoryStone" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1987498f-dada-408d-a69b-4a0a1646cc83" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="RemoveStatus(SG_Petrified, 100);" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="1" />
+        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ExplodeRadius" type="IntegerTableFieldDefinition" value="1" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="Character()" />
+        <field name="Trajectories" type="StringTableFieldDefinition" value="26c20c57-bdf8-4bc1-99ec-e8582a04daef,a4ea97d3-83eb-6bb5-fda7-d784160dc836" />
+        <field name="Icon" type="StringTableFieldDefinition" value="unknown" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h74d67052g3553g99d1gd4bcg33235e3fe554" version="1" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value=",,;,,;b3f94255-adc0-4cea-b9a5-91e4f838345b,,;,,;,,;,,;,,;,,;,," />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Utility" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsTrap" enumeration_type_name="SpellFlagList" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b5c98189-9b64-47e4-9a7a-a0ffb854884b" />
+        <field name="Name" type="NameTableFieldDefinition" value="TODO_Destroy_Paitm_PortalCompass" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="1" />
+        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ExplodeRadius" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Trajectories" type="StringTableFieldDefinition" value="26c20c57-bdf8-4bc1-99ec-e8582a04daef,a4ea97d3-83eb-6bb5-fda7-d784160dc836" />
+        <field name="Icon" type="StringTableFieldDefinition" value="unknown" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h069fe3dbgc5e4g466cg0c2ag85379c7d1fc7" version="1" />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Utility" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsTrap" enumeration_type_name="SpellFlagList" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bf1488e8-9ddb-4892-8b54-473a31fee2c1" />
+        <field name="Name" type="NameTableFieldDefinition" value="TODO_Destroy_Paitm_Mimir" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="1" />
+        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ExplodeRadius" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Trajectories" type="StringTableFieldDefinition" value="26c20c57-bdf8-4bc1-99ec-e8582a04daef,a4ea97d3-83eb-6bb5-fda7-d784160dc836" />
+        <field name="Icon" type="StringTableFieldDefinition" value="unknown" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h337d09e0ge779ga248gb52eg115621d942b5" version="1" />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Utility" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsTrap" enumeration_type_name="SpellFlagList" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
 </stats>
