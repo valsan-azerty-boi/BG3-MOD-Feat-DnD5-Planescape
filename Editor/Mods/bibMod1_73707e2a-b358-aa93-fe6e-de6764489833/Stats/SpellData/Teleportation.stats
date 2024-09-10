@@ -30,6 +30,9 @@
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="7121a488-7c9a-4ba1-a585-f79aaa77e97c" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="518bc78f-c169-43ba-b951-977d75429199" />
         <field name="IgnoreTeleport" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="SpellRoll" type="StringTableFieldDefinition" value="not SavingThrow(Ability.Intelligence,10)" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(OBSERVER_OBSERVER,1d4,Psychic)" />
+        <field name="SpellFail" type="StringTableFieldDefinition" value="DealDamage(OBSERVER_OBSERVER,3d8,Psychic)" />
       </fields>
     </stat_object>
   </stat_objects>

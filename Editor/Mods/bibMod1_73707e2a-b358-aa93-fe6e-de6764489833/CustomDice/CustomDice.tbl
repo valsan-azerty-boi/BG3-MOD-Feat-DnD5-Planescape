@@ -8,6 +8,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3f7528ffg6fb3g3eceg1e48g1a30d3cf0062" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h642eba50g33edg2d5cgdb25gc572ea36a0fc" version="1" />
         <field name="IsDefault" type="BoolTableFieldDefinition" value="False" />
+        <field name="FontColour" type="StringTableFieldDefinition" value="black" />
       </fields>
     </stat_object>
   </stat_objects>
