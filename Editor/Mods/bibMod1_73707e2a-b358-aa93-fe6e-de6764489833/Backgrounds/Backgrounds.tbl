@@ -9,6 +9,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h5e8faeefg485ag5e10g8484gf32865d861f9" version="1" />
         <field name="Passives" type="StringTableFieldDefinition" value="Background_Paitm_GateWarden" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="3100ddc6-70b9-4988-a6de-3df7c528f486" />
+        <field name="Hidden" type="BoolTableFieldDefinition" value="True" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -19,6 +20,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h914bf037g3869g4beag9f3bg36a70f55e92d" version="1" />
         <field name="Passives" type="StringTableFieldDefinition" value="Background_Paitm_PlanarPhilosopher" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="9dbe29e4-17eb-4310-bafd-23abfa35c369" />
+        <field name="Hidden" type="BoolTableFieldDefinition" value="True" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -29,6 +31,22 @@
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="d81df6f9-9f6e-4146-841a-9f285e6ee879" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha8accc9dg42c6g2becg3eb8gc7b56e0bfa88" version="4" />
         <field name="Passives" type="StringTableFieldDefinition" value="Background_Outlander" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a1dab8dc-3be9-4062-b4db-a640230bba61" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="haf43e188g6685g35f2g04efg95806e4eaa23" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h15f23da9gd08bga5c7g2da0g702feaaa0141" version="2" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Background_Hermit" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="2fa3f042-2b50-41b2-8045-39ddd4421ca9" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_4" />
+        <field name="UUID" type="IdTableFieldDefinition" value="22b9206e-4e23-4f28-bdb7-bcbf1ea7a26a" />
       </fields>
     </stat_object>
   </stat_objects>

@@ -398,7 +398,9 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Main ignore
+_Mods.lnk
 Mods.lnk
+*.lnk
 *.pak
 .vscode/
 Projects/GustavDev/*
