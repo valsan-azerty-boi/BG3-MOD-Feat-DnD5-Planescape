@@ -1,0 +1,290 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+//REGION Gate Warden
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act2_Outlander_WonOliverHideNSeek", dd2ad08f-dd27-42ba-a423-9957b451001f);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act2_Outlander_ProtectedHalsinPortal", 37bb4e5a-fa3a-4898-9b8a-c1a606c1dca4);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act2_Outlander_ExplorationWithoutMoonlantern", 101178a7-cd7d-4815-85c7-ff7ca81a1d63);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act2_Outlander_CompleteSharNoLastLightMoonrise", 0bcf5a20-fea1-4db9-8c29-99c80d95a32a);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act2_Outlander_ThreeCombatEncountersSCL", 6a2a53b7-12b9-4cd8-82e7-0c2d99c99152);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act2_Outlander_SCLFullyExplored", 606872ea-a5a3-4639-ad6b-10c4b9c1ae18);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act2_Outlander_MeetingTadpoleHuntingCat", d56accbb-b93e-41a7-94ce-e7baedbd672b);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act2_Outlander_SurviveShadowCurseStage2", 4bd05789-4a86-4bda-8e7e-9ca48a136370);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act2_Outlander_ObtainOrhtonCrossbow", 13abfd5c-e6bb-42b0-a2b9-453ee320d0e5);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act2_Outlander_LongRestSCL", 877fcbc2-b719-4c99-afda-3bb70b80a6a2);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act2_Outlander_NeverAffectedShadowCurse", 26907349-b936-4875-a431-2b0fcf96cc8f);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act2_Outlander_ExploreMoonriseExteriorPath", 95408e76-a3e9-4d12-a788-a84aaa6fc7de);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act2_Outlander_DrinkBrewerBrew", e5a74086-a582-47af-8853-bcd3a0e49e17);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act2_Outlander_ExploreOubliette", c55b428c-1b43-4416-b7a8-59710d67802d);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act2_Outlander_ExploreColonyFully", 30c8d2cc-8b3d-4500-8530-ae9a183a4c9a);
+//END_REGION Gate Warden
+
+//REGION Planar Philosopher
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act2_Outlander_WonOliverHideNSeek", 50868f2d-aca4-46c8-a7f9-26e05cae1a08);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act2_Outlander_ProtectedHalsinPortal", 9f4c178a-00bc-4277-859e-a55b89d38322);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act2_Outlander_ExplorationWithoutMoonlantern", baab17ea-6634-4319-bc47-8914b5d561f5);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act2_Outlander_CompleteSharNoLastLightMoonrise", 462c7f3a-937f-4e1b-8004-85a319736306);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act2_Outlander_ThreeCombatEncountersSCL", 718f16d2-a3f5-4e69-821d-6bd0af806197);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act2_Outlander_SCLFullyExplored", e5bf1edd-4ef2-48bd-ad21-1b71d9e80724);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act2_Outlander_MeetingTadpoleHuntingCat", cf80e623-f450-4c6c-864e-ea0cad201891);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act2_Outlander_SurviveShadowCurseStage2", 847fbe0a-9670-4410-9219-b203d7869f64);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act2_Outlander_ObtainOrhtonCrossbow", da7efbe8-4e29-4e11-be28-9fcc211a760a);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act2_Outlander_LongRestSCL", ffe372b8-b3ab-43f2-87d0-2a20214ef96e);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act2_Outlander_NeverAffectedShadowCurse", 0732d109-a070-4ffb-822d-cc2d2abc198c);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act2_Outlander_ExploreMoonriseExteriorPath", 213e15cd-6dc9-4b8a-810d-6df770459d39);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act2_Outlander_DrinkBrewerBrew", 32da2a3f-af0c-4879-a1e8-b9e313c4aa01);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act2_Outlander_ExploreOubliette", b562364e-0a4c-469f-b965-4a2bf970f7fd);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act2_Outlander_ExploreColonyFully", e74d2b03-14fc-4203-b635-0ffc669e4b8e);
+//END_REGION Planar Philosopher
+KBSECTION
+//REGION Paitm
+//Completed Shar Temple without visiting Haven or Moonrise
+IF
+DB_InRegion(_Player,S_HAV_Haven_SUB_6ac001f4-9c56-4a1b-963d-a509e158ffab)
+AND
+NOT DB_GlobalFlag(GLO_Haven_EverEnteredBefore_f1176fa0-ec29-410e-bffa-24623b19c8e4)
+THEN 
+PROC_GlobalSetFlagAndCache(GLO_Haven_EverEnteredBefore_f1176fa0-ec29-410e-bffa-24623b19c8e4);
+
+IF
+DB_GlobalFlag((FLAG)SHA_NightsongPrison_State_PlayerEnteredPrison_f2cbe7cf-5223-4522-a649-879d08638282)
+AND
+NOT DB_GlobalFlag(GLO_MoonriseTower_EverEnteredBefore_26aeabb0-7644-4897-9bbd-7a95e3e8930f)
+AND
+NOT DB_GlobalFlag(GLO_Haven_EverEnteredBefore_f1176fa0-ec29-410e-bffa-24623b19c8e4)
+AND
+DB_Players(_Player)
+THEN
+PROC_GLO_Backgrounds_CompleteGoal(_Player, "Act2_Outlander_CompleteSharNoLastLightMoonrise");
+
+//Act2_Outlander_ExploreColonyFully
+IF
+DB_InRegion(_Player,_Trigger)
+AND
+DB_GLO_Backgrounds_ExploreColonyFully_Subregions(_Trigger)
+AND
+DB_Players(_Player)
+AND
+NOT DB_GLO_Backgrounds_ExploreColonyFully_Visited(_Player,_Trigger)
+THEN
+DB_GLO_Backgrounds_ExploreColonyFully_Visited(_Player,_Trigger);
+
+IF
+DB_GLO_Backgrounds_ExploreColonyFully_Visited((CHARACTER)_Player,(TRIGGER)_Trigger)
+AND
+NOT QRY_GLO_Backgrounds_ExploreColonyFully_AnyRegionNotVisited(_Player)
+THEN
+PROC_GLO_Backgrounds_CompleteGoal((CHARACTER)_Player, "Act2_Outlander_ExploreColonyFully");
+
+QRY
+QRY_GLO_Backgrounds_ExploreColonyFully_AnyRegionNotVisited((CHARACTER)_Player)
+AND
+DB_GLO_Backgrounds_ExploreColonyFully_Subregions(_Trigger)
+AND
+NOT DB_GLO_Backgrounds_ExploreColonyFully_Visited(_Player,_Trigger)
+THEN
+DB_NOOP(1);
+
+// Won hide and seek against Oliver
+IF
+FlagSet((FLAG)SCL_OliversDiary_FoundAgain_6596035e-4583-764f-52fb-c995ec9737bf, _, _)
+AND
+DB_Players(_Player)
+THEN
+PROC_GLO_Backgrounds_CompleteGoal((CHARACTER)_Player, "Act2_Outlander_WonOliverHideNSeek");
+
+// Protected Halsin's portal during the ritual.
+IF
+FlagSet((FLAG)HAV_LiftingTheCurse_State_ChannelingComplete_1afd47bc-e8d5-464d-823a-7dba82fcf5c3, _, _)
+AND
+DB_Players(_Player)
+THEN
+PROC_GLO_Backgrounds_CompleteGoal((CHARACTER)_Player, "Act2_Outlander_ProtectedHalsinPortal");
+
+// Visiting Moonrise and Last light without ever acquiring the moonlantern
+IF
+StatusApplied((CHARACTER)_Player, "SCL_MOONSHIELD", _, _)
+AND
+DB_Players(_Player)
+AND
+NOT DB_GLO_Backgrounds_ExploreShadowlands_BlockGoal(1)
+AND
+NOT QRY_MOO_IsInMOO(_Player)
+AND
+IsInTrigger(_Player, S_MOO_EntranceGoalBox_2c4f4d85-6d96-4ac9-becd-8d3c23657854, 0)
+THEN
+DB_GLO_Backgrounds_ExploreShadowlands_BlockGoal(1);
+
+PROC
+PROC_MOO_PlayerLeftMOO(_Player)
+AND
+NOT DB_GLO_Backgrounds_ExploreShadowlands_BlockGoal(1)
+AND
+IsInTrigger(_Player, S_MOO_EntranceGoalBox_2c4f4d85-6d96-4ac9-becd-8d3c23657854, 0)
+AND
+HasActiveStatus(_Player, "SCL_MOONSHIELD", 1)
+THEN
+DB_GLO_Backgrounds_ExploreShadowlands_BlockGoal(1);
+
+IF
+LeftTrigger(_Player, S_MOO_EntranceGoalBox_2c4f4d85-6d96-4ac9-becd-8d3c23657854)
+AND
+NOT DB_GLO_Backgrounds_ExploreShadowlands_BlockGoal(1)
+AND
+NOT QRY_MOO_IsInMOO(_Player)
+AND
+HasActiveStatus(_Player, "SCL_MOONSHIELD", 1)
+THEN
+RealtimeObjectTimerLaunch(_Player, "GLO_Backgrounds_CheckMoonshield", 1000);
+
+IF
+ObjectTimerFinished((CHARACTER)_Player, "GLO_Backgrounds_CheckMoonshield")
+AND
+NOT QRY_MOO_IsInMOO(_Player)
+AND
+IsInTrigger(_Player, S_MOO_EntranceGoalBox_2c4f4d85-6d96-4ac9-becd-8d3c23657854, 0)
+AND
+HasActiveStatus(_Player, "SCL_MOONSHIELD", 1)
+THEN
+DB_GLO_Backgrounds_ExploreShadowlands_BlockGoal(1);
+
+IF
+StatusApplied((CHARACTER)_Player, "GLO_PIXIESHIELD", _, _)
+AND
+DB_Players(_Player)
+THEN
+DB_GLO_Backgrounds_ExploreShadowlands_BlockGoal(1);
+
+IF
+EnteredTrigger(_Player, _Trigger)
+AND
+DB_Players(_Player)
+AND
+DB_GLO_Backgrounds_ExploreShadowlands_RegionTriggers(_Region, _Trigger)
+THEN
+DB_GLO_Backgrounds_ExploreShadowlands_Visited(_Player, _Region);
+
+IF
+DB_GLO_Backgrounds_ExploreShadowlands_Visited(_Player, "MOO_Moonrise")
+AND
+DB_GLO_Backgrounds_ExploreShadowlands_Visited(_Player, "HAV_LastLight")
+AND
+NOT DB_GLO_Backgrounds_ExploreShadowlands_BlockGoal(1)
+THEN
+PROC_GLO_Backgrounds_CompleteGoal((CHARACTER)_Player, "Act2_Outlander_ExplorationWithoutMoonlantern");
+
+// Exploring the key areas of act 2
+IF
+EnteredTrigger(_Player, _Trigger)
+AND
+DB_Players(_Player)
+AND
+DB_GLO_Backgrounds_ExploreShadowlands_KeyAreas(_Trigger)
+THEN
+PROC_GLO_Backgrounds_ExploringTheShadowlands(_Player, _Trigger);
+
+PROC
+PROC_GLO_Backgrounds_ExploringTheShadowlands((CHARACTER)_Player, (TRIGGER)_Trigger)
+THEN
+DB_GLO_Backgrounds_ExploreShadowlands_KeyAreasExplored(_Player, _Trigger);
+
+PROC
+PROC_GLO_Backgrounds_ExploringTheShadowlands((CHARACTER)_Player, (TRIGGER)_Trigger)
+AND
+NOT QRY_GLO_Backgrounds_ExploreShadowlands_AnyAreaNotVisited(_Player)
+THEN
+PROC_GLO_Backgrounds_CompleteGoal((CHARACTER)_Player, "Act2_Outlander_SCLFullyExplored");
+
+QRY
+QRY_GLO_Backgrounds_ExploreShadowlands_AnyAreaNotVisited((CHARACTER)_Player)
+AND
+DB_GLO_Backgrounds_ExploreShadowlands_KeyAreas(_Trigger)
+AND
+NOT DB_GLO_Backgrounds_ExploreShadowlands_KeyAreasExplored(_Player, _Trigger)
+THEN
+DB_NOOP(1);
+
+// Survive a stage 2 shadowcurse
+IF
+StatusApplied((CHARACTER)_Player, "SCL_SHADOW_CURSE_3", _, _)
+AND
+DB_Players(_Player)
+AND
+NOT DB_Downed(_Player)
+THEN
+PROC_GLO_Backgrounds_CompleteGoal((CHARACTER)_Player, "Act2_Outlander_SurviveShadowCurseStage2");
+
+// Player long rests in SCL
+PROC
+PROC_LongRest_Player(_Player, _)
+AND
+DB_ActiveCamp("SCLMAIN")
+THEN
+PROC_GLO_Backgrounds_CompleteGoal((CHARACTER)_Player, "Act2_Outlander_LongRestSCL");
+
+// Never affected by the shadowcurse when reaching Nightsong.
+IF
+StatusApplied((CHARACTER)_Player, "SCL_SHADOW_CURSE", _, _)
+AND
+DB_Players(_Player)
+THEN
+DB_GLO_Backgrounds_AffectedByShadowcurse(_Player);
+
+IF
+LeftTrigger(_Player, (TRIGGER)S_SHA_NightsongPrison_SUB_0a302268-dd92-4462-99e5-ca7491815ec0)
+AND
+NOT DB_GLO_Backgrounds_AffectedByShadowcurse(_Player)
+THEN
+PROC_GLO_Backgrounds_CompleteGoal((CHARACTER)_Player, "Act2_Outlander_NeverAffectedShadowCurse");
+
+// Defeating three combat encounters in SCL
+IF
+FlagSet(_CombatGroupPermaDefeated, _, _)
+AND
+DB_GLO_Backgrounds_ShadowlandsEncounters(_CombatGroupPermaDefeated)
+THEN
+PROC_IncreaseCounter("Act2_Backgrounds_EncountersBeaten");
+
+PROC
+PROC_CounterIncreased("Act2_Backgrounds_EncountersBeaten", 3)
+AND
+DB_Players(_Player)
+THEN
+PROC_GLO_Backgrounds_CompleteGoal((CHARACTER)_Player, "Act2_Outlander_ThreeCombatEncountersSCL");
+
+IF
+TemplateAddedTo(MAG_Orthon_Hellfire_HandCrossbow_f5b3b579-3569-4f6d-835c-9c19245152d6, _, _Player, _)
+AND
+DB_Players((CHARACTER)_Player)
+THEN
+PROC_GLO_Backgrounds_CompleteGoal((CHARACTER)_Player, "Act2_Outlander_ObtainOrhtonCrossbow");
+
+IF
+DB_InRegion(_Player,_Trigger)
+AND
+DB_Players(_Player)
+AND
+DB_MOO_Backgrounds_OutlanderMoonriseOutsideEntranceDoors(_Door, _Trigger)
+THEN
+NOT DB_MOO_Backgrounds_OutlanderMoonriseOutsideEntranceDoors(_Door, _Trigger);
+
+IF
+UseFinished(_Player, _Door, 1)
+AND
+DB_MOO_Backgrounds_OutlanderMoonriseOutsideEntranceDoors(_Door, _Trigger)
+AND
+IsOpening(_Door, 1)
+THEN
+PROC_GLO_Backgrounds_CompleteGoal((CHARACTER)_Player, "Act2_Outlander_ExploreMoonriseExteriorPath");
+
+IF
+EnteredTrigger(_Player, S_MOO_Oubliette_SUB_c6f54de0-1c8f-4cf8-bcf9-b13c8f53b05b)
+AND
+DB_Players(_Player)
+THEN
+PROC_GLO_Backgrounds_CompleteGoal((CHARACTER)_Player, "Act2_Outlander_ExploreOubliette");
+//END_REGION Paitm
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "Act2"
