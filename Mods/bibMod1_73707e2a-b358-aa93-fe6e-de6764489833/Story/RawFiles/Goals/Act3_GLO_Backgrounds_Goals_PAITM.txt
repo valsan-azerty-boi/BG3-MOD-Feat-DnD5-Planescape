@@ -39,71 +39,71 @@ DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23
 DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_BhaalTempleEntered", d2dce9cd-e9ee-471b-a7ad-65c28b43a660);
 //END_REGION Planar Philosopher
 KBSECTION
-//REGION Paitm
-// Act3_Outlander_GaveRawDonations
-PROC
-PROC_WYR_BigBarn_OnItemDonated((CHARACTER)_Player, (ITEM)_Item)
-AND
-NOT DB_GLO_Backgrounds_Blocked("Act3_Outlander_GaveRawDonations")
-AND
-GetTemplate(_Item, _ItemRoot)
-AND
-NOT DB_GLO_Background_Outlander_NotRawFoodRoots((ITEMROOT)_ItemRoot)
-AND
-IsTagged(_Item, (TAG)DRINK_8e318736-9f62-458e-8fd0-463d0b298c05, 0)
-THEN
-PROC_GLO_Backgrounds_CompleteGoal(_Player, "Act3_Outlander_GaveRawDonations");
+////REGION Paitm
+//// Act3_Outlander_GaveRawDonations
+//PROC
+//PROC_WYR_BigBarn_OnItemDonated((CHARACTER)_Player, (ITEM)_Item)
+//AND
+//NOT DB_GLO_Backgrounds_Blocked("Act3_Outlander_GaveRawDonations")
+//AND
+//GetTemplate(_Item, _ItemRoot)
+//AND
+//NOT DB_GLO_Background_Outlander_NotRawFoodRoots((ITEMROOT)_ItemRoot)
+//AND
+//IsTagged(_Item, (TAG)DRINK_8e318736-9f62-458e-8fd0-463d0b298c05, 0)
+//THEN
+//PROC_GLO_Backgrounds_CompleteGoal(_Player, "Act3_Outlander_GaveRawDonations");
 
-// Act3_Outlander_CircusAnimalsReleased
-IF
-EntityEvent(_Beast, "WYR_Circus_Event_BeastReleasedDisappeared")
-THEN
-DB_GLO_Backgrounds_Outlander_CircusBeastsReleased(_Beast);
+//// Act3_Outlander_CircusAnimalsReleased
+//IF
+//EntityEvent(_Beast, "WYR_Circus_Event_BeastReleasedDisappeared")
+//THEN
+//DB_GLO_Backgrounds_Outlander_CircusBeastsReleased(_Beast);
 
-IF
-DB_GLO_Backgrounds_Outlander_CircusBeastsReleased((CHARACTER)S_WYR_Circus_Beast_01_4d909cad-9b9b-4f34-ba27-6584bc8b4e20)
-AND
-DB_GLO_Backgrounds_Outlander_CircusBeastsReleased((CHARACTER)S_WYR_Circus_Beast_02_cfaec473-d13a-42e8-a771-aa0e8f6a04da)
-AND
-NOT DB_GLO_Backgrounds_Blocked("Act3_Outlander_CircusAnimalsReleased")
-AND
-DB_Players(_Player)
-THEN
-PROC_GLO_Backgrounds_CompleteGoal(_Player, "Act3_Outlander_CircusAnimalsReleased");
+//IF
+//DB_GLO_Backgrounds_Outlander_CircusBeastsReleased((CHARACTER)S_WYR_Circus_Beast_01_4d909cad-9b9b-4f34-ba27-6584bc8b4e20)
+//AND
+//DB_GLO_Backgrounds_Outlander_CircusBeastsReleased((CHARACTER)S_WYR_Circus_Beast_02_cfaec473-d13a-42e8-a771-aa0e8f6a04da)
+//AND
+//NOT DB_GLO_Backgrounds_Blocked("Act3_Outlander_CircusAnimalsReleased")
+//AND
+//DB_Players(_Player)
+//THEN
+//PROC_GLO_Backgrounds_CompleteGoal(_Player, "Act3_Outlander_CircusAnimalsReleased");
 
-// Act3_Outlander_BhaalistParkAmbushCompleted
-IF
-CombatEnded(_CombatID)
-AND
-DB_LOW_Park_CombatGUID(_CombatID)
-AND
-DB_Defeated(S_LOW_Bhaal_Leader_ecb818a4-d67d-4e7f-b917-552654a4cb61)
-AND
-NOT DB_GLO_Backgrounds_Blocked("Act3_Outlander_BhaalistParkAmbushCompleted")
-AND
-DB_Players(_Player)
-THEN
-PROC_GLO_Backgrounds_CompleteGoal(_Player, "Act3_Outlander_BhaalistParkAmbushCompleted");
+//// Act3_Outlander_BhaalistParkAmbushCompleted
+//IF
+//CombatEnded(_CombatID)
+//AND
+//DB_LOW_Park_CombatGUID(_CombatID)
+//AND
+//DB_Defeated(S_LOW_Bhaal_Leader_ecb818a4-d67d-4e7f-b917-552654a4cb61)
+//AND
+//NOT DB_GLO_Backgrounds_Blocked("Act3_Outlander_BhaalistParkAmbushCompleted")
+//AND
+//DB_Players(_Player)
+//THEN
+//PROC_GLO_Backgrounds_CompleteGoal(_Player, "Act3_Outlander_BhaalistParkAmbushCompleted");
 
-// Act3_Outlander_JaheiraKeptFamily
-IF
-DialogEnded(LOW_JaheiraAndFamily_OM_Jaheira_OOM_41c550bb-9ed0-99e4-9e04-345f155fc91b, _)
-AND
-NOT DB_GLO_Backgrounds_Blocked("Act3_Outlander_JaheiraKeptFamily")
-AND
-DB_Players(_Player)
-THEN
-PROC_GLO_Backgrounds_CompleteGoal(_Player, "Act3_Outlander_JaheiraKeptFamily");
+//// Act3_Outlander_JaheiraKeptFamily
+//IF
+//DialogEnded(LOW_JaheiraAndFamily_OM_Jaheira_OOM_41c550bb-9ed0-99e4-9e04-345f155fc91b, _)
+//AND
+//NOT DB_GLO_Backgrounds_Blocked("Act3_Outlander_JaheiraKeptFamily")
+//AND
+//DB_Players(_Player)
+//THEN
+//PROC_GLO_Backgrounds_CompleteGoal(_Player, "Act3_Outlander_JaheiraKeptFamily");
 
-IF
-DialogEnded(LOW_JaheiraAndFamily_OM_Jaheira_COM_e994dbe5-5db8-4c05-eb2e-2690ca2d134e, _)
-AND
-NOT DB_GLO_Backgrounds_Blocked("Act3_Outlander_JaheiraKeptFamily")
-AND
-DB_Players(_Player)
-THEN
-PROC_GLO_Backgrounds_CompleteGoal(_Player, "Act3_Outlander_JaheiraKeptFamily");
-//END_REGION Paitm
+//IF
+//DialogEnded(LOW_JaheiraAndFamily_OM_Jaheira_COM_e994dbe5-5db8-4c05-eb2e-2690ca2d134e, _)
+//AND
+//NOT DB_GLO_Backgrounds_Blocked("Act3_Outlander_JaheiraKeptFamily")
+//AND
+//DB_Players(_Player)
+//THEN
+//PROC_GLO_Backgrounds_CompleteGoal(_Player, "Act3_Outlander_JaheiraKeptFamily");
+////END_REGION Paitm
 EXITSECTION
 
 ENDEXITSECTION
