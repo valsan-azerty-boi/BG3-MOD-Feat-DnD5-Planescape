@@ -6,489 +6,795 @@
             <children>
                 <node id="BackgroundGoal">
                     <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="hf59f8ff8gf557g67a9g25d0ga6511a99c7fc" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="2"/>
-                    <attribute id="Title" type="TranslatedString" handle="h12bf0ed1gff2fga3ccg6618g2ae9539d443a" version="1"/>
-                    <attribute id="UUID" type="guid" value="c754e72f-cce4-4f38-b325-c9a0206b78ba"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="he08df7cagce71g41fegfb64gda20906c00b1" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="2"/>
-                    <attribute id="Title" type="TranslatedString" handle="h673e5a57gc0e2gbcd4gd209g398421964f7c" version="1"/>
-                    <attribute id="UUID" type="guid" value="070b9ee7-c5a9-4dd9-b551-41b9a1cb5df9"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="hd7954e28gc8e3gfe80gd76cg694c06539fb2" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="3"/>
-                    <attribute id="Title" type="TranslatedString" handle="h759e79d9g2135ga156gc948ge56b3b6ae033" version="1"/>
-                    <attribute id="UUID" type="guid" value="9a534830-27d1-494b-b89b-8bb4f1656afd"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="hbfc07b4dg168bgc7fbg9626g60b457b6293e" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="4"/>
-                    <attribute id="Title" type="TranslatedString" handle="h9e829649g56a9gf9cagf4bcg0d3dc93870b6" version="2"/>
-                    <attribute id="UUID" type="guid" value="17b1f887-7f29-4e50-b842-ebf2ab67a969"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="h9e6e8683gbd59g9205g59d2g8a6bf9d8023d" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="3"/>
-                    <attribute id="Title" type="TranslatedString" handle="h94869aa1g1b69gf8ffg927ag5ab87edeff6d" version="1"/>
-                    <attribute id="UUID" type="guid" value="c3d618ff-c685-4019-8753-1120d881b2b7"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="hc004dd83ga4a4g7c01ge438g56828a678c7d" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="10"/>
-                    <attribute id="Title" type="TranslatedString" handle="hf3cf3ce4g1923gdd2fgd653gbbb9b30b227e" version="1"/>
-                    <attribute id="UUID" type="guid" value="2bf81555-7051-4d5a-91b8-b798c5af9c95"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="he2cae812gf606g6bcag12f7g194885f103d6" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="10"/>
-                    <attribute id="Title" type="TranslatedString" handle="h7468b90dg4a69ga0bagfac1g022c00244636" version="1"/>
-                    <attribute id="UUID" type="guid" value="db1e76ef-888b-4df3-9f58-3abdb12de6cb"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="h5ce70bc7g721fga628g33a0g9be74e7bf3a7" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="9"/>
-                    <attribute id="Title" type="TranslatedString" handle="hf7899a6dg7291g7b12g6b06g8e65f8b26710" version="2"/>
-                    <attribute id="UUID" type="guid" value="f1db7dfe-bf22-4cb2-9487-623d4725472b"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="h7142a40ege50dg333dge668g85d839f8af88" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="10"/>
-                    <attribute id="Title" type="TranslatedString" handle="h610dece7g5cefg90f2geb26gcaf04ee25fef" version="1"/>
-                    <attribute id="UUID" type="guid" value="0e3360e6-c811-4a67-b59d-3ead6b4efc2c"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="h72ea2169g644fgcf24gddb8gb46c29459c53" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="11"/>
-                    <attribute id="Title" type="TranslatedString" handle="h79216deegc7b9g494cg28dag5e82ca9912eb" version="1"/>
-                    <attribute id="UUID" type="guid" value="cac1de0e-b934-43d4-8b5d-80934d75d547"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="h8e8975d9ge81egbbf4g66degf93a1f17bbe5" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="10"/>
-                    <attribute id="Title" type="TranslatedString" handle="h8c249256gfc84g78b3g4327gdfa255d96a3b" version="1"/>
-                    <attribute id="UUID" type="guid" value="accb2001-7aec-406b-ac6d-dcd6f16f21a9"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="h81199cc6g4f12g0b00g0891g5e888e172815" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="11"/>
-                    <attribute id="Title" type="TranslatedString" handle="he7050738geaadg1b08gc8c5gd73137259157" version="1"/>
-                    <attribute id="UUID" type="guid" value="ea84bc5c-72b1-4b86-ade6-1124756592d4"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="hcb7f6133g87efg6ed2g38dcgaf0062beecf1" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="7"/>
-                    <attribute id="Title" type="TranslatedString" handle="h875ceb3dg6827g6d54g19ecgc91607fb17fb" version="1"/>
-                    <attribute id="UUID" type="guid" value="d9c44da9-8bd2-4cd7-890e-da513aec3d61"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="h86e729e3gab4cgdfacg4a95g574ccb0aeacf" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="10"/>
-                    <attribute id="Title" type="TranslatedString" handle="h70bf23a0gc538g2943g581cga0b83e10dc6c" version="1"/>
-                    <attribute id="UUID" type="guid" value="ab74dc52-b9b5-4895-bb06-d96b518c20dd"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="h27058f0dg3fbeg4a71g1cf6g217f3f90a0db" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="11"/>
-                    <attribute id="Title" type="TranslatedString" handle="hbe442493g3a41g2332g9d7dg9b5c572d4acf" version="1"/>
-                    <attribute id="UUID" type="guid" value="d8634697-0642-41a8-a4b3-01b2625770f6"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="h442b01d0g5475gd36egca91gb58b3de83f14" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="11"/>
-                    <attribute id="Title" type="TranslatedString" handle="hd593602dg6996g7ea1gee17g76cb7ddc253c" version="1"/>
-                    <attribute id="UUID" type="guid" value="6e6b6ea5-8943-4aba-a384-0c1de42168ff"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="h55664bd1g63d7g7fe8gf346g0866af96b366" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="10"/>
-                    <attribute id="Title" type="TranslatedString" handle="h1b178ae3ga8d7gc671g2f20g5a78e301c17f" version="1"/>
-                    <attribute id="UUID" type="guid" value="1d01ba51-a3fa-4d42-9a61-de64a3ee5284"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="he3d69182gc428g51c2g8be8g534e8b529140" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="10"/>
-                    <attribute id="Title" type="TranslatedString" handle="h1ced4912g9a18gd4d8g5a69gf48f1d10724e" version="1"/>
-                    <attribute id="UUID" type="guid" value="9d62e1ed-e66b-43b5-98fe-ba55980c3b8b"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="h8b1f5736g2d2fgb477gfdc0g0f371dc99634" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="10"/>
-                    <attribute id="Title" type="TranslatedString" handle="h0aa0b901gf3d2g313fga2fbg9f756d8bdffe" version="1"/>
-                    <attribute id="UUID" type="guid" value="be82e620-0a7f-4b9e-a008-e703acae20ff"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="h1ea4b567g702eg7012g7407gff6e9d2840dc" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="10"/>
-                    <attribute id="Title" type="TranslatedString" handle="hc5b7d1ccgf584g8201g4b02g065156be511a" version="1"/>
-                    <attribute id="UUID" type="guid" value="b7fb430f-a5d7-4f47-9607-0e0ebf9b35ea"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="h9c71e5e2g157eg5b11gbbadg03a7977cb147" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="9"/>
-                    <attribute id="Title" type="TranslatedString" handle="hceee5b4ag9858gea84g55bbg0cdb92c7c619" version="1"/>
-                    <attribute id="UUID" type="guid" value="6b28b7bd-8bb1-4960-a07b-bad86ea228b4"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="hbe179d0bg7b1fgfed5g1a40ga8fdc1db3e6e" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="9"/>
-                    <attribute id="Title" type="TranslatedString" handle="hbffef0f3g22b4g606bgc749ge13d48a8e9de" version="1"/>
-                    <attribute id="UUID" type="guid" value="6e612ec2-554d-4504-a836-428fa61a8845"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="h1b86f42fgbca9g2d3cga669g894383304c26" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="11"/>
-                    <attribute id="Title" type="TranslatedString" handle="h6d91c7f9g6dcdg0bcdga466g21fa6ae1fcda" version="2"/>
-                    <attribute id="UUID" type="guid" value="6ee2941c-7f10-4479-870c-156c479ff150"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="h43802ad6g0e4bg1f5fga702gc34b1d033938" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="11"/>
-                    <attribute id="Title" type="TranslatedString" handle="hbf8fd4d1g5b32g4f78ga20egb7f7c8c4b7bc" version="2"/>
-                    <attribute id="UUID" type="guid" value="f7df2083-9223-4a97-beb3-87d97ed024a4"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="h2fd2147fg3690g55a7g4d55gf07059d31c3f" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="6"/>
-                    <attribute id="Title" type="TranslatedString" handle="he5e792c9g8820gbc59g30b8g144232ddadd7" version="1"/>
-                    <attribute id="UUID" type="guid" value="b6b1396e-a0c9-4560-b3f0-01ae81cc0bd7"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="hf78bb87ag2a35gfbe0gd779g4595277a5bdb" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="6"/>
-                    <attribute id="Title" type="TranslatedString" handle="h156ffbf0g7a2fg92c3g3b20g2c8e28b8f061" version="1"/>
-                    <attribute id="UUID" type="guid" value="1dccbc56-7681-401b-8f8b-9da82fa12a7d"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="ha19fae41g9577g80b6g0ffdg1d11a5762705" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="7"/>
-                    <attribute id="Title" type="TranslatedString" handle="he2fb3e73g4790gf592g1165g031798c713bd" version="1"/>
-                    <attribute id="UUID" type="guid" value="1a217602-8f70-41f1-adc5-f1b8cada9e7c"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="h3b9ffc8fge080g8d3bg0e95gaad523db5272" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="7"/>
-                    <attribute id="Title" type="TranslatedString" handle="h7114b50agee58g1b27gd13fgf60de1145ddf" version="1"/>
-                    <attribute id="UUID" type="guid" value="75966d33-4812-4a03-ac21-2ee87adc03c7"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="h4981833bg941bg0a23g4616g6301942aa221" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="10"/>
-                    <attribute id="Title" type="TranslatedString" handle="h8eeaed4fg11f0g2481gd238g7fdff87a07db" version="1"/>
-                    <attribute id="UUID" type="guid" value="252a6b14-0744-4655-8741-6bd96e0dc77f"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="hb6593e7cgc44fg90fbg4e65g9ffb931273f5" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="2"/>
-                    <attribute id="Title" type="TranslatedString" handle="h936e7c9eg549ag01cbg35acgb1a6f2ff465f" version="2"/>
-                    <attribute id="UUID" type="guid" value="fecc1faf-b659-4977-8114-503f3354eeda"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="h2251ffd9g5dd3g7770gd588g07d16f9fae9e" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="2"/>
-                    <attribute id="Title" type="TranslatedString" handle="hbb7ca0b3gef57gf106g4ba0gc9a5e5a63ec5" version="1"/>
-                    <attribute id="UUID" type="guid" value="fee79a6f-3bd3-4930-a39d-ff3c4adb8a14"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="h2a891447g0845gf936gc3dcg09242d13062c" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="2"/>
-                    <attribute id="Title" type="TranslatedString" handle="ha5ba539cg846cgb00fg9784g0b8079d42f88" version="1"/>
-                    <attribute id="UUID" type="guid" value="b07e842f-dc2e-426a-b81b-43a803aea553"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="h4e666562g4e49g8031gc64fgeddf13d5cd56" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="3"/>
-                    <attribute id="Title" type="TranslatedString" handle="h53dfee81gdb73g2ae7gc47ag49f86da40391" version="1"/>
-                    <attribute id="UUID" type="guid" value="58954ece-cd87-4050-9044-2936a6a633e0"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="h52638ae9ge4bagf411gcb20g4bb49a9ae258" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="6"/>
-                    <attribute id="Title" type="TranslatedString" handle="h9cf7ccf5g9a97g60aeg3260gd4391be207cf" version="1"/>
-                    <attribute id="UUID" type="guid" value="f0e20d07-e23e-456e-88ef-e31fc7bfcae8"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="h1b74c9aag68f3g9bc6g6327ged1d2c6e286a" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="h44b878a9g95a6g2a7dg2279gb236093a7ca0" version="2"/>
                     <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
                     <attribute id="InspirationPoints" type="uint32" value="1"/>
                     <attribute id="RewardLevel" type="uint32" value="5"/>
-                    <attribute id="Title" type="TranslatedString" handle="hec5e4c4dg8096g4e3bgae18gc7df0af10a2e" version="1"/>
-                    <attribute id="UUID" type="guid" value="dae7cced-4bf7-4971-8e29-b481990379c4"/>
+                    <attribute id="Title" type="TranslatedString" handle="h49168b8dgdae4g28c4g3177gc8c45ad987b3" version="2"/>
+                    <attribute id="UUID" type="guid" value="dd2ad08f-dd27-42ba-a423-9957b451001f"/>
                 </node>
                 <node id="BackgroundGoal">
                     <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="ha203bcdfg13a6g0dabg9a87g9eac5fcd2461" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="he02b53f2g195cg1e19g8e5fg9fab89a008ae" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="6"/>
+                    <attribute id="Title" type="TranslatedString" handle="hcafedefcg6871g3143gb866g88998ef575f0" version="2"/>
+                    <attribute id="UUID" type="guid" value="37bb4e5a-fa3a-4898-9b8a-c1a606c1dca4"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="h1b53902dga10bg1447gf495g2a94e4d07024" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="6"/>
+                    <attribute id="Title" type="TranslatedString" handle="hc4dc85d2g6494g02c3g8008ga54b22bc3bc7" version="2"/>
+                    <attribute id="UUID" type="guid" value="101178a7-cd7d-4815-85c7-ff7ca81a1d63"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="hd3283d81g2154g3e15gc65eg02c5cc075680" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="7"/>
+                    <attribute id="Title" type="TranslatedString" handle="h3496b36cgd58ag18f7g9989gcab0e0c83977" version="2"/>
+                    <attribute id="UUID" type="guid" value="0bcf5a20-fea1-4db9-8c29-99c80d95a32a"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="h69391c18g2ba6g096fgb795g5559b3ce3e7a" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="6"/>
+                    <attribute id="Title" type="TranslatedString" handle="h45dd6cc9gb515ga09dgc634g6457525084cf" version="2"/>
+                    <attribute id="UUID" type="guid" value="6a2a53b7-12b9-4cd8-82e7-0c2d99c99152"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="hfc688f30g9eecgf76agc817g245e0752c070" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="6"/>
+                    <attribute id="Title" type="TranslatedString" handle="h79a0a269gd044g3d1agab3ag7c5fac1a59d4" version="2"/>
+                    <attribute id="UUID" type="guid" value="606872ea-a5a3-4639-ad6b-10c4b9c1ae18"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="h5208253dg86ddgdcc5g9e2cg282fe560fedd" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="5"/>
+                    <attribute id="Title" type="TranslatedString" handle="hb180e324gef75geb70gaf0dg0508260b1d5a" version="2"/>
+                    <attribute id="UUID" type="guid" value="d56accbb-b93e-41a7-94ce-e7baedbd672b"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="h43cd5202gb7d7ge714g106dg9de77fe5724d" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="5"/>
+                    <attribute id="Title" type="TranslatedString" handle="hb412be33g4ccbg6a95g4c1fgea6bfd8252b0" version="2"/>
+                    <attribute id="UUID" type="guid" value="4bd05789-4a86-4bda-8e7e-9ca48a136370"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="hd04e86c0gbd8cg0ccegfcfeg115c8347ea40" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="7"/>
+                    <attribute id="Title" type="TranslatedString" handle="ha1039509g0013g9c32g9b2agf21ccb546f26" version="2"/>
+                    <attribute id="UUID" type="guid" value="13abfd5c-e6bb-42b0-a2b9-453ee320d0e5"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="hf0003e56gcf07gf60bgd7b0gbde0356807f4" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="5"/>
+                    <attribute id="Title" type="TranslatedString" handle="h4c77b1ebg4ed7g6cdfg104fg6b27377f3297" version="2"/>
+                    <attribute id="UUID" type="guid" value="877fcbc2-b719-4c99-afda-3bb70b80a6a2"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="hc13562c4gd02cg5037g38ddgada4f87303ab" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="7"/>
+                    <attribute id="Title" type="TranslatedString" handle="hc6fa57cdgf408g5c24g46a5gbe042423cee9" version="2"/>
+                    <attribute id="UUID" type="guid" value="26907349-b936-4875-a431-2b0fcf96cc8f"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="hc4a9efacg1c5dgb20egfd68g4cd262fd579f" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="6"/>
+                    <attribute id="Title" type="TranslatedString" handle="hf2171ff1ga078gf77agbc8eg9027b2a24d2b" version="2"/>
+                    <attribute id="UUID" type="guid" value="95408e76-a3e9-4d12-a788-a84aaa6fc7de"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="hd60d29ddgd10eg066dg6ce0gd835439176db" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="6"/>
+                    <attribute id="Title" type="TranslatedString" handle="h5bc6a0a6ge39ag4770ged5egf0b9fa9b5390" version="2"/>
+                    <attribute id="UUID" type="guid" value="e5a74086-a582-47af-8853-bcd3a0e49e17"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="h65dcf377gfa48gdd39g2597geefd78eaf0a3" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="6"/>
+                    <attribute id="Title" type="TranslatedString" handle="h77c8e111g5bd8g30e2ge699g3ab1abff52f8" version="2"/>
+                    <attribute id="UUID" type="guid" value="c55b428c-1b43-4416-b7a8-59710d67802d"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="h790d4eaeg00a5g0992g125fg74fee5db2f38" version="2"/>
                     <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
                     <attribute id="InspirationPoints" type="uint32" value="1"/>
                     <attribute id="RewardLevel" type="uint32" value="8"/>
-                    <attribute id="Title" type="TranslatedString" handle="hf742025eg3fefgcfe4ga073g46350c2cc394" version="1"/>
-                    <attribute id="UUID" type="guid" value="34a2258e-6163-4cfe-9991-1b9d7de3015b"/>
+                    <attribute id="Title" type="TranslatedString" handle="hb8524875g9ecbgd0a5g2af3g3a449bea812c" version="2"/>
+                    <attribute id="UUID" type="guid" value="30c8d2cc-8b3d-4500-8530-ae9a183a4c9a"/>
                 </node>
                 <node id="BackgroundGoal">
                     <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="h1d976ab8gbe5bg10f7g4586g1c1d328dd560" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="h235cba63g8295g8ae7g45c5g8c35b5b425df" version="2"/>
                     <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
                     <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="5"/>
-                    <attribute id="Title" type="TranslatedString" handle="h948f7ebdg41e3g78c2ge6cagf4c3088296ac" version="1"/>
-                    <attribute id="UUID" type="guid" value="b0556d26-68e6-4ae3-8b93-a4c842e83e87"/>
+                    <attribute id="RewardLevel" type="uint32" value="9"/>
+                    <attribute id="Title" type="TranslatedString" handle="h1c0f51b6g2babg029cg04e9g39e4ad8b30cd" version="2"/>
+                    <attribute id="UUID" type="guid" value="d5946444-ab00-47f3-8a4b-0da9eb18564c"/>
                 </node>
                 <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="h9df48f4agba48g5d8cg6543g87ebef2ea4d6" version="1"/>
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="hf05cd2e7g5cf7g2207g2dd5g10f4c52026f5" version="2"/>
                     <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
                     <attribute id="InspirationPoints" type="uint32" value="1"/>
                     <attribute id="RewardLevel" type="uint32" value="10"/>
-                    <attribute id="Title" type="TranslatedString" handle="h19084028g3171g6872gba62gaea982d2d3cc" version="1"/>
-                    <attribute id="UUID" type="guid" value="f856cca3-75cc-43e9-8aef-bba187f1c9e9"/>
+                    <attribute id="Title" type="TranslatedString" handle="hbc09e6a0gb75dg10b0g6f73g1ab019ebe5fd" version="2"/>
+                    <attribute id="UUID" type="guid" value="8de2e1b4-d7e2-44c7-9c00-94809d4c1462"/>
                 </node>
                 <node id="BackgroundGoal">
                     <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="h5dc78490g4c97g30a0g012cg117ca883bbeb" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="5"/>
-                    <attribute id="Title" type="TranslatedString" handle="h382e9a1fg4560g20d0ga034g26af293cc558" version="1"/>
-                    <attribute id="UUID" type="guid" value="f502783b-e6ce-4aba-93c5-bd70aa681cfa"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="h8886c07dg1afbg7511g6c7dgd9570eca9ceb" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="5"/>
-                    <attribute id="Title" type="TranslatedString" handle="h581b10e2gcac3g9a7eg0a99g7734f7c76249" version="1"/>
-                    <attribute id="UUID" type="guid" value="2949960f-dca3-4349-a004-cc7920f7fae3"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="ha69d3dcdg92efg7079g6afdgae52c2138d6b" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="3"/>
-                    <attribute id="Title" type="TranslatedString" handle="h4504ab69gd64cg45bfgd5cbgf13696270c7c" version="1"/>
-                    <attribute id="UUID" type="guid" value="fa081107-e18d-4ccc-856e-c8ac69dd2078"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="h31f00a6dgd2f5gd799g7d64gff35a32c905e" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="5"/>
-                    <attribute id="Title" type="TranslatedString" handle="h2ef52ac1g4a82g9c35g0cddgd77e9f88b8cd" version="1"/>
-                    <attribute id="UUID" type="guid" value="1d900b0b-930a-450b-a128-8cb771514f0a"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="h6746a123g57b1g248dgdacfg8abdf68614dc" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="hdb1f3411gdd2ag47e1gdcc1g75780ba45684" version="2"/>
                     <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
                     <attribute id="InspirationPoints" type="uint32" value="1"/>
                     <attribute id="RewardLevel" type="uint32" value="10"/>
-                    <attribute id="Title" type="TranslatedString" handle="h8ac3b088gad2egcf2ag97dag4e8fc693ce0a" version="1"/>
-                    <attribute id="UUID" type="guid" value="2216babe-7900-4077-a00b-557e49e6f095"/>
+                    <attribute id="Title" type="TranslatedString" handle="h6124d31bgee9fg9cdagbbf9gb2dec864571f" version="2"/>
+                    <attribute id="UUID" type="guid" value="5b396685-7490-46f0-9727-e3c454ae4b6e"/>
                 </node>
                 <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="h519b6dfag0a5agdb52g4188gc221c20c31ad" version="1"/>
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="hfa11a496g8d2bg6aa1gcd59g52a60e3f0e0c" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="9"/>
+                    <attribute id="Title" type="TranslatedString" handle="h8a69f260gec64gf961g1f00gde8ab8be758a" version="2"/>
+                    <attribute id="UUID" type="guid" value="f02874dd-2cfd-424f-b012-c3a720c99975"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="hf2040f1fgcc82gb9afg6649g50ff6e35631a" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="11"/>
+                    <attribute id="Title" type="TranslatedString" handle="h847ed24dg79d0g4ca3geff5g7da7b9dc448d" version="2"/>
+                    <attribute id="UUID" type="guid" value="71e0f862-22d1-4b01-a574-3fc0edee3491"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="h67544727g9b4eg4b6dgb08fg9a957f512024" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="9"/>
+                    <attribute id="Title" type="TranslatedString" handle="hc7eaad0agc012g417cg5416gd245ccc32bac" version="2"/>
+                    <attribute id="UUID" type="guid" value="22827b96-ec46-4cdd-949b-26460ef0c2fb"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="hf7523230g6ebdgedf6ga028g132e3947552d" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="9"/>
+                    <attribute id="Title" type="TranslatedString" handle="h5346d333g62ecg4ee8g0bb2gbb8f5fcd5f15" version="2"/>
+                    <attribute id="UUID" type="guid" value="e91582d1-0f82-4fa2-b01c-c832d3942bf0"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="haf775035g66dcg667ag05a6g4f30e5d69378" version="2"/>
                     <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
                     <attribute id="InspirationPoints" type="uint32" value="1"/>
                     <attribute id="RewardLevel" type="uint32" value="10"/>
-                    <attribute id="Title" type="TranslatedString" handle="hece00107g8948gbd6egb942g0440fc6c58b6" version="1"/>
-                    <attribute id="UUID" type="guid" value="11a95218-60db-4e2f-a145-aba9216f61a6"/>
+                    <attribute id="Title" type="TranslatedString" handle="h3deb904egaba8g86ccg4482gbc3c368d08c2" version="2"/>
+                    <attribute id="UUID" type="guid" value="e8d29491-bebc-48f9-be00-1d8c7eb5cf9c"/>
                 </node>
                 <node id="BackgroundGoal">
                     <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="h26957624gf020g325bgcf15gfd0a8160a924" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="6"/>
-                    <attribute id="Title" type="TranslatedString" handle="h03780aedgc74eg8259g98a8g1d398c1662d4" version="1"/>
-                    <attribute id="UUID" type="guid" value="3c67a134-ec64-4dd7-8d83-06bbbd749c15"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="hd4a38dafg9c3fg10deg579fg9ad80ae9e306" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="had6ade37gc3d9g999ag7acfgeba9a45b6248" version="2"/>
                     <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
                     <attribute id="InspirationPoints" type="uint32" value="1"/>
                     <attribute id="RewardLevel" type="uint32" value="11"/>
-                    <attribute id="Title" type="TranslatedString" handle="hb0846b09ge6e1g4ad2g2d23g4188bcfe0ce9" version="1"/>
-                    <attribute id="UUID" type="guid" value="41ea5f2d-a837-4ddd-b5df-620a8db05dd5"/>
+                    <attribute id="Title" type="TranslatedString" handle="h3cd1e4a7g0fd7gc2d6g5c4fg94100d469b39" version="2"/>
+                    <attribute id="UUID" type="guid" value="766af7ce-408c-4ba2-b266-0176950001d6"/>
                 </node>
                 <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="ha4d24f4dge4f2ga620g6394gb59b022b4ed2" version="1"/>
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="hf95535bege16egf738g2a17g778db1492c7d" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="10"/>
+                    <attribute id="Title" type="TranslatedString" handle="h2f6fcb33g7e60ga80bg582bg0f8788592321" version="2"/>
+                    <attribute id="UUID" type="guid" value="ae0600ef-555f-4b6f-8ac4-5f5b3a38babc"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="hf151abe6gdcbcg90b2gc66ega2614b7d66b7" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="10"/>
+                    <attribute id="Title" type="TranslatedString" handle="h924e7a1fg238ag2b17g19c8gb1a187472156" version="2"/>
+                    <attribute id="UUID" type="guid" value="dcc8cc06-17ee-4b87-b137-754ec013942a"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="h3367558dg0a1fgbac9g40beg6560dc79d633" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="10"/>
+                    <attribute id="Title" type="TranslatedString" handle="hfa952676g051bgf4f9g8c21gee1c782f4db3" version="2"/>
+                    <attribute id="UUID" type="guid" value="79e3a30f-bbaa-4b02-91fd-577f9a87e724"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="hcf5abba8g19e9ge8c2g0ebcgc654d14a773e" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="10"/>
+                    <attribute id="Title" type="TranslatedString" handle="h1f96e0b6gf049gd879g67abg89d82c5a821a" version="2"/>
+                    <attribute id="UUID" type="guid" value="1f950e43-3648-4411-8024-1db42d9b4f36"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="h6f877938ga410g75adge0cbgf48ae3a87bf9" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="10"/>
+                    <attribute id="Title" type="TranslatedString" handle="h1a2d3d09g3ee4g4ea6g516eg93fd9a752018" version="2"/>
+                    <attribute id="UUID" type="guid" value="c3484ed1-3d98-4942-bf0c-f339b54a7ac4"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="hef05aa7dg9d34g4dd7g9eb8ge7a46b080713" version="2"/>
                     <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
                     <attribute id="InspirationPoints" type="uint32" value="1"/>
                     <attribute id="RewardLevel" type="uint32" value="11"/>
-                    <attribute id="Title" type="TranslatedString" handle="ha3f08f17g1b11g1b07g349fg8bacb83854ce" version="1"/>
-                    <attribute id="UUID" type="guid" value="967d4711-bcc5-4a29-bec4-0c255777525e"/>
+                    <attribute id="Title" type="TranslatedString" handle="h49132348gf7f8g06f4g23acga7bc605e1bc7" version="2"/>
+                    <attribute id="UUID" type="guid" value="cf9975e1-e1b3-46aa-a66f-b6d7bae32e15"/>
                 </node>
                 <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="hbeb4bd6dgb6ebg13e9g4549g2169c10fd131" version="1"/>
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="h4362beb6g9e2dg2b1bg0491g7c64e86d842a" version="2"/>
                     <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
                     <attribute id="InspirationPoints" type="uint32" value="1"/>
                     <attribute id="RewardLevel" type="uint32" value="11"/>
-                    <attribute id="Title" type="TranslatedString" handle="hbf01b4b2g0832gd823gd7ceg9662a9a0a614" version="2"/>
-                    <attribute id="UUID" type="guid" value="3b465e79-d61c-4508-93a2-3e86b7442f45"/>
+                    <attribute id="Title" type="TranslatedString" handle="h8f88e380g8c64gddc4g0db5gea9a5bb4ca18" version="2"/>
+                    <attribute id="UUID" type="guid" value="8600da53-964c-4184-8cd3-6d0c65cdd0a5"/>
                 </node>
                 <node id="BackgroundGoal">
                     <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="hbbd12a47g4fbdgb3a0g02a2g522ae7fa3352" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="11"/>
-                    <attribute id="Title" type="TranslatedString" handle="h983f651fg5025g1034gea00g5503f5ac8f9d" version="2"/>
-                    <attribute id="UUID" type="guid" value="6b04ecfd-a04e-44f4-b7a6-3ac1c7e2a787"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
-                    <attribute id="Description" type="TranslatedString" handle="h23a7d8bfg5771g28cdgdaacg1d70083fb828" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="7"/>
-                    <attribute id="Title" type="TranslatedString" handle="h2ae36c00g4049g46c4g36a4gb6dcde412276" version="1"/>
-                    <attribute id="UUID" type="guid" value="7108f7a1-0dd4-4c64-a09a-ee236e0dbf38"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="hf0b2469cgad21g23efg73fcg3b87859df1f2" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="7"/>
-                    <attribute id="Title" type="TranslatedString" handle="h4ed4d1eeg962agbb18gdbe4g58701692062b" version="1"/>
-                    <attribute id="UUID" type="guid" value="acac7fa6-dc33-4d1d-8d37-e26c14693b5a"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="h513c2ee8g6160g7fafg8117gce7f6babd22b" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="2"/>
-                    <attribute id="Title" type="TranslatedString" handle="h00a04804g4d68ge9dfg5a0fgd2dc8e378c7f" version="1"/>
-                    <attribute id="UUID" type="guid" value="d8c3f1b3-967e-4e70-b9ca-fa4b2adc24c5"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="hae61e1e6g5cedg6576g3e4cg47420168e48e" version="1"/>
-                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
-                    <attribute id="InspirationPoints" type="uint32" value="1"/>
-                    <attribute id="RewardLevel" type="uint32" value="2"/>
-                    <attribute id="Title" type="TranslatedString" handle="hf72236a2g2d23g818bg4024g02753872026a" version="1"/>
-                    <attribute id="UUID" type="guid" value="252a6aa8-5c39-41b5-9b2f-40b7d825877f"/>
-                </node>
-                <node id="BackgroundGoal">
-                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
-                    <attribute id="Description" type="TranslatedString" handle="h34f28f4agbe84g2195gc3e0ga03f6a400896" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="h2440839ag7382g6a20ga9bcgb335f50f0031" version="2"/>
                     <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
                     <attribute id="InspirationPoints" type="uint32" value="1"/>
                     <attribute id="RewardLevel" type="uint32" value="4"/>
-                    <attribute id="Title" type="TranslatedString" handle="h99510db5gc716g9a1bg6abfge17528673ea6" version="1"/>
-                    <attribute id="UUID" type="guid" value="ceb49be5-18f1-4640-9750-6aed5c799487"/>
+                    <attribute id="Title" type="TranslatedString" handle="h49cb5a24gaf4cgb39cgfac1g8eccf007ce3b" version="2"/>
+                    <attribute id="UUID" type="guid" value="59f9ca28-827b-4636-936d-e42027e227d6"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="h4172576cg8d2bg760ag2da2g488fbfa18255" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="4"/>
+                    <attribute id="Title" type="TranslatedString" handle="hb91823bdgbc77g4306g8e0bg0ad846b9afdf" version="2"/>
+                    <attribute id="UUID" type="guid" value="02eb3649-ab75-4395-a081-f8adb25d0d86"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="had7985bbgc12egd29dg82fdgd46b7d812d6e" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="3"/>
+                    <attribute id="Title" type="TranslatedString" handle="hecef1d1eg5c17g83d0g908dg647a3bdc2728" version="2"/>
+                    <attribute id="UUID" type="guid" value="4f2fdb22-dc02-4ce6-b6e8-db0c23422174"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="hc3c3ff8fgb568gff75gc5ceg20809fc3ed68" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="4"/>
+                    <attribute id="Title" type="TranslatedString" handle="he356bc4fgf0bfg7dbbgd629gf40a452bf410" version="2"/>
+                    <attribute id="UUID" type="guid" value="467480ad-261c-4733-ac54-7a5c851509ba"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="h857dd685g54a3g7c15g45d3g56b71ae0bb99" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="4"/>
+                    <attribute id="Title" type="TranslatedString" handle="hdaa9df25g4378g8a6ag30ceg4cce1d312874" version="2"/>
+                    <attribute id="UUID" type="guid" value="c131d501-3b82-4504-8a32-ca7922e32817"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="h5c017a9dg08c7g5167gdbc7g06d35da5e602" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="4"/>
+                    <attribute id="Title" type="TranslatedString" handle="h860a5099g81ffg5f2cga010gaa3bde5798dd" version="2"/>
+                    <attribute id="UUID" type="guid" value="09dbb9c3-7c1c-4237-a129-583685280b94"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="hf9e6bb38g9b31g7098g1257g2e554c714b28" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="4"/>
+                    <attribute id="Title" type="TranslatedString" handle="h5c61c0c2g0cc3ge068g3dd3g0f38e958b917" version="2"/>
+                    <attribute id="UUID" type="guid" value="5fd42367-ac8c-4112-bb67-426a733d2fc9"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="h34cbe2cbg7614g1b17g8448gb3096039892e" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="2"/>
+                    <attribute id="Title" type="TranslatedString" handle="h44c83cbfg132bg1154g5883gc02598e98cc0" version="2"/>
+                    <attribute id="UUID" type="guid" value="cc38c721-9c4d-44fb-a56c-89e3263a6d6f"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="hc3cc96dfg8ef6g8d3dgf041g964392aca9c8" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="3"/>
+                    <attribute id="Title" type="TranslatedString" handle="hfd30a9f0gd64fgc115g834fg7ece9db4967d" version="2"/>
+                    <attribute id="UUID" type="guid" value="6257c2c4-e47e-4a9e-bdb1-0a436e8d7f85"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="h2cb0e820g5cebg62d1g184ag165ba3ea93ef" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="4"/>
+                    <attribute id="Title" type="TranslatedString" handle="h5e8111f6g787fgb662g5bcdgbfc3107c5c5f" version="2"/>
+                    <attribute id="UUID" type="guid" value="af897b37-1a5b-4116-9a44-61745299d70b"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="h30cbdf38g5354g8d85g838fg228199e57662" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="4"/>
+                    <attribute id="Title" type="TranslatedString" handle="h897bfe17g4aa1g5a88gd682g619715f1428f" version="2"/>
+                    <attribute id="UUID" type="guid" value="12b94ecc-cf5d-49d0-8f7f-a04c1ba27b1c"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="h7b502db9g7923g201cga8d5ge51b372e50b9" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="4"/>
+                    <attribute id="Title" type="TranslatedString" handle="hf4441220g6ed4g853fgd511g03808048ebb4" version="2"/>
+                    <attribute id="UUID" type="guid" value="0ffa21b8-2556-4b84-a6c7-ec1919944ffb"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
+                    <attribute id="Description" type="TranslatedString" handle="h89312498gdb06g468bgb8cfg95851f21ff93" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="5"/>
+                    <attribute id="Title" type="TranslatedString" handle="hf998bb5dg979bgb7d9g3553g055bdeaa3dea" version="2"/>
+                    <attribute id="UUID" type="guid" value="12d5a25e-587d-4d77-8207-b651254ebb91"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h89694a09geb57g0d61g98adg16a1b18470fa" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="5"/>
+                    <attribute id="Title" type="TranslatedString" handle="h4981346ag8069ga75dgc855g1d12976bb10f" version="2"/>
+                    <attribute id="UUID" type="guid" value="50868f2d-aca4-46c8-a7f9-26e05cae1a08"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="hc376c848ge937g5cbegc21fgdc1324e773d3" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="6"/>
+                    <attribute id="Title" type="TranslatedString" handle="h299dd9f1g73bbga773ga21egf68a3331610a" version="2"/>
+                    <attribute id="UUID" type="guid" value="9f4c178a-00bc-4277-859e-a55b89d38322"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="hb3a2c26fgc170ge58bgf839ged49175d85b4" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="6"/>
+                    <attribute id="Title" type="TranslatedString" handle="h4d94bfbeg3c6bg6601gba46g7ad979777861" version="2"/>
+                    <attribute id="UUID" type="guid" value="baab17ea-6634-4319-bc47-8914b5d561f5"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h21e04415gd914g2200g75b8g587468edba1d" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="7"/>
+                    <attribute id="Title" type="TranslatedString" handle="hd9a20dc9g8bd9gcecbgdd11g7d1a179717de" version="2"/>
+                    <attribute id="UUID" type="guid" value="462c7f3a-937f-4e1b-8004-85a319736306"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h215f29d0g0a3bg4c9ege5a1gbe498e63010c" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="6"/>
+                    <attribute id="Title" type="TranslatedString" handle="h9d3db8d1g7f78g8e15gc7e9g999e2a18465e" version="2"/>
+                    <attribute id="UUID" type="guid" value="718f16d2-a3f5-4e69-821d-6bd0af806197"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="hf572d38cgdef9g84d8gd3fag24bca10dfde3" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="6"/>
+                    <attribute id="Title" type="TranslatedString" handle="hbb8eb652g17f8gae3eg9bbeg3354b7ed54f8" version="2"/>
+                    <attribute id="UUID" type="guid" value="e5bf1edd-4ef2-48bd-ad21-1b71d9e80724"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h7bb87fc1g834dgf014gf2dcgbeadf2791feb" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="5"/>
+                    <attribute id="Title" type="TranslatedString" handle="h36166b3dg8222g5d69g30afgfe5fbea5f595" version="2"/>
+                    <attribute id="UUID" type="guid" value="cf80e623-f450-4c6c-864e-ea0cad201891"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h3960c991g937ege9f7g2721g8127a1518ef8" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="5"/>
+                    <attribute id="Title" type="TranslatedString" handle="he62e5240g9048ga2d2gdccdg573bcbf083ce" version="2"/>
+                    <attribute id="UUID" type="guid" value="847fbe0a-9670-4410-9219-b203d7869f64"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="ha8152063gf6c1gab14g0344g2792f1fd0345" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="7"/>
+                    <attribute id="Title" type="TranslatedString" handle="hb66b2733g9f26g2eaag56ccg4dfbfcfe735d" version="2"/>
+                    <attribute id="UUID" type="guid" value="da7efbe8-4e29-4e11-be28-9fcc211a760a"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h038e1885g5f8ag5ea7ga0a8g70ca1f8a691c" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="5"/>
+                    <attribute id="Title" type="TranslatedString" handle="hb0465243g188cg8654ge931g129a893e748c" version="2"/>
+                    <attribute id="UUID" type="guid" value="ffe372b8-b3ab-43f2-87d0-2a20214ef96e"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h34046099g5e7egf9bbg3b59g9c403b3334c8" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="7"/>
+                    <attribute id="Title" type="TranslatedString" handle="h2bf76a47g1aaeg7b2cg492agf4fb0f599369" version="2"/>
+                    <attribute id="UUID" type="guid" value="0732d109-a070-4ffb-822d-cc2d2abc198c"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="hdae2d658gdae1g2050gbb1bg2f5568e9641c" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="6"/>
+                    <attribute id="Title" type="TranslatedString" handle="h38026fd0gf8a0g3421gc613gc3f28f440acd" version="2"/>
+                    <attribute id="UUID" type="guid" value="213e15cd-6dc9-4b8a-810d-6df770459d39"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h8f7a7239g974eg3658g60f2gee599eb36489" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="6"/>
+                    <attribute id="Title" type="TranslatedString" handle="h0972d32cgb1b1g7baagf6f4g2c0e3fcc8350" version="2"/>
+                    <attribute id="UUID" type="guid" value="32da2a3f-af0c-4879-a1e8-b9e313c4aa01"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h2d4947e3g201cgb198gf711g20a1675f939a" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="6"/>
+                    <attribute id="Title" type="TranslatedString" handle="h864f52a5g0360gc543gad1bg4f10e5c7d695" version="2"/>
+                    <attribute id="UUID" type="guid" value="b562364e-0a4c-469f-b965-4a2bf970f7fd"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h006cdf7dg43d3gf682g19d6g81a817c0e3a5" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="8"/>
+                    <attribute id="Title" type="TranslatedString" handle="he9e532fcg4cd8g37b1gd9c6g378f6c016f3b" version="2"/>
+                    <attribute id="UUID" type="guid" value="e74d2b03-14fc-4203-b635-0ffc669e4b8e"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h38e3ca05g7b7fg8fbfg7ea4gb0d52dee462b" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="9"/>
+                    <attribute id="Title" type="TranslatedString" handle="h33c9fc81gb53cg8189gdf97gc21790f04ea9" version="2"/>
+                    <attribute id="UUID" type="guid" value="33712084-cbf2-4a0f-89ac-f836dc468808"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h2ada9223ga2c2gcee3gf553g8ca6c9cd0f50" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="10"/>
+                    <attribute id="Title" type="TranslatedString" handle="h1ee43540g229ag022fg68dfg6b54d7e141fb" version="2"/>
+                    <attribute id="UUID" type="guid" value="0eb9bb75-798f-4673-b8eb-c0eec34b32e6"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h730791aag3946gcdc1g2f46gfbe5bbae1193" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="10"/>
+                    <attribute id="Title" type="TranslatedString" handle="h2d9c20d1g1ac1g17b8g2148g945aa18b978a" version="2"/>
+                    <attribute id="UUID" type="guid" value="f88190ea-dad7-4cd0-9514-957deefb0063"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h7152ace8g0746g7af6gccd1gdb1f02770645" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="9"/>
+                    <attribute id="Title" type="TranslatedString" handle="ha6039e3eg7d9egbb1bg1e79g7a2cde447213" version="2"/>
+                    <attribute id="UUID" type="guid" value="3982e347-43e4-4f48-b031-01b73fa06e54"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h3a8b1498ge1e0g6f0cg628eg61d95d8caf49" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="11"/>
+                    <attribute id="Title" type="TranslatedString" handle="h9320531ag0643g6a3bgd0e1g8d2487fff82d" version="2"/>
+                    <attribute id="UUID" type="guid" value="0a23130b-48f6-46c5-8167-6535b6cfd6c2"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h64267008gfea4g6c92gf947g183fa8968648" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="9"/>
+                    <attribute id="Title" type="TranslatedString" handle="h155d2decgc888g84c1g08c4gc856c9f56d59" version="2"/>
+                    <attribute id="UUID" type="guid" value="5205c1ae-92df-4d0b-87ef-55553a1f5f8c"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h7e49c3fcgc00bg1febgc037gbadff0c5a250" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="9"/>
+                    <attribute id="Title" type="TranslatedString" handle="h2de59663g25fdg8522g04f5g59ef560fda2e" version="2"/>
+                    <attribute id="UUID" type="guid" value="808589d8-7e10-4dff-984c-e9e423da2e78"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h8eddaa3fg4e35gbfa4g79e8g6062aa4c104f" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="10"/>
+                    <attribute id="Title" type="TranslatedString" handle="h6bcee6f0gb9c5gd5d8g37a0g0b90c803d42a" version="2"/>
+                    <attribute id="UUID" type="guid" value="9f8cb04e-9120-4f09-b512-68fb68bac8c1"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="ha9475fb7gb743g3882gadc6gccc8cd6089fb" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="11"/>
+                    <attribute id="Title" type="TranslatedString" handle="h3bf92fb6g2919g02fcg501dg6219b1d639f2" version="2"/>
+                    <attribute id="UUID" type="guid" value="489dc2fa-d58b-4936-a902-3369fab5bdb4"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h8eb3ad0dg6d68g09dbgc4c3g262b217f2e8b" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="10"/>
+                    <attribute id="Title" type="TranslatedString" handle="h4cba13cbg1dd0gb331gc477ga2ed3451b4de" version="2"/>
+                    <attribute id="UUID" type="guid" value="ba98ba87-46a5-40cd-83e3-d151751a69f1"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h16baf070g788bg9f29ga73ag8684a0425258" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="10"/>
+                    <attribute id="Title" type="TranslatedString" handle="h311de61bgad06g3490g98begb0085f2457df" version="2"/>
+                    <attribute id="UUID" type="guid" value="b65645ba-8862-43ed-8261-128804421ef7"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h15b3a40eg9549gb065gddcdga0002efd99ef" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="10"/>
+                    <attribute id="Title" type="TranslatedString" handle="hb92426a4g813agb235g9e85gcac5f2ab9b15" version="2"/>
+                    <attribute id="UUID" type="guid" value="a8662df0-13e6-4b73-8934-293784a8917e"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h9a1c4d7agd1adg0928g800bg439416b727cf" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="10"/>
+                    <attribute id="Title" type="TranslatedString" handle="h16ffc4eag852dgdc16ga444g9f8a36642ec3" version="2"/>
+                    <attribute id="UUID" type="guid" value="4da3c455-d5c3-4179-9ce4-678dd3fc8110"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="hc7a597d4g9a2ega93bg950agd42bee1d27b6" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="10"/>
+                    <attribute id="Title" type="TranslatedString" handle="h0fa4185egabf6g7719g3065g7e5902a7a0d8" version="2"/>
+                    <attribute id="UUID" type="guid" value="e95f1fa5-6d05-4ac9-b537-164f5349f8b1"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h333e75d5g77cdg2a96g345dg70e69ace5d79" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="11"/>
+                    <attribute id="Title" type="TranslatedString" handle="hae8711d9g8614g2c87g3549g53a9fd721e04" version="2"/>
+                    <attribute id="UUID" type="guid" value="685223de-7c03-41d6-88bc-93afefc8926b"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="hbe435305gf895g1e0egda12g051080f119d6" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="11"/>
+                    <attribute id="Title" type="TranslatedString" handle="h6048175cg076fgb23cg0f6ag9affa02b0bc9" version="2"/>
+                    <attribute id="UUID" type="guid" value="d2dce9cd-e9ee-471b-a7ad-65c28b43a660"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h982dd321g92abg32a6g1591g3ba2089026bc" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="4"/>
+                    <attribute id="Title" type="TranslatedString" handle="h7b34438dg915dga33cg8bfbg22495eed6d91" version="2"/>
+                    <attribute id="UUID" type="guid" value="25bff6eb-5d71-4eca-b474-6a0a1809ec80"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h725b0fb7g9580g4ba0gd80ag25d9acd9447c" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="4"/>
+                    <attribute id="Title" type="TranslatedString" handle="h6d52c985g88f5g7d72g91cegff86a51fc03e" version="2"/>
+                    <attribute id="UUID" type="guid" value="bd7aa22d-7680-4914-8b4c-779af3b27c9f"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h1a75b92ag8189gd6ebgd737g4d3ae768d3d5" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="3"/>
+                    <attribute id="Title" type="TranslatedString" handle="h20329479g8573ge343gc10ag115aa185f235" version="2"/>
+                    <attribute id="UUID" type="guid" value="2430b97d-1e60-4dd3-a961-f7dae70142d0"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="hd24f176bg7fd9ge222g0369g0a24bcf4739f" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="4"/>
+                    <attribute id="Title" type="TranslatedString" handle="hbfc63574ga2c8gdaf1g26b0g3311a5ad61f8" version="2"/>
+                    <attribute id="UUID" type="guid" value="58727587-441f-4564-96ee-669f1f181bcb"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h76ca3275g361cgc72dg6b87gd4d0f16252dc" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="4"/>
+                    <attribute id="Title" type="TranslatedString" handle="h8787df4dg6d97g07efg828fg090c325f1a94" version="2"/>
+                    <attribute id="UUID" type="guid" value="3fb3132e-a365-4266-a6f1-acf0ec2c3cdd"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="he62cd23bg305dgc2f8gfe78gb9d2b9e6aa5b" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="4"/>
+                    <attribute id="Title" type="TranslatedString" handle="hc6e5df0ag1cccgee17ga36cgf6b32967ecb2" version="2"/>
+                    <attribute id="UUID" type="guid" value="107479a9-fb18-4c40-836e-3a9606e08db7"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h8b871b33gb95dg1ed5gdc65g2b9e97b9cdee" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="4"/>
+                    <attribute id="Title" type="TranslatedString" handle="h8a147207g7ae7g0023ge506gcaade50ab895" version="2"/>
+                    <attribute id="UUID" type="guid" value="c8243cab-7eb1-4b05-afca-b500c46198d5"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="h49ecd090gc0cbg4a0bg1644g9f42e853ace5" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="2"/>
+                    <attribute id="Title" type="TranslatedString" handle="h3f420231gf9a8g6a0dgc31ag39e84d0b40fc" version="2"/>
+                    <attribute id="UUID" type="guid" value="e4a5ec7c-0ab5-46be-8147-f8df00131076"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="hb5b7bb63g1bb5ga9degab51g0dc1ea4238be" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="3"/>
+                    <attribute id="Title" type="TranslatedString" handle="he8b102eag14fcg6203gcd21g852db763dee2" version="2"/>
+                    <attribute id="UUID" type="guid" value="22328ca4-bda8-4c0e-bbbf-59315b58e3c9"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="hce941879gfbb9g0b6eg0d6bga8aca9c37cea" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="4"/>
+                    <attribute id="Title" type="TranslatedString" handle="h62c7f5edgfbd9g4e4ag56cfg17a367cf1af9" version="2"/>
+                    <attribute id="UUID" type="guid" value="050a6432-234a-4b55-abd1-e09217842307"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="hf668a90ag69b6gb6bdg0451g1297ebb2f4bd" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="4"/>
+                    <attribute id="Title" type="TranslatedString" handle="hea7b8a85gf0a3ged4ag4b9dgdeb219eb1f5c" version="2"/>
+                    <attribute id="UUID" type="guid" value="33957c38-3840-4e71-ad53-3ffc3738d4e8"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="ha006588fgda67gfb99g0ec5g5c6de95512ab" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="4"/>
+                    <attribute id="Title" type="TranslatedString" handle="he9435263gb875g2ae7g4a7bg9f50433a4146" version="2"/>
+                    <attribute id="UUID" type="guid" value="d0324c3d-a2d0-4210-8da7-0558d4c71c74"/>
+                </node>
+                <node id="BackgroundGoal">
+                    <attribute id="BackgroundUUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
+                    <attribute id="Description" type="TranslatedString" handle="hac8c02d3g3887g6801gafc0gc40e22295d42" version="2"/>
+                    <attribute id="ExperienceReward" type="guid" value="90f636c0-2d85-46d8-9760-30b57c664f4b"/>
+                    <attribute id="InspirationPoints" type="uint32" value="1"/>
+                    <attribute id="RewardLevel" type="uint32" value="5"/>
+                    <attribute id="Title" type="TranslatedString" handle="hc535c09cg0d2cgf714g31fdgae50b0b578ad" version="2"/>
+                    <attribute id="UUID" type="guid" value="d9d56e87-52bb-4137-b9f8-3e2cc6c4fe70"/>
                 </node>
             </children>
         </node>

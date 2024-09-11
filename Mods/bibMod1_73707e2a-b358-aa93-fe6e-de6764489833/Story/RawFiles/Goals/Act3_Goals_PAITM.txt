@@ -3,40 +3,40 @@ SubGoalCombiner SGC_AND
 INITSECTION
 // Gate Warden goals
 // Act 3 Gate Warden
-DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_GaveRawDonations", c06d7e62-dc98-4f13-99f0-fbf9995f766d);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_CircusAnimalsReleased", f79030b3-66f1-4e47-bdf8-2d3f48b00578);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_FedCircusDilo", ea77e935-4564-4378-b11d-0ae26eda3ce6);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_WitnessedGurFuneral", 90418de6-415c-4cf3-9dcd-55b1afb67f02);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_SteelWatcherWorkshopDestroyed", dc7753ab-50a1-4885-87be-540853ab0fa0);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_GeneralPidgeonMet", 77595c62-0c11-4be9-8e65-b693d2a7e0e9);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_MissingLettersFound", 1501f5f6-6872-41f6-baee-6fc23f81dfdd);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_DribblePiecesFound", 0f6313a0-ccff-451e-bbc4-3365b9c190e9);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_TookInfernalPortal", 96766714-bcaf-42ff-b140-b37dbb5b33b4);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_ElfsongRoomObtained", c908f9f8-8596-435c-9b7e-9022bc67dde9);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_GithyankiEggFollowup", 60cfcbd4-36d2-4388-b75d-321975b21b29);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_BhaalistParkAmbushCompleted", 1c842aab-2827-476e-a6f4-be3c014296f0);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_EnterTheUndercella", 3ce863d6-e550-40c7-937e-418c1945f412);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_JaheiraKeptFamily", ee3d67c7-dbd0-44af-a2f8-7b36a14aa538);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_IronThroneEntered", b00b3b61-27e0-4313-8e8c-8c8df5ef8e3b);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_BhaalTempleEntered", 76070e24-4184-4434-accd-1d16a2c1c357);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_GaveRawDonations", d5946444-ab00-47f3-8a4b-0da9eb18564c);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_CircusAnimalsReleased", 8de2e1b4-d7e2-44c7-9c00-94809d4c1462);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_FedCircusDilo", 5b396685-7490-46f0-9727-e3c454ae4b6e);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_WitnessedGurFuneral", f02874dd-2cfd-424f-b012-c3a720c99975);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_SteelWatcherWorkshopDestroyed", 71e0f862-22d1-4b01-a574-3fc0edee3491);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_GeneralPidgeonMet", 22827b96-ec46-4cdd-949b-26460ef0c2fb);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_MissingLettersFound", e91582d1-0f82-4fa2-b01c-c832d3942bf0);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_DribblePiecesFound", e8d29491-bebc-48f9-be00-1d8c7eb5cf9c);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_TookInfernalPortal", 766af7ce-408c-4ba2-b266-0176950001d6);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_ElfsongRoomObtained", ae0600ef-555f-4b6f-8ac4-5f5b3a38babc);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_GithyankiEggFollowup", dcc8cc06-17ee-4b87-b137-754ec013942a);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_BhaalistParkAmbushCompleted", 79e3a30f-bbaa-4b02-91fd-577f9a87e724);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_EnterTheUndercella", 1f950e43-3648-4411-8024-1db42d9b4f36);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_JaheiraKeptFamily", c3484ed1-3d98-4942-bf0c-f339b54a7ac4);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_IronThroneEntered", cf9975e1-e1b3-46aa-a66f-b6d7bae32e15);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act3_Outlander_BhaalTempleEntered", 8600da53-964c-4184-8cd3-6d0c65cdd0a5);
 // Planar Philosopher goals
 // Act 3 Planar Philosopher
-DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_GaveRawDonations", c06d7e62-dc98-4f13-99f0-fbf9995f766d);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_CircusAnimalsReleased", f79030b3-66f1-4e47-bdf8-2d3f48b00578);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_FedCircusDilo", ea77e935-4564-4378-b11d-0ae26eda3ce6);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_WitnessedGurFuneral", 90418de6-415c-4cf3-9dcd-55b1afb67f02);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_SteelWatcherWorkshopDestroyed", dc7753ab-50a1-4885-87be-540853ab0fa0);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_GeneralPidgeonMet", 77595c62-0c11-4be9-8e65-b693d2a7e0e9);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_MissingLettersFound", 1501f5f6-6872-41f6-baee-6fc23f81dfdd);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_DribblePiecesFound", 0f6313a0-ccff-451e-bbc4-3365b9c190e9);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_TookInfernalPortal", 96766714-bcaf-42ff-b140-b37dbb5b33b4);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_ElfsongRoomObtained", c908f9f8-8596-435c-9b7e-9022bc67dde9);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_GithyankiEggFollowup", 60cfcbd4-36d2-4388-b75d-321975b21b29);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_BhaalistParkAmbushCompleted", 1c842aab-2827-476e-a6f4-be3c014296f0);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_EnterTheUndercella", 3ce863d6-e550-40c7-937e-418c1945f412);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_JaheiraKeptFamily", ee3d67c7-dbd0-44af-a2f8-7b36a14aa538);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_IronThroneEntered", b00b3b61-27e0-4313-8e8c-8c8df5ef8e3b);
-DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_BhaalTempleEntered", 76070e24-4184-4434-accd-1d16a2c1c357);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_GaveRawDonations", 33712084-cbf2-4a0f-89ac-f836dc468808);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_CircusAnimalsReleased", 0eb9bb75-798f-4673-b8eb-c0eec34b32e6);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_FedCircusDilo", f88190ea-dad7-4cd0-9514-957deefb0063);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_WitnessedGurFuneral", 3982e347-43e4-4f48-b031-01b73fa06e54);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_SteelWatcherWorkshopDestroyed", 0a23130b-48f6-46c5-8167-6535b6cfd6c2);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_GeneralPidgeonMet", 5205c1ae-92df-4d0b-87ef-55553a1f5f8c);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_MissingLettersFound", 808589d8-7e10-4dff-984c-e9e423da2e78);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_DribblePiecesFound", 9f8cb04e-9120-4f09-b512-68fb68bac8c1);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_TookInfernalPortal", 489dc2fa-d58b-4936-a902-3369fab5bdb4);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_ElfsongRoomObtained", ba98ba87-46a5-40cd-83e3-d151751a69f1);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_GithyankiEggFollowup", b65645ba-8862-43ed-8261-128804421ef7);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_BhaalistParkAmbushCompleted", a8662df0-13e6-4b73-8934-293784a8917e);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_EnterTheUndercella", 4da3c455-d5c3-4179-9ce4-678dd3fc8110);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_JaheiraKeptFamily", e95f1fa5-6d05-4ac9-b537-164f5349f8b1);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_IronThroneEntered", 685223de-7c03-41d6-88bc-93afefc8926b);
+DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act3_Outlander_BhaalTempleEntered", d2dce9cd-e9ee-471b-a7ad-65c28b43a660);
 KBSECTION
 
 EXITSECTION

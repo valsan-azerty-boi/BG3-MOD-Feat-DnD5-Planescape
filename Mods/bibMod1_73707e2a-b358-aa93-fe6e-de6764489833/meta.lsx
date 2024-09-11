@@ -25,7 +25,7 @@ These features have been adapted to better match the way the game works.
 Contains backgrounds, feats, spells and items.
 
 Soft requirement: ImprovedUI"/>
-                    <attribute id="FileSize" type="uint64" value="40188283"/>
+                    <attribute id="FileSize" type="uint64" value="40252377"/>
                     <attribute id="Folder" type="LSString" value="bibMod1_73707e2a-b358-aa93-fe6e-de6764489833"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
                     <attribute id="MD5" type="LSString" value="921095da12f3d91f5f99af4e7f70780e"/>
