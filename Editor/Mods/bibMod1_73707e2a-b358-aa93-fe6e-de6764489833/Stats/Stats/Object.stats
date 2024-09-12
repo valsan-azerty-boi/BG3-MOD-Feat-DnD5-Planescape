@@ -109,7 +109,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="e81259e1-1423-4932-af04-85894de52907" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Scroll_Paitm_GateSeal" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="1bc43616-b6b4-41b3-bcef-b35d445d421b" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="9caeb87b-fe08-4ceb-8231-c0b91d6d082a" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="903e4dee-a3d5-4f72-8b72-c81541fd29aa" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
@@ -146,7 +146,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="b3b81697-2c6a-44f7-b474-a1aa2164e9a0" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Scroll_Paitm_WarpSense" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="eca026dd-7060-4dd7-8d91-241f7091862c" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="0449d8a2-fe45-45c9-82f9-46ad856864e4" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="2" />
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="903e4dee-a3d5-4f72-8b72-c81541fd29aa" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />

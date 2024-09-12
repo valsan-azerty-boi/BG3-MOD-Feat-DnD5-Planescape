@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="9caeb87b-fe08-4ceb-8231-c0b91d6d082a" />
+					<attribute id="Name" type="LSString" value="Gate Seal Scroll" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="126cc673-1151-4113-b1bf-98457233441b" />
+					<attribute id="ReadinessFlags" type="uint32" value="447" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h5eec5a4dg2405g2283g442eg631cc1ddc8f1" version="0" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_ArcaneLock" />
+					<attribute id="CanBePickedUp" type="bool" value="True" />
+					<attribute id="CanBeMoved" type="bool" value="True" />
+					<attribute id="maxStackAmount" type="int32" value="5" />
+					<attribute id="ForceAffectedByAura" type="bool" value="True" />
+					<attribute id="BookType" type="uint8" value="3" />
+					<attribute id="ShowAttachedSpellDescriptions" type="bool" value="True" />
+					<attribute id="UnknownDisplayName" type="TranslatedString" handle="h5eec5a4dg2405g2283g442eg631cc1ddc8f1" version="0" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="CanUseSpellScroll(&quot;Target_Paitm_GateSeal&quot;)" />
+											<attribute id="SkillID" type="FixedString" value="Target_Paitm_GateSeal" />
+											<attribute id="Consume" type="bool" value="True" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -81,5 +81,29 @@
         <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="b64e527e-1f97-4125-84f7-78376ab1440b" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="864435b4-43c8-4a7d-8596-664c32c0418f" />
+        <field name="Name" type="NameTableFieldDefinition" value="Wizard spell scroll list" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_Paitm_WarpSense;Target_Paitm_GateSeal" />
+        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="beb9389e-24f8-49b0-86a5-e8d08b6fdc2e" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3cb2d7c9-7e1c-467e-9bc7-681510ad7e3b" />
+        <field name="Name" type="NameTableFieldDefinition" value="Warlock spell scroll list" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_Paitm_WarpSense;Target_Paitm_GateSeal" />
+        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="32879c22-4858-48ef-8f8d-22e6d395b396" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1a448571-33cd-4858-95d6-95292e46773e" />
+        <field name="Name" type="NameTableFieldDefinition" value="Sorcerer spell scroll list" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_Paitm_WarpSense;Target_Paitm_GateSeal" />
+        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="2ba5248a-f014-409d-ab26-b50116f7e477" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
