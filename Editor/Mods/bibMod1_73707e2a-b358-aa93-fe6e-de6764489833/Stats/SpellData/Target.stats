@@ -322,42 +322,5 @@
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="9" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="aef0b3a0-df91-4486-810f-3fbaa01fa9ff" />
-        <field name="Name" type="NameTableFieldDefinition" value="Paitm_SensoryStone" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="RemoveStatus(SG_Charmed);RemoveStatus(SG_Frightened);TemporaryHP(5)" />
-        <field name="TargetConditions" type="StringTableFieldDefinition" value="Character() and HasStatus('SG_Petrified')" />
-        <field name="Icon" type="StringTableFieldDefinition" value="unknown" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9cc9310dg64a8g9de3g7d93gc692b90f1447" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9202e151gdf27g6437g8e2bgbe3f68ac3676" version="3" />
-        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
-        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="414bbf02-2918-4f01-83fb-1ddc7a588d88,,;,,;c7022507-086a-40f6-a64e-3a9865d73900,,:a4da186a-0872-461e-ae5e-93d5b32b9bef,,;,,;,,;,,;bea988a0-2ec5-40d8-a67e-ffbd7454bc53,,;,,;,," />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="RemoveStatus(SG_Charmed);RemoveStatus(SG_Frightened)" />
-        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Healing" enumeration_type_name="VerbalIntent" version="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="719a87d5-23b2-4ea9-be8b-53726c491f25" />
-        <field name="Name" type="NameTableFieldDefinition" value="Paitm_PortalCompass" />
-        <field name="Icon" type="StringTableFieldDefinition" value="unknown" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8024147dg80b7gb119g7b89g833eba6f1dc5" version="1" />
-        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hac5d01daga4c1gad23g9b47g0f37fcd665fa" version="1" />
-        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Utility" enumeration_type_name="VerbalIntent" version="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="d8b5294b-de15-465a-889a-da1fe646c018" />
-        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Mimir" />
-        <field name="Icon" type="StringTableFieldDefinition" value="unknown" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h026975dbg5f2eg8fdbgb4b3g6667c385e92e" version="1" />
-        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h034e1312gfc43g6baeg78d7g01fdf4a6d2af" version="1" />
-        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Utility" enumeration_type_name="VerbalIntent" version="1" />
-      </fields>
-    </stat_object>
   </stat_objects>
 </stats>

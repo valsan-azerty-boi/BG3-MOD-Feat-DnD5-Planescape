@@ -73,6 +73,21 @@
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" value="Positive" enumeration_type_name="ManagedStatusEffectType" version="1" />
         <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" value="6435c10a-c67d-4f79-8813-b84b0762f92b" />
+        <field name="StackId" type="StringTableFieldDefinition" value="PAITM_WARPSENSE_STACK" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="64e28150-640c-4f3b-9d67-9b3084341c71" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_PortalCompass_Buff" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0ecbb3b1g4632g7672g2411g10297af2e28c" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h82ae22f9gb470g74b9g2f81g35db749d7bf6" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_DetectThoughts" />
+        <field name="StackId" type="StringTableFieldDefinition" value="PAITM_PORTALCOMPASS_STACK" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Arcana);ProficiencyBonus(Skill,Perception)" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" value="Positive" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" value="6435c10a-c67d-4f79-8813-b84b0762f92b" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -82,10 +97,11 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3f0810e4g6c6bgb62bg26fag878f03d8f4e2" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h30f00253g6a92g9d58g7d82g39a60cd5e31b" version="3" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_ComprehendLanguages" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="Advantage(Ability, Charisma);ProficiencyBonus(Skill,Persuasion);ProficiencyBonus(Skill,Intimidation);ProficiencyBonus(Skill,Deception);ProficiencyBonus(Skill,AnimalHandling);ProficiencyBonus(Skill,Insight)" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Advantage(Ability, Charisma);ProficiencyBonus(Skill,Persuasion);ProficiencyBonus(Skill,Intimidation);ProficiencyBonus(Skill,Deception);ProficiencyBonus(Skill,AnimalHandling);ProficiencyBonus(Skill,Insight);ApplyStatus(PETPAL,100,10)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" value="Positive" enumeration_type_name="ManagedStatusEffectType" version="1" />
         <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" value="6435c10a-c67d-4f79-8813-b84b0762f92b" />
+        <field name="StackId" type="StringTableFieldDefinition" value="PAITM_TONGUES_STACK" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

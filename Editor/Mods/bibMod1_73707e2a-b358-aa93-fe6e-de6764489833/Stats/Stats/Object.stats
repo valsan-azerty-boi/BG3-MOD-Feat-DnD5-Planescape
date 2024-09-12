@@ -6,7 +6,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="a6176fba-e47e-4bfa-ab43-cfed1214a4c8" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_Mimir" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
-        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="1f40e7a6-fb87-41ab-9da9-282a359b7e89" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="a229f048-70b0-4b0c-88cb-29b5c6bdb2d0" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
         <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
         <field name="Value" type="IntegerTableFieldDefinition" value="1200" />
@@ -17,10 +17,10 @@
         <field name="DefaultBoosts" type="StringTableFieldDefinition" value="CriticalHit(AttackTarget,Failure,Never);CriticalHit(AttackTarget,Success,Never)" />
         <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
         <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
-        <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" value="Vulnerable" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="SlashingResistance" type="EnumerationListTableFieldDefinition" value="Vulnerable" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="PiercingResistance" type="EnumerationListTableFieldDefinition" value="Vulnerable" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="NecroticResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="SlashingResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PiercingResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="NecroticResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="PoisonResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="UseConditions" type="StringTableFieldDefinition" value="not IsSummonWithoutMouth()" />
         <field name="FallingHitEffect" type="StringTableFieldDefinition" value="VFX_Combat_Bludgeoning_Damage_Critical_01" />
@@ -33,6 +33,16 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="This old skull-shaped device is filled with knowledge." />
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
         <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Scroll" enumeration_type_name="ItemUseTypes" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="55e494ef-762f-4201-b287-10d42e23bdd9" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
+        <field name="AcidResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="ColdResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="FireResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="ForceResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="LightningResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PsychicResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="RadiantResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="ThunderResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -40,7 +50,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="b9301bfb-3fbd-43b2-8c37-bf6d2147ded5" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_PortalCompass" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
-        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="91696f37-5a03-4f10-b636-2e5e2096a594" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0e7be35-8be4-483d-afa8-dc9a104ea758" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
         <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
         <field name="Value" type="IntegerTableFieldDefinition" value="250" />
@@ -63,9 +73,11 @@
         <field name="DarkvisionRange" type="IntegerTableFieldDefinition" value="0" />
         <field name="MinimumDetectionRange" type="IntegerTableFieldDefinition" value="0" />
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Magical" enumeration_type_name="InventoryTabs" version="1" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="This portable arcane instrument seems broken." />
+        <field name="Comment" type="CommentTableFieldDefinition" value="This portable arcane instrument seems old, worn and imprecise." />
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
-        <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Common" enumeration_type_name="ItemUseTypes" version="1" />
+        <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Scroll" enumeration_type_name="ItemUseTypes" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="3e30def1-0d63-4488-86f4-0f0e492aef3e" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -84,7 +96,7 @@
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Consumable" enumeration_type_name="InventoryTabs" version="1" />
         <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
         <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
-        <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Potion" enumeration_type_name="ItemUseTypes" version="1" />
+        <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Scroll" enumeration_type_name="ItemUseTypes" version="1" />
         <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" value="Vulnerable" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="SlashingResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="PiercingResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
@@ -102,7 +114,8 @@
         <field name="Value" type="IntegerTableFieldDefinition" value="400" />
         <field name="Comment" type="CommentTableFieldDefinition" value="This small, smooth stone contains the essence of a single experience. You can throw the stone, breaking it in the process, to end the charmed or frightened condition on someone. Or you can touch and consume the stone and experience the sensation yourself." />
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a5d833e9-ca2f-44fd-b714-bbb36c2f9d47" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

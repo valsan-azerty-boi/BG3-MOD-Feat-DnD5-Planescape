@@ -1,39 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <stats stat_object_definition_id="67731907-4ad8-4be6-9326-d6f5b982140e">
-  <stat_objects>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="bc2e6c14-644c-4273-84a6-329cd32c4a2a" />
-        <field name="Name" type="NameTableFieldDefinition" value="Potion_Destroy_Paitm_SensoryStone" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="ca7eb7ef-51be-4b8a-9471-3e3ab5dca531" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="RemoveStatus(SG_Charmed);RemoveStatus(SG_Frightened);TemporaryHP(5)" />
-        <field name="TargetRadius" type="StringTableFieldDefinition" value="1" />
-        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="1" />
-        <field name="ExplodeRadius" type="IntegerTableFieldDefinition" value="1" />
-        <field name="TargetConditions" type="StringTableFieldDefinition" value="Character()" />
-        <field name="Trajectories" type="StringTableFieldDefinition" value="26c20c57-bdf8-4bc1-99ec-e8582a04daef,a4ea97d3-83eb-6bb5-fda7-d784160dc836" />
-        <field name="Icon" type="StringTableFieldDefinition" value="unknown" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h74d67052g3553g99d1gd4bcg33235e3fe554" version="1" />
-        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value=",,;,,;b3f94255-adc0-4cea-b9a5-91e4f838345b,,;,,;,,;,,;,,;,,;,," />
-        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Utility" enumeration_type_name="VerbalIntent" version="1" />
-        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsTrap" enumeration_type_name="SpellFlagList" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hababc55dg424dg34efg8a17g12622adedd4f" version="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="ca7eb7ef-51be-4b8a-9471-3e3ab5dca531" />
-        <field name="Name" type="NameTableFieldDefinition" value="SENSORYSTONES" />
-        <field name="TargetRadius" type="StringTableFieldDefinition" value="1" />
-        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="1" />
-        <field name="ExplodeRadius" type="IntegerTableFieldDefinition" value="1" />
-        <field name="TargetConditions" type="StringTableFieldDefinition" value="Character()" />
-        <field name="Trajectories" type="StringTableFieldDefinition" value="26c20c57-bdf8-4bc1-99ec-e8582a04daef,a4ea97d3-83eb-6bb5-fda7-d784160dc836" />
-        <field name="Icon" type="StringTableFieldDefinition" value="unknown" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1067b5f2gac8fg282eg6e02g7dcec7fd7223" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hbbe6fb62g8720ge560g9f8egfb8255bb73c1" version="1" />
-        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value=",,;,,;b3f94255-adc0-4cea-b9a5-91e4f838345b,,;,,;,,;,,;,,;,,;,," />
-      </fields>
-    </stat_object>
-  </stat_objects>
+  <stat_objects />
 </stats>

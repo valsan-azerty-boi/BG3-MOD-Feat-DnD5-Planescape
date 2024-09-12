@@ -18,7 +18,7 @@
         <field name="TeleportSurface" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ArcaneGate" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1a4889b6gba5dg1e02gbb15g9aa6c8e7b7eb" version="2" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h8a984c65g71d0g34e3g4613gfd46275b7fe6" version="3" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h8a984c65g71d0g34e3g4613gfd46275b7fe6" version="4" />
         <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Utility_ArcaneLock_L1to3" />
         <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
         <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />

@@ -178,7 +178,7 @@
   <content contentuid="h1ee85063g393bg7bb3g8fd4g24cd706369eb" version="1">Warp Sense</content>
   <content contentuid="h9efc7d47ga644ge2f4g79a9g781f5dfbd738" version="1">You sense the presence of planar energies, even the most residual.</content>
   <content contentuid="h1a4889b6gba5dg1e02gbb15g9aa6c8e7b7eb" version="2">Portal Cracker</content>
-  <content contentuid="h8a984c65g71d0g34e3g4613gfd46275b7fe6" version="3">Your experience with portals allows you to open two linked portals without the need to concentrate.</content>
+  <content contentuid="h8a984c65g71d0g34e3g4613gfd46275b7fe6" version="4">Your experience with portals allows you to open two linked portals without the need to concentrate. When casting the spell, instability may occur and inflict Psychic damage on the caster.</content>
   <content contentuid="h40448845g14b4geda1g4211g54ed4ba847a1" version="1">Plane Shift</content>
   <content contentuid="hf5e987ffg552bgbc4cg889bg64093ebfa108" version="1">At the end of your turn, roll a d20. On 11 or higher, you vanish into another plane. While there, you can't be harmed or seen in this world.</content>
   <content contentuid="haee124b2g7045g3318g3b62gaf8bb2fc76c1" version="1">When you do vanish, your presence here is a representation of the location you'll come back to. You can choose to teleport it up to [1].</content>
@@ -439,12 +439,24 @@
   <content contentuid="hc535c09cg0d2cgf714g31fdgae50b0b578ad" version="2">The Floor Is Lava</content>
   <content contentuid="hac8c02d3g3887g6801gafc0gc40e22295d42" version="2">Defeat the Lava Elemental in the lava lake.</content>
   <content contentuid="h1067b5f2gac8fg282eg6e02g7dcec7fd7223" version="1">%%% EMPTY</content>
-  <content contentuid="hac5d01daga4c1gad23g9b47g0f37fcd665fa" version="1">This portable arcane instrument seems broken.</content>
+  <content contentuid="hac5d01daga4c1gad23g9b47g0f37fcd665fa" version="2">This portable arcane instrument seems old, worn and imprecise. This item does not seem to come from the Sword Coast.</content>
   <content contentuid="h034e1312gfc43g6baeg78d7g01fdf4a6d2af" version="1">This old skull-shaped device is filled with knowledge.</content>
-  <content contentuid="hababc55dg424dg34efg8a17g12622adedd4f" version="1">This small, smooth stone contains the essence of a single experience. You can throw the stone, breaking it in the process, to end the charmed or frightened condition on someone. Or you can touch and consume the stone and experience the sensation yourself.</content>
-  <content contentuid="hbbe6fb62g8720ge560g9f8egfb8255bb73c1" version="1">This small, smooth stone contains the essence of a single experience. You can throw the stone, breaking it in the process, to end the charmed or frightened condition on someone. Or you can touch and consume the stone and experience the sensation yourself.</content>
-  <content contentuid="hc1879bf9ge4f7g5255gc004g0781b6d42fc7" version="1">Warp Sense Scroll</content>
+  <content contentuid="hababc55dg424dg34efg8a17g12622adedd4f" version="2">This small, smooth stone contains the essence of a single experience. you can touch and consume the stone and experience the sensation yourself. End the charmed and frightened condition.</content>
+  <content contentuid="hbbe6fb62g8720ge560g9f8egfb8255bb73c1" version="1">This small, smooth stone contains the essence of a single experience. you can touch and consume the stone and experience the sensation yourself. End the charmed and frightened condition.</content>
+  <content contentuid="hc1879bf9ge4f7g5255gc004g0781b6d42fc7" version="2">Warp Sense Scroll</content>
   <content contentuid="h5eec5a4dg2405g2283g442eg631cc1ddc8f1" version="1">Gate Seal Scroll</content>
-  <content contentuid="h553c82b2g12ebg58cbgbabfg1a9d16cfa477" version="1">Gate Seal Scroll</content>
-  <content contentuid="hfcfb0f1bg0821ge78fgd3d8g860be08d4105" version="1">Gate Seal Scroll</content>
+  <content contentuid="h553c82b2g12ebg58cbgbabfg1a9d16cfa477" version="2">Gate Seal Scroll</content>
+  <content contentuid="hfcfb0f1bg0821ge78fgd3d8g860be08d4105" version="2">Gate Seal Scroll</content>
+  <content contentuid="hc9aee5eege786g13f1gec8bgc3d884c981f3" version="1">Portal Cracker</content>
+  <content contentuid="h8b3e8f81g355bg97c3ge7e7gef7c5c149603" version="1">Try to safely cast Portal Cracker.</content>
+  <content contentuid="h39b148e5ga397g512bgc05dgc0ae5ac90c80" version="1">Sensory Stone</content>
+  <content contentuid="h8661c82cg968cg7376g49ecg0af9fc7371f0" version="2">Old Inanimate Mimir</content>
+  <content contentuid="hc515d8bdgc91ag00afg3b5eg9f683089a0ae" version="6">Sensory Stone</content>
+  <content contentuid="ha39c241fgfdd5g1d77g28e2gde5843be5df1" version="2">Portal Compass</content>
+  <content contentuid="hc13933a5g243dg625bgbcd5g6992c525f1e5" version="3">This old inanimate skull-shaped device is filled with knowledge.</content>
+  <content contentuid="h19f6dfd8gdc11gdbabgb792gf13be0ddb61e" version="1">Sensory Stone</content>
+  <content contentuid="h11f6fe24g1b93ge170gdca1g5d79194cbfe5" version="1">Mimir</content>
+  <content contentuid="h5c94facagf9ecg4524g5fcfg4db96e33cdbb" version="1">Portal Compass</content>
+  <content contentuid="h0ecbb3b1g4632g7672g2411g10297af2e28c" version="1">Portal Compass</content>
+  <content contentuid="h82ae22f9gb470g74b9g2f81g35db749d7bf6" version="1">You have a Proficienty bonus in Arcana and Perception.</content>
 </contentList>

@@ -26,6 +26,7 @@
         <field name="NameFS" type="FixedStringTableFieldDefinition" value="PlanarWanderer" />
         <field name="Selectors" type="StringTableFieldDefinition" value="SelectPassives(c9a2ff24-cbc8-4278-9c32-2b8c4cae822d,1)" />
         <field name="CanBeTakenMultipleTimes" type="BoolTableFieldDefinition" value="False" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="Paitm_PortalCracker_PassiveRoll" />
       </fields>
     </stat_object>
   </stat_objects>
