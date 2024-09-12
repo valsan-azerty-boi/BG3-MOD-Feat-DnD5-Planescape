@@ -5,16 +5,15 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="a6176fba-e47e-4bfa-ab43-cfed1214a4c8" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_Mimir" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="568d8985-9dde-4338-ad40-58e515af7d4b" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="1f40e7a6-fb87-41ab-9da9-282a359b7e89" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
         <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
         <field name="Value" type="IntegerTableFieldDefinition" value="1200" />
-        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
         <field name="Weight" type="FloatTableFieldDefinition" value="5" />
-        <field name="Vitality" type="IntegerTableFieldDefinition" value="12" />
-        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="5" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="21" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="10" />
         <field name="DefaultBoosts" type="StringTableFieldDefinition" value="CriticalHit(AttackTarget,Failure,Never);CriticalHit(AttackTarget,Success,Never)" />
         <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
         <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
@@ -30,19 +29,22 @@
         <field name="FOV" type="IntegerTableFieldDefinition" value="0" />
         <field name="DarkvisionRange" type="IntegerTableFieldDefinition" value="0" />
         <field name="MinimumDetectionRange" type="IntegerTableFieldDefinition" value="0" />
+        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Consumable" enumeration_type_name="InventoryTabs" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="This old skull-shaped device is filled with knowledge." />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Scroll" enumeration_type_name="ItemUseTypes" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="b9301bfb-3fbd-43b2-8c37-bf6d2147ded5" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_PortalCompass" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b0e5c04a-9ef9-4730-a34b-cdc19c379936" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
-        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="1f40e7a6-fb87-41ab-9da9-282a359b7e89" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="91696f37-5a03-4f10-b636-2e5e2096a594" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
         <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
         <field name="Value" type="IntegerTableFieldDefinition" value="250" />
-        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Uncommon" enumeration_type_name="Rarity" version="1" />
         <field name="Weight" type="FloatTableFieldDefinition" value="0.1" />
         <field name="Vitality" type="IntegerTableFieldDefinition" value="5" />
         <field name="ArmorClass" type="IntegerTableFieldDefinition" value="0" />
@@ -60,18 +62,21 @@
         <field name="FOV" type="IntegerTableFieldDefinition" value="0" />
         <field name="DarkvisionRange" type="IntegerTableFieldDefinition" value="0" />
         <field name="MinimumDetectionRange" type="IntegerTableFieldDefinition" value="0" />
+        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Magical" enumeration_type_name="InventoryTabs" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="This portable arcane instrument seems broken." />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Common" enumeration_type_name="ItemUseTypes" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="5ab43e65-77a0-48ea-a294-0e6058aa27d4" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_SensoryStone" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="523d0cea-7f79-4f5c-ad4b-3c09633609e6" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
-        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="1f40e7a6-fb87-41ab-9da9-282a359b7e89" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="76f5b0ab-ca1c-4c19-9787-f2310ca386a4" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
         <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
-        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Uncommon" enumeration_type_name="Rarity" version="1" />
         <field name="Weight" type="FloatTableFieldDefinition" value="0.2" />
         <field name="Vitality" type="IntegerTableFieldDefinition" value="1" />
         <field name="ArmorClass" type="IntegerTableFieldDefinition" value="0" />
@@ -95,6 +100,83 @@
         <field name="DarkvisionRange" type="IntegerTableFieldDefinition" value="0" />
         <field name="MinimumDetectionRange" type="IntegerTableFieldDefinition" value="0" />
         <field name="Value" type="IntegerTableFieldDefinition" value="400" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="This small, smooth stone contains the essence of a single experience. You can throw the stone, breaking it in the process, to end the charmed or frightened condition on someone. Or you can touch and consume the stone and experience the sensation yourself." />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c50e9af1-981e-4245-87ff-68dcb94c3698" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e81259e1-1423-4932-af04-85894de52907" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Scroll_Paitm_GateSeal" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="1bc43616-b6b4-41b3-bcef-b35d445d421b" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="903e4dee-a3d5-4f72-8b72-c81541fd29aa" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="600" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.02" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="0" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="CriticalHit(AttackTarget,Failure,Never);CriticalHit(AttackTarget,Success,Never)" />
+        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Magical" enumeration_type_name="InventoryTabs" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="MagicScroll_4;MagicScroll_Utility_Rare" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="A scroll from an other plane. You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type=&quot;Status&quot; Tooltip=&quot;SILENCED&quot;&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate." />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Scroll" enumeration_type_name="ItemUseTypes" version="1" />
+        <field name="PiercingResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="NecroticResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PoisonResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PsychicResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="not IsSummon()" />
+        <field name="FallingHitEffect" type="StringTableFieldDefinition" value="VFX_Combat_Bludgeoning_Damage_Critical_01" />
+        <field name="FallingLandEffect" type="StringTableFieldDefinition" value="VFX_Combat_Force_Land_01" />
+        <field name="Sight" type="IntegerTableFieldDefinition" value="0" />
+        <field name="FOV" type="IntegerTableFieldDefinition" value="0" />
+        <field name="DarkvisionRange" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MinimumDetectionRange" type="IntegerTableFieldDefinition" value="0" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b3b81697-2c6a-44f7-b474-a1aa2164e9a0" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Scroll_Paitm_WarpSense" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="eca026dd-7060-4dd7-8d91-241f7091862c" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="2" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="903e4dee-a3d5-4f72-8b72-c81541fd29aa" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="500" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.02" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="0" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="CriticalHit(AttackTarget,Failure,Never);CriticalHit(AttackTarget,Success,Never)" />
+        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Magical" enumeration_type_name="InventoryTabs" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="MagicScroll_2;MagicScroll_Utility_Rare" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="A scroll from an other plane. You sense the presence of planar energies, like portals, even the most residual. Oddly, this spell seems much more enduring on this material world." />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Scroll" enumeration_type_name="ItemUseTypes" version="1" />
+        <field name="PiercingResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="NecroticResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PoisonResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PsychicResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="not IsSummon()" />
+        <field name="FallingHitEffect" type="StringTableFieldDefinition" value="VFX_Combat_Bludgeoning_Damage_Critical_01" />
+        <field name="FallingLandEffect" type="StringTableFieldDefinition" value="VFX_Combat_Force_Land_01" />
+        <field name="Sight" type="IntegerTableFieldDefinition" value="0" />
+        <field name="FOV" type="IntegerTableFieldDefinition" value="0" />
+        <field name="DarkvisionRange" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MinimumDetectionRange" type="IntegerTableFieldDefinition" value="0" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
       </fields>
     </stat_object>
   </stat_objects>

@@ -11,9 +11,6 @@
                     <attribute id="UUID" type="guid" value="10f1a769-a34a-441b-a430-3fa6cab05787"/>
                     <children>
                         <node id="Tags">
-                            <attribute id="Object" type="guid" value="d81df6f9-9f6e-4146-841a-9f285e6ee879"/>
-                        </node>
-                        <node id="Tags">
                             <attribute id="Object" type="guid" value="3100ddc6-70b9-4988-a6de-3df7c528f486"/>
                         </node>
                     </children>
@@ -24,9 +21,6 @@
                     <attribute id="Passives" type="LSString" value="Background_Paitm_PlanarPhilosopher"/>
                     <attribute id="UUID" type="guid" value="d827af34-5e86-4f7c-8674-1fad967b5b0f"/>
                     <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="d81df6f9-9f6e-4146-841a-9f285e6ee879"/>
-                        </node>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="9dbe29e4-17eb-4310-bafd-23abfa35c369"/>
                         </node>

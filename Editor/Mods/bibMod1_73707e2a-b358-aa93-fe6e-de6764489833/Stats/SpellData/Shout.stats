@@ -14,7 +14,7 @@
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_ArcaneEye" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hcf9b6f82g0a03g0941g27e1g5365898a25f3" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h74112800gd1b6g6d15g2b3ag99b4ef5b61e7" version="5" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,100)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,40)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Buff_Gen_L1to3_01" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Spell_Prepare_Buff_Gen_L1to3_01_Loop" />
@@ -44,7 +44,7 @@
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_ArcaneEye" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h35aae9b0g24d1g5e5cg16e9g77c09801f57c" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="he1077f52g85acgbc6dgbeefgc69b82ed6f2c" version="1" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,100)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,40)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Buff_Gen_L1to3_01" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Spell_Prepare_Buff_Gen_L1to3_01_Loop" />
@@ -74,7 +74,7 @@
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,40)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_ArcaneEye" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,100)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,40)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Buff_Gen_L1to3_01" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Spell_Prepare_Buff_Gen_L1to3_01_Loop" />
@@ -104,7 +104,7 @@
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,70)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_ArcaneEye" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,100)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,70)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Buff_Gen_L1to3_01" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Spell_Prepare_Buff_Gen_L1to3_01_Loop" />
@@ -134,7 +134,7 @@
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,70)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_ArcaneEye" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,100)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,70)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Buff_Gen_L1to3_01" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Spell_Prepare_Buff_Gen_L1to3_01_Loop" />
@@ -164,7 +164,7 @@
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,70)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_ArcaneEye" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,100)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,70)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Buff_Gen_L1to3_01" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Spell_Prepare_Buff_Gen_L1to3_01_Loop" />

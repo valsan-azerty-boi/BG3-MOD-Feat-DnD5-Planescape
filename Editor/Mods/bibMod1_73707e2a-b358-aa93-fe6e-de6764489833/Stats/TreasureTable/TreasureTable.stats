@@ -1,4 +1,59 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <stats stat_object_definition_id="e4012e18-6a6b-4f40-aefa-c83b078c136c">
-  <stat_objects />
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d4e58887-9040-4646-b759-96609de1cb80" />
+        <field name="Name" type="NameTableFieldDefinition" value="TUT_Chest_Potions" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_Mimir" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d4e58887-9040-4646-b759-96609de1cb80" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e72b0276-1a20-42a5-8f32-101911d76260" />
+        <field name="Name" type="NameTableFieldDefinition" value="TUT_Chest_Potions_substat" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_PortalCompass" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d4e58887-9040-4646-b759-96609de1cb80" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d03ec5c8-5d43-48b9-ba1a-fbcaf553a631" />
+        <field name="Name" type="NameTableFieldDefinition" value="d4e58887-9040-4646-b759-96609de1cb80_substat_0" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_SensoryStone" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d4e58887-9040-4646-b759-96609de1cb80" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2dbefad7-10e1-4bf2-b94f-e7294e4e2cd3" />
+        <field name="Name" type="NameTableFieldDefinition" value="d4e58887-9040-4646-b759-96609de1cb80_substat_1" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Scroll_Paitm_WarpSense" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d4e58887-9040-4646-b759-96609de1cb80" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c7a95be8-9220-4437-b5e3-97a1ae6f5d8f" />
+        <field name="Name" type="NameTableFieldDefinition" value="d4e58887-9040-4646-b759-96609de1cb80_substat_2" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Scroll_Paitm_GateSeal" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
 </stats>

@@ -1,0 +1,101 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+////REGION Arcane Gate override
+
+//IF
+//EnteredLevel(_ArcaneGate,(ROOT)PUZ_ArcaneGate_721dcc51-9733-463b-87c5-6afcda6fef65,_Level)
+//AND
+//DB_CurrentLevel(_Level)
+//THEN
+//RealtimeObjectTimerLaunch(_ArcaneGate, "GLO_Spells_ArcaneGate_WaitForOwnerToGetSet", 0);
+
+//IF
+//ObjectTimerFinished(_ArcaneGate, "GLO_Spells_ArcaneGate_WaitForOwnerToGetSet")
+//AND
+//GetOwner((ITEM)_ArcaneGate,_Character)
+//AND
+//_Character != NULL_00000000-0000-0000-0000-000000000000
+//THEN
+//DB_GLO_Spells_SpawningArcaneGate(_ArcaneGate,_Character);
+
+//IF
+//DB_GLO_Spells_SpawningArcaneGate(_ArcaneGateOne,_Character)
+//AND
+//DB_GLO_Spells_SpawningArcaneGate(_ArcaneGateTwo,_Character)
+//AND
+//_ArcaneGateOne != _ArcaneGateTwo
+//AND
+//GetPosition(_ArcaneGateOne,_X1,_Y1,_Z1)
+//AND
+//GetPosition(_ArcaneGateTwo,_X2,_Y2,_Z2)
+//AND
+//GetAngleXToDirection(_X1,_Z1,_X2,_Z2,_NewAngleOne)
+//AND
+//GetAngleXToDirection(_X2,_Z2,_X1,_Z1,_NewAngleTwo)
+//AND
+//IntegerSubtract(270,_NewAngleOne,_NewAngleOnePatched)
+//AND
+//IntegerSubtract(270,_NewAngleTwo,_NewAngleTwoPatched)
+//AND
+//IntegerModulo(_NewAngleOnePatched,360,_NewAngleOneNormalised)
+//AND
+//IntegerModulo(_NewAngleTwoPatched,360,_NewAngleTwoNormalised)
+//AND
+//IntegerToReal(_NewAngleOneNormalised, _NewAngleOneReal)
+//AND
+//IntegerToReal(_NewAngleTwoNormalised, _NewAngleTwoReal)
+//THEN
+//SetTeleportTargetOverride(_ArcaneGateOne, _ArcaneGateTwo);
+//SetTeleportTargetOverride(_ArcaneGateTwo, _ArcaneGateOne);
+//ItemRotateYToAngle(_ArcaneGateOne,_NewAngleOneReal,100000.0);
+//ItemRotateYToAngle(_ArcaneGateTwo,_NewAngleTwoReal,100000.0);
+//NOT DB_GLO_Spells_SpawningArcaneGate(_ArcaneGateOne,_Character);
+//NOT DB_GLO_Spells_SpawningArcaneGate(_ArcaneGateTwo,_Character);
+
+//IF
+//DB_GLO_Spells_SpawningArcaneGate(_ArcaneGateOne, _Character)
+//AND
+//DB_GLO_Spells_SpawningArcaneGate(_ArcaneGateTwo, _Character)
+//AND
+//GetStatus(_ArcaneGateOne, "SILENCE")
+//GetStatus(_ArcaneGateTwo, "SILENCE")
+//THEN
+//ItemRemove(_ArcaneGateOne);
+//NOT DB_GLO_Spells_SpawningArcaneGate(_ArcaneGateOne, _Character);
+//NOT DB_GLO_Spells_SpawningArcaneGate(_ArcaneGateTwo, _Character);
+
+//IF
+//DB_GLO_Spells_SpawningArcaneGate(_ArcaneGateOne, _Character)
+//AND
+//DB_GLO_Spells_SpawningArcaneGate(_ArcaneGateTwo, _Character)//
+//AND
+//GetStatus(_ArcaneGateTwo, "SILENCE")
+//THEN
+//ItemRemove(_ArcaneGateOne);
+//ItemRemove(_ArcaneGateTwo);
+//NOT DB_GLO_Spells_SpawningArcaneGate(_ArcaneGateOne, _Character);//
+//NOT DB_GLO_Spells_SpawningArcaneGate(_ArcaneGateTwo, _Character);
+
+//IF
+//DB_GLO_Spells_SpawningArcaneGate(_ArcaneGateOne,_Character)
+//AND
+//HasActiveStatus(_Character, "SILENCED", 0)
+//THEN
+//NOT DB_GLO_Spells_SpawningArcaneGate(_ArcaneGateOne, _Character);
+////NOT DB_GLO_Spells_SpawningArcaneGate(_ArcaneGateTwo, _Character);
+
+//IF
+//DB_GLO_Spells_SpawningArcaneGate(_ArcaneGateTwo,_Character)
+//AND
+//HasActiveStatus(_Character, "SILENCED", 0)
+//THEN
+//NOT DB_GLO_Spells_SpawningArcaneGate(_ArcaneGateTwo, _Character);
+////NOT DB_GLO_Spells_SpawningArcaneGate(_ArcaneGateOne,_Character);
+
+////END_REGION
+EXITSECTION
+
+ENDEXITSECTION

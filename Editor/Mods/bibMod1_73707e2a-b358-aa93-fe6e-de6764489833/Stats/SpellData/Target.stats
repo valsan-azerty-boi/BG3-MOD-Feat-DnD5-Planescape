@@ -13,7 +13,7 @@
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ArcaneLock" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6d4f5178g1938g00a2gf920g880454834028" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="3" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,10)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="TooltipPermanentWarnings" type="StringTableFieldDefinition" value="375e5ffb-c67a-434c-a64e-323f7afeb25b" />
@@ -134,7 +134,7 @@
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ArcaneLock" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h52cb2e91gf45eg4bf2gfdaeg0df82f11acc4" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7cecf0f4g32e0gbeb8g1258g196d9b29cf31" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7cecf0f4g32e0gbeb8g1258g196d9b29cf31" version="2" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,10)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="TooltipPermanentWarnings" type="StringTableFieldDefinition" value="375e5ffb-c67a-434c-a64e-323f7afeb25b" />
@@ -174,7 +174,7 @@
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ArcaneLock" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8483d49ag1e8dg1c43g8018gfcd6bbef6e23" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcedc6be9ge111g4c71g1742g013f38ae2a65" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcedc6be9ge111g4c71g1742g013f38ae2a65" version="2" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,15)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="TooltipPermanentWarnings" type="StringTableFieldDefinition" value="375e5ffb-c67a-434c-a64e-323f7afeb25b" />
@@ -214,7 +214,7 @@
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ArcaneLock" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc9103a06g6ce1g9873gf3b6ga43de4e8a062" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h717a8513g3681g3750gd31eg98db9c4c5400" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h717a8513g3681g3750gd31eg98db9c4c5400" version="2" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,15)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="TooltipPermanentWarnings" type="StringTableFieldDefinition" value="375e5ffb-c67a-434c-a64e-323f7afeb25b" />
@@ -254,7 +254,7 @@
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ArcaneLock" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf8687996gdb03g610cg1c03g3fb532b80da1" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7555f29cg9d6fg1583g4a52g55fa5b85c11e" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7555f29cg9d6fg1583g4a52g55fa5b85c11e" version="2" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,15)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="TooltipPermanentWarnings" type="StringTableFieldDefinition" value="375e5ffb-c67a-434c-a64e-323f7afeb25b" />
@@ -294,7 +294,7 @@
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ArcaneLock" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h522850b4ga97fg5c82g95fdg4ae3c3599792" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9bbfa2d1g1deegb97fg56adgad0e268bcbc9" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9bbfa2d1g1deegb97fg56adgad0e268bcbc9" version="2" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,15)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="TooltipPermanentWarnings" type="StringTableFieldDefinition" value="375e5ffb-c67a-434c-a64e-323f7afeb25b" />
@@ -326,13 +326,15 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="aef0b3a0-df91-4486-810f-3fbaa01fa9ff" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_SensoryStone" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="RemoveStatus(SG_Petrified, 100)" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="RemoveStatus(SG_Charmed);RemoveStatus(SG_Frightened);TemporaryHP(5)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Character() and HasStatus('SG_Petrified')" />
         <field name="Icon" type="StringTableFieldDefinition" value="unknown" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9cc9310dg64a8g9de3g7d93gc692b90f1447" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9202e151gdf27g6437g8e2bgbe3f68ac3676" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9202e151gdf27g6437g8e2bgbe3f68ac3676" version="3" />
         <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
         <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="414bbf02-2918-4f01-83fb-1ddc7a588d88,,;,,;c7022507-086a-40f6-a64e-3a9865d73900,,:a4da186a-0872-461e-ae5e-93d5b32b9bef,,;,,;,,;,,;bea988a0-2ec5-40d8-a67e-ffbd7454bc53,,;,,;,," />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="RemoveStatus(SG_Charmed);RemoveStatus(SG_Frightened)" />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Healing" enumeration_type_name="VerbalIntent" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -342,6 +344,8 @@
         <field name="Icon" type="StringTableFieldDefinition" value="unknown" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8024147dg80b7gb119g7b89g833eba6f1dc5" version="1" />
         <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hac5d01daga4c1gad23g9b47g0f37fcd665fa" version="1" />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Utility" enumeration_type_name="VerbalIntent" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -351,6 +355,8 @@
         <field name="Icon" type="StringTableFieldDefinition" value="unknown" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h026975dbg5f2eg8fdbgb4b3g6667c385e92e" version="1" />
         <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h034e1312gfc43g6baeg78d7g01fdf4a6d2af" version="1" />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Utility" enumeration_type_name="VerbalIntent" version="1" />
       </fields>
     </stat_object>
   </stat_objects>

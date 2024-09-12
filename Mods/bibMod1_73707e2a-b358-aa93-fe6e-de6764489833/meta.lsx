@@ -28,7 +28,7 @@ Soft mod requirement: ImprovedUI"/>
                     <attribute id="FileSize" type="uint64" value="60400968"/>
                     <attribute id="Folder" type="LSString" value="bibMod1_73707e2a-b358-aa93-fe6e-de6764489833"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="e7776424bc73a5344a6bce4dfed6caf5"/>
+                    <attribute id="MD5" type="LSString" value="f45b53fc6e59807600f5d6af34d5af53"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
                     <attribute id="Name" type="LSString" value="Features from D&amp;D 5E: Planescape - Adventures in the Multiverse"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
@@ -36,7 +36,7 @@ Soft mod requirement: ImprovedUI"/>
                     <attribute id="PublishHandle" type="uint64" value="4320885"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="73707e2a-b358-aa93-fe6e-de6764489833"/>
-                    <attribute id="Version64" type="int64" value="36028797018964037"/>
+                    <attribute id="Version64" type="int64" value="36028797018964038"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717549775"/>

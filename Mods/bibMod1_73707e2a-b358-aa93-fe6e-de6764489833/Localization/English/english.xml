@@ -174,7 +174,7 @@
   <content contentuid="h1a1a5fd5g37f0g0d8bg6e4bg0a7864f5d8a4" version="2">Misty Step</content>
   <content contentuid="h7bc2a60ag2954gf3d4gb8a8g1d39c7db951e" version="1">Surrounded by planar energies, you teleport to an unoccupied space you can see.</content>
   <content contentuid="h6d4f5178g1938g00a2gf920g880454834028" version="1">Gate Seal</content>
-  <content contentuid="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="2">You fortify the fabric of the planes in a silencing sphere without any need to concentrate. All within are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.</content>
+  <content contentuid="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="3">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
   <content contentuid="h1ee85063g393bg7bb3g8fd4g24cd706369eb" version="1">Warp Sense</content>
   <content contentuid="h9efc7d47ga644ge2f4g79a9g781f5dfbd738" version="1">You sense the presence of planar energies, even the most residual.</content>
   <content contentuid="h1a4889b6gba5dg1e02gbb15g9aa6c8e7b7eb" version="2">Portal Cracker</content>
@@ -240,17 +240,17 @@
   <content contentuid="h35aae9b0g24d1g5e5cg16e9g77c09801f57c" version="1">Warp Sense</content>
   <content contentuid="he1077f52g85acgbc6dgbeefgc69b82ed6f2c" version="1">You sense the presence of planar energies, like portals, even the most residual. Oddly, this spell seems much more enduring on this material world.</content>
   <content contentuid="h52cb2e91gf45eg4bf2gfdaeg0df82f11acc4" version="1">Gate Seal</content>
-  <content contentuid="h7cecf0f4g32e0gbeb8g1258g196d9b29cf31" version="1">You fortify the fabric of the planes in a silencing sphere without any need to concentrate. All within are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.</content>
+  <content contentuid="h7cecf0f4g32e0gbeb8g1258g196d9b29cf31" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
   <content contentuid="h8483d49ag1e8dg1c43g8018gfcd6bbef6e23" version="1">Gate Seal</content>
-  <content contentuid="hcedc6be9ge111g4c71g1742g013f38ae2a65" version="1">You fortify the fabric of the planes in a silencing sphere without any need to concentrate. All within are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.</content>
+  <content contentuid="hcedc6be9ge111g4c71g1742g013f38ae2a65" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
   <content contentuid="hc9103a06g6ce1g9873gf3b6ga43de4e8a062" version="1">Gate Seal</content>
-  <content contentuid="h717a8513g3681g3750gd31eg98db9c4c5400" version="1">You fortify the fabric of the planes in a silencing sphere without any need to concentrate. All within are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.</content>
+  <content contentuid="h717a8513g3681g3750gd31eg98db9c4c5400" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
   <content contentuid="hf8687996gdb03g610cg1c03g3fb532b80da1" version="1">Gate Seal</content>
-  <content contentuid="h7555f29cg9d6fg1583g4a52g55fa5b85c11e" version="1">You fortify the fabric of the planes in a silencing sphere without any need to concentrate. All within are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.</content>
+  <content contentuid="h7555f29cg9d6fg1583g4a52g55fa5b85c11e" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
   <content contentuid="h522850b4ga97fg5c82g95fdg4ae3c3599792" version="1">Gate Seal</content>
-  <content contentuid="h9bbfa2d1g1deegb97fg56adgad0e268bcbc9" version="1">You fortify the fabric of the planes in a silencing sphere without any need to concentrate. All within are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.</content>
+  <content contentuid="h9bbfa2d1g1deegb97fg56adgad0e268bcbc9" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
   <content contentuid="h9cc9310dg64a8g9de3g7d93gc692b90f1447" version="1">Sensory Stone</content>
-  <content contentuid="h9202e151gdf27g6437g8e2bgbe3f68ac3676" version="1">This small, smooth stone contains the essence of a single experience. You can draw on the stone to end the charmed or frightened condition on you or someone else.</content>
+  <content contentuid="h9202e151gdf27g6437g8e2bgbe3f68ac3676" version="3">This small, smooth stone contains the essence of a single experience. You can throw the stone, breaking it in the process, to end the charmed or frightened condition on someone. Or you can touch and consume the stone and experience the sensation yourself.</content>
   <content contentuid="h74d67052g3553g99d1gd4bcg33235e3fe554" version="1">Sensory Stone</content>
   <content contentuid="h069fe3dbgc5e4g466cg0c2ag85379c7d1fc7" version="1">Portal Compass</content>
   <content contentuid="h337d09e0ge779ga248gb52eg115621d942b5" version="1">Mimir</content>
@@ -438,4 +438,9 @@
   <content contentuid="ha006588fgda67gfb99g0ec5g5c6de95512ab" version="2">Steal from the giant bird's nest in the Underdark.</content>
   <content contentuid="hc535c09cg0d2cgf714g31fdgae50b0b578ad" version="2">The Floor Is Lava</content>
   <content contentuid="hac8c02d3g3887g6801gafc0gc40e22295d42" version="2">Defeat the Lava Elemental in the lava lake.</content>
+  <content contentuid="h1067b5f2gac8fg282eg6e02g7dcec7fd7223" version="1">%%% EMPTY</content>
+  <content contentuid="hac5d01daga4c1gad23g9b47g0f37fcd665fa" version="1">This portable arcane instrument seems broken.</content>
+  <content contentuid="h034e1312gfc43g6baeg78d7g01fdf4a6d2af" version="1">This old skull-shaped device is filled with knowledge.</content>
+  <content contentuid="hababc55dg424dg34efg8a17g12622adedd4f" version="1">This small, smooth stone contains the essence of a single experience. You can throw the stone, breaking it in the process, to end the charmed or frightened condition on someone. Or you can touch and consume the stone and experience the sensation yourself.</content>
+  <content contentuid="hbbe6fb62g8720ge560g9f8egfb8255bb73c1" version="1">This small, smooth stone contains the essence of a single experience. You can throw the stone, breaking it in the process, to end the charmed or frightened condition on someone. Or you can touch and consume the stone and experience the sensation yourself.</content>
 </contentList>

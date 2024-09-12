@@ -1,0 +1,12 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Paitm_Mimir",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Paitm_PortalCompass",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Paitm_SensoryStone",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_Paitm_WarpSense",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_Paitm_GateSeal",1,0,0,0,0,0,0,0
