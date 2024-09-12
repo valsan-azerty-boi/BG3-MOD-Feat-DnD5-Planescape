@@ -55,5 +55,203 @@
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e635f481-1402-4230-a652-0625b38b021b" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOW_OmeluumSupplies_Reward" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="3,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_SensoryStone" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e635f481-1402-4230-a652-0625b38b021b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3006054d-18e0-44e4-bd99-dee3297f2225" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOW_OmeluumSupplies_Reward_substat" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Scroll_Paitm_WarpSense" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e635f481-1402-4230-a652-0625b38b021b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b0d25dcc-1764-44f8-b4f4-adc14c45f3eb" />
+        <field name="Name" type="NameTableFieldDefinition" value="e635f481-1402-4230-a652-0625b38b021b_substat_0" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Scroll_Paitm_GateSeal" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e635f481-1402-4230-a652-0625b38b021b" />
+        <field name="UUID" type="IdTableFieldDefinition" value="018a0158-925a-499d-ac0b-6b694958e00a" />
+        <field name="Name" type="NameTableFieldDefinition" value="e635f481-1402-4230-a652-0625b38b021b_substat_1" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_PortalCompass" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5ac9c25d-4b4e-4f0a-bccd-52030fe37747" />
+        <field name="Name" type="NameTableFieldDefinition" value="GOB_Festivities_Trader_GoblinWeapons" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_PortalCompass" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4550a235-cbf9-476e-a9e9-f6935970e8fa" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOW_VoicelessPenitent" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_Mimir" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4550a235-cbf9-476e-a9e9-f6935970e8fa" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d87b72b0-1221-48be-9c25-010c158a3bd1" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOW_VoicelessPenitent_substat" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_PortalCompass" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5df41eff-e8d0-449a-a91d-3778b3222f6f" />
+        <field name="Name" type="NameTableFieldDefinition" value="MOO_ZhentQuartermaster" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_SensoryStone" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d2920956-8e8e-4fd2-b4ab-c931930d51b5" />
+        <field name="Name" type="NameTableFieldDefinition" value="CRE_GithQuartermistress_Trade" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="4,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_SensoryStone" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d2920956-8e8e-4fd2-b4ab-c931930d51b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f8156f22-13f4-49e5-bfa1-62a1ceea4be8" />
+        <field name="Name" type="NameTableFieldDefinition" value="CRE_GithQuartermistress_Trade_substat" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_PortalCompass" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d2920956-8e8e-4fd2-b4ab-c931930d51b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a606379a-4cb9-4e7c-a9c2-ffb61cbfdf4f" />
+        <field name="Name" type="NameTableFieldDefinition" value="d2920956-8e8e-4fd2-b4ab-c931930d51b5_substat_0" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Scroll_Paitm_WarpSense" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d2920956-8e8e-4fd2-b4ab-c931930d51b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ae8f70a2-6e64-4688-9801-e7d16fcafdf3" />
+        <field name="Name" type="NameTableFieldDefinition" value="d2920956-8e8e-4fd2-b4ab-c931930d51b5_substat_1" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Scroll_Paitm_GateSeal" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="70dd5dd2-94c4-4f0a-894c-bf68a370c537" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOW_MysticCarrion_Trade" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_Mimir" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="70dd5dd2-94c4-4f0a-894c-bf68a370c537" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fbff6152-719c-471e-b5ff-15cc97d96d8c" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOW_MysticCarrion_Trade_substat" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="3,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_SensoryStone" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="aca20e5c-b6fb-4e42-8526-bdd95ea782b1" />
+        <field name="Name" type="NameTableFieldDefinition" value="UND_SocietyOfBrilliance_Hobgoblin" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="3,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_SensoryStone" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="aca20e5c-b6fb-4e42-8526-bdd95ea782b1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d66e993d-68e1-4638-9d15-8b2b1db1d97c" />
+        <field name="Name" type="NameTableFieldDefinition" value="UND_SocietyOfBrilliance_Hobgoblin_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Scroll_Paitm_WarpSense" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="aca20e5c-b6fb-4e42-8526-bdd95ea782b1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="13b9f348-7bdd-4ef5-9c57-1ad751ab5bb2" />
+        <field name="Name" type="NameTableFieldDefinition" value="aca20e5c-b6fb-4e42-8526-bdd95ea782b1_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Scroll_Paitm_GateSeal" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e1d804f4-9235-4c30-bdee-ea9dc6453720" />
+        <field name="Name" type="NameTableFieldDefinition" value="HAV_Weaponsmith_Trade" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="2,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_SensoryStone" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2df1b27a-ce6d-4cb0-bf1c-93396871c85c" />
+        <field name="Name" type="NameTableFieldDefinition" value="DEN_Weaponsmith_Trade" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="2,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_SensoryStone" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

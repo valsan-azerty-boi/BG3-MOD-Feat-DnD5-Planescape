@@ -11,9 +11,9 @@
         <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="18" />
         <field name="LineOfSightFlags" type="EnumerationListTableFieldDefinition" value="AddSourceHeight" enumeration_type_name="LineOfSightFlags" version="1" />
-        <field name="TargetConditions" type="StringTableFieldDefinition" value="CanStand('721dcc51-9733-463b-87c5-6afcda6fef65') and not Character() and not HasStatus('SILENCED')" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="CanStand('721dcc51-9733-463b-87c5-6afcda6fef65') and not Character()" />
         <field name="OriginSpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(721dcc51-9733-463b-87c5-6afcda6fef65,10,,,ArcaneGate1)" />
-        <field name="OriginTargetConditions" type="StringTableFieldDefinition" value="CanStand('721dcc51-9733-463b-87c5-6afcda6fef65') and not Character() and not Item() and not HasStatus('SILENCED')" />
+        <field name="OriginTargetConditions" type="StringTableFieldDefinition" value="CanStand('721dcc51-9733-463b-87c5-6afcda6fef65') and not Character() and not Item()" />
         <field name="TeleportSelf" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
         <field name="TeleportSurface" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ArcaneGate" />
