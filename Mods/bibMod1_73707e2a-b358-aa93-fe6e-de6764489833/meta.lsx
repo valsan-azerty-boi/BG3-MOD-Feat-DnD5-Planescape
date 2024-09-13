@@ -30,13 +30,13 @@ Soft mod requirement: ImprovedUI"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
                     <attribute id="MD5" type="LSString" value="c58b9c8d7b7f5168f602bd95f74a6c47"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
-                    <attribute id="Name" type="LSString" value="Features from D&amp;D 5E: Planescape - Adventures in the Multiverse"/>
+                    <attribute id="Name" type="LSString" value="Features from D&amp;D 5E: Planescape"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
                     <attribute id="PublishHandle" type="uint64" value="4320885"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="73707e2a-b358-aa93-fe6e-de6764489833"/>
-                    <attribute id="Version64" type="int64" value="36028797018964041"/>
+                    <attribute id="Version64" type="int64" value="36028797018964042"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717549775"/>
