@@ -36,7 +36,7 @@ Soft mod requirement: ImprovedUI"/>
                     <attribute id="PublishHandle" type="uint64" value="4320885"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="73707e2a-b358-aa93-fe6e-de6764489833"/>
-                    <attribute id="Version64" type="int64" value="36028797018964043"/>
+                    <attribute id="Version64" type="int64" value="36028797018964046"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717549775"/>
