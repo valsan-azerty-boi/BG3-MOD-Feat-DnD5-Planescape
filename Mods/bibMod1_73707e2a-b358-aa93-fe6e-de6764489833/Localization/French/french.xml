@@ -3,7 +3,7 @@
   <content contentuid="h1c9149e8g6d95ge63ag585eg403768a29c67" version="1">Philosophe planaire</content>
   <content contentuid="h914bf037g3869g4beag9f3bg36a70f55e92d" version="2">Vous adhérez à une philosophie qui cherche à comprendre la nature des plans et la vérité cachée du multivers. Vous puisez votre force dans vos convictions. Dans vos voyages, émancipé des factions de Sigil, vous explorez les profondeurs de la compréhension et répandez votre philosophie partout où vous allez.</content>
   <content contentuid="h350fe144ga8fdg985dgc3acg5a7496bb2797" version="1">Gardienne du portail</content>
-  <content contentuid="h5e8faeefg485ag5e10g8484gf32865d861f9" version="1">Vous avez passé beaucoup de temps dans un endroit influencé par des forces planaires intenses ou un portail vers un autre plan d'existence. Vous êtes habitué à vivre des expériences qui laisseraient d'autres personnes ébranlées par la terreur ou ensorcelées par des entités traîtresses. Vous êtes également à l'aise face à des célestes et des démons.</content>
+  <content contentuid="h5e8faeefg485ag5e10g8484gf32865d861f9" version="1">Vous avez passé beaucoup de temps dans un lieu influencé par des forces planaires intenses ou un portail vers un autre plan. Vous êtes habitué à vivre des expériences qui laisseraient d'autres personnes ébranlées par la terreur ou ensorcelées par des entités traîtresses. Vous êtes aussi à l'aise face à aux célestes et aux démons.</content>
   <content contentuid="h5044a308g8643g0253g4ba6ge2057b7fba3a" version="1">Philosophe planaire</content>
   <content contentuid="hcb31dc8bga795g55aegb3ebge686e0b3ef7c" version="1">Vous avez un bonus de &lt;LSTag Tooltip="Proficiency"&gt;compétence&lt;/LSTag&gt; en &lt;LSTag Tooltip="Arcana"&gt;Arcane&lt;/LSTag&gt; et, loin des factions de Sigil, en &lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt;.</content>
   <content contentuid="hbe28ccc0gde5cgb934gba26gb9d93b9ea01a" version="1">Gardienne du portail</content>
@@ -39,21 +39,23 @@
   <content contentuid="hdc672450g0e4dg4549g46c3g488968729677" version="2">Adaptation planaire au feu</content>
   <content contentuid="h9f23fc0eg5eb8geb7bg3cebg93d2cbf3009f" version="10">Avec votre expérience du voyage planaire, vous gagnez une &lt;LSTag Tooltip="Resistant"&gt;résistance&lt;/LSTag&gt; au feu et le sort &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Craqueur de portail&lt;/LSTag&gt; pour créer 2 portails une fois par court repos.</content>
   <content contentuid="hce1cd424g90f9gea76gb72dg44fdf98a3f8b" version="1">Agent de l'ordre</content>
-  <content contentuid="hbc628baeg7924g2968g688ege1b27b9da425" version="9">Vous pouvez canaliser les forces cosmiques de l'ordre pour obtenir des avantages. Vous gagnez la réaction de force &lt;LSTag Tooltip="Interrupt_Paitm_StasisStrike"&gt;Frappe de stase&lt;/LSTag&gt; pour infliger des dégâts de force supplémentaires avec une chance d'infliger une immobilisation.</content>
+
+  <content contentuid="hbc628baeg7924g2968g688ege1b27b9da425" version="9">You can channel cosmic forces of Order to gain benefits. You gain the force reaction &lt;LSTag Tooltip="Interrupt_Paitm_StasisStrike"&gt;Stasis Strike&lt;/LSTag&gt; to deal additional Force damage with a Restrain chance.</content>
   <content contentuid="h5ff73c39g2f01g0d15g8d66ga682c91ea8eb" version="1">Funeste scion</content>
-  <content contentuid="ha6e5632cgaf7cg4d26g70e5g1073b3542c2d" version="8">Vous pouvez canaliser les forces cosmiques du Mal pour obtenir des avantages. Vous gagnez la réaction nécrotique &lt;LSTag Tooltip="Interrupt_Paitm_GraspOfAvarice"&gt;Emprise de l'avarice&lt;/LSTag&gt; pour infliger des dégâts nécrotiques supplémentaires et vous soigner.</content>
+  <content contentuid="ha6e5632cgaf7cg4d26g70e5g1073b3542c2d" version="8">You can channel cosmic forces of Evil to gain benefits. You gain the necrotic reaction &lt;LSTag Tooltip="Interrupt_Paitm_GraspOfAvarice"&gt;Grasp of Avarice&lt;/LSTag&gt; to deal additional Necrotic damage and Heal yourself.</content>
   <content contentuid="h6da757f1g64bbgef99g5eadg9ccaa0af91e5" version="1">Cohorte du chaos</content>
-  <content contentuid="hcb521ec4ge75ega4f2gee7cga136f770cf66" version="9">Vous pouvez canaliser les forces cosmiques du chaos pour obtenir des avantages. Vous gagnez la réaction &lt;LSTag Tooltip="Paitm_ChaoticFlare"&gt;Flamme chaotique&lt;/LSTag&gt; pour obtenir des pouvoirs chaotiques sur les attaques critiquement ratées our critiquement réussies.</content>
+  <content contentuid="hcb521ec4ge75ega4f2gee7cga136f770cf66" version="9">You can channel cosmic forces of Chaos to gain benefits. You gain the reaction &lt;LSTag Tooltip="Paitm_ChaoticFlare"&gt;Chaotic flare&lt;/LSTag&gt; to gain chaotic powers on Critical Miss and Critical Hit attacks.</content>
   <content contentuid="h200b8582g0000g60deg6dcbg03ea70e221e0" version="1">Envoyé de l'Outreterre</content>
-  <content contentuid="hf85ca431g8eaag85fegbadegd62822b34e33" version="12">Par le passé, vous avez passé beaucoup de temps en Outreterre. Le fait d'être imprégné d'énergies planaires convergentes vous confère des avantages. Vous gagnez le sort planaire &lt;LSTag Tooltip="Paitm_MistyStep"&gt;Foulée brumeuse&lt;/LSTag&gt; et le sort &lt;LSTag Tooltip="Paitm_Tongues"&gt;Langues&lt;/LSTag&gt;. Utilisable une fois par court repos.</content>
+  <content contentuid="hf85ca431g8eaag85fegbadegd62822b34e33" version="12">You have spent significant time in the Outlands, being steeped in converging planar energies grants you benefits. You gain a planar &lt;LSTag Tooltip="Paitm_MistyStep"&gt;Misty Step&lt;/LSTag&gt; spell to teleport and a &lt;LSTag Tooltip="Paitm_Tongues"&gt;Tongues&lt;/LSTag&gt; spell for conversations one time per short rest.</content>
   <content contentuid="h4d785b39gae96ge296gd520gd6f9fabfd7f9" version="1">Héritier vertueux</content>
-  <content contentuid="hd0289576gccc2gcb7dg9966g992f0cb0c0f2" version="7">Vous pouvez canaliser les forces cosmiques du bien pour obtenir des avantages. Vous gagnez la réaction de protection &lt;LSTag Tooltip="Interrupt_Paitm_SoothePain"&gt;Apaise douleur&lt;/LSTag&gt; pour tenter de réduire les dégâts subis par vous ou un allié.</content>
+  <content contentuid="hd0289576gccc2gcb7dg9966g992f0cb0c0f2" version="7">You can channel cosmic forces of Good to gain benefits. You gain the protective reaction &lt;LSTag Tooltip="Interrupt_Paitm_SoothePain"&gt;Soothe Pain&lt;/LSTag&gt; to try to reduce the damage suffered by you or an ally.</content>
   <content contentuid="h2e927036gebe3g0230gb9f4g4f25d8efeb09" version="1">Agent planaire</content>
-  <content contentuid="h1876774ag4ed5g697dgf1d7gbec26f0aab8f" version="2">Vous pouvez canaliser des forces cosmiques spécifiques pour obtenir des avantages et vous augmentez une caractéristique de 1 jusqu'à un maximum de 20.</content>.
+  <content contentuid="h1876774ag4ed5g697dgf1d7gbec26f0aab8f" version="2">Vous pouvez canaliser des forces cosmiques spécifiques pour obtenir des avantages et vous augmentez une caractéristique de 1 jusqu'à un maximum de 20.</content>
   <content contentuid="h1a1a5fd5g37f0g0d8bg6e4bg0a7864f5d8a4" version="2">Foulée brumeuse</content>
   <content contentuid="h7bc2a60ag2954gf3d4gb8a8g1d39c7db951e" version="1">Encerclé par des énergies planaires, vous vous téléportez dans un espace inoccupé que vous pouvez voir.</content>
   <content contentuid="h6d4f5178g1938g00a2gf920g880454834028" version="1">Sceller portail</content>
-  <content contentuid="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="3">Vous fortifiez le tissu des plans. Curieusement, dans ce monde matériel, ce sort semble créer une sphère de &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;silence&lt;/LSTag&gt; sans qu'il soit nécessaire de se concentrer.</content>
+  <content contentuid="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="3">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
+
   <content contentuid="h1ee85063g393bg7bb3g8fd4g24cd706369eb" version="1">Sens de la distorsion</content>
   <content contentuid="h9efc7d47ga644ge2f4g79a9g781f5dfbd738" version="1">Vous sentez la présence d'énergies planaires, même les plus résiduelles.</content>
   <content contentuid="h1a4889b6gba5dg1e02gbb15g9aa6c8e7b7eb" version="2">Craqueur de portail</content>
@@ -282,9 +284,9 @@
   <content contentuid="h9a1c4d7agd1adg0928g800bg439416b727cf" version="2">Entrez dans la sous-cave.</content>
   <content contentuid="h0fa4185egabf6g7719g3065g7e5902a7a0d8" version="2">Les enfants d'un étranger</content>
   <content contentuid="hc7a597d4g9a2ega93bg950agd42bee1d27b6" version="2">Convaincre Jaheira de laisser sa famille rester en ville.</content>
-  <content contentuid="hae8711d9g8614g2c87g3549g53a9fd721e04" version="2">Jusqu'aux profondeurs</content>
+  <content contentuid="hae8711d9g8614g2c87g3549g53a9fd721e04" version="2">Jules Verne planaire</content>
   <content contentuid="h333e75d5g77cdg2a96g345dg70e69ace5d79" version="2">Entrez dans la prison sous-marine.</content>
-  <content contentuid="h6048175cg076fgb23cg0f6ag9affa02b0bc9" version="2">Le visage du meurtre</content>
+  <content contentuid="h6048175cg076fgb23cg0f6ag9affa02b0bc9" version="2">Le visage de Khalas</content>
   <content contentuid="hbe435305gf895g1e0egda12g051080f119d6" version="2">Atteindre le Temple de Bhaal.</content>
   <content contentuid="h7b34438dg915dga33cg8bfbg22495eed6d91" version="2">Comme un roc</content>
   <content contentuid="h982dd321g92abg32a6g1591g3ba2089026bc" version="2">Survivez aux pièges des bandits.</content>
@@ -307,9 +309,9 @@
   <content contentuid="h62c7f5edgfbd9g4e4ag56cfg17a367cf1af9" version="2">L'amateur de champignons</content>
   <content contentuid="hce941879gfbb9g0b6eg0d6bga8aca9c37cea" version="2">Détruisez chaque type de champignon dangereux de l'Underdark.</content>
   <content contentuid="hea7b8a85gf0a3ged4ag4b9dgdeb219eb1f5c" version="2">Une noble entreprise</content>
-  <content contentuid="hf668a90ag69b6gb6bdg0451g1297ebb2f4bd" version="2">Utiliser efficacement un champignon noblestalk.</content>
+  <content contentuid="hf668a90ag69b6gb6bdg0451g1297ebb2f4bd" version="2">Utiliser efficacement un champignon très rare.</content>
   <content contentuid="he9435263gb875g2ae7g4a7bg9f50433a4146" version="2">Coucou intello</content>
-  <content contentuid="ha006588fgda67gfb99g0ec5g5c6de95512ab" version="2">Volez du nid d'oiseau géant dans l'Underdark.</content>
+  <content contentuid="ha006588fgda67gfb99g0ec5g5c6de95512ab" version="2">Volez le nid d'oiseau géant dans l'Underdark.</content>
   <content contentuid="hc535c09cg0d2cgf714g31fdgae50b0b578ad" version="2">La lave c'est de l'eau</content>
   <content contentuid="hac8c02d3g3887g6801gafc0gc40e22295d42" version="2">Vaincre l'élémentaire dans le lac de lave.</content>
   <content contentuid="h1067b5f2gac8fg282eg6e02g7dcec7fd7223" version="1">%%% EMPTY</content>
