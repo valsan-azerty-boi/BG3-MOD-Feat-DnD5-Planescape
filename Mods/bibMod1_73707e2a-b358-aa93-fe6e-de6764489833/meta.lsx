@@ -22,10 +22,8 @@
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
                     <attribute id="Description" type="LSString" value="This mod implements features from the D&amp;D 5E Planescape books into Baldur&apos;s Gate 3.
 These features have been adapted to better match the way the game works.
-Contains backgrounds, feats, spells and items.
-
-Soft mod requirement: ImprovedUI"/>
-                    <attribute id="FileSize" type="uint64" value="40420494"/>
+Contains backgrounds, feats, spells and items."/>
+                    <attribute id="FileSize" type="uint64" value="40382045"/>
                     <attribute id="Folder" type="LSString" value="bibMod1_73707e2a-b358-aa93-fe6e-de6764489833"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
                     <attribute id="MD5" type="LSString" value="9cdbfce20cfb0dd29a1d1e793bc5029d"/>
@@ -36,7 +34,7 @@ Soft mod requirement: ImprovedUI"/>
                     <attribute id="PublishHandle" type="uint64" value="4320885"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="73707e2a-b358-aa93-fe6e-de6764489833"/>
-                    <attribute id="Version64" type="int64" value="36028797018964059"/>
+                    <attribute id="Version64" type="int64" value="36169534507319391"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717549775"/>
