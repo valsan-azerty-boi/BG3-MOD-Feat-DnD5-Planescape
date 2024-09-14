@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Freshly baked localization file made with a tool from Ulkyome-->
+<contentList date="09.14.2024_19_23">
+  <content contentuid="h1c9149e8g6d95ge63ag585eg403768a29c67" version="1">Планарный философ</content>
+  <content contentuid="h914bf037g3869g4beag9f3bg36a70f55e92d" version="2">Вы придерживаетесь особой философии, стремящуюся понять природу планов или некую скрытую истину мультивселенной. Вы черпаете силу из своей убежденности и, возможно, сети единомышленников, таких как фракции Сигила. В своих путешествиях вы стремитесь углубить своё понимание и распространить свою философию.</content>
+  <content contentuid="h350fe144ga8fdg985dgc3acg5a7496bb2797" version="1">Хранитель врат</content>
+  <content contentuid="h5e8faeefg485ag5e10g8484gf32865d861f9" version="1">Вы провели значительное количество времени где-то под влиянием мощных планарных сил или портала в другой план существования, например, в одном из городов-ворот в Внешних землях. Вы привыкли к событиям, которые заставили бы других шататься от ужаса или восхищаться потусторонней красотой и вам так же комфортно иметь дело с небожителями и бестиями, как и с городскими торговцами (которые могут быть ими же).</content>
+  <content contentuid="h5044a308g8643g0253g4ba6ge2057b7fba3a" version="1">Планарный философ</content>
+  <content contentuid="hcb31dc8bga795g55aegb3ebge686e0b3ef7c" version="1">У вас есть &lt;LSTag Tooltip="Proficiency"&gt;умение&lt;/LSTag&gt; в &lt;LSTag Tooltip="Arcana"&gt;магии&lt;/LSTag&gt; и, касательно вашей удаленности от фракций Сигила, &lt;LSTag Tooltip="Investigation"&gt;расследовании&lt;/LSTag&gt;.</content>
+  <content contentuid="hbe28ccc0gde5cgb934gba26gb9d93b9ea01a" version="1">Хранитель врат</content>
+  <content contentuid="h930657efg00d8gecb5g8facg5b9b23e9e0ee" version="1">У вас имеется &lt;LSTag Tooltip="Proficiency"&gt;умение&lt;/LSTag&gt; в &lt;LSTag Tooltip="Persuasion"&gt;убеждении&lt;/LSTag&gt; и &lt;LSTag Tooltip="Survival"&gt;выживании&lt;/LSTag&gt;.</content>
+  <content contentuid="h847ddcd7g272ag0430g716ag7f16375fc360" version="1">Наследник внешних планов</content>
+  <content contentuid="hbe53f43dgeeacg8f37gd1d5g3cf9b78e6290" version="3">Ваша связь с Внешним планом наполняет вас энергией этого места и дарует соответсвующий фокус.</content>
+  <content contentuid="hf64a139cgc948ga643gaf46g387aed0092f2" version="1">Хаотичный Внешний план</content>
+  <content contentuid="ha428d52dg1e57g58b8gbe02g8d2c9933c779" version="4">Ваша связь с Хаотичным Внешним планом наполняет вас &lt;LSTag Tooltip="Resistant"&gt;устойчивостью&lt;/LSTag&gt; к яду и дарует фокус &lt;LSTag Tooltip="MinorIllusion"&gt;«Малая иллюзия»&lt;/LSTag&gt;.</content>
+  <content contentuid="heef34103gf7d6g0291g8ee3gcf8d552b9124" version="1">Злой Внешний план</content>
+  <content contentuid="h25332eefge01cg4b69g5faag55fd585718a1" version="5">Ваша связь с Злым Внешним планом наполняет вас &lt;LSTag Tooltip="Resistant"&gt;устойчивостью&lt;/LSTag&gt; к некротическому урону и дарует вам фокус &lt;LSTag Tooltip="ChillTouch"&gt;«Леденящее прикосновние»&lt;/LSTag&gt; (также известное как &lt;LSTag Tooltip="ChillTouch"&gt;«Пробирающий до костей холод»&lt;/LSTag&gt;).</content>
+  <content contentuid="h11d6a73dg4fd4ged75g2e08g319314a0224c" version="1">Добрый Внешний план</content>
+  <content contentuid="hcc33cf7agd7b9g00eage804g41b8a1eee356" version="4">Ваша связь с Добрым Внешним планом наполняет вас &lt;LSTag Tooltip="Resistant"&gt;устойчивостью&lt;/LSTag&gt; к лучистому урону и дарует вам фокус &lt;LSTag Tooltip="SacredFlame"&gt;«Священное пламя»&lt;/LSTag&gt;.</content>
+  <content contentuid="h3039dca7g4e3dgb8cfgc231g881d97ebf543" version="1">Законный Внешний план</content>
+  <content contentuid="h93f08ce1g78ccg7688gd450g22dd21334e0e" version="4">Ваша связь с Законным Внешним планом наполняет вас &lt;LSTag Tooltip="Resistant"&gt;устойчивостью&lt;/LSTag&gt; к силовому урону и дарует вам фокус &lt;LSTag Tooltip="Guidance"&gt;«Наставление»&lt;/LSTag&gt;.</content>
+  <content contentuid="hf4fbbe54g075dg035cge463g187b3f9dbea7" version="1">Внешние земли</content>
+  <content contentuid="h5e30a580g99b8g4dfcg2abcgb2650539f572" version="4">Ваша связь с Внешними землями наполняет вас &lt;LSTag Tooltip="Resistant"&gt;устойчивостью&lt;/LSTag&gt; к психическому урону и дарует вам фокус &lt;LSTag Tooltip="MageHand"&gt;«Магическая рука»&lt;/LSTag&gt;.</content>
+  <content contentuid="h3b8cb656g7968gf2dag31b8g6a98e698cd3e" version="1">Планарный странник</content>
+  <content contentuid="h4b1b0ee0g2aabg6fb6ge12fg61d331c63717" version="2">Вы можете использовать силы мультивселенной, чтобы выжить в космических экстремальных условиях и пересечь её бесконечные миры. </content>
+  <content contentuid="h7922d8aag0730g408bg1301g0c3f6b90631b" version="1">Агент порядка</content>
+  <content contentuid="h080c4c35gb42dgca01ge8cfg244b47407ddb" version="2">OLD_Вы можете использовать космические силы порядка, чтобы получить следующие преимущества.</content>
+  <content contentuid="hdaeb5abfg0ad1g2443g0f5bg3f7476e0a667" version="1">Зловещий наследник</content>
+  <content contentuid="h4ef18962g3deegaa6fg1f5bg35cdad9ed299" version="2">OLD_Вы можете использовать космические силы зла, чтобы получить следующие преимущества.</content>
+  <content contentuid="he5256e8dg9ddfgc0a4g9bb8gc1c8c97a4058" version="1">Когорт хаоса</content>
+  <content contentuid="h502bfab7gb9a0gd257gd656g099d4c09c84d" version="2">OLD_Вы можете использовать космические силы хаоса, чтобы получить следующие преимущества.</content>
+  <content contentuid="h9fd845d9g641egebd9g981bg2ae35f4a9ffe" version="1">Посол Внешних земель</content>
+  <content contentuid="h24184e08g396cg1910gf9dcg656df71d966b" version="2">OLD_Вы провели значительное время во Внешних землях. Погружение в конвергентные планарные энергии дает вам преимущества.</content>
+  <content contentuid="h9c19cc12g6bcag28a1g99f8gb656a4cfd87c" version="1">Праведный наследник</content>
+  <content contentuid="h395735d3gba45gb3d8ga495gbcb55fd7702a" version="2">OLD_Вы можете использовать космические силы добра, чтобы получить следующие преимущества.</content>
+  <content contentuid="h750430b5g480fgddabg4bc0g7dd11520f7a1" version="2">Адаптация к кислотным планам</content>
+  <content contentuid="hffa64d14g00eage72agfbcdgf24965250c7e" version="9">С вашим опытом путешествий по планам вы получаете &lt;LSTag Tooltip="Resistant"&gt;устойчивость&lt;/LSTag&gt; к кислоте и заклинание &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;«Взломщик порталов»&lt;/LSTag&gt;, создающее 2 портала один раз до следующего короткого отдыха.</content>
+  <content contentuid="ha210fd4fg8dddg945ege2e9gf88344ebd3a2" version="2">Адаптация к морозным планам</content>
+  <content contentuid="h7a135195g8d7fg68cdg6fdfg5123354e16ac" version="9">С вашим опытом путешествий по планам вы получаете &lt;LSTag Tooltip="Resistant"&gt;устойчивость&lt;/LSTag&gt; к холоду и заклинание &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;«Взломщик порталов»&lt;/LSTag&gt;, создающее 2 портала один раз до следующего короткого отдыха.</content>
+  <content contentuid="hdc672450g0e4dg4549g46c3g488968729677" version="2">Адаптация к огненным планам</content>
+  <content contentuid="h9f23fc0eg5eb8geb7bg3cebg93d2cbf3009f" version="10">С вашим опытом путешествий по планам вы получаете &lt;LSTag Tooltip="Resistant"&gt;устойчивость&lt;/LSTag&gt; к огню и заклинание &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;«Взломщик порталов»&lt;/LSTag&gt;, создающее 2 портала один раз до следующего короткого отдыха.</content>
+  <content contentuid="hce1cd424g90f9gea76gb72dg44fdf98a3f8b" version="1">Агент порядка</content>
+  <content contentuid="hbc628baeg7924g2968g688ege1b27b9da425" version="9">Вы можете направлять космические силы порядка, которые связывают мультивселенную в закономерности. Вы получаете ответное действие &lt;LSTag Tooltip="Interrupt_Paitm_StasisStrike"&gt;«Стазисный удар»&lt;/LSTag&gt;, чтобы нанести дополнительный урон силой и, возможно, обездвижить цель.</content>
+  <content contentuid="h5ff73c39g2f01g0d15g8d66ga682c91ea8eb" version="1">Зловещий наследник</content>
+  <content contentuid="ha6e5632cgaf7cg4d26g70e5g1073b3542c2d" version="8">Вы можете направлять космические силы зла, которые причиняют боль, но укрепляют ваше существо. Вы получаете некротическую реакцию &lt;LSTag Tooltip="Interrupt_Paitm_GraspOfAvarice"&gt;«Хватка алчности»&lt;/LSTag&gt;, чтобы нанести дополнительный некротический урон и исцелить себя.</content>
+  <content contentuid="h6da757f1g64bbgef99g5eadg9ccaa0af91e5" version="1">Когорт хаоса</content>
+  <content contentuid="hcb521ec4ge75ega4f2gee7cga136f770cf66" version="9">Вы можете направить космические силы хаоса, чтобы получить следующие преимущества. Вы получаете ответное действие &lt;LSTag Tooltip="Paitm_ChaoticFlare"&gt;«Хаотическая вспышка»&lt;/LSTag&gt;, чтобы получить силы хаоса при критических промахах и ударах.</content>
+  <content contentuid="h200b8582g0000g60deg6dcbg03ea70e221e0" version="1">Посол Внешних земель</content>
+  <content contentuid="hf85ca431g8eaag85fegbadegd62822b34e33" version="12">Вы провели много времени в Сигиле или где-то ещё во Внешних землях, на перекрестке мультивселенной. Погружение в сходящиеся планарные энергии даёт вам следующие преимущества. Вы получаете планарный &lt;LSTag Tooltip="Paitm_MistyStep"&gt;«Туманный шаг»&lt;/LSTag&gt; и &lt;LSTag Tooltip="Paitm_Tongues"&gt;«Языки»&lt;/LSTag&gt;, которые можно использовать раз, до следующего короткого отдыха.</content>
+  <content contentuid="h4d785b39gae96ge296gd520gd6f9fabfd7f9" version="1">Праведный наследник</content>
+  <content contentuid="hd0289576gccc2gcb7dg9966g992f0cb0c0f2" version="7">Вы можете направить космические силы добра, чтобы получить следующие преимущества. Вы получаете защитную реакцию &lt;LSTag Tooltip="Interrupt_Paitm_SoothePain"&gt;«Успокоить боль»&lt;/LSTag&gt;, чтобы попытаться уменьшить полученный вами или вашим союзником урон.</content>
+  <content contentuid="h2e927036gebe3g0230gb9f4g4f25d8efeb09" version="1">Планарный агент</content>
+  <content contentuid="h1876774ag4ed5g697dgf1d7gbec26f0aab8f" version="2">Вы направляете определенные космические силы для получения преимуществ и увеличить одну Характеристику на 1, максимум до 20.</content>
+  <content contentuid="h1a1a5fd5g37f0g0d8bg6e4bg0a7864f5d8a4" version="2">Туманный шаг</content>
+  <content contentuid="h7bc2a60ag2954gf3d4gb8a8g1d39c7db951e" version="1">Окруженный энергией планов, вы телепортируетесь в незанятое пространство, которое можете видеть.</content>
+  <content contentuid="h6d4f5178g1938g00a2gf920g880454834028" version="1">Запечатывание врат</content>
+  <content contentuid="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="3">Вы укрепляете ткань планов. Однако, в материальном мире, это заклинание похоже создает сферу &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;немоты&lt;/LSTag&gt; не требующее концентрации.</content>
+  <content contentuid="h1ee85063g393bg7bb3g8fd4g24cd706369eb" version="1">Чувсто искажения</content>
+  <content contentuid="h9efc7d47ga644ge2f4g79a9g781f5dfbd738" version="1">Вы ощущаете присутствие планарных энергий, даже самых остаточных.</content>
+  <content contentuid="h1a4889b6gba5dg1e02gbb15g9aa6c8e7b7eb" version="2">Взломщик порталов</content>
+  <content contentuid="h8a984c65g71d0g34e3g4613gfd46275b7fe6" version="4">Ваш опыт работы с порталами позволяет вам открывать два связанных портала без необходимости концентрироваться. При произнесении заклинания может возникнуть нестабильность, которая может нанести психический урон заклинателю.</content>
+  <content contentuid="h40448845g14b4geda1g4211g54ed4ba847a1" version="1">Уход в иной мир</content>
+  <content contentuid="hf5e987ffg552bgbc4cg889bg64093ebfa108" version="1">В конце своего хода вы совершаете бросок d20. При выпадении 11 и выше вы исчезаете в другой план. Пока вы там, вам никто не причинит вреда, и вас никто не увидит в этом мире.</content>
+  <content contentuid="haee124b2g7045g3318g3b62gaf8bb2fc76c1" version="1">Когда вы исчезнете, ваше присутствие здесь будет отображать местоположение, в которое вы вернетесь. Вы можете переместить его на [1].</content>
+  <content contentuid="hadc29260g511dg0a0dg9af6g3d7a79feb6b0" version="1">Хаотичная вспышка</content>
+  <content contentuid="h43ad99eegb956gf273g0135gba52c1915d0b" version="1">Вызвать вспышку хаотичной энергии.</content>
+  <content contentuid="h7026956ag83e6g3148g6b3dg2c94fa6de2ff" version="1">Планарный портал</content>
+  <content contentuid="hffefc047ge9aag4369gb494g6b5827064dfa" version="1">Вы открываете два связанных портала.</content>
+  <content contentuid="h95e5ad46gcbeagd4cag1762gb51be2e9dfcb" version="1">Чужеземец</content>
+  <content contentuid="hc635cd26ge771g46fbgaef8ga24b8487873c" version="1">Хватка алчности</content>
+  <content contentuid="h38be499bg66cegfe7eg554ag39e19c04a5b9" version="1">Один раз за ход, когда вы наносите урон существу, вы также можете нанести ему некротический урон. Некротический урон равен 1d6, и вы восстанавливаете 1d6 очков жизни.</content>
+  <content contentuid="h1c8b8d38gc2a8g380cg8a2cgc7cbaaa07449" version="1">Хватка алчности</content>
+  <content contentuid="h6be0c2degf8d2gf7d4g2601g3fef053dc7fe" version="4">Как Зловещий наследник, раз за ход, один раз за ход, если вы наносите урон существу, вы также можете нанести дополнительно [1] и восстановить себе [2].</content>
+  <content contentuid="h179c540dg33ecg394dgd2cagb075484fbbd4" version="1">Стазисный удар</content>
+  <content contentuid="heab337b1g2162gdd98gc8aag6cde93106e6c" version="3">Как Агент порядка, один раз за ход, если вы наносите урон существу, вы также можете нанести дополнительно [1] и, если повезет, обездвижить его.</content>
+  <content contentuid="h1277ed5cgfce9g69bdg7ba3g5da310c9534b" version="1">Успокоить боль</content>
+  <content contentuid="hee33068dgb4edg1702gcc1cga51de5ad3d5f" version="4">Как Праведный наследник, один раз за ход вы можете использовать эту реакцию и попытаться уменьшить урон, получаемый вами или союзником в текущем ходе.</content>
+  <content contentuid="h772d8616gf778g0bd8gc9efge2f5b95f85ce" version="2">Алое исцеление</content>
+  <content contentuid="h2ffb529dgfbdeg648bg9421g3f1b503ed664" version="1">Успокоить боль</content>
+  <content contentuid="h429acdddg853fg9bfeg3e1ag3dcd338f5bf4" version="3">Космические силы Добра дали вам временную защиту, уменьшая входящий урон.</content>
+  <content contentuid="he44d3a3eg97abge426g3092gdbe21b5d95ad" version="1">Ограничиваемый стазис</content>
+  <content contentuid="h2442377eg66e9gcab1g6f99g168da3d4a5e0" version="2">Космические силы Порядка мешают вам двигаться.</content>
+  <content contentuid="h1fd2ebbbgb28ag61f9g122bga7e5e051cb8b" version="1">%%% EMPTY</content>
+  <content contentuid="hcf9b6f82g0a03g0941g27e1g5365898a25f3" version="1">Чувство искажения</content>
+  <content contentuid="h74112800gd1b6g6d15g2b3ag99b4ef5b61e7" version="5">Вы ощущаете присутствие планарных энергий, таких как порталы, даже самых остаточных. Как ни странно, это заклинание кажется гораздо более устойчивым в материальном мире.</content>
+  <content contentuid="h19807a4dgb9b4g6a11g1ad1g33886795753c" version="1">Чувство искажения</content>
+  <content contentuid="hc53f42ecg57cagf9f1gd923gd71c1f3dee48" version="3">У вас есть преимущество в испытаниях Мудрости, а также бонус к умению магии и вниманию.</content>
+  <content contentuid="h4e017016g5c6bg5ce5g3ab0g22f43f822bfe" version="1">Языки</content>
+  <content contentuid="h416260c2g5063gcb28gc5d5g202db23685fd" version="1">Уровень понимания вашего мозга повышается, как в плане логики, так и в плане языка. На какое-то время вы научитесь лучше общаться с самыми разными людьми.</content>
+  <content contentuid="he719e3e7gb7a6ge63cg73e5g0a5d2bddec22" version="1">Языки</content>
+  <content contentuid="hd2dec18dg5019g8bbdga4d8g1c1d2e3c4626" version="2">Понимание вашей цели значительно улучшается, как с точки зрения логики, так и с точки зрения языка. На какое-то время ваша цель научится лучше общаться с самыми разными людьми.</content>
+  <content contentuid="h3f0810e4g6c6bgb62bg26fag878f03d8f4e2" version="1">Языки</content>
+  <content contentuid="h30f00253g6a92g9d58g7d82g39a60cd5e31b" version="3">У вас лучше получается общаться с самыми разными людьми.</content>
+  <content contentuid="h7d291fffgc234gea18gd43bg4116082efaf9" version="2">Боевая ярость</content>
+  <content contentuid="h2f8fef43g97a8g45bfgeec3ga414ed8d5448" version="2">Космические силы Хаоса наполняют вас безрассудной яростью. Вы получаете преимущество при бросках атаки и помеху при проверках навыков.</content>
+  <content contentuid="h864543e4g81a6g163bg5d94g21aa181f7f48" version="2">Поле разрушения</content>
+  <content contentuid="h19a9a274gcdc2g340cg4c77ga5b523369756" version="2">Свободный</content>
+  <content contentuid="hd4f12e4fgbbbbgb03cgfdf9g91407993bcf8" version="2">Воющие ветры</content>
+  <content contentuid="h22d0cc80g2a3fg2da9g74e3g4b750be30c23" version="3">Космические силы Хаоса создают вокруг вас энергетические волны. Этот эффект наносит урон находящимся поблизости существам.</content>
+  <content contentuid="h03832da7gc05bga637gbfd8gcc89d6335336" version="3">Космические силы Хаоса позволяют вам телепортироваться.</content>
+  <content contentuid="h8b867102g7084gfa8ag806dgcef27324f5df" version="3">Космические силы Хаоса воздействуют на испытания Мудрости сущностей в этом радиусе.</content>
+  <content contentuid="h01740d57gb618g3b71g416cgd6fb78f59454" version="1">Свободный</content>
+  <content contentuid="h0150b07ageb11g8fddg1619g048d8caefad1" version="2">Космические силы Хаоса позволяют вам телепортироваться.</content>
+  <content contentuid="haf7bfe00g5b51g2e49gf6bbg33a5f79ba0cf" version="1">Хаотическая вспышка</content>
+  <content contentuid="habbd4ca6gd7b9gb061gcf44gb220701f10dd" version="2">Как агент Хаоса, при критическом ударе или критическом промахе вы можете случайным образом получить эффект хаоса на текущий ход.</content>
+  <content contentuid="h2151ec82ge6beg66bege538g9d5cfc9795c6" version="1">Хаотическая вспышка</content>
+  <content contentuid="h42589640g788cg1485g4e38gda5fce54fb78" version="1">Как Агент Хаоса, при броске атаки вы можете случайным образом получить эффект хаоса на текущий ход.</content>
+  <content contentuid="ha6b6349ege712ge389ge8e4g34555c999327" version="1">Хаотическая вспышка</content>
+  <content contentuid="h39b8eabagc511g5197g0ad2g228857a732f8" version="1">Как Агент Хаоса, при броске атаки вы можете случайным образом получить эффект хаоса на текущий ход.</content>
+  <content contentuid="hdf8de10cg455cg9379gf463gb50959cfcb46" version="1">Поле разрушения</content>
+  <content contentuid="h174d21e6gad79g9e5eg412cg823a6bf46744" version="2">Космические силы Хаоса создают вокруг вас энергетические волны. Этот эффект наносит урон находящимся поблизости существам.</content>
+  <content contentuid="hd283775dg53b9g6f1fg1cecgdad08464eec5" version="1">Воющие ветры</content>
+  <content contentuid="h377a8762g5050g2747gbc46g9ca597b67200" version="2">Космические силы Хаоса воздействуют на испытания Мудрости сущностей в этом радиусе.</content>
+  <content contentuid="h133dda90ga151gb786g3c9ag898a5aeaedeb" version="1">%%% EMPTY</content>
+  <content contentuid="h1098086fg5fd1g4096g0be0g7878cbfbb02c" version="1">Поле разрушения</content>
+  <content contentuid="hc0de0d99g828dga24ag5826g5173a7c17174" version="2">Космические силы Хаоса атакуют сущности, окружающие ауру.</content>
+  <content contentuid="h41072ba9g1b28g1653g89c3geb945c1c6df1" version="1">Поле разрушения</content>
+  <content contentuid="h12336d96gfb44g9ff8g5522gc851002c3ad3" version="3">Космические силы Хаоса атакуют сущности, окружающие ауру.</content>
+  <content contentuid="h35aae9b0g24d1g5e5cg16e9g77c09801f57c" version="1">Чувство искажения</content>
+  <content contentuid="he1077f52g85acgbc6dgbeefgc69b82ed6f2c" version="1">Вы ощущаете присутствие планарных энергий, таких как порталы, даже самых остаточных. Как ни странно, это заклинание кажется гораздо более устойчивым в материальном мире.</content>
+  <content contentuid="h52cb2e91gf45eg4bf2gfdaeg0df82f11acc4" version="1">Запечатывание врат</content>
+  <content contentuid="h7cecf0f4g32e0gbeb8g1258g196d9b29cf31" version="2">Вы укрепляете ткань планов. Однако, в материальном мире, это заклинание похоже создает сферу &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;немоты&lt;/LSTag&gt; не требующее концентрации.</content>
+  <content contentuid="h8483d49ag1e8dg1c43g8018gfcd6bbef6e23" version="1">Запечатывание врат</content>
+  <content contentuid="hcedc6be9ge111g4c71g1742g013f38ae2a65" version="2">Вы укрепляете ткань планов. Однако, в материальном мире, это заклинание похоже создает сферу &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;немоты&lt;/LSTag&gt; не требующее концентрации.</content>
+  <content contentuid="hc9103a06g6ce1g9873gf3b6ga43de4e8a062" version="1">Запечатывание врат</content>
+  <content contentuid="h717a8513g3681g3750gd31eg98db9c4c5400" version="2">Вы укрепляете ткань планов. Однако, в материальном мире, это заклинание похоже создает сферу &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;немоты&lt;/LSTag&gt; не требующее концентрации.</content>
+  <content contentuid="hf8687996gdb03g610cg1c03g3fb532b80da1" version="1">Запечатывание врат</content>
+  <content contentuid="h7555f29cg9d6fg1583g4a52g55fa5b85c11e" version="2">Вы укрепляете ткань планов. Однако, в материальном мире, это заклинание похоже создает сферу &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;немоты&lt;/LSTag&gt; не требующее концентрации.</content>
+  <content contentuid="h522850b4ga97fg5c82g95fdg4ae3c3599792" version="1">Запечатывание врат</content>
+  <content contentuid="h9bbfa2d1g1deegb97fg56adgad0e268bcbc9" version="2">Вы укрепляете ткань планов. Однако, в материальном мире, это заклинание похоже создает сферу &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;немоты&lt;/LSTag&gt; не требующее концентрации.</content>
+  <content contentuid="h9cc9310dg64a8g9de3g7d93gc692b90f1447" version="1">Сенсорный камень</content>
+  <content contentuid="h9202e151gdf27g6437g8e2bgbe3f68ac3676" version="3">В этом маленьком гладком камне заключена суть одного ощущения. Вы можете бросить камень, разбив его при этом, чтобы снять с кого-то очарование или испуг. Или вы можете прикоснуться к камню, поглотить его и испытать это ощущение самостоятельно.</content>
+  <content contentuid="h74d67052g3553g99d1gd4bcg33235e3fe554" version="1">Сенсорный камень</content>
+  <content contentuid="h069fe3dbgc5e4g466cg0c2ag85379c7d1fc7" version="1">Портальный компас</content>
+  <content contentuid="h337d09e0ge779ga248gb52eg115621d942b5" version="1">Мимир</content>
+  <content contentuid="h8024147dg80b7gb119g7b89g833eba6f1dc5" version="1">Портальный компас</content>
+  <content contentuid="h026975dbg5f2eg8fdbgb4b3g6667c385e92e" version="1">Мимир</content>
+  <content contentuid="h3f7528ffg6fb3g3eceg1e48g1a30d3cf0062" version="1">Planescape</content>
+  <content contentuid="h642eba50g33edg2d5cgdb25gc572ea36a0fc" version="1">Тематический кубик Planescape.</content>
+  <content contentuid="h49168b8dgdae4g28c4g3177gc8c45ad987b3" version="2">Детская игра</content>
+  <content contentuid="h44b878a9g95a6g2a7dg2279gb236093a7ca0" version="2">Обыграть Оливера в прятки, не привлекая внимания порождений теней.</content>
+  <content contentuid="hcafedefcg6871g3143gb866g88998ef575f0" version="2">Хранитель хранителя рощи</content>
+  <content contentuid="he02b53f2g195cg1e19g8e5fg9fab89a008ae" version="2">Защищать портал Хальсина, пока он спасает духа земли.</content>
+  <content contentuid="hc4dc85d2g6494g02c3g8008ga54b22bc3bc7" version="2">Не убоюсь теней</content>
+  <content contentuid="h1b53902dga10bg1447gf495g2a94e4d07024" version="2">Пройти через проклятые земли в «Последний свет» и в Лунные Башни без лунного фонаря.</content>
+  <content contentuid="h3496b36cgd58ag18f7g9989gcab0e0c83977" version="2">Непроторенный путь</content>
+  <content contentuid="hd3283d81g2154g3e15gc65eg02c5cc075680" version="2">Пройти испытание «Вызов Шар», не побывав ни в «Последнем свете», ни в Лунных Башнях.</content>
+  <content contentuid="h45dd6cc9gb515ga09dgc634g6457525084cf" version="2">Планарная тьма</content>
+  <content contentuid="h69391c18g2ba6g096fgb795g5559b3ce3e7a" version="2">Победить в трех боях в землях, пораженные темным проклятием.</content>
+  <content contentuid="h79a0a269gd044g3d1agab3ag7c5fac1a59d4" version="2">Перевернуть все проклятые камни</content>
+  <content contentuid="hfc688f30g9eecgf76agc817g245e0752c070" version="2">Осмотреть все ключевые области в землях, пораженных темным проклятием.</content>
+  <content contentuid="hb180e324gef75geb70gaf0dg0508260b1d5a" version="2">Планарное уважение</content>
+  <content contentuid="h5208253dg86ddgdcc5g9e2cg282fe560fedd" version="2">Познакомиться с кошкой-охотницей на личинок.</content>
+  <content contentuid="hb412be33g4ccbg6a95g4c1fgea6bfd8252b0" version="2">Принятие плана</content>
+  <content contentuid="h43cd5202gb7d7ge714g106dg9de77fe5724d" version="2">Выдержать два раунда под темным проклятьем.</content>
+  <content contentuid="ha1039509g0013g9c32g9b2agf21ccb546f26" version="2">Планарное оружие</content>
+  <content contentuid="hd04e86c0gbd8cg0ccegfcfeg115c8347ea40" version="2">Раздобыть арбалет ортона.</content>
+  <content contentuid="h4c77b1ebg4ed7g6cdfg104fg6b27377f3297" version="2">Сон во тьме</content>
+  <content contentuid="hf0003e56gcf07gf60bgd7b0gbde0356807f4" version="2">Устроить долгий отдых в землях, пораженных темным проклятием.</content>
+  <content contentuid="hc6fa57cdgf408g5c24g46a5gbe042423cee9" version="2">Всегда на шаг впереди тьмы</content>
+  <content contentuid="hc13562c4gd02cg5037g38ddgada4f87303ab" version="2">Добраться до Песни Ночи, не подвергнувшись воздействию темного проклятья.</content>
+  <content contentuid="hf2171ff1ga078gf77agbc8eg9027b2a24d2b" version="2">Ох уж эти ступени</content>
+  <content contentuid="hc4a9efacg1c5dgb20egfd68g4cd262fd579f" version="2">Проникнуть в запретную зону Лунных Башен извне.</content>
+  <content contentuid="h5bc6a0a6ge39ag4770ged5egf0b9fa9b5390" version="2">Бывало и похуже</content>
+  <content contentuid="hd60d29ddgd10eg066dg6ce0gd835439176db" version="2">Выпить зелье пивовара и не поддаться его пагубным эффектам.</content>
+  <content contentuid="h77c8e111g5bd8g30e2ge699g3ab1abff52f8" version="2">Спуск в глубину</content>
+  <content contentuid="h65dcf377gfa48gdd39g2597geefd78eaf0a3" version="2">Проникнуть в темницу... и будь что будет.</content>
+  <content contentuid="hb8524875g9ecbgd0a5g2af3g3a449bea812c" version="2">C головы до пят</content>
+  <content contentuid="h790d4eaeg00a5g0992g125fg74fee5db2f38" version="2">Исследовать все области колонии свежевателей разума.</content>
+  <content contentuid="h1c0f51b6g2babg029cg04e9g39e4ad8b30cd" version="2">Дар планов</content>
+  <content contentuid="h235cba63g8295g8ae7g45c5g8c35b5b425df" version="2">Пожертвовать товары.</content>
+  <content contentuid="hbc09e6a0gb75dg10b0g6f73g1ab019ebe5fd" version="2">Дикая природа планов</content>
+  <content contentuid="hf05cd2e7g5cf7g2207g2dd5g10f4c52026f5" version="2">Выпустить на волю всех цирковых зверей.</content>
+  <content contentuid="h6124d31bgee9fg9cdagbbf9gb2dec864571f" version="2">Основные потребности</content>
+  <content contentuid="hdb1f3411gdd2ag47e1gdcc1g75780ba45684" version="2">Успокоить дилофозавра, чтобы он не проявлял к тебе агрессии.</content>
+  <content contentuid="h8a69f260gec64gf961g1f00gde8ab8be758a" version="2">Торжественное прощание</content>
+  <content contentuid="hfa11a496g8d2bg6aa1gcd59g52a60e3f0e0c" version="2">Понаблюдать за церемонией погребения гурцев.</content>
+  <content contentuid="h847ed24dg79d0g4ca3geff5g7da7b9dc448d" version="2">Катастрофический системный отказ</content>
+  <content contentuid="hf2040f1fgcc82gb9afg6649g50ff6e35631a" version="2">Взорвать литейную Стальной Стражи.</content>
+  <content contentuid="hc7eaad0agc012g417cg5416gd245ccc32bac" version="2">Птица на службе</content>
+  <content contentuid="h67544727g9b4eg4b6dgb08fg9a957f512024" version="2">Познакомиться с командиром Легкопёром.</content>
+  <content contentuid="h5346d333g62ecg4ee8g0bb2gbb8f5fcd5f15" version="2">Что молчишь, как рыба?</content>
+  <content contentuid="hf7523230g6ebdgedf6ga028g132e3947552d" version="2">Найти пропавшие письма.</content>
+  <content contentuid="h3deb904egaba8g86ccg4482gbc3c368d08c2" version="2">Мрачная охота</content>
+  <content contentuid="haf775035g66dcg667ag05a6g4f30e5d69378" version="2">Отыскать все части тела Капли и отнести их Лукреции.</content>
+  <content contentuid="h3cd1e4a7g0fd7gc2d6g5c4fg94100d469b39" version="2">Путешественник по планам</content>
+  <content contentuid="had6ade37gc3d9g999ag7acfgeba9a45b6248" version="2">Пройти через портал Дома Надежды.</content>
+  <content contentuid="h2f6fcb33g7e60ga80bg582bg0f8788592321" version="2">В кои-то веки горячая пища</content>
+  <content contentuid="hf95535bege16egf738g2a17g778db1492c7d" version="2">Получить полный пансион в таверне «Эльфийская песнь».</content>
+  <content contentuid="h924e7a1fg238ag2b17g19c8gb1a187472156" version="2">Природа зверя</content>
+  <content contentuid="hf151abe6gdcbcg90b2gc66ega2614b7d66b7" version="2">Выяснить, что сталось с яйцом гитьянки.</content>
+  <content contentuid="hfa952676g051bgf4f9g8c21gee1c782f4db3" version="2">Каменные джунгли</content>
+  <content contentuid="h3367558dg0a1fgbac9g40beg6560dc79d633" version="2">Выжить при нападении сектантов Баала в парке.</content>
+  <content contentuid="h1f96e0b6gf049gd879g67abg89d82c5a821a" version="2">Под планом</content>
+  <content contentuid="hcf5abba8g19e9ge8c2g0ebcgc654d14a773e" version="2">Войти в подземную таверну.</content>
+  <content contentuid="h1a2d3d09g3ee4g4ea6g516eg93fd9a752018" version="2">Планарное принятие</content>
+  <content contentuid="h6f877938ga410g75adge0cbgf48ae3a87bf9" version="2">Убедить Джахейру позволить ее родным остаться в городе.</content>
+  <content contentuid="h49132348gf7f8g06f4g23acga7bc605e1bc7" version="2">Всё ниже и ниже</content>
+  <content contentuid="hef05aa7dg9d34g4dd7g9eb8ge7a46b080713" version="2">Попасть в Железный Трон.</content>
+  <content contentuid="h8f88e380g8c64gddc4g0db5gea9a5bb4ca18" version="2">Лицо зла</content>
+  <content contentuid="h4362beb6g9e2dg2b1bg0491g7c64e86d842a" version="2">Добраться до Храма Баала.</content>
+  <content contentuid="h49cb5a24gaf4cgb39cgfac1g8eccf007ce3b" version="2">Перекати-поcле</content>
+  <content contentuid="h2440839ag7382g6a20ga9bcgb335f50f0031" version="2">Не попасть под устроенную бандитами ловушку с катящимся камнем.</content>
+  <content contentuid="hb91823bdgbc77g4306g8e0bg0ad846b9afdf" version="2">На память</content>
+  <content contentuid="h4172576cg8d2bg760ag2da2g488fbfa18255" version="2">Взять предмет из гнезда гусеницы-падальщицы.</content>
+  <content contentuid="hecef1d1eg5c17g83d0g908dg647a3bdc2728" version="2">Ярость матери</content>
+  <content contentuid="had7985bbgc12egd29dg82fdgd46b7d812d6e" version="2">Восторжествовать над самкой медвесыча.</content>
+  <content contentuid="he356bc4fgf0bfg7dbbgd629gf40a452bf410" version="2">Хождение по плану</content>
+  <content contentuid="hc3c3ff8fgb568gff75gc5ceg20809fc3ed68" version="2">Успешно использовать кольцо фей.</content>
+  <content contentuid="hdaa9df25g4378g8a6ag30ceg4cce1d312874" version="2">Планарное зрение</content>
+  <content contentuid="h857dd685g54a3g7c15g45d3g56b71ae0bb99" version="2">Разглядеть реальность за покрывающей болото иллюзией.</content>
+  <content contentuid="h860a5099g81ffg5f2cga010gaa3bde5798dd" version="2">Разрушитель проклятий планов</content>
+  <content contentuid="h5c017a9dg08c7g5167gdbc7g06d35da5e602" version="2">Узнать о проклятии Йеногу и перебить его гиен.</content>
+  <content contentuid="h5c61c0c2g0cc3ge068g3dd3g0f38e958b917" version="2">Прыжок в пустоту</content>
+  <content contentuid="hf9e6bb38g9b31g7098g1257g2e554c714b28" version="2">Войти в Подземье через бездонный колодец.</content>
+  <content contentuid="h44c83cbfg132bg1154g5883gc02598e98cc0" version="2">Цепкие руки</content>
+  <content contentuid="h34cbe2cbg7614g1b17g8448gb3096039892e" version="2">Добыть кошель из расселины с пауками.</content>
+  <content contentuid="hfd30a9f0gd64fgc115g834fg7ece9db4967d" version="2">Укротитель медвесычат</content>
+  <content contentuid="hc3cc96dfg8ef6g8d3dgf041g964392aca9c8" version="2">Успешно приручить детеныша медвесыча.</content>
+  <content contentuid="h5e8111f6g787fgb662g5bcdgbfc3107c5c5f" version="2">Грибофоб</content>
+  <content contentuid="h2cb0e820g5cebg62d1g184ag165ba3ea93ef" version="2">Уничтожить по одному из каждого вида произрастающих в Подземье опасных грибов.</content>
+  <content contentuid="h897bfe17g4aa1g5a88gd682g619715f1428f" version="2">Добрым словом и грибом</content>
+  <content contentuid="h30cbdf38g5354g8d85g838fg228199e57662" version="2">Эффективно применить доброгриб.</content>
+  <content contentuid="hf4441220g6ed4g853fgd511g03808048ebb4" version="2">Умный планар</content>
+  <content contentuid="h7b502db9g7923g201cga8d5ge51b372e50b9" version="2">Обчистить гнездо гигантской птицы в Подземье.</content>
+  <content contentuid="hf998bb5dg979bgb7d9g3553g055bdeaa3dea" version="2">Пол – это лава</content>
+  <content contentuid="h89312498gdb06g468bgb8cfg95851f21ff93" version="2">Одолеть обитающего в озере лавы элементаля.</content>
+  <content contentuid="h4981346ag8069ga75dgc855g1d12976bb10f" version="2">Детская игра</content>
+  <content contentuid="h89694a09geb57g0d61g98adg16a1b18470fa" version="2">Обыграть Оливера в прятки, не привлекая внимания порождений теней.</content>
+  <content contentuid="h299dd9f1g73bbga773ga21egf68a3331610a" version="2">Красивый портал</content>
+  <content contentuid="hc376c848ge937g5cbegc21fgdc1324e773d3" version="2">Защищать портал Хальсина, пока он спасает духа земли.</content>
+  <content contentuid="h4d94bfbeg3c6bg6601gba46g7ad979777861" version="2">Не убоюсь теней</content>
+  <content contentuid="hb3a2c26fgc170ge58bgf839ged49175d85b4" version="2">Пройти через проклятые земли в «Последний свет» и в Лунные Башни без лунного фонаря.</content>
+  <content contentuid="hd9a20dc9g8bd9gcecbgdd11g7d1a179717de" version="2">Непроторенный путь</content>
+  <content contentuid="h21e04415gd914g2200g75b8g587468edba1d" version="2">Пройти испытание «Вызов Шар», не побывав ни в «Последнем свете», ни в Лунных Башнях.</content>
+  <content contentuid="h9d3db8d1g7f78g8e15gc7e9g999e2a18465e" version="2">Планарная тьма</content>
+  <content contentuid="h215f29d0g0a3bg4c9ege5a1gbe498e63010c" version="2">Выдержать два раунда под темным проклятьем.</content>
+  <content contentuid="hbb8eb652g17f8gae3eg9bbeg3354b7ed54f8" version="2">Победить в трех боях в землях, пораженные темным проклятием.</content>
+  <content contentuid="hf572d38cgdef9g84d8gd3fag24bca10dfde3" version="2">Осмотреть все ключевые области в землях, пораженных темным проклятием.</content>
+  <content contentuid="h36166b3dg8222g5d69g30afgfe5fbea5f595" version="2">Взаимное уважение</content>
+  <content contentuid="h7bb87fc1g834dgf014gf2dcgbeadf2791feb" version="2">Познакомиться с кошкой-охотницей на личинок.</content>
+  <content contentuid="he62e5240g9048ga2d2gdccdg573bcbf083ce" version="2">Принятие плана</content>
+  <content contentuid="h3960c991g937ege9f7g2721g8127a1518ef8" version="2">Выдержать два раунда под темным проклятьем.</content>
+  <content contentuid="hb66b2733g9f26g2eaag56ccg4dfbfcfe735d" version="2">Планарное оружие</content>
+  <content contentuid="ha8152063gf6c1gab14g0344g2792f1fd0345" version="2">Раздобыть арбалет ортона.</content>
+  <content contentuid="hb0465243g188cg8654ge931g129a893e748c" version="2">Сон во тьме</content>
+  <content contentuid="h038e1885g5f8ag5ea7ga0a8g70ca1f8a691c" version="2">Устроить долгий отдых в землях, пораженных темным проклятием.</content>
+  <content contentuid="h2bf76a47g1aaeg7b2cg492agf4fb0f599369" version="2">Всегда на шаг впереди тьмы</content>
+  <content contentuid="h34046099g5e7egf9bbg3b59g9c403b3334c8" version="2">Добраться до Песни Ночи, не подвергнувшись воздействию темного проклятья.</content>
+  <content contentuid="h38026fd0gf8a0g3421gc613gc3f28f440acd" version="2">Ох уж эти ступени</content>
+  <content contentuid="hdae2d658gdae1g2050gbb1bg2f5568e9641c" version="2">Проникнуть в запретную зону Лунных Башен извне.</content>
+  <content contentuid="h0972d32cgb1b1g7baagf6f4g2c0e3fcc8350" version="2">Бывало и похуже</content>
+  <content contentuid="h8f7a7239g974eg3658g60f2gee599eb36489" version="2">Выпить зелье пивовара и не поддаться его пагубным эффектам.</content>
+  <content contentuid="h864f52a5g0360gc543gad1bg4f10e5c7d695" version="2">Спуск в глубину</content>
+  <content contentuid="h2d4947e3g201cgb198gf711g20a1675f939a" version="2">Проникнуть в темницу... и будь что будет.</content>
+  <content contentuid="he9e532fcg4cd8g37b1gd9c6g378f6c016f3b" version="2">C головы до пят</content>
+  <content contentuid="h006cdf7dg43d3gf682g19d6g81a817c0e3a5" version="2">Исследовать все области колонии свежевателей разума.</content>
+  <content contentuid="h33c9fc81gb53cg8189gdf97gc21790f04ea9" version="2">Дар планов</content>
+  <content contentuid="h38e3ca05g7b7fg8fbfg7ea4gb0d52dee462b" version="2">Пожертвовать товары.</content>
+  <content contentuid="h1ee43540g229ag022fg68dfg6b54d7e141fb" version="2">Сорвавшись с цепи</content>
+  <content contentuid="h2ada9223ga2c2gcee3gf553g8ca6c9cd0f50" version="2">Выпустить на волю всех цирковых зверей.</content>
+  <content contentuid="h2d9c20d1g1ac1g17b8g2148g945aa18b978a" version="2">Основные потребности</content>
+  <content contentuid="h730791aag3946gcdc1g2f46gfbe5bbae1193" version="2">Успокоить дилофозавра, чтобы он не проявлял к тебе агрессии.</content>
+  <content contentuid="ha6039e3eg7d9egbb1bg1e79g7a2cde447213" version="2">Торжественное прощание</content>
+  <content contentuid="h7152ace8g0746g7af6gccd1gdb1f02770645" version="2">Понаблюдать за церемонией погребения гурцев.</content>
+  <content contentuid="h9320531ag0643g6a3bgd0e1g8d2487fff82d" version="2">Катастрофический системный отказ</content>
+  <content contentuid="h3a8b1498ge1e0g6f0cg628eg61d95d8caf49" version="2">Взорвать литейную Стальной Стражи.</content>
+  <content contentuid="h155d2decgc888g84c1g08c4gc856c9f56d59" version="2">Птица на службе</content>
+  <content contentuid="h64267008gfea4g6c92gf947g183fa8968648" version="2">Познакомиться с командиром Легкопёром.</content>
+  <content contentuid="h2de59663g25fdg8522g04f5g59ef560fda2e" version="2">Что молчишь, как рыба?</content>
+  <content contentuid="h7e49c3fcgc00bg1febgc037gbadff0c5a250" version="2">Найти пропавшие письма.</content>
+  <content contentuid="h6bcee6f0gb9c5gd5d8g37a0g0b90c803d42a" version="2">Мрачная охота</content>
+  <content contentuid="h8eddaa3fg4e35gbfa4g79e8g6062aa4c104f" version="2">Отыскать все части тела Капли и отнести их Лукреции.</content>
+  <content contentuid="h3bf92fb6g2919g02fcg501dg6219b1d639f2" version="2">Путешественник по планам</content>
+  <content contentuid="ha9475fb7gb743g3882gadc6gccc8cd6089fb" version="2">Пройти через портал Дома Надежды.</content>
+  <content contentuid="h4cba13cbg1dd0gb331gc477ga2ed3451b4de" version="2">В кои-то веки горячая пища</content>
+  <content contentuid="h8eb3ad0dg6d68g09dbgc4c3g262b217f2e8b" version="2">Получить полный пансион в таверне «Эльфийская песнь».</content>
+  <content contentuid="h311de61bgad06g3490g98begb0085f2457df" version="2">Природа зверя</content>
+  <content contentuid="h16baf070g788bg9f29ga73ag8684a0425258" version="2">Выяснить, что сталось с яйцом гитьянки.</content>
+  <content contentuid="hb92426a4g813agb235g9e85gcac5f2ab9b15" version="2">Каменные джунгли</content>
+  <content contentuid="h15b3a40eg9549gb065gddcdga0002efd99ef" version="2">Выжить при нападении сектантов Баала в парке.</content>
+  <content contentuid="h16ffc4eag852dgdc16ga444g9f8a36642ec3" version="2">Под планом</content>
+  <content contentuid="h9a1c4d7agd1adg0928g800bg439416b727cf" version="2">Войти в подземную таверну.</content>
+  <content contentuid="h0fa4185egabf6g7719g3065g7e5902a7a0d8" version="2">Планарное принятие</content>
+  <content contentuid="hc7a597d4g9a2ega93bg950agd42bee1d27b6" version="2">Убедить Джахейру позволить ее родным остаться в городе.</content>
+  <content contentuid="hae8711d9g8614g2c87g3549g53a9fd721e04" version="2">Всё ниже и ниже</content>
+  <content contentuid="h333e75d5g77cdg2a96g345dg70e69ace5d79" version="2">Попасть в Железный Трон.</content>
+  <content contentuid="h6048175cg076fgb23cg0f6ag9affa02b0bc9" version="2">Лицо убийств</content>
+  <content contentuid="hbe435305gf895g1e0egda12g051080f119d6" version="2">Добраться до Храма Баала.</content>
+  <content contentuid="h7b34438dg915dga33cg8bfbg22495eed6d91" version="2">Перекати-поcле</content>
+  <content contentuid="h982dd321g92abg32a6g1591g3ba2089026bc" version="2">Не попасть под устроенную бандитами ловушку с катящимся камнем.</content>
+  <content contentuid="h6d52c985g88f5g7d72g91cegff86a51fc03e" version="2">На память</content>
+  <content contentuid="h725b0fb7g9580g4ba0gd80ag25d9acd9447c" version="2">Взять предмет из гнезда гусеницы-падальщицы.</content>
+  <content contentuid="h20329479g8573ge343gc10ag115aa185f235" version="2">Ярость матери</content>
+  <content contentuid="h1a75b92ag8189gd6ebgd737g4d3ae768d3d5" version="2">Восторжествовать над самкой медвесыча.</content>
+  <content contentuid="hbfc63574ga2c8gdaf1g26b0g3311a5ad61f8" version="2">Хождение по плану</content>
+  <content contentuid="hd24f176bg7fd9ge222g0369g0a24bcf4739f" version="2">Успешно использовать кольцо фей.</content>
+  <content contentuid="h8787df4dg6d97g07efg828fg090c325f1a94" version="2">Планарное зрение</content>
+  <content contentuid="h76ca3275g361cgc72dg6b87gd4d0f16252dc" version="2">Разглядеть реальность за покрывающей болото иллюзией.</content>
+  <content contentuid="hc6e5df0ag1cccgee17ga36cgf6b32967ecb2" version="2">Разрушитель проклятий планов</content>
+  <content contentuid="he62cd23bg305dgc2f8gfe78gb9d2b9e6aa5b" version="2">Узнать о проклятии Йеногу и перебить его гиен.</content>
+  <content contentuid="h8a147207g7ae7g0023ge506gcaade50ab895" version="2">Сладкая пустота</content>
+  <content contentuid="h8b871b33gb95dg1ed5gdc65g2b9e97b9cdee" version="2">Войти в Подземье через бездонный колодец.</content>
+  <content contentuid="h3f420231gf9a8g6a0dgc31ag39e84d0b40fc" version="2">Цепкие руки</content>
+  <content contentuid="h49ecd090gc0cbg4a0bg1644g9f42e853ace5" version="2">Добыть кошель из расселины с пауками.</content>
+  <content contentuid="he8b102eag14fcg6203gcd21g852db763dee2" version="2">Планарный укротитель</content>
+  <content contentuid="hb5b7bb63g1bb5ga9degab51g0dc1ea4238be" version="2">Успешно приручить детеныша медвесыча.</content>
+  <content contentuid="h62c7f5edgfbd9g4e4ag56cfg17a367cf1af9" version="2">Грибофоб</content>
+  <content contentuid="hce941879gfbb9g0b6eg0d6bga8aca9c37cea" version="2">Уничтожить по одному из каждого вида произрастающих в Подземье опасных грибов.</content>
+  <content contentuid="hea7b8a85gf0a3ged4ag4b9dgdeb219eb1f5c" version="2">Добрым словом и грибом</content>
+  <content contentuid="hf668a90ag69b6gb6bdg0451g1297ebb2f4bd" version="2">Эффективно применить доброгриб.</content>
+  <content contentuid="he9435263gb875g2ae7g4a7bg9f50433a4146" version="2">Умный планар</content>
+  <content contentuid="ha006588fgda67gfb99g0ec5g5c6de95512ab" version="2">Обчистить гнездо гигантской птицы в Подземье.</content>
+  <content contentuid="hc535c09cg0d2cgf714g31fdgae50b0b578ad" version="2">Пол – это лава</content>
+  <content contentuid="hac8c02d3g3887g6801gafc0gc40e22295d42" version="2">Одолеть обитающего в озере лавы элементаля.</content>
+  <content contentuid="h1067b5f2gac8fg282eg6e02g7dcec7fd7223" version="1">%%% EMPTY</content>
+  <content contentuid="hac5d01daga4c1gad23g9b47g0f37fcd665fa" version="2">Этот портативный магический инструмент кажется старым, изношенным и неточным. Этот предмет, похоже, родом не с Побережья Мечей.</content>
+  <content contentuid="h034e1312gfc43g6baeg78d7g01fdf4a6d2af" version="1">Это старинное устройство в форме черепа наполнено знаниями.</content>
+  <content contentuid="hababc55dg424dg34efg8a17g12622adedd4f" version="2">В этом маленьком гладком камне заключена суть одного ощущения. Вы можете прикоснуться к камню, поглотить его и испытать это ощущение на себе. Оканчивает эффекты очарования и испуга.</content>
+  <content contentuid="hbbe6fb62g8720ge560g9f8egfb8255bb73c1" version="1">В этом маленьком гладком камне заключена суть одного ощущения. Вы можете прикоснуться к камню, поглотить его и испытать это ощущение на себе. Оканчивает эффекты очарования и испуга.</content>
+  <content contentuid="hc1879bf9ge4f7g5255gc004g0781b6d42fc7" version="2">Свиток «Чувство искажения»</content>
+  <content contentuid="h5eec5a4dg2405g2283g442eg631cc1ddc8f1" version="1">Свиток «Запечатывание врат»</content>
+  <content contentuid="h553c82b2g12ebg58cbgbabfg1a9d16cfa477" version="2">Свиток «Запечатывание врат»</content>
+  <content contentuid="hfcfb0f1bg0821ge78fgd3d8g860be08d4105" version="2">Свиток «Запечатывание врат»</content>
+  <content contentuid="hc9aee5eege786g13f1gec8bgc3d884c981f3" version="1">Свиток «Запечатывание врат»</content>
+  <content contentuid="h8b3e8f81g355bg97c3ge7e7gef7c5c149603" version="1">Попытаться безопасно прочитать заклинание «Взломщик порталов».</content>
+  <content contentuid="h39b148e5ga397g512bgc05dgc0ae5ac90c80" version="1">Сенсорный камень</content>
+  <content contentuid="h8661c82cg968cg7376g49ecg0af9fc7371f0" version="2">Старый неодушевленный Мимир</content>
+  <content contentuid="hc515d8bdgc91ag00afg3b5eg9f683089a0ae" version="6">Сенсорный камень</content>
+  <content contentuid="ha39c241fgfdd5g1d77g28e2gde5843be5df1" version="2">Портальный компас</content>
+  <content contentuid="hc13933a5g243dg625bgbcd5g6992c525f1e5" version="3">Это старое неодушевленное устройство в форме черепа наполнено знаниями.</content>
+  <content contentuid="h19f6dfd8gdc11gdbabgb792gf13be0ddb61e" version="1">Сенсорный камень</content>
+  <content contentuid="h11f6fe24g1b93ge170gdca1g5d79194cbfe5" version="1">Мимир</content>
+  <content contentuid="h5c94facagf9ecg4524g5fcfg4db96e33cdbb" version="1">Портальный компас</content>
+  <content contentuid="h0ecbb3b1g4632g7672g2411g10297af2e28c" version="1">Портальный компас</content>
+  <content contentuid="h82ae22f9gb470g74b9g2f81g35db749d7bf6" version="1">У вас есть умение в магии и внимании.</content>
+  <content contentuid="he74c5a36gaa29g319cga756gace944dd2f43" version="13">Мимир</content>
+  <content contentuid="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1">Активировать Мимира</content>
+</contentList>
