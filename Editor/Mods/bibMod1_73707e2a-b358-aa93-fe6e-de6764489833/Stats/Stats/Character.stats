@@ -4,25 +4,24 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="8050b842-da3f-405e-9c95-cd581626253f" />
-        <field name="Name" type="NameTableFieldDefinition" value="Mimir" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="a873da6e-0e09-4978-9a74-f13f7adc5afe" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Mimir" />
         <field name="Strength" type="IntegerTableFieldDefinition" value="10" />
         <field name="Dexterity" type="IntegerTableFieldDefinition" value="10" />
         <field name="Constitution" type="IntegerTableFieldDefinition" value="10" />
         <field name="Intelligence" type="IntegerTableFieldDefinition" value="10" />
         <field name="Wisdom" type="IntegerTableFieldDefinition" value="10" />
         <field name="Charisma" type="IntegerTableFieldDefinition" value="10" />
-        <field name="Armor" type="IntegerTableFieldDefinition" value="10" />
-        <field name="Vitality" type="IntegerTableFieldDefinition" value="300" />
+        <field name="Armor" type="IntegerTableFieldDefinition" value="22" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="25" />
         <field name="XPReward" type="GuidObjectTableFieldDefinition" value="40806669-8c6b-4068-8bc4-07e4981bb020" />
-        <field name="Sight" type="IntegerTableFieldDefinition" value="200" />
-        <field name="Hearing" type="IntegerTableFieldDefinition" value="50" />
+        <field name="Sight" type="IntegerTableFieldDefinition" value="300" />
+        <field name="Hearing" type="IntegerTableFieldDefinition" value="300" />
         <field name="Weight" type="FloatTableFieldDefinition" value="5" />
-        <field name="DefaultBoosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="BlockRegainHP(Living;Construct)" />
         <field name="SpellCastingAbility" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="Ability" version="1" />
         <field name="UnarmedAttackAbility" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="Ability" version="1" />
         <field name="UnarmedRangedAttackAbility" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="Ability" version="1" />
-        <field name="ActionResources" type="StringTableFieldDefinition" clear_inherited_value="true" value="Movement:4.5" />
+        <field name="ActionResources" type="StringTableFieldDefinition" clear_inherited_value="true" value="Movement:9" />
         <field name="Passives" type="StringTableFieldDefinition" value="DarknessRules" />
         <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="SlashingResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
@@ -37,6 +36,17 @@
         <field name="PsychicResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="RadiantResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="ThunderResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="3" />
+        <field name="FOV" type="IntegerTableFieldDefinition" value="90" />
+        <field name="GameSize" type="EnumerationTableFieldDefinition" value="Small" enumeration_type_name="ObjectSize" version="1" />
+        <field name="SoundSize" type="EnumerationTableFieldDefinition" value="Tiny" enumeration_type_name="ObjectSize" version="1" />
+        <field name="StepsType" type="EnumerationTableFieldDefinition" value="Bone" enumeration_type_name="StepsType" version="1" />
+        <field name="Flags" type="EnumerationListTableFieldDefinition" value="Floating;BackstabImmunity;IgnoreClouds;Unbreakable;SlippingImmunity;InvisibilityImmunity;Unstorable;Unrepairable;FloatingWhileMoving" enumeration_type_name="AttributeFlags" version="1" />
+        <field name="MinimumDetectionRange" type="StringTableFieldDefinition" value="2" />
+        <field name="DarkvisionRange" type="StringTableFieldDefinition" value="12" />
+        <field name="FallingHitEffect" type="StringTableFieldDefinition" value="VFX_Combat_Bludgeoning_Damage_Blood_01" />
+        <field name="FallingLandEffect" type="StringTableFieldDefinition" value="VFX_Combat_Force_Land_01" />
+        <field name="DifficultyStatuses" type="StringTableFieldDefinition" value="STATUS_EASY: HEALTHREDUCTION_EASYMODE; STATUS_HARD: HEALTHBOOST_HARDCORE" />
       </fields>
     </stat_object>
   </stat_objects>
