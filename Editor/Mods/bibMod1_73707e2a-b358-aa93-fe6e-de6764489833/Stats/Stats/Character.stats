@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <stats stat_object_definition_id="a8098c1a-f86e-11da-bd1a-00112444be1e">
-  <stat_objects />
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e86eb6db-8e3b-4153-8572-4691ea473b3d" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Mimir" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d4acbf0e-03a1-4c7c-a36b-eca366b8d9d0" />
+        <field name="Sight" type="IntegerTableFieldDefinition" value="300" />
+        <field name="Hearing" type="IntegerTableFieldDefinition" value="300" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="5" />
+        <field name="UnarmedAttackAbility" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="Ability" version="1" />
+        <field name="UnarmedRangedAttackAbility" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="Ability" version="1" />
+        <field name="ActionResources" type="StringTableFieldDefinition" value="BonusActionPoint:1;Movement:12" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Darkvision;DarknessRules;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check" />
+        <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="SlashingResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PiercingResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="AcidResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="ColdResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="FireResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="ForceResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="LightningResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="NecroticResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PoisonResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PsychicResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="RadiantResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="ThunderResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="SoundSize" type="EnumerationTableFieldDefinition" value="Tiny" enumeration_type_name="ObjectSize" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
 </stats>

@@ -74,13 +74,13 @@
         <field name="Level" type="IntegerTableFieldDefinition" value="3" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Divination" enumeration_type_name="SpellSchool" version="1" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerShortRest" enumeration_type_name="CooldownType" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_Tongues_Buff, 100, 10)" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_Tongues_Buff, 100, 10);ApplyStatus(POTION_OF_ANIMAL_SPEAKING, 100, 10)" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="1.5" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Character() and Ally()" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_ComprehendLanguages" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he719e3e7gb7a6ge63cg73e5g0a5d2bddec22" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd2dec18dg5019g8bbdga4d8g1c1d2e3c4626" version="2" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_Tongues_Buff, 100, 10)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_Tongues_Buff, 100, 10);ApplyStatus(POTION_OF_ANIMAL_SPEAKING, 100, 10)" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Buff_Gen_L1to3_01" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Spell_Prepare_Buff_Gen_L1to3_01_Loop" />
         <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Buff_Guidance_L1to3" />
