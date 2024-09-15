@@ -7,7 +7,7 @@
                 <node id="God">
                     <attribute id="Description" type="TranslatedString" handle="h7dd603ebg6c37g27d9gd5c2ge37c18b6d230" version="3"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hcd937889g2ddbg0436g8d85g6b74891d554c" version="1"/>
-                    <attribute id="Name" type="FixedString" value="FreeThinker"/>
+                    <attribute id="Name" type="FixedString" value="Paitm_FreeThinker"/>
                     <attribute id="UUID" type="guid" value="086960a4-ebd9-4d63-ae76-68cb883682c4"/>
                     <children>
                         <node id="Tags">
