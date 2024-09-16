@@ -175,5 +175,79 @@
         <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF(not SavingThrow(Ability.Wisdom,10)):DealDamage(SELF,2d8,Psychic,Magical)" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="caecf9ee-1d1b-4969-ac54-0aa92cdd5055" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_Passive" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h98e63255g6aa2g812cgfd8fg7bac7889a0f8" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc2e022a7geca5gfc47gf4a5g7bb004f7aad4" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_GlitchCharacter_Attack);UnlockInterrupt(Interrupt_Paitm_GlitchCharacter_Cast)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f018a401-d4aa-404b-a297-73e29c8a9bc3" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_PassiveAttackRoll" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha002d7dfg9b65gbc68g1d45ga4ebfc362dc4" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h111127a8g8cafg59f4g35a3g28a89b4c0890" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnAttack" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(SELF,Paitm_GlitchCharacter_Attack_RandomBase,100,1d10)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="542ba88d-ed08-4f8f-818c-25133bea8371" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_PassiveAttackRoll2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h420bed58gcd88g8ef2gf334g56a9ea3c3c08" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h1230930egee17gb774g666eg70622924ee05" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnAttacked" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="Conditions" type="StringTableFieldDefinition" value="HasPassive('Paitm_GlitchCharacter_Passive',context.Target)" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(SELF,Paitm_GlitchCharacter_Attack_RandomBase,100,1d10)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ffd5f49f-dfa4-454d-a255-6f0d4102dee6" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_PassiveCastRoll" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8999ed50g75f7g3bf0g7ca0gbc3449663dda" version="3" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h133adffdg9b55gdb84ge031gefd6eacd21b8" version="3" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnHeal" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(SELF,Paitm_GlitchCharacter_Cast_RandomBase,100,1d10)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6ca28ad8-c0d1-4c9f-b0c4-8c467e4fedda" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_PassiveCastRoll2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h143f4421g9dc8g90afg06ceg975570e22ee8" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h5a3b53e1g7b03gac72g2c0bgba03ebdb267f" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnHealed" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="Conditions" type="StringTableFieldDefinition" value="HasPassive('Paitm_GlitchCharacter_Passive',context.Target)" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(SELF,Paitm_GlitchCharacter_Cast_RandomBase,100,1d10)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e037f7e9-a53c-4865-a48f-f00c1c610d2c" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_PassiveRestRoll" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3a87da69gf06eg8120g0b04gac1189fa61a1" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h52467ffaga9f7g8c0dg71d4gc48fecaa64c6" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnShortRest;OnLongRest" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(SELF,Paitm_GlitchCharacter_Rest_RandomBase,100,1d4)" />
+        <field name="Conditions" type="StringTableFieldDefinition" value="HasPassive('Paitm_GlitchCharacter_Passive',context.Target)" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

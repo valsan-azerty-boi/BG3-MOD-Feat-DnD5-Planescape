@@ -25,6 +25,13 @@
                     <attribute id="FeatId" type="guid" value="818f08eb-969c-4661-86a0-ddb1b4d844d4"/>
                     <attribute id="UUID" type="guid" value="f8587164-1077-4eb9-b5b9-21c117d28c3b"/>
                 </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hbd824043g2337g763eg7352gc4ca3a50f974" version="4"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hbec64581g0ea1g8d21g6364g1d950a8f4eb4" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="GlitchCharacter"/>
+                    <attribute id="FeatId" type="guid" value="96861844-349c-45ab-900d-f9a85ba888b4"/>
+                    <attribute id="UUID" type="guid" value="725cce15-8938-498a-a8c9-8b05c1a5b6ff"/>
+                </node>
             </children>
         </node>
     </region>

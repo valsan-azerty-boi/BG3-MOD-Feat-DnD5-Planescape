@@ -23,6 +23,12 @@
                     <attribute id="Selectors" type="LSString" value="SelectPassives(c9a2ff24-cbc8-4278-9c32-2b8c4cae822d,1)"/>
                     <attribute id="UUID" type="guid" value="f24cdc77-e469-4c59-8e3f-278f60a9cbf4"/>
                 </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="GlitchCharacter"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Paitm_GlitchCharacter_Passive"/>
+                    <attribute id="UUID" type="guid" value="96861844-349c-45ab-900d-f9a85ba888b4"/>
+                </node>
             </children>
         </node>
     </region>
