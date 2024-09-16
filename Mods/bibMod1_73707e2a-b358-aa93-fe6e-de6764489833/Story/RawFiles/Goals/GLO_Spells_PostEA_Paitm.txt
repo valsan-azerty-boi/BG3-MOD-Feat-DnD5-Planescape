@@ -1,0 +1,59 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+//REGION Paitm Portal Gate
+IF
+EnteredLevel(_PaitmPortalGate,(ROOT)PaitmPortalGate_43e16983-e277-4b29-a122-e84326b45402,_Level)
+AND
+DB_CurrentLevel(_Level)
+THEN
+RealtimeObjectTimerLaunch(_PaitmPortalGate, "GLO_Spells_PaitmPortalGate_WaitForOwnerToGetSet", 0);
+
+IF
+ObjectTimerFinished(_PaitmPortalGate, "GLO_Spells_PaitmPortalGate_WaitForOwnerToGetSet")
+AND
+GetOwner((ITEM)_PaitmPortalGate,_Character)
+AND
+_Character != NULL_00000000-0000-0000-0000-000000000000
+THEN
+DB_GLO_Spells_SpawningPaitmPortalGate(_PaitmPortalGate,_Character);
+
+IF
+DB_GLO_Spells_SpawningPaitmPortalGate(_PaitmPortalGateOne,_Character)
+AND
+DB_GLO_Spells_SpawningPaitmPortalGate(_PaitmPortalGateTwo,_Character)
+AND
+_PaitmPortalGateOne != _PaitmPortalGateTwo
+AND
+GetPosition(_PaitmPortalGateOne,_X1,_Y1,_Z1)
+AND
+GetPosition(_PaitmPortalGateTwo,_X2,_Y2,_Z2)
+AND
+GetAngleXToDirection(_X1,_Z1,_X2,_Z2,_NewAngleOne)
+AND
+GetAngleXToDirection(_X2,_Z2,_X1,_Z1,_NewAngleTwo)
+AND
+IntegerSubtract(270,_NewAngleOne,_NewAngleOnePatched)
+AND
+IntegerSubtract(270,_NewAngleTwo,_NewAngleTwoPatched)
+AND
+IntegerModulo(_NewAngleOnePatched,360,_NewAngleOneNormalised)
+AND
+IntegerModulo(_NewAngleTwoPatched,360,_NewAngleTwoNormalised)
+AND
+IntegerToReal(_NewAngleOneNormalised, _NewAngleOneReal)
+AND
+IntegerToReal(_NewAngleTwoNormalised, _NewAngleTwoReal)
+THEN
+SetTeleportTargetOverride(_PaitmPortalGateOne, _PaitmPortalGateTwo);
+SetTeleportTargetOverride(_PaitmPortalGateTwo, _PaitmPortalGateOne);
+ItemRotateYToAngle(_PaitmPortalGateOne,_NewAngleOneReal,100000.0);
+ItemRotateYToAngle(_PaitmPortalGateTwo,_NewAngleTwoReal,100000.0);
+NOT DB_GLO_Spells_SpawningPaitmPortalGate(_PaitmPortalGateOne,_Character);
+NOT DB_GLO_Spells_SpawningPaitmPortalGate(_PaitmPortalGateTwo,_Character);
+//END_REGION
+EXITSECTION
+
+ENDEXITSECTION
