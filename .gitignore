@@ -428,6 +428,8 @@ Editor/Temp/*
 Editor/Textures/*
 Editor/Triggers/*
 Generated/Public/*
+Mods/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/Depot/*
+Mods/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/Localization/French/french2.xml.casser
 Mods/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/Story/RawFiles/Goals/Act1_GLO_Backgrounds_Goals.txt
 Mods/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/Story/RawFiles/Goals/Act2_GLO_Backgrounds_Goals.txt
 Mods/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/Story/RawFiles/Goals/Act3_GLO_Backgrounds_Goals.txt
@@ -441,8 +443,7 @@ Mods/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/Story/story.div
 Mods/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/Story/story.div.osi
 Mods/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/Story/RawFiles/story_definitions.div
 Mods/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/Story/RawFiles/story_header.div
-Mods/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/Depot/*
-Mods/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/Localization/French/french2.xml.casser
+Mods/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/Story/Dialogs/Autosave/*
 Mods/Gustav/*
 Mods/GustavDev/*
 Mods/Shared/*
@@ -453,9 +454,9 @@ Public/*.jpeg
 Public/*.fbx
 Public/Engine/*
 Public/Shared/GUI/*
+Public/Shared/Voice/SpeakerGroups.lsf
+Public/SharedDev/Voice/SpeakerGroups.lsf
+Public/Gustav/Voice/SpeakerGroups.lsf
+Public/GustavDev/Voice/SpeakerGroups.lsf
 Public/UserTemp/*
 Projects/GustavDev/*
-Public/SharedDev/Voice/SpeakerGroups.lsf
-Public/Shared/Voice/SpeakerGroups.lsf
-Public/GustavDev/Voice/SpeakerGroups.lsf
-Public/Gustav/Voice/SpeakerGroups.lsf
