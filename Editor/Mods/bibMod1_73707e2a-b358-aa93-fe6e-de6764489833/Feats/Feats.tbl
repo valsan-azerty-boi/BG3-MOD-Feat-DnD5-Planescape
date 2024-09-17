@@ -29,5 +29,14 @@
         <field name="PassivesAdded" type="StringTableFieldDefinition" value="Paitm_PortalCracker_PassiveRoll" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="96861844-349c-45ab-900d-f9a85ba888b4" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="GlitchCharacter" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="Paitm_GlitchCharacter_Passive" />
+        <field name="CanBeTakenMultipleTimes" type="BoolTableFieldDefinition" value="False" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

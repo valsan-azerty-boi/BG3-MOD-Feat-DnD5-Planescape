@@ -71,5 +71,37 @@
         <field name="Cost" type="StringTableFieldDefinition" value="ReactionActionPoint:1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cd68e831-1cbb-4dc5-96b1-1c0e537fa123" />
+        <field name="Name" type="NameTableFieldDefinition" value="Interrupt_Paitm_GlitchCharacter_Attack" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3f399b4bg34cag8f0bga515gb5e29655926d" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="heda10324g76b0gc44ag2065gb92aac937f9d" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="InterruptContext" type="EnumerationListTableFieldDefinition" value="OnPreDamage" enumeration_type_name="InterruptContext" version="1" />
+        <field name="InterruptContextScope" type="EnumerationListTableFieldDefinition" value="Self;Nearby" enumeration_type_name="InterruptContextScope" version="1" />
+        <field name="Container" type="StringTableFieldDefinition" value="YesNoDecision" />
+        <field name="Conditions" type="StringTableFieldDefinition" value="IsAbleToReact(context.Observer) and Self(context.Source,context.Observer) and not Item() and HasDamageEffectFlag(DamageFlags.Hit) and not IsKillingBlow() and not AnyEntityIsItem() and IsAttack() and not HasSpellFlag(SpellFlags.Spell) " />
+        <field name="Properties" type="StringTableFieldDefinition" value="ApplyStatus(OBSERVER_OBSERVER,Paitm_GlitchCharacter_Attack_RandomBase,100,1d10)" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
+        <field name="InterruptDefaultValue" type="EnumerationListTableFieldDefinition" value="Enabled" enumeration_type_name="InterruptDefaultValue" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cd3a9220-f66a-40ac-a922-20d5bf0b429d" />
+        <field name="Name" type="NameTableFieldDefinition" value="Interrupt_Paitm_GlitchCharacter_Cast" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4fbec60cg9b97gd573g5cf2g30b438699523" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="he2d44030gd930g2688gb270g23d185e3ee5f" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="InterruptContext" type="EnumerationListTableFieldDefinition" value="OnCastHit" enumeration_type_name="InterruptContext" version="1" />
+        <field name="InterruptContextScope" type="EnumerationListTableFieldDefinition" value="Self;Nearby" enumeration_type_name="InterruptContextScope" version="1" />
+        <field name="Container" type="StringTableFieldDefinition" value="YesNoDecision" />
+        <field name="Conditions" type="StringTableFieldDefinition" value="IsAbleToReact(context.Observer) and Self(context.Source,context.Observer) and not Item() and not AnyEntityIsItem() and HasSpellFlag(SpellFlags.Spell) and not SpellId('Shout_END_Gale_ActivateNethereseOrb')" />
+        <field name="Properties" type="StringTableFieldDefinition" value="ApplyStatus(OBSERVER_OBSERVER,Paitm_GlitchCharacter_Cast_RandomBase,100,1d10)" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
+        <field name="InterruptDefaultValue" type="EnumerationListTableFieldDefinition" value="Enabled" enumeration_type_name="InterruptDefaultValue" version="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

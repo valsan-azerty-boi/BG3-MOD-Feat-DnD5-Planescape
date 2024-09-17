@@ -124,3 +124,11 @@ data "StatsFunctorContext" "OnCast"
 data "Conditions" "SpellId('Teleportation_Paitm_PortalCracker')"
 data "StatsFunctors" "IF(not SavingThrow(Ability.Wisdom,10)):DealDamage(SELF,2d8,Psychic,Magical)"
 
+new entry "Paitm_GlitchCharacter_Passive"
+type "PassiveData"
+data "DisplayName" "h98e63255g6aa2g812cgfd8fg7bac7889a0f8;1"
+data "Description" "hc2e022a7geca5gfc47gf4a5g7bb004f7aad4;2"
+data "Icon" "Skill_Druid_WildShape_Dismiss"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockInterrupt(Interrupt_Paitm_GlitchCharacter_Attack);UnlockInterrupt(Interrupt_Paitm_GlitchCharacter_Cast)"
+

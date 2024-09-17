@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="30cb9bac-4d82-11ea-b77f-2e728ce88125">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="Paitm_FreeThinker" />
+        <field name="UUID" type="IdTableFieldDefinition" value="086960a4-ebd9-4d63-ae76-68cb883682c4" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hcd937889g2ddbg0436g8d85g6b74891d554c" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7dd603ebg6c37g27d9gd5c2ge37c18b6d230" version="3" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c1ff8a7f-c430-4671-bc4e-098f874ae302" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

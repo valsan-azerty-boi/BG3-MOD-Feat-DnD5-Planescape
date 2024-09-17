@@ -175,5 +175,16 @@
         <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF(not SavingThrow(Ability.Wisdom,10)):DealDamage(SELF,2d8,Psychic,Magical)" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="caecf9ee-1d1b-4969-ac54-0aa92cdd5055" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_Passive" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h98e63255g6aa2g812cgfd8fg7bac7889a0f8" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc2e022a7geca5gfc47gf4a5g7bb004f7aad4" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_GlitchCharacter_Attack);UnlockInterrupt(Interrupt_Paitm_GlitchCharacter_Cast)" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

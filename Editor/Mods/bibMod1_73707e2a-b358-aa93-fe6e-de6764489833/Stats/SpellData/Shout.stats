@@ -316,5 +316,25 @@
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_DetectThoughts" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f1d3872f-0d44-4c7c-acae-148a832e52de" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchedIncarnation_Cancel" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1784cf72-13f5-4810-8a55-7cf3929b9c78" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9455585ag0e27g64f8g78a4gd47bd55f5641" version="3" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h4ae750aeg81dfg706fgbd60g2a22bb4ef817" version="3" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="Temporary" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="CooldownType" version="1" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="RemoveStatus(SG_Disguise);RemoveStatus(SG_Polymorph)" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Divination" enumeration_type_name="SpellSchool" version="1" />
+        <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
+        <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
+        <field name="UseCosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="BonusActionPoint:1" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

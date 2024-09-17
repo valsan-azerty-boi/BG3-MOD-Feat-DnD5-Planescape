@@ -8,13 +8,13 @@
         <field name="Level" type="IntegerTableFieldDefinition" value="4" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Abjuration" enumeration_type_name="SpellSchool" version="1" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerCombat" enumeration_type_name="CooldownType" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 10,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 5,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ArcaneLock" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6d4f5178g1938g00a2gf920g880454834028" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="3" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,10)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,5)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="TooltipPermanentWarnings" type="StringTableFieldDefinition" value="375e5ffb-c67a-434c-a64e-323f7afeb25b" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Debuff_Gen_L1to3_01" />
@@ -129,13 +129,13 @@
         <field name="Level" type="IntegerTableFieldDefinition" value="4" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Abjuration" enumeration_type_name="SpellSchool" version="1" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerCombat" enumeration_type_name="CooldownType" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 10,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 5,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ArcaneLock" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h52cb2e91gf45eg4bf2gfdaeg0df82f11acc4" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7cecf0f4g32e0gbeb8g1258g196d9b29cf31" version="2" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,10)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,5)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="TooltipPermanentWarnings" type="StringTableFieldDefinition" value="375e5ffb-c67a-434c-a64e-323f7afeb25b" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Debuff_Gen_L1to3_01" />
@@ -169,13 +169,13 @@
         <field name="Level" type="IntegerTableFieldDefinition" value="4" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Abjuration" enumeration_type_name="SpellSchool" version="1" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerCombat" enumeration_type_name="CooldownType" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 15,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 10,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ArcaneLock" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8483d49ag1e8dg1c43g8018gfcd6bbef6e23" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcedc6be9ge111g4c71g1742g013f38ae2a65" version="2" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,15)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,10)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="TooltipPermanentWarnings" type="StringTableFieldDefinition" value="375e5ffb-c67a-434c-a64e-323f7afeb25b" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Debuff_Gen_L1to3_01" />
@@ -209,13 +209,13 @@
         <field name="Level" type="IntegerTableFieldDefinition" value="4" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Abjuration" enumeration_type_name="SpellSchool" version="1" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerCombat" enumeration_type_name="CooldownType" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 15,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 10,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ArcaneLock" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc9103a06g6ce1g9873gf3b6ga43de4e8a062" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h717a8513g3681g3750gd31eg98db9c4c5400" version="2" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,15)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,10)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="TooltipPermanentWarnings" type="StringTableFieldDefinition" value="375e5ffb-c67a-434c-a64e-323f7afeb25b" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Debuff_Gen_L1to3_01" />
@@ -249,13 +249,13 @@
         <field name="Level" type="IntegerTableFieldDefinition" value="4" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Abjuration" enumeration_type_name="SpellSchool" version="1" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerCombat" enumeration_type_name="CooldownType" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 15,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 10,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ArcaneLock" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf8687996gdb03g610cg1c03g3fb532b80da1" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7555f29cg9d6fg1583g4a52g55fa5b85c11e" version="2" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,15)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,10)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="TooltipPermanentWarnings" type="StringTableFieldDefinition" value="375e5ffb-c67a-434c-a64e-323f7afeb25b" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Debuff_Gen_L1to3_01" />
@@ -289,13 +289,13 @@
         <field name="Level" type="IntegerTableFieldDefinition" value="4" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Abjuration" enumeration_type_name="SpellSchool" version="1" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerCombat" enumeration_type_name="CooldownType" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 15,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 10,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ArcaneLock" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h522850b4ga97fg5c82g95fdg4ae3c3599792" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9bbfa2d1g1deegb97fg56adgad0e268bcbc9" version="2" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,15)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,10)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="TooltipPermanentWarnings" type="StringTableFieldDefinition" value="375e5ffb-c67a-434c-a64e-323f7afeb25b" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Debuff_Gen_L1to3_01" />
