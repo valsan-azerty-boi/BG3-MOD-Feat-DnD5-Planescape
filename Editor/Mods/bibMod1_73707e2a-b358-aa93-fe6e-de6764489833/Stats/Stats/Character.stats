@@ -29,6 +29,7 @@
         <field name="SoundSize" type="EnumerationTableFieldDefinition" value="Tiny" enumeration_type_name="ObjectSize" version="1" />
         <field name="Flags" type="EnumerationListTableFieldDefinition" value="Floating;FloatingWhileMoving" enumeration_type_name="AttributeFlags" version="1" />
         <field name="DefaultBoosts" type="StringTableFieldDefinition" value="IgnoreFallDamage(); ProficiencyBonus(SavingThrow,Intelligence); BlockRegainHP(Living;Construct); ApplyStatus(FLY,100,-1); UnlockSpell(Projectile_Fly_Spell)" />
+        <field name="Armor" type="IntegerTableFieldDefinition" value="22" />
       </fields>
     </stat_object>
   </stat_objects>

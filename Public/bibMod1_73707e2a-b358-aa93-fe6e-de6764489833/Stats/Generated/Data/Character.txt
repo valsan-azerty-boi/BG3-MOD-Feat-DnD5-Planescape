@@ -1,6 +1,7 @@
 new entry "Paitm_Mimir"
 type "Character"
 using "FloatingHead"
+data "Armor" "22"
 data "Sight" "300"
 data "Hearing" "300"
 data "Weight" "5"

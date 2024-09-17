@@ -455,3 +455,7 @@ Public/Engine/*
 Public/Shared/GUI/*
 Public/UserTemp/*
 Projects/GustavDev/*
+Public/SharedDev/Voice/SpeakerGroups.lsf
+Public/Shared/Voice/SpeakerGroups.lsf
+Public/GustavDev/Voice/SpeakerGroups.lsf
+Public/Gustav/Voice/SpeakerGroups.lsf
