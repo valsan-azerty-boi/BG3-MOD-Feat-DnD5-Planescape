@@ -318,23 +318,23 @@
 <content contentuid="h034e1312gfc43g6baeg78d7g01fdf4a6d2af" version="1">Este antigo dispositivo em forma de caveira está repleto de conhecimento.</content>
 <content contentuid="hababc55dg424dg34efg8a17g12622adedd4f" version="2">Esta pequena e suave pedra contém a essência de uma única experiência. Você pode tocar e consumir a pedra e experimentar a sensação você mesmo. Acabe com a condição encantada e assustada.</content>
 <content contentuid="hbbe6fb62g8720ge560g9f8egfb8255bb73c1" version="1">Esta pequena e suave pedra contém a essência de uma única experiência. Você pode tocar e consumir a pedra e experimentar a sensação você mesmo. Acabe com a condição encantada e assustada.</content>
-<content contentuid="hc1879bf9ge4f7g5255gc004g0781b6d42fc7" version="2">Pergaminho de Sentido de Distorção</content>
+<content contentuid="hc1879bf9ge4f7g5255gc004g0781b6d42fc7" version="1">Pergaminho de Sentido de Distorção</content>
 <content contentuid="h5eec5a4dg2405g2283g442eg631cc1ddc8f1" version="1">Pergaminho do Selo do Portão</content>
 <content contentuid="h553c82b2g12ebg58cbgbabfg1a9d16cfa477" version="2">Pergaminho do Selo do Portão</content>
 <content contentuid="hfcfb0f1bg0821ge78fgd3d8g860be08d4105" version="2">Pergaminho do Selo do Portão</content>
 <content contentuid="hc9aee5eege786g13f1gec8bgc3d884c981f3" version="1">Quebrador de portais</content>
 <content contentuid="h8b3e8f81g355bg97c3ge7e7gef7c5c149603" version="1">Tente lançar Portal Cracker com segurança.</content>
 <content contentuid="h39b148e5ga397g512bgc05dgc0ae5ac90c80" version="1">Pedra sensorial</content>
-<content contentuid="h8661c82cg968cg7376g49ecg0af9fc7371f0" version="2">Velho Mimir Inanimado</content>
+<content contentuid="h8661c82cg968cg7376g49ecg0af9fc7371f0" version="3">Velho Mimir Inanimado</content>
 <content contentuid="hc515d8bdgc91ag00afg3b5eg9f683089a0ae" version="6">Pedra sensorial</content>
 <content contentuid="ha39c241fgfdd5g1d77g28e2gde5843be5df1" version="2">Bússola do Portal</content>
-<content contentuid="hc13933a5g243dg625bgbcd5g6992c525f1e5" version="3">Este antigo dispositivo inanimado em forma de crânio está repleto de conhecimento.</content>
+<content contentuid="hc13933a5g243dg625bgbcd5g6992c525f1e5" version="4">Este antigo dispositivo inanimado em forma de crânio está repleto de conhecimento.</content>
 <content contentuid="h19f6dfd8gdc11gdbabgb792gf13be0ddb61e" version="1">Pedra sensorial</content>
 <content contentuid="h11f6fe24g1b93ge170gdca1g5d79194cbfe5" version="1">Mimir</content>
 <content contentuid="h5c94facagf9ecg4524g5fcfg4db96e33cdbb" version="1">Bússola do Portal</content>
 <content contentuid="h0ecbb3b1g4632g7672g2411g10297af2e28c" version="1">Bússola do Portal</content>
 <content contentuid="h82ae22f9gb470g74b9g2f81g35db749d7bf6" version="1">Você tem um bônus de Proficiência em Arcanismo e Percepção.</content>
-<content contentuid="he74c5a36gaa29g319cga756gace944dd2f43" version="28">Mimir</content>
+<content contentuid="he74c5a36gaa29g319cga756gace944dd2f43" version="29">Mimir</content>
 <content contentuid="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1">Ative o Mimir e absorva seu conhecimento.</content>
 <content contentuid="hcd937889g2ddbg0436g8d85g6b74891d554c" version="1">Livre pensador</content>
 <content contentuid="h7dd603ebg6c37g27d9gd5c2ge37c18b6d230" version="3">Para aqueles independentes de mente e pensamento, que não se referem a nenhum deus. Muitas vezes vemos essa maneira de pensar entre os moradores de Sigil. Com uma classe como Clérigo, um personagem sem deus pode às vezes ganhar poderes de suas próprias convicções e princípios.</content>
@@ -413,4 +413,10 @@
 <content contentuid="h4fbec60cg9b97gd573g5cf2g30b438699523" version="1">Falha no elenco</content>
 <content contentuid="he2d44030gd930g2688gb270g23d185e3ee5f" version="1">Às vezes, outras versões de você se fundem com você durante o gesso.</content>
 <content contentuid="hbec539bdgfe54g30abg37caga453d77caef8" version="1">*Crrrkkk*</content>
+<content contentuid="h3a0ff6c2ge915g1a79g400agaab25e37fbd9" version="8">Morte</content>
+<content contentuid="h78db741fgb55cg325cg3153gd1f5d62b5f87" version="8">Mimir</content>
+<content contentuid="hbdfa7db9g426agb016g1e61g43e526925235" version="6">Morte</content>
+<content contentuid="h12bb70d7ga5d5g3412g4e03gf2c0b249875b" version="6">Esse velho Mimir quer acordar e conversar.</content>
+<content contentuid="h7b481653g323ag3461gcd1ag86612f011e54" version="1">Morte</content>
+<content contentuid="hae6883e4gc6a3g8aaaged24ga4fca3eaef0f" version="1">Esse velho Mimir quer acordar e conversar.</content>
 </contentList>
