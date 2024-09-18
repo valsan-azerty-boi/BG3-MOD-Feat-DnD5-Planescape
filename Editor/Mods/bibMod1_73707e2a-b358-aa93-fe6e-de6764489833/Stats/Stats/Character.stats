@@ -29,6 +29,32 @@
         <field name="SoundSize" type="EnumerationTableFieldDefinition" value="Tiny" enumeration_type_name="ObjectSize" version="1" />
         <field name="Flags" type="EnumerationListTableFieldDefinition" value="Floating;FloatingWhileMoving" enumeration_type_name="AttributeFlags" version="1" />
         <field name="DefaultBoosts" type="StringTableFieldDefinition" value="IgnoreFallDamage(); ProficiencyBonus(SavingThrow,Intelligence); BlockRegainHP(Living;Construct); ApplyStatus(FLY,100,-1); UnlockSpell(Projectile_Fly_Spell)" />
+        <field name="Armor" type="IntegerTableFieldDefinition" value="22" />
+        <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SG_Prone;PRONE_FALLEN;CRIPPLED;BLEEDING;GAPING_WOUND;CHEST_TRAUMA;SG_Charmed;SG_Frightened;SG_Poisoned;UNCONSCIOUS;SCL_SHADOW_CURSE" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="76cbe2f5-2b10-4b2e-ab41-fbf4de2fe37a" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Mimir_Morte" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e86eb6db-8e3b-4153-8572-4691ea473b3d" />
+        <field name="Sight" type="IntegerTableFieldDefinition" value="600" />
+        <field name="Hearing" type="IntegerTableFieldDefinition" value="600" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="IgnoreFallDamage(); ProficiencyBonus(SavingThrow,Intelligence); BlockRegainHP(Living;Construct); ApplyStatus(FLY,100,-1); UnlockSpell(Projectile_Fly_Spell); UnlockSpell(Target_Bite_SkeletonHound)" />
+        <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SG_Prone;PRONE_FALLEN;CRIPPLED;BLEEDING;GAPING_WOUND;CHEST_TRAUMA;SG_Poisoned;SCL_SHADOW_CURSE" />
+        <field name="UnarmedAttackAbility" type="EnumerationTableFieldDefinition" value="Constitution" enumeration_type_name="Ability" version="1" />
+        <field name="ActionResources" type="StringTableFieldDefinition" value="Movement:12;ActionPoint:1;BonusActionPoint:1;ReactionActionPoint:1" />
+        <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="SlashingResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PiercingResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="AcidResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="ColdResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="FireResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="ForceResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="LightningResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="RadiantResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="ThunderResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="Initiative" type="IntegerTableFieldDefinition" value="2" />
       </fields>
     </stat_object>
   </stat_objects>

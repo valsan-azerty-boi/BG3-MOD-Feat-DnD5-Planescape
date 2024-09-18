@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!--Translation by Hecctus-->
 <!--Freshly baked localization file made with a tool from Ulkyome-->
-<contentList date="09.14.2024_19_23">
+<contentList date="09.17.2024_21_11">
   <content contentuid="h1c9149e8g6d95ge63ag585eg403768a29c67" version="1">Планарный философ</content>
   <content contentuid="h914bf037g3869g4beag9f3bg36a70f55e92d" version="2">Вы придерживаетесь особой философии, стремящуюся понять природу планов или некую скрытую истину мультивселенной. Вы черпаете силу из своей убежденности и, возможно, сети единомышленников, таких как фракции Сигила. В своих путешествиях вы стремитесь углубить своё понимание и распространить свою философию.</content>
   <content contentuid="h350fe144ga8fdg985dgc3acg5a7496bb2797" version="1">Хранитель врат</content>
@@ -104,9 +104,9 @@
   <content contentuid="h0150b07ageb11g8fddg1619g048d8caefad1" version="2">Космические силы Хаоса позволяют вам телепортироваться.</content>
   <content contentuid="haf7bfe00g5b51g2e49gf6bbg33a5f79ba0cf" version="1">Хаотическая вспышка</content>
   <content contentuid="habbd4ca6gd7b9gb061gcf44gb220701f10dd" version="2">Как агент Хаоса, при критическом ударе или критическом промахе вы можете случайным образом получить эффект хаоса на текущий ход.</content>
-  <content contentuid="h2151ec82ge6beg66bege538g9d5cfc9795c6" version="2">Хаотическая вспышка</content>
+  <content contentuid="h2151ec82ge6beg66bege538g9d5cfc9795c6" version="2">Применение хаотической вспышки</content>
   <content contentuid="h42589640g788cg1485g4e38gda5fce54fb78" version="1">Как Агент Хаоса, при броске атаки вы можете случайным образом получить эффект хаоса на текущий ход.</content>
-  <content contentuid="ha6b6349ege712ge389ge8e4g34555c999327" version="2">Хаотическая вспышка</content>
+  <content contentuid="ha6b6349ege712ge389ge8e4g34555c999327" version="2">Рандомная хаотическая вспышка</content>
   <content contentuid="h39b8eabagc511g5197g0ad2g228857a732f8" version="1">Как Агент Хаоса, при броске атаки вы можете случайным образом получить эффект хаоса на текущий ход.</content>
   <content contentuid="hdf8de10cg455cg9379gf463gb50959cfcb46" version="1">Поле разрушения</content>
   <content contentuid="h174d21e6gad79g9e5eg412cg823a6bf46744" version="2">Космические силы Хаоса создают вокруг вас энергетические волны. Этот эффект наносит урон находящимся поблизости существам.</content>
@@ -335,21 +335,21 @@
   <content contentuid="h5c94facagf9ecg4524g5fcfg4db96e33cdbb" version="1">Портальный компас</content>
   <content contentuid="h0ecbb3b1g4632g7672g2411g10297af2e28c" version="1">Портальный компас</content>
   <content contentuid="h82ae22f9gb470g74b9g2f81g35db749d7bf6" version="1">У вас есть умение в магии и внимании.</content>
-  <content contentuid="he74c5a36gaa29g319cga756gace944dd2f43" version="13">Мимир</content>
+  <content contentuid="he74c5a36gaa29g319cga756gace944dd2f43" version="28">Мимир</content>
   <content contentuid="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1">Активировать Мимира</content>
   <content contentuid="hcd937889g2ddbg0436g8d85g6b74891d554c" version="1">Свободный мыслитель</content>
-  <content contentuid="h7dd603ebg6c37g27d9gd5c2ge37c18b6d230" version="3">Для персонажа, который не относится ни к какому богу.</content>
-  <content contentuid="h55a58843g198fg42beg8885g5d1fa3d64808" version="11">Портал</content>
-  <content contentuid="h276ab033g0890g4653g9cadg0b61a1ec93a7" version="10">Этот портал телепортируется к своему близнецу.</content>
-  <content contentuid="hbec64581g0ea1g8d21g6364g1d950a8f4eb4" version="1">Персонаж глюка</content>
+  <content contentuid="h7dd603ebg6c37g27d9gd5c2ge37c18b6d230" version="3">Для тех, у кого независимый разум и мышление, кто не ссылается ни на какого бога. Мы часто наблюдаем подобный образ мышления среди жителей Сигила. С таким классом, как жрец, безбожный персонаж иногда может обрести силу благодаря своим собственным убеждениям и принципам.</content>
+  <content contentuid="h55a58843g198fg42beg8885g5d1fa3d64808" version="11">Врата портала</content>
+  <content contentuid="h276ab033g0890g4653g9cadg0b61a1ec93a7" version="10">Связанные планарными энергиями со своим двойником, эти врата позволяют тем, кто проходит через них, выйти из их двойных врат.</content>
+  <content contentuid="hbec64581g0ea1g8d21g6364g1d950a8f4eb4" version="1">Глючный персонаж</content>
   <content contentuid="hbd824043g2337g763eg7352gc4ca3a50f974" version="4">Вы помните странные места и странные времена. Похоже, что ты не единственный «вы» в мультивселенной. В качестве аномалии иногда появляются другие воплощения, дающие вам бонусы.</content>
-  <content contentuid="h8999ed50g75f7g3bf0g7ca0gbc3449663dda" version="3">Лечение глюка персонажа</content>
-  <content contentuid="h98e63255g6aa2g812cgfd8fg7bac7889a0f8" version="1">Персонаж глюка</content>
-  <content contentuid="ha002d7dfg9b65gbc68g1d45ga4ebfc362dc4" version="2">Атака персонажа</content>
+  <content contentuid="h8999ed50g75f7g3bf0g7ca0gbc3449663dda" version="3">Заклинание глючного персонажа</content>
+  <content contentuid="h98e63255g6aa2g812cgfd8fg7bac7889a0f8" version="1">Глючный персонаж</content>
+  <content contentuid="ha002d7dfg9b65gbc68g1d45ga4ebfc362dc4" version="2">Атака глючного персонажа</content>
   <content contentuid="hc2e022a7geca5gfc47gf4a5g7bb004f7aad4" version="2">Вы аномалия в мультивселенной. Иногда другие версии вас тают вместе с вашим существованием.</content>
-  <content contentuid="h133adffdg9b55gdb84ge031gefd6eacd21b8" version="3">На исцелении появляется сбойное воплощение.</content>
+  <content contentuid="h133adffdg9b55gdb84ge031gefd6eacd21b8" version="3">При чтении заклинания появляется глючное воплощение.</content>
   <content contentuid="h111127a8g8cafg59f4g35a3g28a89b4c0890" version="2">При атаке появляется глючное воплощение.</content>
-  <content contentuid="h3a87da69gf06eg8120g0b04gac1189fa61a1" version="2">Отдых персонажа</content>
+  <content contentuid="h3a87da69gf06eg8120g0b04gac1189fa61a1" version="2">Отдых глючного персонажа</content>
   <content contentuid="h52467ffaga9f7g8c0dg71d4gc48fecaa64c6" version="2">На отдыхе появляется глючное воплощение.</content>
   <content contentuid="h28f3acdbg9c62gd2f3g44d5g9f10efbb674f" version="1">Глючное воплощение</content>
   <content contentuid="h89fde963g2175g29fdg557cgbc1c9985f779" version="1">Глючное воплощение</content>
@@ -383,7 +383,7 @@
   <content contentuid="h30f8c32fga329g68fbg5518g20ffef2ce9fe" version="1">Глючное воплощение</content>
   <content contentuid="he2bf6dbfg374cgc0b5ga59bgd2fd8e5d9ae3" version="1">Глючное воплощение</content>
   <content contentuid="hd7c4bd02g6f72gc021g1e66gdd067b23fa78" version="1">Глючное воплощение</content>
-  <content contentuid="h9455585ag0e27g64f8g78a4gd47bd55f5641" version="3">Вспомни себя</content>
+  <content contentuid="h9455585ag0e27g64f8g78a4gd47bd55f5641" version="3">Вспомнить себя</content>
   <content contentuid="h4ae750aeg81dfg706fgbd60g2a22bb4ef817" version="3">Сосредоточьтесь и постарайтесь вспомнить свое главное воплощение.</content>
   <content contentuid="hc8a2dccbgb722gec46g2936ga7dd8907efdf" version="1">глюк</content>
   <content contentuid="h6ce78d3bg31bag4ab7g5be7g0fd8fbe07e6b" version="1">глюк</content>
@@ -395,22 +395,23 @@
   <content contentuid="h7aaaf703g5578gbcd4g271dg9a828ad84231" version="3">Применение глюка?</content>
   <content contentuid="h4d9d4771ge6aeg61c8gd4d5g980f59cac23e" version="4">Глюк при кастинге</content>
   <content contentuid="hfec8449bga548g7d6dg3bfbg6b14f70de347" version="3">Применение глюка?</content>
-  <content contentuid="h88399085gf9a1gd84bg1346g390dd2233e07" version="3">Глюк на отдыхе</content>
+  <content contentuid="h88399085gf9a1gd84bg1346g390dd2233e07" version="3">Глюк при отдыхе</content>
   <content contentuid="h49c2c0a9gf2f9ga7fcg4648g4feaba68b503" version="3">Применение глюка?</content>
-  <content contentuid="h811bd64dg5987gc5a4g61b0ge144c1d89f0f" version="2">Воплощение</content>
-  <content contentuid="h075ba9d9g0211g79e6g7fc7g08a9236bc21f" version="1">Воплощение</content>
-  <content contentuid="h54a3c1eag0199g01b1gdbcdge528463cf26d" version="1">Воплощение</content>
-  <content contentuid="h1c5ac7d4gd05eg4379g7dc7g6e1bb4bea16c" version="1">Воплощение</content>
-  <content contentuid="h01dc71e8g16dcgf967gf977g4cf1b1bbbfbe" version="1">Воплощение</content>
-  <content contentuid="h4807472eg1020g991dgbf18g5d3c054206cf" version="1">Воплощение</content>
-  <content contentuid="h81b7d4a0g982bgac0bg2566g2cf964aafc8f" version="1">Воплощение</content>
-  <content contentuid="h97c3ceccg814ag6617g7232g6d014b6e8a7b" version="1">Воплощение</content>
+  <content contentuid="h811bd64dg5987gc5a4g61b0ge144c1d89f0f" version="2">Воплощение полу-орка</content>
+  <content contentuid="h075ba9d9g0211g79e6g7fc7g08a9236bc21f" version="1">Воплощение тифлинга</content>
+  <content contentuid="h54a3c1eag0199g01b1gdbcdge528463cf26d" version="1">Воплощение человека</content>
+  <content contentuid="h1c5ac7d4gd05eg4379g7dc7g6e1bb4bea16c" version="1">Воплощение гнома</content>
+  <content contentuid="h01dc71e8g16dcgf967gf977g4cf1b1bbbfbe" version="1">Воплощение халфлинга</content>
+  <content contentuid="h4807472eg1020g991dgbf18g5d3c054206cf" version="1">Воплощение дроу</content>
+  <content contentuid="h81b7d4a0g982bgac0bg2566g2cf964aafc8f" version="1">Воплощение гитьянки</content>
+  <content contentuid="h97c3ceccg814ag6617g7232g6d014b6e8a7b" version="1">Воплощение драконорожденного</content>
   <content contentuid="h420bed58gcd88g8ef2gf334g56a9ea3c3c08" version="1">Персонаж глюка атакован</content>
   <content contentuid="h1230930egee17gb774g666eg70622924ee05" version="1">При атаке появляется глючное воплощение.</content>
-  <content contentuid="h143f4421g9dc8g90afg06ceg975570e22ee8" version="1">Персонаж глюка Healed</content>
-  <content contentuid="h5a3b53e1g7b03gac72g2c0bgba03ebdb267f" version="1">На гипсе появляется сбойное воплощение.</content>
+  <content contentuid="h143f4421g9dc8g90afg06ceg975570e22ee8" version="1">Заклинание глючного персонажа</content>
+  <content contentuid="h5a3b53e1g7b03gac72g2c0bgba03ebdb267f" version="1">Глючное воплощение проявляется при чтении заклинания.</content>
   <content contentuid="h3f399b4bg34cag8f0bga515gb5e29655926d" version="1">Глюк при атаке</content>
   <content contentuid="heda10324g76b0gc44ag2065gb92aac937f9d" version="1">Иногда другие версии вас тают вместе с вами во время атаки.</content>
-  <content contentuid="h4fbec60cg9b97gd573g5cf2g30b438699523" version="1">Глюк при кастинге</content>
+  <content contentuid="h4fbec60cg9b97gd573g5cf2g30b438699523" version="1">Глюк при чтении заклинания</content>
   <content contentuid="he2d44030gd930g2688gb270g23d185e3ee5f" version="1">Иногда другие версии вас тают вместе с вами во время заклинания.</content>
+  <content contentuid="hbec539bdgfe54g30abg37caga453d77caef8" version="1">*Кррр*</content>
 </contentList>
