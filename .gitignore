@@ -452,6 +452,7 @@ Public/*.png
 Public/*.jpg
 Public/*.jpeg
 Public/*.fbx
+Public/*.GR2
 Public/Engine/*
 Public/Shared/GUI/*
 Public/Shared/Voice/SpeakerGroups.lsf
