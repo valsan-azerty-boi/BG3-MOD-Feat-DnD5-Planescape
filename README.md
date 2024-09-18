@@ -14,6 +14,7 @@ This mod implements features from the D&D 5E Planescape sourcebooks into Baldur'
 - English 
 - French
 - Russian (by Hecctus)
+- Brazilian Portuguese (by AlucardTraducao)
 
 ## Requirements
 - BG3 *Patch 7*
@@ -29,6 +30,7 @@ This mod implements features from the D&D 5E Planescape sourcebooks into Baldur'
 - Spooky Syd Meier
 - berrako
 - Hecctus
+- AlucardTraducao
 - And Larian for the game and Mod Toolkit
 
 ![Planescape](./Projects/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/images/planescape_pres_morte.png)

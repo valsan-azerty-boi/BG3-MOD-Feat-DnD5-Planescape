@@ -9,7 +9,7 @@
                     <children>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="GustavDev"/>
-                            <attribute id="MD5" type="LSString" value="8591f2eb55f1679e80c91f76ad10253e"/>
+                            <attribute id="MD5" type="LSString" value="96c19798a020e178251944be557fc464"/>
                             <attribute id="Name" type="LSString" value="GustavDev"/>
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="28ac9ce2-2aba-8cda-b3b5-6e922f71b6b8"/>
@@ -21,7 +21,7 @@
                     <attribute id="Author" type="LSString" value="valsan-azerty-boi / bib-qwerty-san / bibsan"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
                     <attribute id="Description" type="LSString" value="This mod implements features from the DnD 5E Planescape sourcebooks into Baldur&apos;s Gate 3. These features have been adapted to better match the way the game works. Contains backgrounds, goals, feats, spells, items, etc."/>
-                    <attribute id="FileSize" type="uint64" value="41125558"/>
+                    <attribute id="FileSize" type="uint64" value="41125622"/>
                     <attribute id="Folder" type="LSString" value="bibMod1_73707e2a-b358-aa93-fe6e-de6764489833"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
                     <attribute id="MD5" type="LSString" value="2745ff56a2a6f4f2b0e3d4677235054f"/>
