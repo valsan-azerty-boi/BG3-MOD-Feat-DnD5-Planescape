@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="3" minor="2" revision="0" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="VoiceMetaData">
+		<node id="VoiceMetaData">
+			<children>
+				<node id="VoiceSpeakerMetaData">
+					<attribute id="MapKey" type="FixedString" value="7dbd681a-da33-4ef4-8eac-d03c418dc701" />
+					<children>
+						<node id="MapValue">
+							<children>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="he078a82egc8ceg7240gae1fg1baaeb8ae5f7" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="0.787" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v7dbd681ada334ef48eacd03c418dc701_he078a82egc8ceg7240gae1fg1baaeb8ae5f7.wem" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

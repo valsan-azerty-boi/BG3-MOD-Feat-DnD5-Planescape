@@ -20,6 +20,7 @@
                }
             ],
             "DefaultSpeakerIndex" : {"type" : "int32", "value" : 1},
+            "TimelineId" : {"type" : "FixedString", "value" : "5fb7041e-49b0-6af5-6992-09e5f5a17824"},
             "UUID" : {"type" : "FixedString", "value" : "f6b56aa3-d106-728d-472e-3f6902f148b6"},
             "category" : {"type" : "LSString", "value" : "Generic NPC Dialog"},
             "nodes" : [
@@ -39,6 +40,8 @@
                               "OriginSound" : [ {} ]
                            }
                         ],
+                        "GroupID" : {"type" : "FixedString", "value" : "9dfc27a2-90e3-4c94-a6ec-e647e4c5a419"},
+                        "GroupIndex" : {"type" : "int32", "value" : 2},
                         "TaggedTexts" : [
                            {
                               "TaggedText" : [
@@ -54,12 +57,11 @@
                                        {
                                           "TagText" : [
                                              {
-                                                "Content" : {"type" : "LSString", "value" : "Well let's just say I hope we're equals?"},
                                                 "LineId" : {"type" : "guid", "value" : "5934fa61-31a4-4a4a-ad23-f4345a93763c"},
                                                 "TagText" : {
                                                    "handle" : "h4000c84agbbe0gdfb8g667bg1cf2ec763ce6",
                                                    "type" : "TranslatedString",
-                                                   "version" : 1
+                                                   "version" : 6
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -210,12 +212,11 @@
                                        {
                                           "TagText" : [
                                              {
-                                                "Content" : {"type" : "LSString", "value" : "Bye Morte."},
                                                 "LineId" : {"type" : "guid", "value" : "4f4306aa-76d2-4ac8-b782-77a0ffc185fb"},
                                                 "TagText" : {
-                                                   "handle" : "h9e659076g2d13g3a9agfc45g8f3eea501d2d",
+                                                   "handle" : "h298809c6gdd34g704fg0ad3g783a0fc0903a",
                                                    "type" : "TranslatedString",
-                                                   "version" : 0
+                                                   "version" : 5
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -375,12 +376,11 @@
                                        {
                                           "TagText" : [
                                              {
-                                                "Content" : {"type" : "LSString", "value" : "Who, or what, are you ?"},
                                                 "LineId" : {"type" : "guid", "value" : "f493ab97-29cd-49c3-9ad6-5a2c86db7600"},
                                                 "TagText" : {
                                                    "handle" : "h4bf59ba8g0aa0g9c87g14f6g93610f9322a6",
                                                    "type" : "TranslatedString",
-                                                   "version" : 1
+                                                   "version" : 6
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -546,12 +546,11 @@
                                        {
                                           "TagText" : [
                                              {
-                                                "Content" : {"type" : "LSString", "value" : "Hey chief !"},
                                                 "LineId" : {"type" : "guid", "value" : "81fedd08-0012-4991-a15d-a73307ba139d"},
                                                 "TagText" : {
                                                    "handle" : "he078a82egc8ceg7240gae1fg1baaeb8ae5f7",
                                                    "type" : "TranslatedString",
-                                                   "version" : 1
+                                                   "version" : 6
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -701,6 +700,8 @@
                               "OriginSound" : [ {} ]
                            }
                         ],
+                        "GroupID" : {"type" : "FixedString", "value" : "9dfc27a2-90e3-4c94-a6ec-e647e4c5a419"},
+                        "GroupIndex" : {"type" : "int32", "value" : 0},
                         "TaggedTexts" : [
                            {
                               "TaggedText" : [
@@ -716,12 +717,11 @@
                                        {
                                           "TagText" : [
                                              {
-                                                "Content" : {"type" : "LSString", "value" : "You woke me from the dead so I guess I can call you chief."},
                                                 "LineId" : {"type" : "guid", "value" : "1cbde470-3f44-4f69-aeed-3365563f2cd0"},
                                                 "TagText" : {
                                                    "handle" : "h32c34513gc265g9426g6636gb6f8cc435cd1",
                                                    "type" : "TranslatedString",
-                                                   "version" : 1
+                                                   "version" : 6
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -864,6 +864,8 @@
                               "OriginSound" : [ {} ]
                            }
                         ],
+                        "GroupID" : {"type" : "FixedString", "value" : "9dfc27a2-90e3-4c94-a6ec-e647e4c5a419"},
+                        "GroupIndex" : {"type" : "int32", "value" : 1},
                         "TaggedTexts" : [
                            {
                               "TaggedText" : [
@@ -879,12 +881,11 @@
                                        {
                                           "TagText" : [
                                              {
-                                                "Content" : {"type" : "LSString", "value" : "But it's more out of principle, because we're equals here, chief?"},
                                                 "LineId" : {"type" : "guid", "value" : "445cdd6c-c301-4cdc-8ea3-4712c2178b60"},
                                                 "TagText" : {
                                                    "handle" : "hc4ba337dgcd30gac03g46bbgd3acd02a180c",
                                                    "type" : "TranslatedString",
-                                                   "version" : 1
+                                                   "version" : 6
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -1045,12 +1046,11 @@
                                        {
                                           "TagText" : [
                                              {
-                                                "Content" : {"type" : "LSString", "value" : "Why do you call me chief ?"},
                                                 "LineId" : {"type" : "guid", "value" : "e38aadea-982c-4432-b300-db2b5d0c4665"},
                                                 "TagText" : {
                                                    "handle" : "h48574305g2f4fg344ag1528gc371390486b7",
                                                    "type" : "TranslatedString",
-                                                   "version" : 1
+                                                   "version" : 6
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -1215,12 +1215,11 @@
                                        {
                                           "TagText" : [
                                              {
-                                                "Content" : {"type" : "LSString", "value" : "I'm Morte chief, I'm a Mimir."},
                                                 "LineId" : {"type" : "guid", "value" : "915743b5-bdb1-4f72-a398-cc57b1059b81"},
                                                 "TagText" : {
                                                    "handle" : "h5341c925g3caag3538g75c4gdb997220e5a3",
                                                    "type" : "TranslatedString",
-                                                   "version" : 1
+                                                   "version" : 6
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }

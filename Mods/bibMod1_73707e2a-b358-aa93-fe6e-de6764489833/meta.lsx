@@ -9,7 +9,7 @@
                     <children>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="GustavDev"/>
-                            <attribute id="MD5" type="LSString" value="8591f2eb55f1679e80c91f76ad10253e"/>
+                            <attribute id="MD5" type="LSString" value="96c19798a020e178251944be557fc464"/>
                             <attribute id="Name" type="LSString" value="GustavDev"/>
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="28ac9ce2-2aba-8cda-b3b5-6e922f71b6b8"/>
@@ -24,7 +24,7 @@
                     <attribute id="FileSize" type="uint64" value="41218018"/>
                     <attribute id="Folder" type="LSString" value="bibMod1_73707e2a-b358-aa93-fe6e-de6764489833"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="89ed7c755c074ca43771db370d1d6930"/>
+                    <attribute id="MD5" type="LSString" value="cfbefff5683d3b126b59aa2bc03888b8"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
                     <attribute id="Name" type="LSString" value="Features from DnD 5E Planescape"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
@@ -32,7 +32,7 @@
                     <attribute id="PublishHandle" type="uint64" value="4320885"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="73707e2a-b358-aa93-fe6e-de6764489833"/>
-                    <attribute id="Version64" type="int64" value="36451009484030130"/>
+                    <attribute id="Version64" type="int64" value="36451009484030131"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717549775"/>

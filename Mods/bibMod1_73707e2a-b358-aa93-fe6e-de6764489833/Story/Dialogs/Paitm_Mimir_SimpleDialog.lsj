@@ -15,6 +15,7 @@
                   ]
                }
             ],
+            "TimelineId" : {"type" : "FixedString", "value" : "2da76b94-a5bb-ea62-15da-4ddede60f70f"},
             "UUID" : {"type" : "FixedString", "value" : "c315af4c-4847-04ff-159a-99591f5fc98d"},
             "automated" : {"type" : "bool", "value" : true},
             "category" : {"type" : "LSString", "value" : "Automated NPC Dialog"},
@@ -50,12 +51,11 @@
                                        {
                                           "TagText" : [
                                              {
-                                                "Content" : {"type" : "LSString", "value" : "*Crrrkkk*"},
                                                 "LineId" : {"type" : "guid", "value" : "38e791e0-f614-4207-bd1a-56fd761e2948"},
                                                 "TagText" : {
                                                    "handle" : "hbec539bdgfe54g30abg37caga453d77caef8",
                                                    "type" : "TranslatedString",
-                                                   "version" : 1
+                                                   "version" : 3
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -80,7 +80,7 @@
                                  },
                                  {
                                     "key" : {"type" : "FixedString", "value" : "Attitude"},
-                                    "val" : {"type" : "LSString", "value" : "Default"}
+                                    "val" : {"type" : "LSString", "value" : "Neutral"}
                                  },
                                  {
                                     "key" : {"type" : "FixedString", "value" : "CinematicNodeContext"},
