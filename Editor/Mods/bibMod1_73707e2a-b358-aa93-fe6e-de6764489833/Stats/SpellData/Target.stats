@@ -322,5 +322,17 @@
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="9" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b30e3475-bb28-4abd-8a65-9a5a83917c5a" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Tongues_Bonus" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e6698df1-df18-4900-a665-bdcaedf388ce" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="Character() and Ally() and not Self()" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="dd86aa43-8189-4d9f-9a5c-454b5fe4a197,,;,,;39daf365-ec06-49a8-81f3-9032640699d7,,;5c400e93-0266-499c-a2e1-75d53358460f,,;cc5b0caf-3ed1-4711-a50d-11dc3f1fdc6a,,;,,;1715b877-4512-472e-9bd0-fd568a112e90,,;,,;,," />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="33302a46-4a12-41dd-8845-6b7314d50022" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
