@@ -28,9 +28,10 @@
         <field name="ThunderResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="SoundSize" type="EnumerationTableFieldDefinition" value="Tiny" enumeration_type_name="ObjectSize" version="1" />
         <field name="Flags" type="EnumerationListTableFieldDefinition" value="Floating;FloatingWhileMoving" enumeration_type_name="AttributeFlags" version="1" />
-        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="IgnoreFallDamage(); ProficiencyBonus(SavingThrow,Intelligence); BlockRegainHP(Living;Construct); ApplyStatus(FLY,100,-1); UnlockSpell(Projectile_Fly_Spell)" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="IgnoreFallDamage(); ProficiencyBonus(SavingThrow,Intelligence); BlockRegainHP(Living;Construct); ApplyStatus(FLY,100,-1); UnlockSpell(Projectile_Fly_Spell); UnlockSpell(Target_Bite)" />
         <field name="Armor" type="IntegerTableFieldDefinition" value="22" />
         <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SG_Prone;PRONE_FALLEN;CRIPPLED;BLEEDING;GAPING_WOUND;CHEST_TRAUMA;SG_Charmed;SG_Frightened;SG_Poisoned;UNCONSCIOUS;SCL_SHADOW_CURSE" />
+        <field name="Class" type="StringTableFieldDefinition" value="Wizard" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -40,7 +41,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="e86eb6db-8e3b-4153-8572-4691ea473b3d" />
         <field name="Sight" type="IntegerTableFieldDefinition" value="600" />
         <field name="Hearing" type="IntegerTableFieldDefinition" value="600" />
-        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="IgnoreFallDamage(); ProficiencyBonus(SavingThrow,Intelligence); BlockRegainHP(Living;Construct); ApplyStatus(FLY,100,-1); UnlockSpell(Projectile_Fly_Spell); UnlockSpell(Target_Bite_SkeletonHound)" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="IgnoreFallDamage(); ProficiencyBonus(SavingThrow,Intelligence); ApplyStatus(FLY,100,-1);UnlockSpell(Target_Paitm_Tongues);UnlockSpell(Projectile_Fly_Spell); UnlockSpell(Target_Bite_SkeletonHound); UnlockSpell(Target_ViciousMockery)" />
         <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SG_Prone;PRONE_FALLEN;CRIPPLED;BLEEDING;GAPING_WOUND;CHEST_TRAUMA;SG_Poisoned;SCL_SHADOW_CURSE" />
         <field name="UnarmedAttackAbility" type="EnumerationTableFieldDefinition" value="Constitution" enumeration_type_name="Ability" version="1" />
         <field name="ActionResources" type="StringTableFieldDefinition" value="Movement:12;ActionPoint:1;BonusActionPoint:1;ReactionActionPoint:1" />
@@ -64,6 +65,7 @@
         <field name="Armor" type="IntegerTableFieldDefinition" value="17" />
         <field name="Vitality" type="IntegerTableFieldDefinition" value="104" />
         <field name="Passives" type="StringTableFieldDefinition" value="AttackOfOpportunity;Darkvision;DarknessRules;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check" />
+        <field name="Class" type="StringTableFieldDefinition" value="Fighter" />
       </fields>
     </stat_object>
   </stat_objects>
