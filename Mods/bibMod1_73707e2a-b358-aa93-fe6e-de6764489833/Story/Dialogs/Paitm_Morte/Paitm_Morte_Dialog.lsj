@@ -35,7 +35,6 @@
                         "GameData" : [
                            {
                               "AiPersonalities" : [ {} ],
-                              "CameraTarget" : {"type" : "int32", "value" : 0},
                               "MusicInstrumentSounds" : [ {} ],
                               "OriginSound" : [ {} ]
                            }
@@ -61,7 +60,7 @@
                                                 "TagText" : {
                                                    "handle" : "h4000c84agbbe0gdfb8g667bg1cf2ec763ce6",
                                                    "type" : "TranslatedString",
-                                                   "version" : 6
+                                                   "version" : 9
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -186,13 +185,12 @@
                         ],
                         "setflags" : [ {} ],
                         "speaker" : {"type" : "int32", "value" : 0},
-                        "waittime" : {"type" : "float", "value" : 3.0}
+                        "waittime" : {"type" : "float", "value" : 2.0}
                      },
                      {
                         "GameData" : [
                            {
                               "AiPersonalities" : [ {} ],
-                              "CameraTarget" : {"type" : "int32", "value" : 1},
                               "MusicInstrumentSounds" : [ {} ],
                               "OriginSound" : [ {} ]
                            }
@@ -216,7 +214,7 @@
                                                 "TagText" : {
                                                    "handle" : "h298809c6gdd34g704fg0ad3g783a0fc0903a",
                                                    "type" : "TranslatedString",
-                                                   "version" : 5
+                                                   "version" : 8
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -348,14 +346,13 @@
                         "optional" : {"type" : "bool", "value" : true},
                         "setflags" : [ {} ],
                         "speaker" : {"type" : "int32", "value" : 1},
-                        "waittime" : {"type" : "float", "value" : 0.0}
+                        "waittime" : {"type" : "float", "value" : 1.0}
                      },
                      {
                         "ApprovalRatingID" : {"type" : "guid", "value" : "4fb18a8a-422a-4023-a638-14837d2f9249"},
                         "GameData" : [
                            {
                               "AiPersonalities" : [ {} ],
-                              "CameraTarget" : {"type" : "int32", "value" : 0},
                               "MusicInstrumentSounds" : [ {} ],
                               "OriginSound" : [ {} ]
                            }
@@ -380,7 +377,7 @@
                                                 "TagText" : {
                                                    "handle" : "h4bf59ba8g0aa0g9c87g14f6g93610f9322a6",
                                                    "type" : "TranslatedString",
-                                                   "version" : 6
+                                                   "version" : 9
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -525,7 +522,6 @@
                         "GameData" : [
                            {
                               "AiPersonalities" : [ {} ],
-                              "CameraTarget" : {"type" : "int32", "value" : 0},
                               "MusicInstrumentSounds" : [ {} ],
                               "OriginSound" : [ {} ]
                            }
@@ -550,7 +546,7 @@
                                                 "TagText" : {
                                                    "handle" : "he078a82egc8ceg7240gae1fg1baaeb8ae5f7",
                                                    "type" : "TranslatedString",
-                                                   "version" : 6
+                                                   "version" : 9
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -689,13 +685,12 @@
                         ],
                         "setflags" : [ {} ],
                         "speaker" : {"type" : "int32", "value" : 0},
-                        "waittime" : {"type" : "float", "value" : 2.0}
+                        "waittime" : {"type" : "float", "value" : 1.0}
                      },
                      {
                         "GameData" : [
                            {
                               "AiPersonalities" : [ {} ],
-                              "CameraTarget" : {"type" : "int32", "value" : 0},
                               "MusicInstrumentSounds" : [ {} ],
                               "OriginSound" : [ {} ]
                            }
@@ -721,7 +716,7 @@
                                                 "TagText" : {
                                                    "handle" : "h32c34513gc265g9426g6636gb6f8cc435cd1",
                                                    "type" : "TranslatedString",
-                                                   "version" : 6
+                                                   "version" : 9
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -854,7 +849,7 @@
                         ],
                         "setflags" : [ {} ],
                         "speaker" : {"type" : "int32", "value" : 0},
-                        "waittime" : {"type" : "float", "value" : 3.0}
+                        "waittime" : {"type" : "float", "value" : 2.0}
                      },
                      {
                         "GameData" : [
@@ -885,7 +880,7 @@
                                                 "TagText" : {
                                                    "handle" : "hc4ba337dgcd30gac03g46bbgd3acd02a180c",
                                                    "type" : "TranslatedString",
-                                                   "version" : 6
+                                                   "version" : 9
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -1018,14 +1013,13 @@
                         ],
                         "setflags" : [ {} ],
                         "speaker" : {"type" : "int32", "value" : 0},
-                        "waittime" : {"type" : "float", "value" : 4.0}
+                        "waittime" : {"type" : "float", "value" : 2.0}
                      },
                      {
                         "ApprovalRatingID" : {"type" : "guid", "value" : "2bf668ee-ca56-4e07-a862-1ffcd38ca27b"},
                         "GameData" : [
                            {
                               "AiPersonalities" : [ {} ],
-                              "CameraTarget" : {"type" : "int32", "value" : 0},
                               "MusicInstrumentSounds" : [ {} ],
                               "OriginSound" : [ {} ]
                            }
@@ -1050,7 +1044,7 @@
                                                 "TagText" : {
                                                    "handle" : "h48574305g2f4fg344ag1528gc371390486b7",
                                                    "type" : "TranslatedString",
-                                                   "version" : 6
+                                                   "version" : 9
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -1195,7 +1189,6 @@
                         "GameData" : [
                            {
                               "AiPersonalities" : [ {} ],
-                              "CameraTarget" : {"type" : "int32", "value" : 0},
                               "MusicInstrumentSounds" : [ {} ],
                               "OriginSound" : [ {} ]
                            }
@@ -1219,7 +1212,7 @@
                                                 "TagText" : {
                                                    "handle" : "h5341c925g3caag3538g75c4gdb997220e5a3",
                                                    "type" : "TranslatedString",
-                                                   "version" : 6
+                                                   "version" : 9
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
