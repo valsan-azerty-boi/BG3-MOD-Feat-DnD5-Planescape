@@ -240,7 +240,7 @@
       <Sequence Id="aea608ae-a333-4599-8b47-e6175174418d" Name="Sequence 3 - Answer" DialogNodeColor="#FFF4A460" ΔTimeDuration="2.49">
         <DialogNodeReference DialogNodeId="e17e08c9-b1aa-46dd-833e-90886b660d39" ReferenceId="e17e08c9-b1aa-46dd-833e-90886b660d39" />
         <Components TrackId="428ee16a-91b4-4306-82e5-db14884c8084">
-          <Component ComponentId="6ae6605c-13c9-4ab3-808f-0b6f24ba4c43" ΔTimeDuration="2.49" AreCamersEdited="true" IsAutomatedLighting="true" IsAutomatedCamera="true" SwitchInterval="5" IsLooping="true">
+          <Component ComponentId="6ae6605c-13c9-4ab3-808f-0b6f24ba4c43" ΔTimeDuration="2.49" AreCamersEdited="true" IsAutomatedLighting="true" IsAutomatedCamera="true" SwitchInterval="5" IsLooping="true" JCutLength="1">
             <CameraContainer>
               <Camera CameraId="37eaf138-6ea2-43b0-a3af-2f9eea96477c" />
             </CameraContainer>

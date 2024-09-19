@@ -418,13 +418,13 @@
   <content contentuid="h12bb70d7ga5d5g3412g4e03gf2c0b249875b" version="6">This old Mimir wants to wake up and talk.</content>
   <content contentuid="h7b481653g323ag3461gcd1ag86612f011e54" version="1">Morte</content>
   <content contentuid="hae6883e4gc6a3g8aaaged24ga4fca3eaef0f" version="1">This old Mimir wants to wake up and talk.</content>
-  <content contentuid="he078a82egc8ceg7240gae1fg1baaeb8ae5f7" version="9">Hey chief !</content>
-  <content contentuid="h4bf59ba8g0aa0g9c87g14f6g93610f9322a6" version="9">Can you tell me what you are ?</content>
-  <content contentuid="h48574305g2f4fg344ag1528gc371390486b7" version="9">Why do you call me chief ?</content>
-  <content contentuid="h5341c925g3caag3538g75c4gdb997220e5a3" version="9">I'm Morte chief, I'm a Mimir.</content>
-  <content contentuid="h32c34513gc265g9426g6636gb6f8cc435cd1" version="9">You woke me from the dead so I guess I can call you chief.</content>
-  <content contentuid="hc4ba337dgcd30gac03g46bbgd3acd02a180c" version="9">But it's more out of principle, because we're equals here, chief?</content>
-  <content contentuid="h4000c84agbbe0gdfb8g667bg1cf2ec763ce6" version="9">Well let's just say I hope we're equals?</content>
+  <content contentuid="he078a82egc8ceg7240gae1fg1baaeb8ae5f7" version="11">Hey chief !</content>
+  <content contentuid="h4bf59ba8g0aa0g9c87g14f6g93610f9322a6" version="18">Can you tell me what you are ?</content>
+  <content contentuid="h48574305g2f4fg344ag1528gc371390486b7" version="18">Why do you call me chief ?</content>
+  <content contentuid="h5341c925g3caag3538g75c4gdb997220e5a3" version="18">I'm Morte chief, I'm a Mimir.</content>
+  <content contentuid="h32c34513gc265g9426g6636gb6f8cc435cd1" version="18">You woke me from the dead so I guess I can call you chief.</content>
+  <content contentuid="hc4ba337dgcd30gac03g46bbgd3acd02a180c" version="18">But it's more out of principle, because we're equals here, chief?</content>
+  <content contentuid="h4000c84agbbe0gdfb8g667bg1cf2ec763ce6" version="18">Well let's just say I hope we're equals?</content>
   <content contentuid="h9e659076g2d13g3a9agfc45g8f3eea501d2d" version="1">Bye Morte.</content>
   <content contentuid="h762f0586g0709g52e3g5becg349115a6141a" version="1">DialogPlaceholder</content>
   <content contentuid="h788e924agf262geb8egacd1g5acb4424bf86" version="1">DialogPlaceholder</content>
@@ -443,5 +443,14 @@
   <content contentuid="hf5fc91efg3533gbf1dgc66fg9579c0d497d2" version="1">DialogPlaceholder</content>
   <content contentuid="h2f298405gb8edg5b1bg50c5g59aabd3f37a0" version="1">DialogPlaceholder</content>
   <content contentuid="hd545d8bfg066agaeffg9bd7g8344eb2624c2" version="1">DialogPlaceholder</content>
-  <content contentuid="h298809c6gdd34g704fg0ad3g783a0fc0903a" version="8">Bye Morte.</content>
+  <content contentuid="h298809c6gdd34g704fg0ad3g783a0fc0903a" version="17">Bye Morte.</content>
+  <content contentuid="hba765eb4g60e3gc495gb44fg01f74f4f6597" version="2">Well let's just say I hope we're equals?</content>
+  <content contentuid="haf399462gdd5cg7c9bg26bcg118ad227b323" version="2">Bye Morte.</content>
+  <content contentuid="h4c615a2agda93gd419gc1e8g544446879468" version="2">Can you tell me what you are ?</content>
+  <content contentuid="h46c1a041gb654g9cd7g12c7g15c70772fb75" version="2">Hey chief !</content>
+  <content contentuid="hd6a83b63g0830g2ac9g90ebgcef17600c13b" version="2">You woke me from the dead so I guess I can call you chief.</content>
+  <content contentuid="h8b908720g465cg8bebgb1edge3e289e20818" version="2">But it's more out of principle, because we're equals here, chief?</content>
+  <content contentuid="hb63e2b44g3b67gf86fg29cagf79bc4e818a1" version="2">Why do you call me chief ?</content>
+  <content contentuid="hf3c66a4cg618ag1e4fg3e70g75d68ba7bce4" version="2">I'm Morte chief, I'm a Mimir.</content>
+  <content contentuid="h89f25f6fg526egf2e2gba52gf9320bcdc03f" version="7">Hey chief !</content>
 </contentList>
