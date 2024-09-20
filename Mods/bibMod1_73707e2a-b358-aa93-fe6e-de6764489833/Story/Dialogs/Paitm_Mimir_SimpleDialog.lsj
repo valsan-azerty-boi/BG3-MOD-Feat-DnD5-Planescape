@@ -15,10 +15,10 @@
                   ]
                }
             ],
-            "TimelineId" : {"type" : "FixedString", "value" : "2da76b94-a5bb-ea62-15da-4ddede60f70f"},
+            "TimelineId" : {"type" : "FixedString", "value" : "00000000-0000-0000-0000-000000000000"},
             "UUID" : {"type" : "FixedString", "value" : "c315af4c-4847-04ff-159a-99591f5fc98d"},
             "automated" : {"type" : "bool", "value" : true},
-            "category" : {"type" : "LSString", "value" : "Automated NPC Dialog"},
+            "category" : {"type" : "LSString", "value" : "Voice bark"},
             "nodes" : [
                {
                   "RootNodes" : [
@@ -55,7 +55,7 @@
                                                 "TagText" : {
                                                    "handle" : "hbec539bdgfe54g30abg37caga453d77caef8",
                                                    "type" : "TranslatedString",
-                                                   "version" : 3
+                                                   "version" : 5
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
