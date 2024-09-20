@@ -412,8 +412,8 @@
   <content contentuid="h4fbec60cg9b97gd573g5cf2g30b438699523" version="1">Glitch on cast</content>
   <content contentuid="he2d44030gd930g2688gb270g23d185e3ee5f" version="1">Sometimes other versions of you melt with you during a cast.</content>
   <content contentuid="hbec539bdgfe54g30abg37caga453d77caef8" version="3">*Crrrkkk*</content>
-  <content contentuid="h3a0ff6c2ge915g1a79g400agaab25e37fbd9" version="9">Morte</content>
-  <content contentuid="h78db741fgb55cg325cg3153gd1f5d62b5f87" version="9">Mimir</content>
+  <content contentuid="h3a0ff6c2ge915g1a79g400agaab25e37fbd9" version="11">Morte</content>
+  <content contentuid="h78db741fgb55cg325cg3153gd1f5d62b5f87" version="11">Mimir</content>
   <content contentuid="hbdfa7db9g426agb016g1e61g43e526925235" version="6">Morte</content>
   <content contentuid="h12bb70d7ga5d5g3412g4e03gf2c0b249875b" version="6">This old Mimir wants to wake up and talk.</content>
   <content contentuid="h7b481653g323ag3461gcd1ag86612f011e54" version="1">Morte</content>
@@ -453,4 +453,6 @@
   <content contentuid="hb63e2b44g3b67gf86fg29cagf79bc4e818a1" version="2">Why do you call me chief ?</content>
   <content contentuid="hf3c66a4cg618ag1e4fg3e70g75d68ba7bce4" version="2">I'm Morte chief, I'm a Mimir.</content>
   <content contentuid="h89f25f6fg526egf2e2gba52gf9320bcdc03f" version="7">Hey chief !</content>
+  <content contentuid="h3ac59dfbg19b7gfde1g5330gb687e508b848" version="2">Hey chief !</content>
+  <content contentuid="h40352b23g311agac95g6035gf7a0431ed610" version="1">You woke me from the dead so I guess I can call you chief.</content>
 </contentList>

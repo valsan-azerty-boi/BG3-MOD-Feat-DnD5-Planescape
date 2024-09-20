@@ -1,0 +1,19 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+IF
+CastSpell(_Spell, "Shout_Paitm_Mimir_Morte_Spell", _, _, _)
+AND
+DB_Players((CHARACTER)_Player)
+THEN
+Resurrect((CHARACTER)Morte_4c86ee25-ef45-44bc-b121-68506c6d892a);
+SetHitpointsPercentage((GUIDSTRING)Morte_4c86ee25-ef45-44bc-b121-68506c6d892a, 100.0);
+SetLevel((GUIDSTRING)Morte_4c86ee25-ef45-44bc-b121-68506c6d892a, 12);
+TeleportTo((GUIDSTRING)Morte_4c86ee25-ef45-44bc-b121-68506c6d892a, _Player, "", 0, 1, 0, 0, 0);
+AddPartyFollower(Morte_4c86ee25-ef45-44bc-b121-68506c6d892a, _Player);
+//PlayAnimation((GUIDSTRING)Morte_4c86ee25-ef45-44bc-b121-68506c6d892a, CUST_MizoraTeleOut_01_74c0de2d-e834-4613-a5ea-02bd8be9ab2f, "");
+EXITSECTION
+
+ENDEXITSECTION
