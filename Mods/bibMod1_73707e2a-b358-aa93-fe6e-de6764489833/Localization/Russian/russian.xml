@@ -414,10 +414,24 @@
   <content contentuid="h4fbec60cg9b97gd573g5cf2g30b438699523" version="1">Глюк при чтении заклинания</content>
   <content contentuid="he2d44030gd930g2688gb270g23d185e3ee5f" version="1">Иногда другие версии вас тают вместе с вами во время заклинания.</content>
   <content contentuid="hbec539bdgfe54g30abg37caga453d77caef8" version="3">*Кррр*</content>
-  <content contentuid="h3a0ff6c2ge915g1a79g400agaab25e37fbd9" version="9">Морте</content>
-  <content contentuid="h78db741fgb55cg325cg3153gd1f5d62b5f87" version="9">Мимир</content>
-  <content contentuid="hbdfa7db9g426agb016g1e61g43e526925235" version="6">Морте</content>
-  <content contentuid="h12bb70d7ga5d5g3412g4e03gf2c0b249875b" version="6">Этот старый Мимир хочет проснуться и поговорить.</content>
-  <content contentuid="h7b481653g323ag3461gcd1ag86612f011e54" version="1">Морте</content>
-  <content contentuid="hae6883e4gc6a3g8aaaged24ga4fca3eaef0f" version="1">Этот старый Мимир хочет проснуться и поговорить.</content>
+  <content contentuid="h3a0ff6c2ge915g1a79g400agaab25e37fbd9" version="12">Morte</content>
+  <content contentuid="h78db741fgb55cg325cg3153gd1f5d62b5f87" version="12">Mimir</content>
+  <content contentuid="hbdfa7db9g426agb016g1e61g43e526925235" version="6">Morte</content>
+  <content contentuid="h12bb70d7ga5d5g3412g4e03gf2c0b249875b" version="6">This old Mimir wants to wake up and talk.</content>
+  <content contentuid="h7b481653g323ag3461gcd1ag86612f011e54" version="1">Morte</content>
+  <content contentuid="hae6883e4gc6a3g8aaaged24ga4fca3eaef0f" version="1">This old Mimir wants to wake up and talk.</content>
+  <content contentuid="h89f25f6fg526egf2e2gba52gf9320bcdc03f" version="38">Hey chief !</content>
+  <content contentuid="h4bf59ba8g0aa0g9c87g14f6g93610f9322a6" version="49">Who are you ? It seems that you were inert for a while before I found you.</content>
+  <content contentuid="h5341c925g3caag3538g75c4gdb997220e5a3" version="49">I'm Morte.</content>
+  <content contentuid="h4000c84agbbe0gdfb8g667bg1cf2ec763ce6" version="49">You know, sometimes, I sure miss having a body.</content>
+  <content contentuid="h48574305g2f4fg344ag1528gc371390486b7" version="49">How do you feel ?</content>
+  <content contentuid="h32c34513gc265g9426g6636gb6f8cc435cd1" version="49">I am both happy and completely miserable.</content>
+  <content contentuid="h13730ccageb7eg7a4ag8275g041f7c7a4119" version="26">Without the happy part.</content>
+  <content contentuid="h71b39e8eg4dddg6048g8611g45a6cd9f868e" version="20">&lt;i&gt;Inspect him&lt;/i&gt;.</content>
+  <content contentuid="h2c00b4begb0c2g36a1g606egeaccefb5256f" version="18">*Crrrkkk*</content>
+  <content contentuid="h298809c6gdd34g704fg0ad3g783a0fc0903a" version="48">Watch my back.</content>
+  <content contentuid="h2bcab3f5g4988gddb5gbe9agf5c303543bbd" version="12">Hey ! Are you alright ?</content>
+  <content contentuid="h7ba6092bg97c1ge61dg9288g1aaa7c486fb4" version="12">It's ok, it's just that I have a strange feeling about you.</content>
+  <content contentuid="h2a48564cg077bg8416g3075ge9d152a2004e" version="11">Ok.</content>
+  <content contentuid="h4c283e90g30a7ga324gca4eg7cacee572a6d" version="10">Yes don't worry, see you later.</content>
 </contentList>
