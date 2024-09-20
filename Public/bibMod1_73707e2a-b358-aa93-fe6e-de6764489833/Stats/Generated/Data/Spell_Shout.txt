@@ -256,7 +256,6 @@ data "SpellProperties" "ApplyStatus(POTION_OF_ANIMAL_SPEAKING, 100, 30);ApplySta
 data "TargetConditions" "Self()"
 data "DisplayName" "h11f6fe24g1b93ge170gdca1g5d79194cbfe5;1"
 data "Description" "h3d973d54g5fdegaa76gc98fgace2e42dd954;1"
-data "TooltipStatusApply" "ApplyStatus(POTION_OF_ANIMAL_SPEAKING, 100, 30);ApplyStatus(Paitm_Tongues_Buff,100,30);ApplyStatus(Paitm_WarpSense_Buff,100,30)"
 data "TooltipUpcastDescription" "6ff1780a-855a-414c-a8bf-811251537206"
 data "CastSound" "Spell_Cast_Utility_DetectThoughts_L1to3"
 data "UseCosts" "BonusActionPoint:1"

@@ -36,41 +36,6 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="76cbe2f5-2b10-4b2e-ab41-fbf4de2fe37a" />
-        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Mimir_Morte_zz" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="e86eb6db-8e3b-4153-8572-4691ea473b3d" />
-        <field name="Sight" type="IntegerTableFieldDefinition" value="600" />
-        <field name="Hearing" type="IntegerTableFieldDefinition" value="600" />
-        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="IgnoreFallDamage();ProficiencyBonus(SavingThrow,Constitution);ApplyStatus(FLY,100,-1);UnlockSpell(Shout_Hide);UnlockSpell(Target_Paitm_Tongues_Bonus);UnlockSpell(Projectile_Fly_Spell);UnlockSpell(Target_Bite_SkeletonHound);UnlockSpell(Target_ViciousMockery);UnlockSpell(Rush_ForceTunnel)" />
-        <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SG_Prone;PRONE_FALLEN;CRIPPLED;BLEEDING;GAPING_WOUND;CHEST_TRAUMA;SG_Poisoned;SCL_SHADOW_CURSE" />
-        <field name="UnarmedAttackAbility" type="EnumerationTableFieldDefinition" value="Constitution" enumeration_type_name="Ability" version="1" />
-        <field name="ActionResources" type="StringTableFieldDefinition" value="Movement:12;ActionPoint:1;BonusActionPoint:1;ReactionActionPoint:1" />
-        <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="SlashingResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="PiercingResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="AcidResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="ColdResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="FireResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="ForceResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="LightningResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="RadiantResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="ThunderResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="Level" type="IntegerTableFieldDefinition" value="12" />
-        <field name="Strength" type="IntegerTableFieldDefinition" value="16" />
-        <field name="Dexterity" type="IntegerTableFieldDefinition" value="18" />
-        <field name="Constitution" type="IntegerTableFieldDefinition" value="18" />
-        <field name="Intelligence" type="IntegerTableFieldDefinition" value="13" />
-        <field name="Wisdom" type="IntegerTableFieldDefinition" value="9" />
-        <field name="Charisma" type="IntegerTableFieldDefinition" value="6" />
-        <field name="Armor" type="IntegerTableFieldDefinition" value="17" />
-        <field name="Vitality" type="IntegerTableFieldDefinition" value="104" />
-        <field name="Passives" type="StringTableFieldDefinition" value="AttackOfOpportunity;Darkvision;DarknessRules;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check" />
-        <field name="Class" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
-        <field name="SpellCastingAbility" type="EnumerationTableFieldDefinition" value="Constitution" enumeration_type_name="Ability" version="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="6d1efdf8-87ac-409e-8f21-c8b36aaee322" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_Mimir_Morte" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="d4acbf0e-03a1-4c7c-a36b-eca366b8d9d0" />

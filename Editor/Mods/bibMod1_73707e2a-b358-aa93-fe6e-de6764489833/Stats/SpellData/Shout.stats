@@ -287,7 +287,6 @@
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="135cb448-04f9-4543-b670-7bebea4ae21d" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerRestPerItem" enumeration_type_name="CooldownType" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(POTION_OF_ANIMAL_SPEAKING, 100, 30);ApplyStatus(Paitm_Tongues_Buff,100,30);ApplyStatus(Paitm_WarpSense_Buff,100,30);GROUND:Summon(cbc5096d-4ac6-4eaa-8f3a-59ca3e2cdfa8, 50, , ,'MimirStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK)" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(POTION_OF_ANIMAL_SPEAKING, 100, 30);ApplyStatus(Paitm_Tongues_Buff,100,30);ApplyStatus(Paitm_WarpSense_Buff,100,30)" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1" />
       </fields>
     </stat_object>
