@@ -182,9 +182,9 @@
         <DialogNodeReference DialogNodeId="e17e08c9-b1aa-46dd-833e-90886b660d39" ReferenceId="e17e08c9-b1aa-46dd-833e-90886b660d39" />
         <DialogNodeReference DialogNodeId="01983a2d-32d3-4bd8-f686-7f81cd30c22c" ReferenceId="01983a2d-32d3-4bd8-f686-7f81cd30c22c" />
         <Components TrackId="ef1b2555-6b5c-4bd9-8eac-919d1171ad1b">
-          <Component ComponentId="8dfb0bf8-d1d8-4859-afd6-e03041973ec6" ΔTimeDuration="4.07" AreCamersEdited="true" IsAutomatedLighting="true" IsAutomatedCamera="true" SwitchInterval="5" IsLooping="true">
+          <Component ComponentId="35adf3a7-dfc0-450f-a024-c671a71d4a3c" ΔTimeDuration="4.07" AreCamersEdited="true" IsAutomatedLighting="true" IsAutomatedCamera="true" SwitchInterval="5" IsLooping="true">
             <CameraContainer>
-              <Camera CameraId="b03ee64a-6684-4cef-bf52-f876d501a79c" />
+              <Camera CameraId="44508148-e1d8-4968-bad1-9e774b6cd7b1" />
             </CameraContainer>
           </Component>
         </Components>
@@ -242,9 +242,9 @@
       <Sequence Id="a61d0653-ad2f-4764-9638-442e3d3c216a" Name="Sequence 3 - Answer" DialogNodeColor="#FFF4A460" ΔTimeDuration="1.75">
         <DialogNodeReference DialogNodeId="28c3a31e-efde-7add-0301-7cdc0bceebcc" ReferenceId="28c3a31e-efde-7add-0301-7cdc0bceebcc" />
         <Components TrackId="ef1b2555-6b5c-4bd9-8eac-919d1171ad1b">
-          <Component ComponentId="17038d66-aa72-4031-9f28-c04784205895" ΔTimeDuration="1.75" AreCamersEdited="true" IsAutomatedLighting="true" IsAutomatedCamera="true" SwitchInterval="5" IsLooping="true">
+          <Component ComponentId="2fbd55cb-6572-4d95-a9bb-501ceff9c56c" ΔTimeDuration="1.75" AreCamersEdited="true" IsAutomatedLighting="true" IsAutomatedCamera="true" SwitchInterval="5" IsLooping="true">
             <CameraContainer>
-              <Camera CameraId="37648417-5a3e-4ff8-aebe-63c23bab9b44" />
+              <Camera CameraId="44508148-e1d8-4968-bad1-9e774b6cd7b1" />
             </CameraContainer>
           </Component>
         </Components>
@@ -360,9 +360,9 @@
       <Sequence Id="801212cb-bb45-4022-ba0d-b0cafdbed71a" Name="Sequence 5 - Answer" DialogNodeColor="#FFF4A460" ΔTimeDuration="2.07">
         <DialogNodeReference DialogNodeId="c24c8c83-215a-8933-9e66-83fcecdd3655" ReferenceId="c24c8c83-215a-8933-9e66-83fcecdd3655" />
         <Components TrackId="ef1b2555-6b5c-4bd9-8eac-919d1171ad1b">
-          <Component ComponentId="07cce24a-f7d6-418e-91d0-08a3a35c77bb" ΔTimeDuration="2.07" AreCamersEdited="true" IsAutomatedLighting="true" IsAutomatedCamera="true" SwitchInterval="5" IsLooping="true">
+          <Component ComponentId="82aa5410-8ccd-45e8-a2bd-fd01faa932ca" ΔTimeDuration="2.07" AreCamersEdited="true" IsAutomatedLighting="true" IsAutomatedCamera="true" SwitchInterval="5" IsLooping="true">
             <CameraContainer>
-              <Camera CameraId="37648417-5a3e-4ff8-aebe-63c23bab9b44" />
+              <Camera CameraId="44508148-e1d8-4968-bad1-9e774b6cd7b1" />
             </CameraContainer>
           </Component>
         </Components>
