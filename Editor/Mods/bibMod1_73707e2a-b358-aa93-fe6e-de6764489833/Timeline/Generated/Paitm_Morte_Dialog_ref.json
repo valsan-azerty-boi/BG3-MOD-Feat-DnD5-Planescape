@@ -1,16 +1,18 @@
 {
   "Flags": {
     "3b8176e9-389e-4a47-aa53-1d65d89e36d0": [ ],
-    "9dfc27a2-90e3-4c94-a6ec-e647e4c5a419": [ ],
-    "ad908f1a-c0fb-e723-ca1b-e444323ed6fe": [ ],
+    "e17e08c9-b1aa-46dd-833e-90886b660d39": [ ],
     "01983a2d-32d3-4bd8-f686-7f81cd30c22c": [ ],
-    "e17e08c9-b1aa-46dd-833e-90886b660d39": [ ]
+    "28c3a31e-efde-7add-0301-7cdc0bceebcc": [ ],
+    "9dfc27a2-90e3-4c94-a6ec-e647e4c5a419": [ ],
+    "3d0e3152-da95-4adf-5451-def167a4e0c1": [ ]
   },
   "Lines": {
     "3b8176e9-389e-4a47-aa53-1d65d89e36d0": "Hey chief !",
-    "9dfc27a2-90e3-4c94-a6ec-e647e4c5a419": "You woke me from the dead so I guess I can call you chief.",
-    "ad908f1a-c0fb-e723-ca1b-e444323ed6fe": "But it's more out of principle, because we're equals here, chief?",
-    "01983a2d-32d3-4bd8-f686-7f81cd30c22c": "Well let's just say I hope we're equals?",
-    "e17e08c9-b1aa-46dd-833e-90886b660d39": "I'm Morte chief, I'm a Mimir."
+    "e17e08c9-b1aa-46dd-833e-90886b660d39": "I'm Morte.",
+    "01983a2d-32d3-4bd8-f686-7f81cd30c22c": "You know, sometimes, I sure miss having a body.",
+    "28c3a31e-efde-7add-0301-7cdc0bceebcc": "*Crrrkkk*",
+    "9dfc27a2-90e3-4c94-a6ec-e647e4c5a419": "I am both happy and completely miserable.",
+    "3d0e3152-da95-4adf-5451-def167a4e0c1": "Without the happy part."
   }
 }
