@@ -4,7 +4,20 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="24f57a37-9555-4dd6-8864-6da2666687b6" />
-        <field name="Name" type="NameTableFieldDefinition" value="Paitm_DakZerthBlade" />
+        <field name="Name" type="NameTableFieldDefinition" value="MAG_Paitm_DakZerthBlade" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="903b673f-d058-4877-b12f-131c09e13cbf" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a77f4386-9428-49d1-8304-ad29a2118b18" />
+        <field name="Damage" type="DiceTableFieldDefinition" value="2d10+2" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1999" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="4" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="WeaponEnchantment(3);WeaponProperty(Magical)" />
+        <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SILENCED;SG_Condition;BLEEDING;BURNING" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_MAG_SpellSlotRestoration)" />
+        <field name="BoostsOnEquipMainHand" type="StringTableFieldDefinition" value="UnlockSpell(Target_OpeningAttack);UnlockSpell(Target_Slash_New)" />
+        <field name="Unique" type="IntegerTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="2d10+2" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MartialWeapons;Shortswords" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
     </stat_object>
   </stat_objects>

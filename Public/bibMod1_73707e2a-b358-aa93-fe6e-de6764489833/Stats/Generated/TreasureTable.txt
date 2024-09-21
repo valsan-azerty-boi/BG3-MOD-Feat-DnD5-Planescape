@@ -1,3 +1,4 @@
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
 new treasuretable "TUT_Chest_Potions"
 CanMerge 1
 new subtable "1,1"
@@ -12,6 +13,8 @@ new subtable "1,1"
 object category "I_OBJ_Scroll_Paitm_GateSeal",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Paitm_Mimir_Morte",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Paitm_DakZerthBlade",1,0,0,0,0,0,0,0
 new treasuretable "UND_SocietyOfBrilliance_Mindflayer"
 CanMerge 1
 new subtable "3,1"
