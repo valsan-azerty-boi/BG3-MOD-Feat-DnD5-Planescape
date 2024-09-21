@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Root>
   <Timeline Id="847afc90-9772-400c-b579-d1f292084fa0" DialogResourceId="7809f05c-203e-f645-d097-4ccaafaf9bd0" AllowedPeanutTypes="Emotion, Attitude, LookAt">
-    <GenerationMetadata FullGenerationTimestamp="1726842649" PartialGenerationTimestamp="1726871851" />
+    <GenerationMetadata FullGenerationTimestamp="1726842649" PartialGenerationTimestamp="1726882254" />
     <TimelinePosition />
     <Tracks>
       <Track Name="Camera Shots" TrackId="ef1b2555-6b5c-4bd9-8eac-919d1171ad1b" Type="ComponentTrackCameraShot" />
       <Track Name="Speakers" TrackId="91bac605-c3e4-4467-9f6a-f8dbac1acdb1" IsExpanded="true" Type="FolderTrack">
-        <Track Name="Morte(MorteGlobal)" TrackId="22a89b5c-b040-4512-8a30-7d819ff28772" IsExpanded="true" ActorType="character" ActorId="4c86ee25-ef45-44bc-b121-68506c6d892a" AssignedActorId="00000000-0000-0000-0000-000000000000" IsPlayer="true" SceneActorType="Initiator" SpeakerMappingId="2195e217-e3fc-4f66-8233-9ae51cb38f97" Type="ActorTrackSpeaker">
+        <Track Name="Morte(MorteGlobal)" TrackId="22a89b5c-b040-4512-8a30-7d819ff28772" IsExpanded="true" ActorType="character" ActorId="1199a157-cea1-4117-a089-0eb94c212870" AssignedActorId="00000000-0000-0000-0000-000000000000" IsPlayer="true" SceneActorType="Initiator" SpeakerMappingId="2195e217-e3fc-4f66-8233-9ae51cb38f97" Type="ActorTrackSpeaker">
           <Track Name="Voice" TrackId="dcb57938-93ba-4932-a972-e6b52e64053f" Type="ComponentTrackVoice" />
           <Track Name="Look At Event" TrackId="21b56c93-3fe0-452b-800c-3966130112f4" IsAutomatedLookatEnabled="true" Type="ComponentTrackLookAtEvent" />
           <Track Name="Emotion Event" TrackId="78e64ea6-bd4e-48f8-9534-49820fd02643" Type="ComponentTrackEmotionEvent" />
@@ -17,7 +17,7 @@
           <ActorIdleOverrideData />
           <BehaviourActorStartCondition />
         </Track>
-        <Track Name="GROUP_Players" TrackId="a371d89d-adf0-426a-8c5b-0a150ab04c74" IsExpanded="true" ActorType="character" ActorId="e0d1ff71-04a8-4340-ae64-9684d846eb83" AssignedActorId="00000000-0000-0000-0000-000000000000" SpeakerId="1" SceneActorType="Additional" SpeakerMappingId="33d2b8c6-9dd5-4f5e-9e51-5ab2e8da8774" Type="ActorTrackSpeaker">
+        <Track Name="GROUP_Players" TrackId="a371d89d-adf0-426a-8c5b-0a150ab04c74" IsExpanded="true" ActorType="character" ActorId="e2badbf0-159a-4ef5-9e73-7bbeb3d1015a" AssignedActorId="00000000-0000-0000-0000-000000000000" SpeakerId="1" SceneActorType="Additional" SpeakerMappingId="33d2b8c6-9dd5-4f5e-9e51-5ab2e8da8774" Type="ActorTrackSpeaker">
           <Track Name="Voice" TrackId="35e343c6-9cd4-4302-8c00-e3b6905e9358" Type="ComponentTrackVoice" />
           <Track Name="Look At Event" TrackId="3472eee9-5391-4f8e-818b-9b79c7751bfa" IsAutomatedLookatEnabled="true" Type="ComponentTrackLookAtEvent" />
           <Track Name="Emotion Event" TrackId="011fe2f8-fe18-4440-9325-52e050faed95" Type="ComponentTrackEmotionEvent" />
