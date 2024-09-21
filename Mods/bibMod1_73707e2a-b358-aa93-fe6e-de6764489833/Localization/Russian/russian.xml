@@ -335,7 +335,7 @@
   <content contentuid="h5c94facagf9ecg4524g5fcfg4db96e33cdbb" version="1">Портальный компас</content>
   <content contentuid="h0ecbb3b1g4632g7672g2411g10297af2e28c" version="1">Портальный компас</content>
   <content contentuid="h82ae22f9gb470g74b9g2f81g35db749d7bf6" version="1">У вас есть умение в магии и внимании.</content>
-  <content contentuid="he74c5a36gaa29g319cga756gace944dd2f43" version="29">Мимир</content>
+  <content contentuid="he74c5a36gaa29g319cga756gace944dd2f43" version="30">Мимир</content>
   <content contentuid="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1">Активировать Мимира</content>
   <content contentuid="hcd937889g2ddbg0436g8d85g6b74891d554c" version="1">Свободный мыслитель</content>
   <content contentuid="h7dd603ebg6c37g27d9gd5c2ge37c18b6d230" version="3">Для тех, у кого независимый разум и мышление, кто не ссылается ни на какого бога. Мы часто наблюдаем подобный образ мышления среди жителей Сигила. С таким классом, как жрец, безбожный персонаж иногда может обрести силу благодаря своим собственным убеждениям и принципам.</content>
@@ -420,7 +420,7 @@
   <content contentuid="h12bb70d7ga5d5g3412g4e03gf2c0b249875b" version="6">This old Mimir wants to wake up and talk.</content>
   <content contentuid="h7b481653g323ag3461gcd1ag86612f011e54" version="1">Morte</content>
   <content contentuid="hae6883e4gc6a3g8aaaged24ga4fca3eaef0f" version="1">This old Mimir wants to wake up and talk.</content>
-  <content contentuid="h89f25f6fg526egf2e2gba52gf9320bcdc03f" version="41">Hey chief !</content>
+  <content contentuid="h89f25f6fg526egf2e2gba52gf9320bcdc03f" version="41">Hey Chief !</content>
   <content contentuid="h4bf59ba8g0aa0g9c87g14f6g93610f9322a6" version="52">Who are you ? It seems that you were inert for a while before I found you.</content>
   <content contentuid="h5341c925g3caag3538g75c4gdb997220e5a3" version="52">I'm Morte.</content>
   <content contentuid="h4000c84agbbe0gdfb8g667bg1cf2ec763ce6" version="52">You know, sometimes, I sure miss having a body.</content>
@@ -428,7 +428,7 @@
   <content contentuid="h32c34513gc265g9426g6636gb6f8cc435cd1" version="52">I am both happy and completely miserable.</content>
   <content contentuid="h13730ccageb7eg7a4ag8275g041f7c7a4119" version="29">Without the happy part.</content>
   <content contentuid="h71b39e8eg4dddg6048g8611g45a6cd9f868e" version="23">&lt;i&gt;Inspect him&lt;/i&gt;.</content>
-  <content contentuid="h2c00b4begb0c2g36a1g606egeaccefb5256f" version="21">*Crrrkkk*</content>
+  <content contentuid="h2c00b4begb0c2g36a1g606egeaccefb5256f" version="21">*Кррр*</content>
   <content contentuid="h298809c6gdd34g704fg0ad3g783a0fc0903a" version="51">Watch my back.</content>
   <content contentuid="h2bcab3f5g4988gddb5gbe9agf5c303543bbd" version="15">Hey ! Are you alright ?</content>
   <content contentuid="h7ba6092bg97c1ge61dg9288g1aaa7c486fb4" version="15">It's ok, it's just that I have a strange feeling about you.</content>
@@ -447,4 +447,6 @@
   <content contentuid="hae4b5e8eg835eg4515g5910ge4c0fd85fcb2" version="3">I need a sensory touch.</content>
   <content contentuid="h3406b210g2eddg30ccg8072g49ba5d3354c0" version="3">Can't wait to continue being a floating skull for the rest of eternity.</content>
   <content contentuid="hef75e573gd557gc235g8737ge71117f438d2" version="1">Thanks for reactivating me Chief, can't wait to go out and party.</content>
+  <content contentuid="h3fc28911g273ag101fgc378gd304d05dae4d" version="5">Dak'kon's Zerth Blade</content>
+  <content contentuid="h09e1a258g06d2g1251gd407g6d608385eb5d" version="5">This sword was the weapon of choice of a famous githzerai working for a creature known as the 'Nameless One'.</content>
 </contentList>

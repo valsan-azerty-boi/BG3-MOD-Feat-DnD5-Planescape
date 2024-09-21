@@ -234,6 +234,7 @@
         <field name="FOV" type="IntegerTableFieldDefinition" value="0" />
         <field name="DarkvisionRange" type="IntegerTableFieldDefinition" value="0" />
         <field name="MinimumDetectionRange" type="IntegerTableFieldDefinition" value="0" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
   </stat_objects>

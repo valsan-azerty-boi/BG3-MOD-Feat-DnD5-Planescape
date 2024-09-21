@@ -1,4 +1,3 @@
-treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
 new treasuretable "TUT_Chest_Potions"
 CanMerge 1
 new subtable "1,1"
@@ -93,6 +92,10 @@ new treasuretable "WYR_Circus_KoboldMerchant_Magic"
 CanMerge 1
 new subtable "4,1"
 object category "I_OBJ_Paitm_SensoryStone",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Paitm_Mimir_Morte",1,0,0,0,0,0,0,1
+new subtable "1,1"
+object category "I_MAG_Paitm_DakZerthBlade",1,0,0,0,0,0,0,1
 new treasuretable "LOW_DevilsFee_Diabolist_Trade_Magic"
 CanMerge 1
 new subtable "1,1"
