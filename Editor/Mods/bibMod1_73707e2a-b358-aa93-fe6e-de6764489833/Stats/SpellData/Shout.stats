@@ -286,7 +286,7 @@
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="8e9914c9-7008-4252-ab31-a9776c444194" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="135cb448-04f9-4543-b670-7bebea4ae21d" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerRestPerItem" enumeration_type_name="CooldownType" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(POTION_OF_ANIMAL_SPEAKING, 100, 30);ApplyStatus(Paitm_Tongues_Buff,100,30);ApplyStatus(Paitm_WarpSense_Buff,100,30);GROUND:Summon(cbc5096d-4ac6-4eaa-8f3a-59ca3e2cdfa8, 50, , ,'MimirStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK)" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(POTION_OF_ANIMAL_SPEAKING, 100, 30);ApplyStatus(Paitm_Tongues_Buff,100,30);ApplyStatus(Paitm_WarpSense_Buff,100,30);GROUND:Summon(cbc5096d-4ac6-4eaa-8f3a-59ca3e2cdfa8, 50, , ,'MimirStack',SHADOWCURSE_SUMMON_CHECK)" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1" />
       </fields>
     </stat_object>
@@ -341,7 +341,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_Mimir_Morte_Spell" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Divination" enumeration_type_name="SpellSchool" version="1" />
-        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="CooldownType" version="1" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerRestPerItem" enumeration_type_name="CooldownType" version="1" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7b481653g323ag3461gcd1ag86612f011e54" version="1" />
@@ -356,6 +356,7 @@
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="1" />
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="8e9914c9-7008-4252-ab31-a9776c444194" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="135cb448-04f9-4543-b670-7bebea4ae21d" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(7dbd681a-da33-4ef4-8eac-d03c418dc701, -1, , ,'MimirStack',SHADOWCURSE_SUMMON_CHECK)" />
       </fields>
     </stat_object>
   </stat_objects>
