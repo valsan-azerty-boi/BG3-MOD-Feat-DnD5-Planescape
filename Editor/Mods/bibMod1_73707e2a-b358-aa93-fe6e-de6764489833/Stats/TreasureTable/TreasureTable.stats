@@ -55,6 +55,28 @@
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d4e58887-9040-4646-b759-96609de1cb80" />
+        <field name="UUID" type="IdTableFieldDefinition" value="da45e6ac-d41f-42de-b096-d957f792c937" />
+        <field name="Name" type="NameTableFieldDefinition" value="d4e58887-9040-4646-b759-96609de1cb80_substat_3" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_Mimir_Morte" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d4e58887-9040-4646-b759-96609de1cb80" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7ad740c5-c6be-4d2d-afa1-4932586f151d" />
+        <field name="Name" type="NameTableFieldDefinition" value="d4e58887-9040-4646-b759-96609de1cb80_substat_4" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_MAG_Paitm_DakZerthBlade" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="e635f481-1402-4230-a652-0625b38b021b" />
@@ -314,6 +336,30 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="4,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_SensoryStone" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="3d6122d3-a261-4d8d-9369-d3517deaa02f" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3ab4d7cc-b8e8-447f-8feb-d14f5788fbfb" />
+        <field name="Name" type="NameTableFieldDefinition" value="WYR_Circus_KoboldMerchant_Magic_substat" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_Mimir_Morte" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="3d6122d3-a261-4d8d-9369-d3517deaa02f" />
+        <field name="UUID" type="IdTableFieldDefinition" value="995b6f28-3fb7-499f-9799-7357fd828d89" />
+        <field name="Name" type="NameTableFieldDefinition" value="3d6122d3-a261-4d8d-9369-d3517deaa02f_substat_0" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_MAG_Paitm_DakZerthBlade" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

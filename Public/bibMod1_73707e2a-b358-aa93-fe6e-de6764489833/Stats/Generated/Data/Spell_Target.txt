@@ -301,3 +301,13 @@ data "TargetEffect" "b5b72f72-297b-4a96-b215-b5611359555a"
 data "PositionEffect" "7db045f9-83ac-4768-88c8-48563b685a9d"
 data "HighlightConditions" "Character() and not Dead()"
 
+new entry "Target_Paitm_Tongues_Bonus"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Paitm_Tongues"
+data "TargetConditions" "Character() and Ally() and not Self()"
+data "UseCosts" "BonusActionPoint:1"
+data "SpellAnimation" "dd86aa43-8189-4d9f-9a5c-454b5fe4a197,,;,,;39daf365-ec06-49a8-81f3-9032640699d7,,;5c400e93-0266-499c-a2e1-75d53358460f,,;cc5b0caf-3ed1-4711-a50d-11dc3f1fdc6a,,;,,;1715b877-4512-472e-9bd0-fd568a112e90,,;,,;,,"
+data "PrepareEffect" ""
+data "CastEffect" ""
+

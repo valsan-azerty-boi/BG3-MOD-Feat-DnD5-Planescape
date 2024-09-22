@@ -1,0 +1,486 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Timeline Id="847afc90-9772-400c-b579-d1f292084fa0" DialogResourceId="7809f05c-203e-f645-d097-4ccaafaf9bd0" AllowedPeanutTypes="Emotion, Attitude, LookAt">
+    <GenerationMetadata FullGenerationTimestamp="1726842649" PartialGenerationTimestamp="1726883122" />
+    <TimelinePosition />
+    <Tracks>
+      <Track Name="Camera Shots" TrackId="ef1b2555-6b5c-4bd9-8eac-919d1171ad1b" Type="ComponentTrackCameraShot" />
+      <Track Name="Speakers" TrackId="91bac605-c3e4-4467-9f6a-f8dbac1acdb1" IsExpanded="true" Type="FolderTrack">
+        <Track Name="Morte(MorteGlobal)" TrackId="22a89b5c-b040-4512-8a30-7d819ff28772" IsExpanded="true" ActorType="character" ActorId="1199a157-cea1-4117-a089-0eb94c212870" AssignedActorId="00000000-0000-0000-0000-000000000000" IsPlayer="true" SceneActorType="Initiator" SpeakerMappingId="2195e217-e3fc-4f66-8233-9ae51cb38f97" Type="ActorTrackSpeaker">
+          <Track Name="Voice" TrackId="dcb57938-93ba-4932-a972-e6b52e64053f" Type="ComponentTrackVoice" />
+          <Track Name="Look At Event" TrackId="21b56c93-3fe0-452b-800c-3966130112f4" IsAutomatedLookatEnabled="true" Type="ComponentTrackLookAtEvent" />
+          <Track Name="Emotion Event" TrackId="78e64ea6-bd4e-48f8-9534-49820fd02643" Type="ComponentTrackEmotionEvent" />
+          <Track Name="Show Weapon" TrackId="99fa5983-91d4-45f9-8bb8-a185a1e2d32a" Type="ComponentTrackShowWeapon" />
+          <Track Name="Foot IK" TrackId="8c1125b3-3d0c-4bfe-8844-a2604e58576e" Type="ComponentTrackPhysics" />
+          <CustomActorData Type="CustomActorSoundData" />
+          <ActorEndState />
+          <ActorIdleOverrideData />
+          <BehaviourActorStartCondition />
+        </Track>
+        <Track Name="GROUP_Players" TrackId="a371d89d-adf0-426a-8c5b-0a150ab04c74" IsExpanded="true" ActorType="character" ActorId="81c48711-d7cc-4a3d-9e49-665eb915c15c" AssignedActorId="00000000-0000-0000-0000-000000000000" SpeakerId="1" SceneActorType="Additional" SpeakerMappingId="33d2b8c6-9dd5-4f5e-9e51-5ab2e8da8774" Type="ActorTrackSpeaker">
+          <Track Name="Voice" TrackId="35e343c6-9cd4-4302-8c00-e3b6905e9358" Type="ComponentTrackVoice" />
+          <Track Name="Look At Event" TrackId="3472eee9-5391-4f8e-818b-9b79c7751bfa" IsAutomatedLookatEnabled="true" Type="ComponentTrackLookAtEvent" />
+          <Track Name="Emotion Event" TrackId="011fe2f8-fe18-4440-9325-52e050faed95" Type="ComponentTrackEmotionEvent" />
+          <Track Name="Show Weapon" TrackId="2e66fb65-c19f-46ac-9f70-f45dc05f6bb4" Type="ComponentTrackShowWeapon" />
+          <Track Name="Foot IK" TrackId="435a3e08-ae2f-442d-a918-79a829ccc5ec" Type="ComponentTrackPhysics" />
+          <CustomActorData Type="CustomActorSoundData" />
+          <ActorEndState />
+          <ActorIdleOverrideData />
+          <BehaviourActorStartCondition />
+        </Track>
+      </Track>
+      <Track Name="Peanuts" TrackId="eb2a73da-e991-40f4-bf56-a29214726550" Type="PeanutFolderTrack">
+        <Track Name="Peanut 1" TrackId="1f8ae012-26b5-4e17-8a71-07baea9f19d9" ActorType="peanut" ActorId="1f8ae012-26b5-4e17-8a71-07baea9f19d9" AssignedActorId="3278f064-5353-4c08-ab96-c2f432d0fda0" PeanutSlotIndex="0" ActorOverride="00000000-0000-0000-0000-000000000000" Type="PeanutTrack">
+          <Track Name="Look At Event" TrackId="7902b309-6f94-45a7-b809-0f7164d12eb1" Type="ComponentTrackLookAtEvent" />
+          <Track Name="Emotion Event" TrackId="2a45baeb-316c-4dbc-9df3-d7aefd816209" Type="ComponentTrackEmotionEvent" />
+          <CustomActorData Type="CustomActorSoundData" />
+          <ActorEndState />
+          <ActorIdleOverrideData />
+          <BehaviourActorStartCondition />
+        </Track>
+        <Track Name="Peanut 2" TrackId="3d6b188f-91ad-4bc1-bf39-2727199ff928" ActorType="peanut" ActorId="3d6b188f-91ad-4bc1-bf39-2727199ff928" AssignedActorId="19dc6cab-aa38-4f09-b9cf-546e1c0ecb8a" PeanutSlotIndex="1" ActorOverride="00000000-0000-0000-0000-000000000000" Type="PeanutTrack">
+          <Track Name="Look At Event" TrackId="99bbfc00-6c3f-4ae7-9948-53b0a61e56d7" Type="ComponentTrackLookAtEvent" />
+          <Track Name="Emotion Event" TrackId="ed9647c0-706e-4488-9226-fee6767a01ab" Type="ComponentTrackEmotionEvent" />
+          <CustomActorData Type="CustomActorSoundData" />
+          <ActorEndState />
+          <ActorIdleOverrideData />
+          <BehaviourActorStartCondition />
+        </Track>
+        <Track Name="Peanut 3" TrackId="2505e0d8-cbf8-429b-a5fb-7c7c722a4687" ActorType="peanut" ActorId="2505e0d8-cbf8-429b-a5fb-7c7c722a4687" AssignedActorId="3278f064-5353-4c08-ab96-c2f432d0fda0" PeanutSlotIndex="2" ActorOverride="00000000-0000-0000-0000-000000000000" Type="PeanutTrack">
+          <Track Name="Look At Event" TrackId="8a59d766-90de-4c49-8f08-e7fca5464ef0" Type="ComponentTrackLookAtEvent" />
+          <Track Name="Emotion Event" TrackId="c39643f9-b2bd-4914-a44a-97b9641ea004" Type="ComponentTrackEmotionEvent" />
+          <CustomActorData Type="CustomActorSoundData" />
+          <ActorEndState />
+          <ActorIdleOverrideData />
+          <BehaviourActorStartCondition />
+        </Track>
+      </Track>
+      <Track Name=" - Copy - Copy" TrackId="44508148-e1d8-4968-bad1-9e774b6cd7b1" ActorType="scenecam" ActorId="5a903d44-769a-4098-b6cc-ffde864f7a5b" AssignedActorId="00000000-0000-0000-0000-000000000000" SceneCameraId="d5055592-dcae-4b66-aae9-276a8546a8dc" Type="ActorTrackSceneCamera">
+        <CustomActorData Type="CustomActorSoundData" />
+        <ActorEndState />
+        <ActorIdleOverrideData />
+        <BehaviourActorStartCondition />
+      </Track>
+      <Track Name=" - Copy - Copy" TrackId="b03ee64a-6684-4cef-bf52-f876d501a79c" ActorType="scenecam" ActorId="47ba0fb5-4e67-427b-bedc-92fa9b82033a" AssignedActorId="00000000-0000-0000-0000-000000000000" SceneCameraId="c212ee2a-e22b-48a8-a77f-336652846adf" Type="ActorTrackSceneCamera">
+        <CustomActorData Type="CustomActorSoundData" />
+        <ActorEndState />
+        <ActorIdleOverrideData />
+        <BehaviourActorStartCondition />
+      </Track>
+      <Track Name="YouKnowSometimes - Copy" TrackId="03ace50b-c071-45ba-a1a5-2acacf6994fe" ActorType="scenecam" ActorId="aa61d8a7-783f-439f-93f7-c8a61ad39d4e" AssignedActorId="00000000-0000-0000-0000-000000000000" SceneCameraId="b950569e-e548-40a6-902b-571feb5e2c54" Type="ActorTrackSceneCamera">
+        <CustomActorData Type="CustomActorSoundData" />
+        <ActorEndState />
+        <ActorIdleOverrideData />
+        <BehaviourActorStartCondition />
+      </Track>
+      <Track Name="YouKnowSometimes - Copy" TrackId="37648417-5a3e-4ff8-aebe-63c23bab9b44" ActorType="scenecam" ActorId="5356736d-c7a3-467e-8be2-2059b62015f8" AssignedActorId="00000000-0000-0000-0000-000000000000" SceneCameraId="650313b6-c919-43b4-a304-a497c358248d" Type="ActorTrackSceneCamera">
+        <CustomActorData Type="CustomActorSoundData" />
+        <ActorEndState />
+        <ActorIdleOverrideData />
+        <BehaviourActorStartCondition />
+      </Track>
+    </Tracks>
+    <Sequences>
+      <Sequence Id="ad747492-8e43-45b7-8319-0cf4fd7d6ed3" Name="Sequence 1 - Greeting" DialogNodeColor="#FF2E8B57" ΔTimeDuration="1.21">
+        <DialogNodeReference DialogNodeId="3b8176e9-389e-4a47-aa53-1d65d89e36d0" ReferenceId="3b8176e9-389e-4a47-aa53-1d65d89e36d0" />
+        <Components TrackId="ef1b2555-6b5c-4bd9-8eac-919d1171ad1b">
+          <Component ComponentId="faad1b5f-b8df-40c8-8177-04c0eb828c0e" ΔTimeDuration="1.21" AreCamersEdited="true" IsAutomatedLighting="true" IsAutomatedCamera="true" SwitchInterval="5" IsLooping="true">
+            <CameraContainer>
+              <Camera CameraId="44508148-e1d8-4968-bad1-9e774b6cd7b1" />
+            </CameraContainer>
+          </Component>
+        </Components>
+        <Components TrackId="dcb57938-93ba-4932-a972-e6b52e64053f">
+          <Component ComponentId="45b05ba1-b099-4218-98d2-7185d0df5f42" ΔTimeDuration="1.21" FaceTech="FaceFX" HoldMocap="true" PerformanceFade="2" FadeIn="2" SeparateFades="false">
+            <DialogNodeReference DialogNodeId="3b8176e9-389e-4a47-aa53-1d65d89e36d0" ReferenceId="3b8176e9-389e-4a47-aa53-1d65d89e36d0" />
+          </Component>
+        </Components>
+        <Components TrackId="21b56c93-3fe0-452b-800c-3966130112f4">
+          <Component ComponentId="13ba673d-03f6-470c-a349-d19cf85c105c" IsInfinite="true" TimeDuration="1">
+            <Channel Name="Look At Event">
+              <Key ΔTime="0" Id="78d723d8-74b8-4896-a361-58bf200af9cb">
+                <Value TargetId="a371d89d-adf0-426a-8c5b-0a150ab04c74" TargetBone="Head_M" TrackingMode="Recenter" LookAtMode="Head" LookAtInterpMode="EaseInOut" TurnMode="Forced" TurnSpeedMultiplier="1" TorsoTurnSpeedMultiplier="1" HeadTurnSpeedMultiplier="1" ResetEvent="true" Offset="0; 0; 0" IsEyeOverrideEnabled="false" EyeOverrideTargetId="00000000-0000-0000-0000-000000000000" EyeOverrideTargetBone="" EyeOverrideOffset="0; 0; 0" />
+              </Key>
+            </Channel>
+          </Component>
+        </Components>
+        <Components TrackId="78e64ea6-bd4e-48f8-9534-49820fd02643">
+          <Component ComponentId="e522ce23-81b0-45b5-a1d5-04bc41c020ab" IsInfinite="true" TimeDuration="1">
+            <Channel Name="Emotion Event">
+              <Key Time="0" Id="fddc2ad2-89ad-4c50-be34-895e8097aba8">
+                <Value Emotion="Neutral" Variation="0" IsSustainedEmotion="true" AppliesMaterials="true" />
+              </Key>
+            </Channel>
+          </Component>
+        </Components>
+        <Components TrackId="99fa5983-91d4-45f9-8bb8-a185a1e2d32a">
+          <Component ComponentId="35aa6732-75df-4d37-a8b1-d1f96525ec48" IsInfinite="true" TimeDuration="1">
+            <Channel Name="Show Weapon">
+              <Key Time="0" Id="ea61f513-5b22-4d35-b78e-b1cc6461457d" Value="True" />
+            </Channel>
+          </Component>
+        </Components>
+        <Components TrackId="8c1125b3-3d0c-4bfe-8844-a2604e58576e">
+          <Component ComponentId="93a98854-d8c2-4774-affa-c0db0593897a" IsInfinite="true" TimeDuration="1">
+            <Channel Name="Foot IK">
+              <Key Time="0" Id="68c91cc9-73ab-4439-9da9-5595fc0e9325" Value="True" />
+            </Channel>
+          </Component>
+        </Components>
+        <Components TrackId="3472eee9-5391-4f8e-818b-9b79c7751bfa">
+          <Component ComponentId="a65fafd1-727e-4c27-ac70-15274a670d76" IsInfinite="true" TimeDuration="1">
+            <Channel Name="Look At Event">
+              <Key ΔTime="0" Id="26b967f2-6157-4ae0-9deb-aebd4b14c315">
+                <Value TargetId="22a89b5c-b040-4512-8a30-7d819ff28772" TargetBone="Head_M" TrackingMode="Recenter" LookAtMode="Head" LookAtInterpMode="EaseInOut" TurnMode="Forced" TurnSpeedMultiplier="1" TorsoTurnSpeedMultiplier="1" HeadTurnSpeedMultiplier="1" ResetEvent="true" Offset="0; 0; 0" IsEyeOverrideEnabled="false" EyeOverrideTargetId="00000000-0000-0000-0000-000000000000" EyeOverrideTargetBone="" EyeOverrideOffset="0; 0; 0" />
+              </Key>
+            </Channel>
+          </Component>
+        </Components>
+        <Components TrackId="011fe2f8-fe18-4440-9325-52e050faed95">
+          <Component ComponentId="dfbe669b-1cda-4c03-8513-11c815678826" IsInfinite="true" TimeDuration="1">
+            <Channel Name="Emotion Event">
+              <Key Time="0" Id="795dd7e5-af9e-4720-b8f5-4554b786d0a4">
+                <Value Emotion="Neutral" Variation="0" IsSustainedEmotion="true" AppliesMaterials="true" />
+              </Key>
+            </Channel>
+          </Component>
+        </Components>
+        <Components TrackId="2e66fb65-c19f-46ac-9f70-f45dc05f6bb4">
+          <Component ComponentId="777fc49a-cafc-4a36-853c-7b5a717c71b3" IsInfinite="true" TimeDuration="1">
+            <Channel Name="Show Weapon">
+              <Key Time="0" Id="39415179-cd0b-48e9-a0a6-e0aeaa613b5d" Value="True" />
+            </Channel>
+          </Component>
+        </Components>
+        <Components TrackId="435a3e08-ae2f-442d-a918-79a829ccc5ec">
+          <Component ComponentId="bb73b72c-05c4-4ebc-bb79-7693ded2b4f0" IsInfinite="true" TimeDuration="1">
+            <Channel Name="Foot IK">
+              <Key Time="0" Id="8437e968-fec5-4d3a-ad19-d66f0f979cac" Value="True" />
+            </Channel>
+          </Component>
+        </Components>
+        <Components ComponentTrackReference="21b56c93-3fe0-452b-800c-3966130112f4" IncludeInTimeline="false" TrackId="7902b309-6f94-45a7-b809-0f7164d12eb1">
+          <Component ComponentId="4868eb83-18fa-445c-80a0-a00c14b30d0a" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="78e64ea6-bd4e-48f8-9534-49820fd02643" IncludeInTimeline="false" TrackId="2a45baeb-316c-4dbc-9df3-d7aefd816209">
+          <Component ComponentId="5b5e1c9a-6544-4bc7-b0e1-d11fdc8807e4" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="21b56c93-3fe0-452b-800c-3966130112f4" IncludeInTimeline="false" TrackId="99bbfc00-6c3f-4ae7-9948-53b0a61e56d7">
+          <Component ComponentId="1f08132a-1c62-4c39-bd0f-c84a4f101609" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="78e64ea6-bd4e-48f8-9534-49820fd02643" IncludeInTimeline="false" TrackId="ed9647c0-706e-4488-9226-fee6767a01ab">
+          <Component ComponentId="2c011dd5-facb-4c62-b77c-c2a3c92955ad" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="21b56c93-3fe0-452b-800c-3966130112f4" IncludeInTimeline="false" TrackId="8a59d766-90de-4c49-8f08-e7fca5464ef0">
+          <Component ComponentId="0617cc9b-7c4e-4e66-867a-b0835174e8d0" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="78e64ea6-bd4e-48f8-9534-49820fd02643" IncludeInTimeline="false" TrackId="c39643f9-b2bd-4914-a44a-97b9641ea004">
+          <Component ComponentId="1d1081d2-c41a-45a5-ac07-58643024b593" IsInfinite="true" TimeDuration="1" />
+        </Components>
+      </Sequence>
+      <Sequence Id="be5c982b-f75b-44be-9205-d5c7296d2dbe" Name="Sequence 2 - Answer" DialogNodeColor="#FFF4A460" ΔTimeDuration="4.07">
+        <DialogNodeReference DialogNodeId="e17e08c9-b1aa-46dd-833e-90886b660d39" ReferenceId="e17e08c9-b1aa-46dd-833e-90886b660d39" />
+        <DialogNodeReference DialogNodeId="01983a2d-32d3-4bd8-f686-7f81cd30c22c" ReferenceId="01983a2d-32d3-4bd8-f686-7f81cd30c22c" />
+        <Components TrackId="ef1b2555-6b5c-4bd9-8eac-919d1171ad1b">
+          <Component ComponentId="35adf3a7-dfc0-450f-a024-c671a71d4a3c" ΔTimeDuration="4.07" AreCamersEdited="true" IsAutomatedLighting="true" IsAutomatedCamera="true" SwitchInterval="5" IsLooping="true">
+            <CameraContainer>
+              <Camera CameraId="44508148-e1d8-4968-bad1-9e774b6cd7b1" />
+            </CameraContainer>
+          </Component>
+        </Components>
+        <Components TrackId="dcb57938-93ba-4932-a972-e6b52e64053f">
+          <Component ComponentId="6058054c-2645-43ff-a420-ebd8b3f4e527" ΔTimeDuration="1.37" FaceTech="FaceFX" HoldMocap="true" PerformanceFade="2" FadeIn="2" FadeOut="0" SeparateFades="false">
+            <DialogNodeReference DialogNodeId="e17e08c9-b1aa-46dd-833e-90886b660d39" ReferenceId="e17e08c9-b1aa-46dd-833e-90886b660d39" />
+          </Component>
+          <Component ComponentId="fdab35c6-a20c-4d3a-a2b1-cea4cae51824" TimeStart="1.37" ΔTimeDuration="2.7" FaceTech="FaceFX" HoldMocap="true" PerformanceFade="2" FadeIn="2" FadeOut="0" SeparateFades="false">
+            <DialogNodeReference DialogNodeId="01983a2d-32d3-4bd8-f686-7f81cd30c22c" ReferenceId="01983a2d-32d3-4bd8-f686-7f81cd30c22c" />
+          </Component>
+        </Components>
+        <Components TrackId="21b56c93-3fe0-452b-800c-3966130112f4">
+          <Component ComponentId="3d80dd1a-cc7d-42be-8c61-b7a008be2b83" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="78e64ea6-bd4e-48f8-9534-49820fd02643">
+          <Component ComponentId="b4196e35-bfc3-4995-81ce-0b8b7ee81163" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="99fa5983-91d4-45f9-8bb8-a185a1e2d32a">
+          <Component ComponentId="4c3dd85b-5f05-4e72-9ec3-becbecb08756" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="8c1125b3-3d0c-4bfe-8844-a2604e58576e">
+          <Component ComponentId="5ec1dd41-5e7a-4c01-ab19-578ef5378c8a" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="3472eee9-5391-4f8e-818b-9b79c7751bfa">
+          <Component ComponentId="067092f9-7979-47fa-bb63-8b4203574a87" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="011fe2f8-fe18-4440-9325-52e050faed95">
+          <Component ComponentId="e6c31b9b-44a4-4127-aa5c-19c9c366a5a1" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="2e66fb65-c19f-46ac-9f70-f45dc05f6bb4">
+          <Component ComponentId="49ad357c-336f-4b66-ba5d-9a100dd76a98" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="435a3e08-ae2f-442d-a918-79a829ccc5ec">
+          <Component ComponentId="b49a7881-6335-44a5-81b9-860be991f8d7" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="21b56c93-3fe0-452b-800c-3966130112f4" IncludeInTimeline="false" TrackId="7902b309-6f94-45a7-b809-0f7164d12eb1">
+          <Component ComponentId="4d16d266-1a38-4b25-b084-dc327799889e" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="78e64ea6-bd4e-48f8-9534-49820fd02643" IncludeInTimeline="false" TrackId="2a45baeb-316c-4dbc-9df3-d7aefd816209">
+          <Component ComponentId="454f6250-4d11-4640-ab40-80bf2456bafe" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="21b56c93-3fe0-452b-800c-3966130112f4" IncludeInTimeline="false" TrackId="99bbfc00-6c3f-4ae7-9948-53b0a61e56d7">
+          <Component ComponentId="8566d49c-0e00-42b4-9bf9-0d8f7d2b8d15" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="78e64ea6-bd4e-48f8-9534-49820fd02643" IncludeInTimeline="false" TrackId="ed9647c0-706e-4488-9226-fee6767a01ab">
+          <Component ComponentId="9bfa883e-b9cc-4ebe-9bd1-a349d850a9c3" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="21b56c93-3fe0-452b-800c-3966130112f4" IncludeInTimeline="false" TrackId="8a59d766-90de-4c49-8f08-e7fca5464ef0">
+          <Component ComponentId="6bdefb2c-9205-480c-ae43-e41687bb6767" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="78e64ea6-bd4e-48f8-9534-49820fd02643" IncludeInTimeline="false" TrackId="c39643f9-b2bd-4914-a44a-97b9641ea004">
+          <Component ComponentId="d1be9899-0f7d-4dea-8875-286f5dfa91f6" IsInfinite="true" TimeDuration="1" />
+        </Components>
+      </Sequence>
+      <Sequence Id="a61d0653-ad2f-4764-9638-442e3d3c216a" Name="Sequence 3 - Answer" DialogNodeColor="#FFF4A460" ΔTimeDuration="1.75">
+        <DialogNodeReference DialogNodeId="28c3a31e-efde-7add-0301-7cdc0bceebcc" ReferenceId="28c3a31e-efde-7add-0301-7cdc0bceebcc" />
+        <Components TrackId="ef1b2555-6b5c-4bd9-8eac-919d1171ad1b">
+          <Component ComponentId="2fbd55cb-6572-4d95-a9bb-501ceff9c56c" ΔTimeDuration="1.75" AreCamersEdited="true" IsAutomatedLighting="true" IsAutomatedCamera="true" SwitchInterval="5" IsLooping="true">
+            <CameraContainer>
+              <Camera CameraId="44508148-e1d8-4968-bad1-9e774b6cd7b1" />
+            </CameraContainer>
+          </Component>
+        </Components>
+        <Components TrackId="dcb57938-93ba-4932-a972-e6b52e64053f">
+          <Component ComponentId="bfd9529f-4fef-4670-ae47-4c8fee4e3a66" ΔTimeDuration="1.75" FaceTech="FaceFX" HoldMocap="true" PerformanceFade="2" FadeIn="2" FadeOut="0" SeparateFades="false">
+            <DialogNodeReference DialogNodeId="28c3a31e-efde-7add-0301-7cdc0bceebcc" ReferenceId="28c3a31e-efde-7add-0301-7cdc0bceebcc" />
+          </Component>
+        </Components>
+        <Components TrackId="21b56c93-3fe0-452b-800c-3966130112f4">
+          <Component ComponentId="ee328171-b49d-491c-970a-1ce1b0647b7b" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="78e64ea6-bd4e-48f8-9534-49820fd02643">
+          <Component ComponentId="f6524f7c-4e2b-421b-b123-a865667e7664" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="99fa5983-91d4-45f9-8bb8-a185a1e2d32a">
+          <Component ComponentId="2711ce86-63fb-48c9-80a1-d910f8d9ec00" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="8c1125b3-3d0c-4bfe-8844-a2604e58576e">
+          <Component ComponentId="cbd3b7a3-4334-4d17-8a1f-4970f8598f71" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="3472eee9-5391-4f8e-818b-9b79c7751bfa">
+          <Component ComponentId="571317e7-0517-4cca-a3b6-5e8d6a5542c3" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="011fe2f8-fe18-4440-9325-52e050faed95">
+          <Component ComponentId="a276bc34-dc62-4b36-87b2-1dc53f775be6" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="2e66fb65-c19f-46ac-9f70-f45dc05f6bb4">
+          <Component ComponentId="a98f3503-0ecc-417e-8779-c6ce6385f347" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="435a3e08-ae2f-442d-a918-79a829ccc5ec">
+          <Component ComponentId="33e186a6-750c-4604-ad22-2a6dd7e456d7" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="21b56c93-3fe0-452b-800c-3966130112f4" IncludeInTimeline="false" TrackId="7902b309-6f94-45a7-b809-0f7164d12eb1">
+          <Component ComponentId="cfef9a41-0a82-4657-89bc-ce1857e10f11" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="78e64ea6-bd4e-48f8-9534-49820fd02643" IncludeInTimeline="false" TrackId="2a45baeb-316c-4dbc-9df3-d7aefd816209">
+          <Component ComponentId="5c2a83c8-17c6-4181-aa3c-f9f8f5ad1e57" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="21b56c93-3fe0-452b-800c-3966130112f4" IncludeInTimeline="false" TrackId="99bbfc00-6c3f-4ae7-9948-53b0a61e56d7">
+          <Component ComponentId="ca5eba43-222c-443a-a14b-908f712f2996" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="78e64ea6-bd4e-48f8-9534-49820fd02643" IncludeInTimeline="false" TrackId="ed9647c0-706e-4488-9226-fee6767a01ab">
+          <Component ComponentId="1fd3f20b-1158-47d8-a8e3-1e39ed4824a1" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="21b56c93-3fe0-452b-800c-3966130112f4" IncludeInTimeline="false" TrackId="8a59d766-90de-4c49-8f08-e7fca5464ef0">
+          <Component ComponentId="d128cbbf-742b-4cd3-9c45-480d7ed79e16" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="78e64ea6-bd4e-48f8-9534-49820fd02643" IncludeInTimeline="false" TrackId="c39643f9-b2bd-4914-a44a-97b9641ea004">
+          <Component ComponentId="23785524-b84d-46a0-aa68-b72cee45aa04" IsInfinite="true" TimeDuration="1" />
+        </Components>
+      </Sequence>
+      <Sequence Id="135e5d3b-ead6-4c6a-ac45-2358833e70eb" Name="Sequence 4 - Answer" DialogNodeColor="#FFF4A460" ΔTimeDuration="4.39">
+        <DialogNodeReference DialogNodeId="9dfc27a2-90e3-4c94-a6ec-e647e4c5a419" ReferenceId="9dfc27a2-90e3-4c94-a6ec-e647e4c5a419" />
+        <DialogNodeReference DialogNodeId="3d0e3152-da95-4adf-5451-def167a4e0c1" ReferenceId="3d0e3152-da95-4adf-5451-def167a4e0c1" />
+        <Components TrackId="ef1b2555-6b5c-4bd9-8eac-919d1171ad1b">
+          <Component ComponentId="b78e9eba-6ed0-489c-a8ec-1fda0d5341e5" ΔTimeDuration="4.39" AreCamersEdited="true" IsAutomatedLighting="true" IsAutomatedCamera="true" SwitchInterval="5" IsLooping="true">
+            <CameraContainer>
+              <Camera CameraId="03ace50b-c071-45ba-a1a5-2acacf6994fe" />
+            </CameraContainer>
+          </Component>
+        </Components>
+        <Components TrackId="dcb57938-93ba-4932-a972-e6b52e64053f">
+          <Component ComponentId="3072e6b8-b262-47cc-bb5d-0668c57b3ee1" ΔTimeDuration="3.29" FaceTech="FaceFX" HoldMocap="true" PerformanceFade="2" FadeIn="2" FadeOut="0" SeparateFades="false">
+            <DialogNodeReference DialogNodeId="9dfc27a2-90e3-4c94-a6ec-e647e4c5a419" ReferenceId="9dfc27a2-90e3-4c94-a6ec-e647e4c5a419" />
+          </Component>
+          <Component ComponentId="18833e69-bf3e-4651-b5b8-96d4606b20b6" TimeStart="3.29" ΔTimeDuration="1.0999999999999996" FaceTech="FaceFX" HoldMocap="true" PerformanceFade="2" FadeIn="2" FadeOut="0" SeparateFades="false">
+            <DialogNodeReference DialogNodeId="3d0e3152-da95-4adf-5451-def167a4e0c1" ReferenceId="3d0e3152-da95-4adf-5451-def167a4e0c1" />
+          </Component>
+        </Components>
+        <Components TrackId="21b56c93-3fe0-452b-800c-3966130112f4">
+          <Component ComponentId="1019e84a-de1a-434e-b5c2-643abf83ecb7" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="78e64ea6-bd4e-48f8-9534-49820fd02643">
+          <Component ComponentId="7fe80b2c-c657-491d-b736-894b95f02427" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="99fa5983-91d4-45f9-8bb8-a185a1e2d32a">
+          <Component ComponentId="fd408074-1ba5-426f-a1d9-b6c8f989b3f7" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="8c1125b3-3d0c-4bfe-8844-a2604e58576e">
+          <Component ComponentId="b3cfb781-0a7d-4334-9f2b-9555a2ebd7a7" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="3472eee9-5391-4f8e-818b-9b79c7751bfa">
+          <Component ComponentId="c1dd8d06-d96e-425c-9fe2-4bd3f3cb52d0" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="011fe2f8-fe18-4440-9325-52e050faed95">
+          <Component ComponentId="07576ddb-bfa3-4225-8c62-c2575c5076ff" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="2e66fb65-c19f-46ac-9f70-f45dc05f6bb4">
+          <Component ComponentId="763b1c8f-9216-4350-885a-e79f8ebad48d" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="435a3e08-ae2f-442d-a918-79a829ccc5ec">
+          <Component ComponentId="6711223f-94ff-4a40-b787-01b911240f7e" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="21b56c93-3fe0-452b-800c-3966130112f4" IncludeInTimeline="false" TrackId="7902b309-6f94-45a7-b809-0f7164d12eb1">
+          <Component ComponentId="00010290-2fb5-4ff0-9110-e0f1bab595c2" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="78e64ea6-bd4e-48f8-9534-49820fd02643" IncludeInTimeline="false" TrackId="2a45baeb-316c-4dbc-9df3-d7aefd816209">
+          <Component ComponentId="8d76d020-aaf8-4262-9ee4-f5d0705d853b" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="21b56c93-3fe0-452b-800c-3966130112f4" IncludeInTimeline="false" TrackId="99bbfc00-6c3f-4ae7-9948-53b0a61e56d7">
+          <Component ComponentId="f25de090-a466-4811-9b29-9499781f8e7a" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="78e64ea6-bd4e-48f8-9534-49820fd02643" IncludeInTimeline="false" TrackId="ed9647c0-706e-4488-9226-fee6767a01ab">
+          <Component ComponentId="db25158e-6d05-4a19-87b0-e69ae880c782" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="21b56c93-3fe0-452b-800c-3966130112f4" IncludeInTimeline="false" TrackId="8a59d766-90de-4c49-8f08-e7fca5464ef0">
+          <Component ComponentId="e093a95d-2faf-4f47-bce8-c5d8c43bfc8e" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="78e64ea6-bd4e-48f8-9534-49820fd02643" IncludeInTimeline="false" TrackId="c39643f9-b2bd-4914-a44a-97b9641ea004">
+          <Component ComponentId="729cada8-6ebb-4a26-b377-d1555a469658" IsInfinite="true" TimeDuration="1" />
+        </Components>
+      </Sequence>
+      <Sequence Id="801212cb-bb45-4022-ba0d-b0cafdbed71a" Name="Sequence 5 - Answer" DialogNodeColor="#FFF4A460" ΔTimeDuration="2.07">
+        <DialogNodeReference DialogNodeId="c24c8c83-215a-8933-9e66-83fcecdd3655" ReferenceId="c24c8c83-215a-8933-9e66-83fcecdd3655" />
+        <Components TrackId="ef1b2555-6b5c-4bd9-8eac-919d1171ad1b">
+          <Component ComponentId="82aa5410-8ccd-45e8-a2bd-fd01faa932ca" ΔTimeDuration="2.07" AreCamersEdited="true" IsAutomatedLighting="true" IsAutomatedCamera="true" SwitchInterval="5" IsLooping="true">
+            <CameraContainer>
+              <Camera CameraId="44508148-e1d8-4968-bad1-9e774b6cd7b1" />
+            </CameraContainer>
+          </Component>
+        </Components>
+        <Components TrackId="dcb57938-93ba-4932-a972-e6b52e64053f">
+          <Component ComponentId="a8b2c0ae-8f96-470d-b34d-c8fc5373e9fd" ΔTimeDuration="2.07" FaceTech="FaceFX" HoldMocap="true" PerformanceFade="2" FadeIn="2" SeparateFades="false">
+            <DialogNodeReference DialogNodeId="c24c8c83-215a-8933-9e66-83fcecdd3655" ReferenceId="c24c8c83-215a-8933-9e66-83fcecdd3655" />
+          </Component>
+        </Components>
+        <Components TrackId="21b56c93-3fe0-452b-800c-3966130112f4">
+          <Component ComponentId="ba2268e4-de15-4fdb-8470-56e9958c94a9" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="78e64ea6-bd4e-48f8-9534-49820fd02643">
+          <Component ComponentId="2ef293a5-bf28-43a1-84b3-bc44903b55a4" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="99fa5983-91d4-45f9-8bb8-a185a1e2d32a">
+          <Component ComponentId="9ef7984a-8c40-40fa-9072-3467b1ca510e" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="8c1125b3-3d0c-4bfe-8844-a2604e58576e">
+          <Component ComponentId="96966fa0-ceb6-4ff9-9d71-2204e0bae2c6" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="3472eee9-5391-4f8e-818b-9b79c7751bfa">
+          <Component ComponentId="66ee94ad-602b-4e1a-87f5-f2e7cd7494db" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="011fe2f8-fe18-4440-9325-52e050faed95">
+          <Component ComponentId="e7609ef4-14f9-4ec6-a4a9-8537dc268ba0" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="2e66fb65-c19f-46ac-9f70-f45dc05f6bb4">
+          <Component ComponentId="a6a761f5-c459-4283-a743-0ab35bf8ddf7" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="435a3e08-ae2f-442d-a918-79a829ccc5ec">
+          <Component ComponentId="be40d971-7f04-4ef5-a144-a812432bd16f" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="7902b309-6f94-45a7-b809-0f7164d12eb1">
+          <Component ComponentId="bbc332f3-94a5-4286-89e5-b9992c416a2f" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="2a45baeb-316c-4dbc-9df3-d7aefd816209">
+          <Component ComponentId="cccb60d2-faac-4010-9761-cd142509ca3f" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="99bbfc00-6c3f-4ae7-9948-53b0a61e56d7">
+          <Component ComponentId="70295f6a-44de-4342-9eae-224cc5a325b2" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="ed9647c0-706e-4488-9226-fee6767a01ab">
+          <Component ComponentId="07560fe9-0ebc-4f62-8c75-29e3620a5983" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="8a59d766-90de-4c49-8f08-e7fca5464ef0">
+          <Component ComponentId="205d5851-a766-4997-a525-fbd78c72680f" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="c39643f9-b2bd-4914-a44a-97b9641ea004">
+          <Component ComponentId="a3fa3785-8fab-4e03-bc71-25d525c5f06a" IsInfinite="true" TimeDuration="1" />
+        </Components>
+      </Sequence>
+      <Sequence Id="af1aca27-a3b5-4cbf-b04c-23c94f9e3db9" Name="Sequence 6 - Answer" DialogNodeColor="#FFCD5C5C" ΔTimeDuration="0.99">
+        <DialogNodeReference DialogNodeId="8e72219b-fdc0-bb0e-66f6-ba1bf1182e57" ReferenceId="8e72219b-fdc0-bb0e-66f6-ba1bf1182e57" />
+        <Components TrackId="ef1b2555-6b5c-4bd9-8eac-919d1171ad1b">
+          <Component ComponentId="fa5814b3-d15f-466e-9949-e04ddfc81d71" ΔTimeDuration="0.99" AreCamersEdited="true" IsAutomatedLighting="true" IsAutomatedCamera="true" SwitchInterval="5" IsLooping="true">
+            <CameraContainer>
+              <Camera CameraId="44508148-e1d8-4968-bad1-9e774b6cd7b1" />
+            </CameraContainer>
+          </Component>
+        </Components>
+        <Components TrackId="dcb57938-93ba-4932-a972-e6b52e64053f">
+          <Component ComponentId="e1230569-93f3-4bf2-8c58-b96e711bb6d9" ΔTimeDuration="0.99" FaceTech="FaceFX" HoldMocap="true" PerformanceFade="2" FadeIn="2" FadeOut="0" SeparateFades="false">
+            <DialogNodeReference DialogNodeId="8e72219b-fdc0-bb0e-66f6-ba1bf1182e57" ReferenceId="8e72219b-fdc0-bb0e-66f6-ba1bf1182e57" />
+          </Component>
+        </Components>
+        <Components TrackId="21b56c93-3fe0-452b-800c-3966130112f4">
+          <Component ComponentId="79c76abb-2526-4094-81b9-f3f603390898" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="78e64ea6-bd4e-48f8-9534-49820fd02643">
+          <Component ComponentId="2f03755c-ac7a-445a-a627-eff5c86f00e1" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="99fa5983-91d4-45f9-8bb8-a185a1e2d32a">
+          <Component ComponentId="73ace0ed-603f-447e-aacd-386cb0be5692" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="8c1125b3-3d0c-4bfe-8844-a2604e58576e">
+          <Component ComponentId="4ebf7191-7f34-4e06-8669-55eb20515c3f" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="3472eee9-5391-4f8e-818b-9b79c7751bfa">
+          <Component ComponentId="ca3bcd30-40b0-4c13-a302-26c27a694d3d" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="011fe2f8-fe18-4440-9325-52e050faed95">
+          <Component ComponentId="4db2ffa9-cc83-4479-bed6-bb6c67256d69" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="2e66fb65-c19f-46ac-9f70-f45dc05f6bb4">
+          <Component ComponentId="51248fc9-f089-4ed9-9505-9056be95cc30" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="435a3e08-ae2f-442d-a918-79a829ccc5ec">
+          <Component ComponentId="e44c30f5-eb3a-46b9-b3fe-e59072ecb337" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="7902b309-6f94-45a7-b809-0f7164d12eb1">
+          <Component ComponentId="3b4645be-eb95-4d7e-8713-b54ff1941192" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="2a45baeb-316c-4dbc-9df3-d7aefd816209">
+          <Component ComponentId="cecb829c-1277-49a2-9003-7fc159478c49" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="99bbfc00-6c3f-4ae7-9948-53b0a61e56d7">
+          <Component ComponentId="fbdaf526-2b76-4ca3-8d43-1101322f65ab" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="ed9647c0-706e-4488-9226-fee6767a01ab">
+          <Component ComponentId="9df108b9-203f-493d-9ff3-1d72dd9488f6" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="8a59d766-90de-4c49-8f08-e7fca5464ef0">
+          <Component ComponentId="9fa78425-c655-4e77-9baf-1de19b9d197a" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="c39643f9-b2bd-4914-a44a-97b9641ea004">
+          <Component ComponentId="eac9feb6-a9a6-4df2-8255-322f74a9eae9" IsInfinite="true" TimeDuration="1" />
+        </Components>
+      </Sequence>
+    </Sequences>
+    <Playlists>
+      <Playlist PlaylistType="Dynamic">
+        <Sequences />
+      </Playlist>
+    </Playlists>
+    <FoleySettings ShouldPlay="true" CameraCullingEnabled="true" MinVelocityThreshold="0.2" MaxVelocityThreshold="8" VelocitySpikeThreshold="3.25" VelocityResumeSpikeDetectionThreshold="3.25" MinRotationThreshold="0.2" MaxRotationThreshold="10" RotationSpikeThreshold="2.25" RotationResumeSpikeDetectionThreshold="2.25" ArmorType="Cloth" />
+    <ExposureSettings />
+    <QuestionHoldAutomation IsQuestionHoldAutomationEnabled="false" QuestionHoldAutomationCycleSpeed="0" />
+    <WorldCinematicSettings PlayCount="1" />
+    <PersistentPreviewSettings />
+  </Timeline>
+</Root>

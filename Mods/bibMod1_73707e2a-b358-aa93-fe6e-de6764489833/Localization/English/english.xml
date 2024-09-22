@@ -317,23 +317,23 @@
   <content contentuid="h034e1312gfc43g6baeg78d7g01fdf4a6d2af" version="1">This old skull-shaped device is filled with knowledge.</content>
   <content contentuid="hababc55dg424dg34efg8a17g12622adedd4f" version="2">This small, smooth stone contains the essence of a single experience. You can touch and consume the stone and experience the sensation yourself. End the charmed and frightened condition.</content>
   <content contentuid="hbbe6fb62g8720ge560g9f8egfb8255bb73c1" version="1">This small, smooth stone contains the essence of a single experience. You can touch and consume the stone and experience the sensation yourself. End the charmed and frightened condition.</content>
-  <content contentuid="hc1879bf9ge4f7g5255gc004g0781b6d42fc7" version="2">Warp Sense Scroll</content>
+  <content contentuid="hc1879bf9ge4f7g5255gc004g0781b6d42fc7" version="1">Warp Sense Scroll</content>
   <content contentuid="h5eec5a4dg2405g2283g442eg631cc1ddc8f1" version="1">Gate Seal Scroll</content>
   <content contentuid="h553c82b2g12ebg58cbgbabfg1a9d16cfa477" version="2">Gate Seal Scroll</content>
   <content contentuid="hfcfb0f1bg0821ge78fgd3d8g860be08d4105" version="2">Gate Seal Scroll</content>
   <content contentuid="hc9aee5eege786g13f1gec8bgc3d884c981f3" version="1">Portal Cracker</content>
   <content contentuid="h8b3e8f81g355bg97c3ge7e7gef7c5c149603" version="1">Try to safely cast Portal Cracker.</content>
   <content contentuid="h39b148e5ga397g512bgc05dgc0ae5ac90c80" version="1">Sensory Stone</content>
-  <content contentuid="h8661c82cg968cg7376g49ecg0af9fc7371f0" version="2">Old Inanimate Mimir</content>
+  <content contentuid="h8661c82cg968cg7376g49ecg0af9fc7371f0" version="3">Mimir</content>
   <content contentuid="hc515d8bdgc91ag00afg3b5eg9f683089a0ae" version="6">Sensory Stone</content>
   <content contentuid="ha39c241fgfdd5g1d77g28e2gde5843be5df1" version="2">Portal Compass</content>
-  <content contentuid="hc13933a5g243dg625bgbcd5g6992c525f1e5" version="3">This old inanimate skull-shaped device is filled with knowledge.</content>
+  <content contentuid="hc13933a5g243dg625bgbcd5g6992c525f1e5" version="4">This old inanimate skull-shaped device is filled with knowledge.</content>
   <content contentuid="h19f6dfd8gdc11gdbabgb792gf13be0ddb61e" version="1">Sensory Stone</content>
   <content contentuid="h11f6fe24g1b93ge170gdca1g5d79194cbfe5" version="1">Mimir</content>
   <content contentuid="h5c94facagf9ecg4524g5fcfg4db96e33cdbb" version="1">Portal Compass</content>
   <content contentuid="h0ecbb3b1g4632g7672g2411g10297af2e28c" version="1">Portal Compass</content>
   <content contentuid="h82ae22f9gb470g74b9g2f81g35db749d7bf6" version="1">You have a Proficienty bonus in Arcana and Perception.</content>
-  <content contentuid="he74c5a36gaa29g319cga756gace944dd2f43" version="28">Mimir</content>
+  <content contentuid="he74c5a36gaa29g319cga756gace944dd2f43" version="30">Mimir</content>
   <content contentuid="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1">Activate the Mimir and absorb its knowledge.</content>
   <content contentuid="hcd937889g2ddbg0436g8d85g6b74891d554c" version="1">Free thinker</content>
   <content contentuid="h7dd603ebg6c37g27d9gd5c2ge37c18b6d230" version="3">For those independent of mind and thought, who does not refer to any god. We often see this way of thinking among residents of Sigil. With a class like Cleric, a godless character can gain powers from their own convictions and principles.</content>
@@ -411,5 +411,40 @@
   <content contentuid="heda10324g76b0gc44ag2065gb92aac937f9d" version="1">Sometimes other versions of you melt with you during an attack.</content>
   <content contentuid="h4fbec60cg9b97gd573g5cf2g30b438699523" version="1">Glitch on cast</content>
   <content contentuid="he2d44030gd930g2688gb270g23d185e3ee5f" version="1">Sometimes other versions of you melt with you during a cast.</content>
-  <content contentuid="hbec539bdgfe54g30abg37caga453d77caef8" version="1">*Crrrkkk*</content>
+  <content contentuid="hbec539bdgfe54g30abg37caga453d77caef8" version="5">*Crrrkkk*</content>
+  <content contentuid="h3a0ff6c2ge915g1a79g400agaab25e37fbd9" version="16">Morte</content>
+  <content contentuid="h78db741fgb55cg325cg3153gd1f5d62b5f87" version="16">Mimir</content>
+  <content contentuid="hbdfa7db9g426agb016g1e61g43e526925235" version="6">Morte</content>
+  <content contentuid="h12bb70d7ga5d5g3412g4e03gf2c0b249875b" version="6">This old Mimir wants to wake up and talk.</content>
+  <content contentuid="h7b481653g323ag3461gcd1ag86612f011e54" version="1">Morte</content>
+  <content contentuid="hae6883e4gc6a3g8aaaged24ga4fca3eaef0f" version="1">This old Mimir wants to wake up and talk.</content>
+  <content contentuid="h89f25f6fg526egf2e2gba52gf9320bcdc03f" version="41">Hey Chief !</content>
+  <content contentuid="h4bf59ba8g0aa0g9c87g14f6g93610f9322a6" version="52">Who are you ? It seems that you were inert for a while before I found you.</content>
+  <content contentuid="h5341c925g3caag3538g75c4gdb997220e5a3" version="52">I'm Morte.</content>
+  <content contentuid="h4000c84agbbe0gdfb8g667bg1cf2ec763ce6" version="52">You know, sometimes, I sure miss having a body.</content>
+  <content contentuid="h48574305g2f4fg344ag1528gc371390486b7" version="52">How do you feel ?</content>
+  <content contentuid="h32c34513gc265g9426g6636gb6f8cc435cd1" version="52">I am both happy and completely miserable.</content>
+  <content contentuid="h13730ccageb7eg7a4ag8275g041f7c7a4119" version="29">Without the happy part.</content>
+  <content contentuid="h71b39e8eg4dddg6048g8611g45a6cd9f868e" version="23">&lt;i&gt;Inspect him&lt;/i&gt;.</content>
+  <content contentuid="h2c00b4begb0c2g36a1g606egeaccefb5256f" version="21">*Crrrkkk*</content>
+  <content contentuid="h298809c6gdd34g704fg0ad3g783a0fc0903a" version="51">Watch my back.</content>
+  <content contentuid="h2bcab3f5g4988gddb5gbe9agf5c303543bbd" version="15">Hey ! Are you alright ?</content>
+  <content contentuid="h7ba6092bg97c1ge61dg9288g1aaa7c486fb4" version="15">It's ok, it's just that I have a strange feeling about you.</content>
+  <content contentuid="h2a48564cg077bg8416g3075ge9d152a2004e" version="14">Ok.</content>
+  <content contentuid="h4c283e90g30a7ga324gca4eg7cacee572a6d" version="13">Yes don't worry, see you later.</content>
+  <content contentuid="heb794250gf2a2g367fgd6d4gb89e741b022b" version="9">Hey Chief !</content>
+  <content contentuid="h763151cbg1026g9e57gbd84ge12ebd908ea7" version="1">You know, sometimes, I sure miss having a body.</content>
+  <content contentuid="h7df29810g66f7g26edg2361gddf510a4961a" version="1">I am both happy and completely miserable.</content>
+  <content contentuid="he41dca66g8a47g6a1eg59b5g5a9d10bcd42c" version="1">Without the happy part.</content>
+  <content contentuid="hcf0520c4gc766gbc23g88dfg229a90d05eea" version="8">You know, sometimes I sure miss having a body.</content>
+  <content contentuid="h8bbec1c6g9026g53e9ga203g83a4e7de38e0" version="8">I am both happy and completely miserable.</content>
+  <content contentuid="h0e43f5b1g35d3gbac0g562fgfb1f86b04b62" version="2">Without the happy part.</content>
+  <content contentuid="h81022b63gfd02g708fgbc41g7f549f70542e" version="3">I swear to you that I'm the head of Vecna.</content>
+  <content contentuid="h0feed226g2c68g2458gbfd5g9ad5939ebe21" version="3">Hey Chief, you okay?</content>
+  <content contentuid="h473a2910g8f76gd086g9ec0g4e937c5645a4" version="3">We should get some female zombies to join our party.</content>
+  <content contentuid="hae4b5e8eg835eg4515g5910ge4c0fd85fcb2" version="3">I need a sensory touch.</content>
+  <content contentuid="h3406b210g2eddg30ccg8072g49ba5d3354c0" version="3">Can't wait to continue being a floating skull for the rest of eternity.</content>
+  <content contentuid="hef75e573gd557gc235g8737ge71117f438d2" version="1">Thanks for reactivating me Chief, can't wait to go out and party.</content>
+  <content contentuid="h3fc28911g273ag101fgc378gd304d05dae4d" version="5">Dak'kon's Zerth Blade</content>
+  <content contentuid="h09e1a258g06d2g1251gd407g6d608385eb5d" version="5">This sword was the weapon of choice of a famous githzerai working for a creature known as the 'Nameless One'.</content>
 </contentList>

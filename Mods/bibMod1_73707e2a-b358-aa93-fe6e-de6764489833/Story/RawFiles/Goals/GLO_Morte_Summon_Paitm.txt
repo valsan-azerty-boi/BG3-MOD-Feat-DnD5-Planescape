@@ -1,0 +1,20 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+// GLOBAL NPC CONF
+//IF
+//CastSpell(_Spell, "Shout_Paitm_Mimir_Morte_Spell", _, _, _)
+//AND
+//DB_Players((CHARACTER)_Player)
+//THEN
+//Resurrect((CHARACTER)Morte_002_1199a157-cea1-4117-a089-0eb94c212870);
+//SetHitpointsPercentage((GUIDSTRING)Morte_002_1199a157-cea1-4117-a089-0eb94c212870, 100.0);
+//SetLevel((GUIDSTRING)Morte_002_1199a157-cea1-4117-a089-0eb94c212870, 12);
+//TeleportTo((GUIDSTRING)Morte_002_1199a157-cea1-4117-a089-0eb94c212870, _Player, "", 0, 1, 0, 0, 0);
+//AddPartyFollower(Morte_002_1199a157-cea1-4117-a089-0eb94c212870, _Player);
+//SetVisible((GUIDSTRING)Morte_002_1199a157-cea1-4117-a089-0eb94c212870, 1);
+EXITSECTION
+
+ENDEXITSECTION
