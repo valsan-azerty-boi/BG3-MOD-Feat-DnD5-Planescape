@@ -3,6 +3,7 @@
 
 [Nexus](https://www.nexusmods.com/baldursgate3/mods/12096) - [mod.io](https://mod.io/g/baldursgate3/m/features-from-dnd-5e-planescape) - [Source](https://github.com/valsan-azerty-boi/BG3-MOD-Feat-DnD5-Planescape)
 
+![Patch 1.3](./Projects/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/images/updates/banner_patch_1.3.png)
 ![Patch 1.2](./Projects/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/images/updates/banner_patch_1.2_v2.png)
 ![Patch 1.1](./Projects/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/images/updates/banner_patch_1.1.png)
 ![Patch 1.0](./Projects/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/images/updates/banner_patch_1.0.png)
@@ -31,6 +32,8 @@ This mod implements features from the D&D 5E Planescape sourcebooks into Baldur'
 - berrako
 - Hecctus
 - AlucardTraducao
+- Fetish
+- CFLO
 - And Larian for the game and Mod Toolkit
 
 ![Planescape](./Projects/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/images/planescape_pres_morte.png)
