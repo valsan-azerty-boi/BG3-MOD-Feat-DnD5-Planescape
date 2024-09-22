@@ -356,7 +356,7 @@
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="1" />
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="8e9914c9-7008-4252-ab31-a9776c444194" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="135cb448-04f9-4543-b670-7bebea4ae21d" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(7dbd681a-da33-4ef4-8eac-d03c418dc701, -1, , ,'MimirStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK)" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(39f4b58a-4921-4d82-ac69-4c40421ad495, 0, , ,'MimirStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK)" />
       </fields>
     </stat_object>
   </stat_objects>
