@@ -171,7 +171,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_ChaoticFlare_RandomBase" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha6b6349ege712ge389ge8e4g34555c999327" version="2" />
         <field name="Icon" type="StringTableFieldDefinition" value="Action_Barbarian_Frenzy" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator;FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_ChaoticFlare_RandomApply,100,0)" />
       </fields>
     </stat_object>
@@ -182,6 +182,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2151ec82ge6beg66bege538g9d5cfc9795c6" version="2" />
         <field name="Icon" type="StringTableFieldDefinition" value="Action_Barbarian_Frenzy" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="IF(ConditionResult(GetStatusDuration('Paitm_ChaoticFlare_RandomBase',context.Target) == 1)):ApplyStatus(Paitm_ChaoticFlare_BattleFury,100,1);IF(ConditionResult(GetStatusDuration('Paitm_ChaoticFlare_RandomBase',context.Target) == 2)):ApplyStatus(Paitm_ChaoticFlare_DisruptionField_AURA,100,1);IF(ConditionResult(GetStatusDuration('Paitm_ChaoticFlare_RandomBase',context.Target) == 3)):ApplyStatus(Paitm_ChaoticFlare_Unbound,100,1);IF(ConditionResult(GetStatusDuration('Paitm_ChaoticFlare_RandomBase',context.Target) == 4)):ApplyStatus(Paitm_ChaoticFlare_WailingWinds_AURA,100,1);RemoveStatus(Paitm_ChaoticFlare_RandomBase)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -242,7 +243,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8bcbee5cg55fbg2dd2g70c3ge3fc012e0278" version="3" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
         <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator;FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_GlitchCharacter_Attack_RandomApply,100,0)" />
       </fields>
     </stat_object>
@@ -254,6 +255,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
         <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="IF(ConditionResult(GetStatusDuration('Paitm_GlitchCharacter_Attack_RandomBase',context.Target) == 1)):ApplyStatus(Paitm_GlitchCharacter_HalfOrc,100,0);IF(ConditionResult(GetStatusDuration('Paitm_GlitchCharacter_Attack_RandomBase',context.Target) == 2)):ApplyStatus(Paitm_GlitchCharacter_TiefMale,100,0);IF(ConditionResult(GetStatusDuration('Paitm_GlitchCharacter_Attack_RandomBase',context.Target) == 3)):ApplyStatus(Paitm_GlitchCharacter_HumanMale,100,0);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomBase);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomBase);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomBase)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -263,7 +265,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4d9d4771ge6aeg61c8gd4d5g980f59cac23e" version="4" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
         <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator;FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_GlitchCharacter_Cast_RandomApply,100,0)" />
       </fields>
     </stat_object>
@@ -275,6 +277,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
         <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="IF(ConditionResult(GetStatusDuration('Paitm_GlitchCharacter_Cast_RandomBase',context.Target) == 1)):ApplyStatus(Paitm_GlitchCharacter_DrowFemale,100,0);IF(ConditionResult(GetStatusDuration('Paitm_GlitchCharacter_Cast_RandomBase',context.Target) == 2)):ApplyStatus(Paitm_GlitchCharacter_GithFemale,100,0);IF(ConditionResult(GetStatusDuration('Paitm_GlitchCharacter_Cast_RandomBase',context.Target) == 3)):ApplyStatus(Paitm_GlitchCharacter_DragonbornMale,100,0);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomBase);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomBase);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomBase)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -284,6 +287,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h811bd64dg5987gc5a4g61b0ge144c1d89f0f" version="2" />
         <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_HALFORC_FEMALE,100,10);ApplyStatus(STONESKIN,100,3);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -293,6 +297,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h075ba9d9g0211g79e6g7fc7g08a9236bc21f" version="1" />
         <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_TIEFLING_MALE,100,10);ApplyStatus(DISENGAGE,100,3);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -302,6 +307,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h54a3c1eag0199g01b1gdbcdge528463cf26d" version="1" />
         <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_HUMAN_STRONG_MALE,100,10);ApplyStatus(DIVINE_FAVOR,100,3);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -311,6 +317,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1c5ac7d4gd05eg4379g7dc7g6e1bb4bea16c" version="1" />
         <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_GNOME_MALE,100,4);ApplyStatus(AID,100,-1);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -320,6 +327,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h01dc71e8g16dcgf967gf977g4cf1b1bbbfbe" version="1" />
         <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_HALFLING_FEMALE,100,4);ApplyStatus(AID,100,-1);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -329,6 +337,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4807472eg1020g991dgbf18g5d3c054206cf" version="1" />
         <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_DROW_FEMALE,100,10);ApplyStatus(FREEDOM_OF_MOVEMENT,100,4);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -338,6 +347,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h81b7d4a0g982bgac0bg2566g2cf964aafc8f" version="1" />
         <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_GITHYANKI_FEMALE,100,10);ApplyStatus(HEROES_FEAST,100,3);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -347,6 +357,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h97c3ceccg814ag6617g7232g6d014b6e8a7b" version="1" />
         <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_DRAGONBORN_MALE,100,10);ApplyStatus(SHIELD_OF_FAITH,100,4);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
   </stat_objects>
