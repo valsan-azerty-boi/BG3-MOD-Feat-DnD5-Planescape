@@ -15,19 +15,18 @@
                   ]
                }
             ],
-            "UUID" : {"type" : "FixedString", "value" : "c025b491-34e4-2ee8-5a74-5b4a458db43d"},
+            "UUID" : {"type" : "FixedString", "value" : "67137ef7-092d-936f-b9b1-9c58fa3c8719"},
             "automated" : {"type" : "bool", "value" : true},
             "category" : {"type" : "LSString", "value" : "Voice bark"},
             "nodes" : [
                {
                   "RootNodes" : [
                      {
-                        "RootNodes" : {"type" : "FixedString", "value" : "5979700b-bda8-e4ed-3c24-a6030db37521"}
+                        "RootNodes" : {"type" : "FixedString", "value" : "534cbc6d-2e93-7f11-e860-4ee172f506c2"}
                      }
                   ],
                   "node" : [
                      {
-                        "AllowNodeGrouping" : {"type" : "bool", "value" : false},
                         "GameData" : [
                            {
                               "AiPersonalities" : [ {} ],
@@ -36,92 +35,9 @@
                            }
                         ],
                         "Root" : {"type" : "bool", "value" : true},
-                        "TaggedTexts" : [
-                           {
-                              "TaggedText" : [
-                                 {
-                                    "HasTagRule" : {"type" : "bool", "value" : true},
-                                    "RuleGroup" : [
-                                       {
-                                          "Rules" : [ {} ],
-                                          "TagCombineOp" : {"type" : "uint8", "value" : 0}
-                                       }
-                                    ],
-                                    "TagTexts" : [
-                                       {
-                                          "TagText" : [
-                                             {
-                                                "LineId" : {"type" : "guid", "value" : "8b756c76-0f97-4d79-a839-84d646920880"},
-                                                "TagText" : {
-                                                   "handle" : "heb794250gf2a2g367fgd6d4gb89e741b022b",
-                                                   "type" : "TranslatedString",
-                                                   "version" : 13
-                                                },
-                                                "stub" : {"type" : "bool", "value" : true}
-                                             },
-                                             {
-                                                "LineId" : {"type" : "guid", "value" : "9ad2ab7a-e408-40d6-bd4d-41baa5b929b2"},
-                                                "TagText" : {
-                                                   "handle" : "hcf0520c4gc766gbc23g88dfg229a90d05eea",
-                                                   "type" : "TranslatedString",
-                                                   "version" : 12
-                                                },
-                                                "stub" : {"type" : "bool", "value" : true}
-                                             },
-                                             {
-                                                "LineId" : {"type" : "guid", "value" : "d0c8863d-e4ab-4f0a-9b3d-0471e2722a3c"},
-                                                "TagText" : {
-                                                   "handle" : "h8bbec1c6g9026g53e9ga203g83a4e7de38e0",
-                                                   "type" : "TranslatedString",
-                                                   "version" : 12
-                                                },
-                                                "stub" : {"type" : "bool", "value" : true}
-                                             },
-                                             {
-                                                "LineId" : {"type" : "guid", "value" : "bf6968fd-29ef-4082-a3d7-0a9c0783c8ae"},
-                                                "TagText" : {
-                                                   "handle" : "h81022b63gfd02g708fgbc41g7f549f70542e",
-                                                   "type" : "TranslatedString",
-                                                   "version" : 7
-                                                },
-                                                "stub" : {"type" : "bool", "value" : true}
-                                             },
-                                             {
-                                                "LineId" : {"type" : "guid", "value" : "3bca3a59-097a-4b31-b69f-285b26a606e7"},
-                                                "TagText" : {
-                                                   "handle" : "h0feed226g2c68g2458gbfd5g9ad5939ebe21",
-                                                   "type" : "TranslatedString",
-                                                   "version" : 7
-                                                },
-                                                "stub" : {"type" : "bool", "value" : true}
-                                             },
-                                             {
-                                                "LineId" : {"type" : "guid", "value" : "127a2b3f-4e08-4924-a986-7b932a28b71d"},
-                                                "TagText" : {
-                                                   "handle" : "h473a2910g8f76gd086g9ec0g4e937c5645a4",
-                                                   "type" : "TranslatedString",
-                                                   "version" : 7
-                                                },
-                                                "stub" : {"type" : "bool", "value" : true}
-                                             },
-                                             {
-                                                "LineId" : {"type" : "guid", "value" : "0581ac50-cd06-4275-9c37-99127c262b77"},
-                                                "TagText" : {
-                                                   "handle" : "hae4b5e8eg835eg4515g5910ge4c0fd85fcb2",
-                                                   "type" : "TranslatedString",
-                                                   "version" : 7
-                                                },
-                                                "stub" : {"type" : "bool", "value" : true}
-                                             }
-                                          ]
-                                       }
-                                    ]
-                                 }
-                              ]
-                           }
-                        ],
+                        "TaggedTexts" : [ {} ],
                         "Tags" : [ {} ],
-                        "UUID" : {"type" : "FixedString", "value" : "5979700b-bda8-e4ed-3c24-a6030db37521"},
+                        "UUID" : {"type" : "FixedString", "value" : "534cbc6d-2e93-7f11-e860-4ee172f506c2"},
                         "checkflags" : [ {} ],
                         "children" : [ {} ],
                         "constructor" : {"type" : "FixedString", "value" : "TagGreeting"},
@@ -242,9 +158,9 @@
                {
                   "speaker" : [
                      {
-                        "SpeakerMappingId" : {"type" : "guid", "value" : "8845e88a-2793-430d-863f-9bf2b4668f06"},
+                        "SpeakerMappingId" : {"type" : "guid", "value" : "7fef0b6a-958d-44ec-8294-64857dd8f0a7"},
                         "index" : {"type" : "FixedString", "value" : "0"},
-                        "list" : {"type" : "LSString", "value" : "1199a157-cea1-4117-a089-0eb94c212870"}
+                        "list" : {"type" : "LSString", "value" : "316feab5-16c8-4365-9ebc-1f3133ec7f4f"}
                      }
                   ]
                }
@@ -293,7 +209,7 @@
                }
             ],
             "needLayout" : {"type" : "bool", "value" : false},
-            "nextNodeId" : {"type" : "uint32", "value" : 5},
+            "nextNodeId" : {"type" : "uint32", "value" : 1},
             "speakerSlotDescription" : [
                {
                   "data" : [

@@ -372,5 +372,17 @@
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7a95e0cc-094c-4bca-b6e1-98ddcf9df741" />
+        <field name="UUID" type="IdTableFieldDefinition" value="88a0a245-fe00-474c-8c4f-308ed75e65c5" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOW_DevilsFee_Diabolist_Trade_Magic_substat" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_FallFromGrace" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
