@@ -106,7 +106,7 @@
         <field name="Weight" type="FloatTableFieldDefinition" value="65" />
         <field name="StepsType" type="EnumerationTableFieldDefinition" value="Bare" enumeration_type_name="StepsType" version="1" />
         <field name="Flags" type="EnumerationListTableFieldDefinition" value="ObscurityWithoutSneaking;BackstabImmunity" enumeration_type_name="AttributeFlags" version="1" />
-        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="IgnoreFallDamage();ProficiencyBonus(SavingThrow,Dexterity);UnlockSpell(Shout_Hide)" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="IgnoreFallDamage();ProficiencyBonus(SavingThrow,Dexterity);UnlockSpell(Shout_Hide);UnlockSpell(Shout_SupremeSneak);UnlockSpell(Target_SneakAttack);SpellUnlock(Target_Paitm_MistyStep)" />
         <field name="Proficiency Bonus Scaling" type="GuidObjectTableFieldDefinition" value="265d62c4-9b82-4ed6-9a86-da675b4ef8fe" />
         <field name="SpellCastingAbility" type="EnumerationTableFieldDefinition" value="Intelligence" enumeration_type_name="Ability" version="1" />
         <field name="UnarmedAttackAbility" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
@@ -120,7 +120,7 @@
         <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Leather" enumeration_type_name="ArmorType" version="1" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Daggers;HandCrossbows;Longbows;LightArmor;LightCrossbows;MediumArmor;MartialWeapons;MusicalInstrument;SimpleWeapons;Shortbows;Shortswords;Scimitars;Rapiers;Maces;Glaives;HeavyCrossbows;Handaxes;Clubs" enumeration_type_name="ProficiencyGroupFlags" version="1" />
         <field name="ActionResources" type="StringTableFieldDefinition" value="Movement:9;ActionPoint:1;BonusActionPoint:2;ReactionActionPoint:2" />
-        <field name="Passives" type="StringTableFieldDefinition" value="Tiefling_HellishResistance;AttackOfOpportunity;DarknessRules;Darkvision;Paitm_PlanarInfusion_Poison;Paitm_CohortOfChaos;DualWielder_PassiveBonuses;DungeonDelver_Perception;Alert;Mobile_PassiveBonuses;SavageAttacker" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Tiefling_HellishResistance;AttackOfOpportunity;DarknessRules;Darkvision;Paitm_PlanarInfusion_Poison;Paitm_CohortOfChaos;DualWielder_PassiveBonuses;Alert;Mobile_PassiveBonuses;SavageAttacker;Assassinate_Initiative;Assassinate_Ambush;Assassinate_Resource;UncannyDodge" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -144,7 +144,7 @@
         <field name="Weight" type="FloatTableFieldDefinition" value="65" />
         <field name="StepsType" type="EnumerationTableFieldDefinition" value="Bare" enumeration_type_name="StepsType" version="1" />
         <field name="Flags" type="EnumerationListTableFieldDefinition" value="FloatingWhileMoving;BackstabImmunity;SlippingImmunity" enumeration_type_name="AttributeFlags" version="1" />
-        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="IgnoreFallDamage();UnlockSpell(Shout_Hide);ProficiencyBonus(SavingThrow,Charisma);UnlockSpell(Projectile_Fly_Spell)" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="IgnoreFallDamage();UnlockSpell(Shout_Hide);ProficiencyBonus(SavingThrow,Charisma);UnlockSpell(Projectile_Fly_Spell);UnlockSpell(Target_HealingWord,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,,);UnlockSpell(Shout_HealingWord_Mass,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,,);UnlockSpell(Target_LesserRestoration,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,,);UnlockSpell(Target_RemoveCurse,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,,);UnlockSpell(Shout_Aid,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,,);UnlockSpell(Target_SpeakWithDead)" />
         <field name="Proficiency Bonus Scaling" type="GuidObjectTableFieldDefinition" value="265d62c4-9b82-4ed6-9a86-da675b4ef8fe" />
         <field name="SpellCastingAbility" type="EnumerationTableFieldDefinition" value="Charisma" enumeration_type_name="Ability" version="1" />
         <field name="UnarmedAttackAbility" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
@@ -159,7 +159,7 @@
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor;SimpleWeapons;MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
         <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SG_Charmed" />
         <field name="ActionResources" type="StringTableFieldDefinition" value="Movement:9;ActionPoint:1;BonusActionPoint:1;ReactionActionPoint:1" />
-        <field name="Passives" type="StringTableFieldDefinition" value="Tiefling_HellishResistance;DarknessRules;Darkvision;Paitm_PlanarInfusion_Force;Paitm_AgentOfOrder;Paitm_PlanarWanderer_Acid" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Tiefling_HellishResistance;DarknessRules;Darkvision;Paitm_PlanarInfusion_Force;Paitm_AgentOfOrder;Paitm_PlanarWanderer_Acid;UncannyDodge" />
       </fields>
     </stat_object>
   </stat_objects>

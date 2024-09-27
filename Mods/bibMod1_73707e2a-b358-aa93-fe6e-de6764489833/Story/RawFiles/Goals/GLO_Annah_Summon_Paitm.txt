@@ -14,6 +14,7 @@ SetHitpointsPercentage((GUIDSTRING)CharAnnah_001_2783a494-da42-4dcc-aeab-0b31eb2
 SetLevel((GUIDSTRING)CharAnnah_001_2783a494-da42-4dcc-aeab-0b31eb2522c7, 12);
 TeleportTo((GUIDSTRING)CharAnnah_001_2783a494-da42-4dcc-aeab-0b31eb2522c7, _Player, "", 0, 1, 0, 0, 0);
 SetVisible((GUIDSTRING)CharAnnah_001_2783a494-da42-4dcc-aeab-0b31eb2522c7, 1);
+TeleportTo((GUIDSTRING)CharAnnah_001_2783a494-da42-4dcc-aeab-0b31eb2522c7, _Player, "", 0, 1, 0, 0, 0);
 PlayAnimation((GUIDSTRING)CharAnnah_001_2783a494-da42-4dcc-aeab-0b31eb2522c7, UTIL_Spawn_01_510ff37e-0618-40e4-8ce0-236e3dc9c291);
 AddPartyFollower(CharAnnah_001_2783a494-da42-4dcc-aeab-0b31eb2522c7, _Player);
 EXITSECTION
