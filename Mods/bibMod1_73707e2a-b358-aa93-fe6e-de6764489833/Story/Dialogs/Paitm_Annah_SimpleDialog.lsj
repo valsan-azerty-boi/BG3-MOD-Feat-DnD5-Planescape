@@ -18,7 +18,243 @@
             "UUID" : {"type" : "FixedString", "value" : "ea884373-7325-b5a4-f79a-a953227ced41"},
             "automated" : {"type" : "bool", "value" : true},
             "category" : {"type" : "LSString", "value" : "Voice bark"},
-            "nodes" : [ {} ],
+            "nodes" : [
+               {
+                  "RootNodes" : [
+                     {
+                        "RootNodes" : {"type" : "FixedString", "value" : "68c6dfe9-f667-566e-0110-8c4611d71f62"}
+                     }
+                  ],
+                  "node" : [
+                     {
+                        "GameData" : [
+                           {
+                              "AiPersonalities" : [ {} ],
+                              "MusicInstrumentSounds" : [ {} ],
+                              "OriginSound" : [ {} ]
+                           }
+                        ],
+                        "Root" : {"type" : "bool", "value" : true},
+                        "TaggedTexts" : [
+                           {
+                              "TaggedText" : [
+                                 {
+                                    "HasTagRule" : {"type" : "bool", "value" : true},
+                                    "RuleGroup" : [
+                                       {
+                                          "Rules" : [ {} ],
+                                          "TagCombineOp" : {"type" : "uint8", "value" : 0}
+                                       }
+                                    ],
+                                    "TagTexts" : [
+                                       {
+                                          "TagText" : [
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "1cda1e7b-6acc-4d45-8fa1-aad20c10a34e"},
+                                                "TagText" : {
+                                                   "handle" : "h8d2e9f4bg6a77g0a8g5b7cag79cd432e1805",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 0
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "7153af81-3585-4ade-89c9-61477ce6714f"},
+                                                "TagText" : {
+                                                   "handle" : "h3b5f7d2eg1d42g7e8g6f8b4g8cb523f6719c",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 0
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "d6409698-42ac-45ce-bd70-358294f35a92"},
+                                                "TagText" : {
+                                                   "handle" : "h9e1c4a6fg0c64g9d5g3e6aag1cd842f3020d",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 0
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "1e92afde-a845-4f84-af8e-eb389ba6a7e5"},
+                                                "TagText" : {
+                                                   "handle" : "hf8d3b2a1g9b55g3e4g5f9aeg2ba793d6711f",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 0
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "e3452e85-0375-44dd-993f-381190bdcded"},
+                                                "TagText" : {
+                                                   "handle" : "h6a5c8f9dg4e88g2f6g7a1c2g3bc504e21307",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 0
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "afbe982a-a3e4-41b5-a377-a7da5c852e45"},
+                                                "TagText" : {
+                                                   "handle" : "h4b9e3d7fg1a32g8b7g6d8cag7ea643d4518f",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 0
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "d020775d-1b07-4420-a856-6873954508d5"},
+                                                "TagText" : {
+                                                   "handle" : "h7e6f8b1ag2d45g4c3g1f7b6g4ea234c5102d",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 0
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "c35c246a-21b2-488b-b18e-e08bb13fa7f4"},
+                                                "TagText" : {
+                                                   "handle" : "h1f9b2d4fg6e39g7e8g5c4a8g3fd971d67203",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 0
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "dec8c4bf-63c7-4f24-8af5-eb5ff410dee2"},
+                                                "TagText" : {
+                                                   "handle" : "hf4b3e2a9g9d76g1f4g6a8b7g2ca483e51219",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 0
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             }
+                                          ]
+                                       }
+                                    ]
+                                 }
+                              ]
+                           }
+                        ],
+                        "Tags" : [ {} ],
+                        "UUID" : {"type" : "FixedString", "value" : "68c6dfe9-f667-566e-0110-8c4611d71f62"},
+                        "checkflags" : [ {} ],
+                        "children" : [ {} ],
+                        "constructor" : {"type" : "FixedString", "value" : "TagGreeting"},
+                        "editorData" : [
+                           {
+                              "data" : [
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "AnimationTags"},
+                                    "val" : {"type" : "LSString", "value" : ""}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "Attitude"},
+                                    "val" : {"type" : "LSString", "value" : "Default"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "CinematicNodeContext"},
+                                    "val" : {"type" : "LSString", "value" : ""}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "CinematicObjects"},
+                                    "val" : {"type" : "LSString", "value" : ""}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "CustomCineArtKeysPresent"},
+                                    "val" : {"type" : "LSString", "value" : "False"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "CustomLightingPresent"},
+                                    "val" : {"type" : "LSString", "value" : "False"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "CustomSoundPresent"},
+                                    "val" : {"type" : "LSString", "value" : "False"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "CustomVFXPresent"},
+                                    "val" : {"type" : "LSString", "value" : "False"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "Emotion"},
+                                    "val" : {"type" : "LSString", "value" : "Default"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "ForceDisableIsCustomNode"},
+                                    "val" : {"type" : "LSString", "value" : "False"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "ID"},
+                                    "val" : {"type" : "LSString", "value" : "N1"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "InternalNodeContext"},
+                                    "val" : {"type" : "LSString", "value" : ""}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "IsCustomNode"},
+                                    "val" : {"type" : "LSString", "value" : "False"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "MusicTags"},
+                                    "val" : {"type" : "LSString", "value" : ""}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "NodeContext"},
+                                    "val" : {"type" : "LSString", "value" : ""}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "Quality"},
+                                    "val" : {"type" : "LSString", "value" : "Bronze"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "SFXTags"},
+                                    "val" : {"type" : "LSString", "value" : ""}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "StateChangeTags"},
+                                    "val" : {"type" : "LSString", "value" : ""}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "TemplateNodeUUID"},
+                                    "val" : {"type" : "LSString", "value" : "00000000-0000-0000-0000-000000000000"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "TemplateVersion"},
+                                    "val" : {"type" : "LSString", "value" : "0"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "VFXTags"},
+                                    "val" : {"type" : "LSString", "value" : ""}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "collapsed"},
+                                    "val" : {"type" : "LSString", "value" : "False"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "logicalname"},
+                                    "val" : {"type" : "LSString", "value" : "Greeting"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "position"},
+                                    "val" : {"type" : "LSString", "value" : "15;15"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "sourcetemplate"},
+                                    "val" : {"type" : "LSString", "value" : ""}
+                                 }
+                              ]
+                           }
+                        ],
+                        "endnode" : {"type" : "bool", "value" : true},
+                        "setflags" : [ {} ],
+                        "speaker" : {"type" : "int32", "value" : 0}
+                     }
+                  ]
+               }
+            ],
             "speakerlist" : [
                {
                   "speaker" : [
@@ -74,7 +310,7 @@
                }
             ],
             "needLayout" : {"type" : "bool", "value" : false},
-            "nextNodeId" : {"type" : "uint32", "value" : 0},
+            "nextNodeId" : {"type" : "uint32", "value" : 1},
             "speakerSlotDescription" : [
                {
                   "data" : [

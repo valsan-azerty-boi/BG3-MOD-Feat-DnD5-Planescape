@@ -35,7 +35,108 @@
                            }
                         ],
                         "Root" : {"type" : "bool", "value" : true},
-                        "TaggedTexts" : [ {} ],
+                        "TaggedTexts" : [
+                           {
+                              "TaggedText" : [
+                                 {
+                                    "HasTagRule" : {"type" : "bool", "value" : true},
+                                    "RuleGroup" : [
+                                       {
+                                          "Rules" : [ {} ],
+                                          "TagCombineOp" : {"type" : "uint8", "value" : 0}
+                                       }
+                                    ],
+                                    "TagTexts" : [
+                                       {
+                                          "TagText" : [
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "4b55edf8-6adc-44b0-8fd0-bd89bea4c4ea"},
+                                                "TagText" : {
+                                                   "handle" : "h1f4a9e1bg7e38g2c4fgb9a2ga4dcb567f023",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 0
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "b64868b3-f806-479d-9634-b471aa4c7e05"},
+                                                "TagText" : {
+                                                   "handle" : "h67ab32c9g0d64g8a3gbe4a2gdf01e21c45b6",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 0
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "b142c66c-fd4d-43fa-8c78-37554124c1fc"},
+                                                "TagText" : {
+                                                   "handle" : "h2d4e9a3fg8b77g5f5g81b0ag9c6e21d45023",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 0
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "b054e3f9-0ce0-4689-985b-69058ab2c2b6"},
+                                                "TagText" : {
+                                                   "handle" : "hf5b8d1c4g3c12g8d1g17c3bgadc937fb0198",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 0
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "48a22071-b4d4-4ac0-b23b-6c3e6f6a0d1b"},
+                                                "TagText" : {
+                                                   "handle" : "h1a8c6d3fg0f47g1b8g39d1agbb8f91d2e604",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 0
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "79749169-a9cd-444d-bede-db0eaa6831b0"},
+                                                "TagText" : {
+                                                   "handle" : "h7c8d4a1fg5a36g7b4g4b9eag6cde123f4079",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 0
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "46422e2a-26fd-42a8-846a-c9d5300088bf"},
+                                                "TagText" : {
+                                                   "handle" : "h2f9b7e5dg4c23g9e1gf0b5bgdbe712d045b1",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 0
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "e8a163b9-bcaa-4c19-8f9f-79327a179260"},
+                                                "TagText" : {
+                                                   "handle" : "hf3a6d5b8g9e78g2b3g14c7ag89aef34d1204",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 0
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "3b2c432c-910b-4d32-83a6-5d83a550bea7"},
+                                                "TagText" : {
+                                                   "handle" : "h4e8c1b9fg3b22g5d1g2f4eag5db421ef6078",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 0
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             }
+                                          ]
+                                       }
+                                    ]
+                                 }
+                              ]
+                           }
+                        ],
                         "Tags" : [ {} ],
                         "UUID" : {"type" : "FixedString", "value" : "534cbc6d-2e93-7f11-e860-4ee172f506c2"},
                         "checkflags" : [ {} ],

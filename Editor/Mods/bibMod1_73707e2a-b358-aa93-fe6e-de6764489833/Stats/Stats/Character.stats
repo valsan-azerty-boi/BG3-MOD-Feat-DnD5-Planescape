@@ -105,7 +105,7 @@
         <field name="FOV" type="IntegerTableFieldDefinition" value="90" />
         <field name="Weight" type="FloatTableFieldDefinition" value="65" />
         <field name="StepsType" type="EnumerationTableFieldDefinition" value="Bare" enumeration_type_name="StepsType" version="1" />
-        <field name="Flags" type="EnumerationListTableFieldDefinition" value="ObscurityWithoutSneaking" enumeration_type_name="AttributeFlags" version="1" />
+        <field name="Flags" type="EnumerationListTableFieldDefinition" value="ObscurityWithoutSneaking;BackstabImmunity" enumeration_type_name="AttributeFlags" version="1" />
         <field name="DefaultBoosts" type="StringTableFieldDefinition" value="IgnoreFallDamage();ProficiencyBonus(SavingThrow,Dexterity);UnlockSpell(Shout_Hide)" />
         <field name="Proficiency Bonus Scaling" type="GuidObjectTableFieldDefinition" value="265d62c4-9b82-4ed6-9a86-da675b4ef8fe" />
         <field name="SpellCastingAbility" type="EnumerationTableFieldDefinition" value="Intelligence" enumeration_type_name="Ability" version="1" />
@@ -159,7 +159,7 @@
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor;SimpleWeapons;MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
         <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SG_Charmed" />
         <field name="ActionResources" type="StringTableFieldDefinition" value="Movement:9;ActionPoint:1;BonusActionPoint:1;ReactionActionPoint:1" />
-        <field name="Passives" type="StringTableFieldDefinition" value="Tiefling_HellishResistance;AttackOfOpportunity;DarknessRules;Darkvision;Paitm_PlanarInfusion_Force;Paitm_AgentOfOrder;Paitm_PlanarWanderer_Acid" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Tiefling_HellishResistance;DarknessRules;Darkvision;Paitm_PlanarInfusion_Force;Paitm_AgentOfOrder;Paitm_PlanarWanderer_Acid" />
       </fields>
     </stat_object>
   </stat_objects>
