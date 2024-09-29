@@ -412,7 +412,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="LOW_Guildhall_Bartender" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="OBJ_Paitm_Annah" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_Annah" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
         <field name="Unique" type="IntegerTableFieldDefinition" value="1" />
       </fields>

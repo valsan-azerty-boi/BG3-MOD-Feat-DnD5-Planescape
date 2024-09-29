@@ -333,7 +333,7 @@
   <content contentuid="h5c94facagf9ecg4524g5fcfg4db96e33cdbb" version="1">Portal Compass</content>
   <content contentuid="h0ecbb3b1g4632g7672g2411g10297af2e28c" version="1">Portal Compass</content>
   <content contentuid="h82ae22f9gb470g74b9g2f81g35db749d7bf6" version="1">You have a Proficienty bonus in Arcana and Perception.</content>
-  <content contentuid="he74c5a36gaa29g319cga756gace944dd2f43" version="30">Mimir</content>
+  <content contentuid="he74c5a36gaa29g319cga756gace944dd2f43" version="31">Mimir</content>
   <content contentuid="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1">Activate the Mimir and absorb its knowledge.</content>
   <content contentuid="hcd937889g2ddbg0436g8d85g6b74891d554c" version="1">Free thinker</content>
   <content contentuid="h7dd603ebg6c37g27d9gd5c2ge37c18b6d230" version="3">For those independent of mind and thought, who does not refer to any god. We often see this way of thinking among residents of Sigil. With a class like Cleric, a godless character can gain powers from their own convictions and principles.</content>
@@ -412,10 +412,10 @@
   <content contentuid="h4fbec60cg9b97gd573g5cf2g30b438699523" version="1">Glitch on cast</content>
   <content contentuid="he2d44030gd930g2688gb270g23d185e3ee5f" version="1">Sometimes other versions of you melt with you during a cast.</content>
   <content contentuid="hbec539bdgfe54g30abg37caga453d77caef8" version="5">*Crrrkkk*</content>
-  <content contentuid="h3a0ff6c2ge915g1a79g400agaab25e37fbd9" version="16">Morte</content>
-  <content contentuid="h78db741fgb55cg325cg3153gd1f5d62b5f87" version="16">Mimir</content>
-  <content contentuid="hbdfa7db9g426agb016g1e61g43e526925235" version="7">Morte</content>
-  <content contentuid="h12bb70d7ga5d5g3412g4e03gf2c0b249875b" version="7">This old Mimir wants to wake up and talk.</content>
+  <content contentuid="h3a0ff6c2ge915g1a79g400agaab25e37fbd9" version="17">Morte</content>
+  <content contentuid="h78db741fgb55cg325cg3153gd1f5d62b5f87" version="17">Mimir</content>
+  <content contentuid="hbdfa7db9g426agb016g1e61g43e526925235" version="8">Morte</content>
+  <content contentuid="h12bb70d7ga5d5g3412g4e03gf2c0b249875b" version="8">This old Mimir wants to wake up and talk.</content>
   <content contentuid="h7b481653g323ag3461gcd1ag86612f011e54" version="1">Morte</content>
   <content contentuid="hae6883e4gc6a3g8aaaged24ga4fca3eaef0f" version="1">This old Mimir wants to wake up and talk.</content>
   <content contentuid="h89f25f6fg526egf2e2gba52gf9320bcdc03f" version="44">Hey Chief !</content>
@@ -432,49 +432,50 @@
   <content contentuid="h7ba6092bg97c1ge61dg9288g1aaa7c486fb4" version="18">It's ok, it's just that I have a strange feeling about you.</content>
   <content contentuid="h2a48564cg077bg8416g3075ge9d152a2004e" version="17">Ok.</content>
   <content contentuid="h4c283e90g30a7ga324gca4eg7cacee572a6d" version="16">Yes don't worry, see you later.</content>
-  <content contentuid="heb794250gf2a2g367fgd6d4gb89e741b022b" version="46">Hey Chief !</content>
+  <content contentuid="heb794250gf2a2g367fgd6d4gb89e741b022b" version="48">Hey Chief !</content>
   <content contentuid="h763151cbg1026g9e57gbd84ge12ebd908ea7" version="1">You know, sometimes, I sure miss having a body.</content>
   <content contentuid="h7df29810g66f7g26edg2361gddf510a4961a" version="1">I am both happy and completely miserable.</content>
   <content contentuid="he41dca66g8a47g6a1eg59b5g5a9d10bcd42c" version="1">Without the happy part.</content>
-  <content contentuid="hcf0520c4gc766gbc23g88dfg229a90d05eea" version="45">You know, sometimes I sure miss having a body.</content>
-  <content contentuid="h8bbec1c6g9026g53e9ga203g83a4e7de38e0" version="45">I am both happy and completely miserable.</content>
+  <content contentuid="hcf0520c4gc766gbc23g88dfg229a90d05eea" version="47">You know, sometimes I sure miss having a body.</content>
+  <content contentuid="h8bbec1c6g9026g53e9ga203g83a4e7de38e0" version="47">I am both happy and completely miserable.</content>
   <content contentuid="h0e43f5b1g35d3gbac0g562fgfb1f86b04b62" version="2">Without the happy part.</content>
-  <content contentuid="h81022b63gfd02g708fgbc41g7f549f70542e" version="40">Me? I'm the head of Vecna.</content>
-  <content contentuid="h0feed226g2c68g2458gbfd5g9ad5939ebe21" version="40">Hey Chief, you okay?</content>
-  <content contentuid="h473a2910g8f76gd086g9ec0g4e937c5645a4" version="40">We should get some female zombies to join this party.</content>
-  <content contentuid="hae4b5e8eg835eg4515g5910ge4c0fd85fcb2" version="40">I need a sensory touch.</content>
+  <content contentuid="h81022b63gfd02g708fgbc41g7f549f70542e" version="42">Me? I'm the head of Vecna.</content>
+  <content contentuid="h0feed226g2c68g2458gbfd5g9ad5939ebe21" version="42">Hey Chief, you okay?</content>
+  <content contentuid="h473a2910g8f76gd086g9ec0g4e937c5645a4" version="42">We should get some female zombies to join this party.</content>
+  <content contentuid="hae4b5e8eg835eg4515g5910ge4c0fd85fcb2" version="42">I need a sensory touch.</content>
   <content contentuid="h3406b210g2eddg30ccg8072g49ba5d3354c0" version="5">Can't wait to continue being a floating skull for the rest of eternity.</content>
   <content contentuid="hef75e573gd557gc235g8737ge71117f438d2" version="3">Thanks for reactivating me Chief, can't wait to go out and party.</content>
   <content contentuid="h3fc28911g273ag101fgc378gd304d05dae4d" version="5">Dak'kon's Zerth Blade</content>
   <content contentuid="h09e1a258g06d2g1251gd407g6d608385eb5d" version="5">This sword was the weapon of choice of a famous githzerai working for a creature known as the 'Nameless One'.</content>
   <content contentuid="hbdf89fdfg63e2g9bb0gde4ag1db6887b6995" version="1">Mimir</content>
-  <content contentuid="h86ddf0d5gb7e4g9970g06e4g93aa697ca8c4" version="19">Fall-from-Grace</content>
-  <content contentuid="h9b38f13fg0b85gbc56gd42egf80ad69d48f3" version="19">Tanar'ri</content>
+  <content contentuid="h86ddf0d5gb7e4g9970g06e4g93aa697ca8c4" version="26">Fall-from-Grace</content>
+  <content contentuid="h9b38f13fg0b85gbc56gd42egf80ad69d48f3" version="26">Tanar'ri</content>
   <content contentuid="h7810c487g87e1ge76bgd482ge0272e45cbc4" version="1">Sensates contract</content>
-  <content contentuid="h121342c7gc1c5g0542g0012g86090ddac04e" version="4">Sensates contract</content>
+  <content contentuid="h121342c7gc1c5g0542g0012g86090ddac04e" version="5">Sensates contract</content>
   <content contentuid="hb4991804ga291g1f30g2c98g163887f7cce4" version="2">A planar contract to hire a member of the Society of Sensation.</content>
-  <content contentuid="hf1deb2d4g3a59g35a3g9402gee4ba94c7107" version="4">A planar contract to hire a member of the Society of Sensation.</content>
-  <content contentuid="h1f4a9e1bg7e38g2c4fgb9a2ga4dcb567f023" version="4">What can change the nature of a man?</content>
-  <content contentuid="h67ab32c9g0d64g8a3gbe4a2gdf01e21c45b6" version="4">Are you alright?</content>
-  <content contentuid="h2d4e9a3fg8b77g5f5g81b0ag9c6e21d45023" version="4">How do you feel?</content>
-  <content contentuid="hf5b8d1c4g3c12g8d1g17c3bgadc937fb0198" version="4">I do not think we know each other well enough.</content>
-  <content contentuid="h1a8c6d3fg0f47g1b8g39d1agbb8f91d2e604" version="4">Actually, I enjoy the company.</content>
-  <content contentuid="h7c8d4a1fg5a36g7b4g4b9eag6cde123f4079" version="4">Yes?</content>
-  <content contentuid="h2f9b7e5dg4c23g9e1gf0b5bgdbe712d045b1" version="4">Through observation, sensation and experience, the truth of the multiverse should be revealed.</content>
-  <content contentuid="hf3a6d5b8g9e78g2b3g14c7ag89aef34d1204" version="4">How may I help you?</content>
-  <content contentuid="h4e8c1b9fg3b22g5d1g2f4eag5db421ef6078" version="4">It's good to be journeying again! The brothel was a learning experience, but I think it was time I moved on.</content>
-  <content contentuid="h197f4dabg3eeegfb9dge10ag7280beda39e2" version="14">Annah</content>
+  <content contentuid="hf1deb2d4g3a59g35a3g9402gee4ba94c7107" version="5">A planar contract to hire a member of the Society of Sensation.</content>
+  <content contentuid="h1f4a9e1bg7e38g2c4fgb9a2ga4dcb567f023" version="5">What can change the nature of a man?</content>
+  <content contentuid="h67ab32c9g0d64g8a3gbe4a2gdf01e21c45b6" version="5">Are you alright?</content>
+  <content contentuid="h2d4e9a3fg8b77g5f5g81b0ag9c6e21d45023" version="5">How do you feel?</content>
+  <content contentuid="hf5b8d1c4g3c12g8d1g17c3bgadc937fb0198" version="5">I do not think we know each other well enough.</content>
+  <content contentuid="h1a8c6d3fg0f47g1b8g39d1agbb8f91d2e604" version="5">Actually, I enjoy the company.</content>
+  <content contentuid="h7c8d4a1fg5a36g7b4g4b9eag6cde123f4079" version="5">Yes?</content>
+  <content contentuid="h2f9b7e5dg4c23g9e1gf0b5bgdbe712d045b1" version="5">Through observation, sensation and experience, the truth of the multiverse should be revealed.</content>
+  <content contentuid="hf3a6d5b8g9e78g2b3g14c7ag89aef34d1204" version="5">How may I help you?</content>
+  <content contentuid="h4e8c1b9fg3b22g5d1g2f4eag5db421ef6078" version="5">It's good to be journeying again! The brothel was a learning experience, but I think it was time I moved on.</content>
+  <content contentuid="h197f4dabg3eeegfb9dge10ag7280beda39e2" version="28">Annah</content>
+  <content contentuid="h12bf9b74g4fcegc003g0da1ge7151a0dca17" version="10">Fiendling</content>
   <content contentuid="h44112202gb289gf648g7e66gfc2bd50fd990" version="1">Sharp tongue contract</content>
-  <content contentuid="hbbdccb8dg6150g46c8g4469gdf55b7ac2a72" version="4">Sharp tongue contract</content>
+  <content contentuid="hbbdccb8dg6150g46c8g4469gdf55b7ac2a72" version="5">Sharp tongue contract</content>
   <content contentuid="hda347ed4g1934g5536g2575g50b830602f72" version="1">A planar contract to hire a thief scavenger from Sigil.</content>
-  <content contentuid="h82eecc97g665fgb8b5g187fgffac3c634fd6" version="4">A planar contract to hire a thief scavenger from Sigil.</content>
-  <content contentuid="h8d2e9f4bg6a77g0a8g5b7cag79cd432e1805" version="7">Accent? What are ye on about?</content>
-  <content contentuid="h3b5f7d2eg1d42g7e8g6f8b4g8cb523f6719c" version="7">Torment.</content>
-  <content contentuid="h9e1c4a6fg0c64g9d5g3e6aag1cd842f3020d" version="7">What?!</content>
-  <content contentuid="hf8d3b2a1g9b55g3e4g5f9aeg2ba793d6711f" version="7">Time to kick some back!</content>
-  <content contentuid="h6a5c8f9dg4e88g2f6g7a1c2g3bc504e21307" version="7">Backstab!</content>
-  <content contentuid="h4b9e3d7fg1a32g8b7g6d8cag7ea643d4518f" version="7">Touch my blades again, and I'll put them in your skull.</content>
-  <content contentuid="h7e6f8b1ag2d45g4c3g1f7b6g4ea234c5102d" version="7">Ready.</content>
-  <content contentuid="h1f9b2d4fg6e39g7e8g5c4a8g3fd971d67203" version="7">I'm not that sort o' girl.</content>
-  <content contentuid="hf4b3e2a9g9d76g1f4g6a8b7g2ca483e51219" version="7">Eh?</content>
+  <content contentuid="h82eecc97g665fgb8b5g187fgffac3c634fd6" version="5">A planar contract to hire a thief scavenger from Sigil.</content>
+  <content contentuid="h8d2e9f4bg6a77g0a8g5b7cag79cd432e1805" version="8">Accent? What are ye on about?</content>
+  <content contentuid="h3b5f7d2eg1d42g7e8g6f8b4g8cb523f6719c" version="8">Torment.</content>
+  <content contentuid="h9e1c4a6fg0c64g9d5g3e6aag1cd842f3020d" version="8">What?!</content>
+  <content contentuid="hf8d3b2a1g9b55g3e4g5f9aeg2ba793d6711f" version="8">Time to kick some back!</content>
+  <content contentuid="h6a5c8f9dg4e88g2f6g7a1c2g3bc504e21307" version="8">Backstab!</content>
+  <content contentuid="h4b9e3d7fg1a32g8b7g6d8cag7ea643d4518f" version="8">Touch my blades again, and I'll put them in your skull.</content>
+  <content contentuid="h7e6f8b1ag2d45g4c3g1f7b6g4ea234c5102d" version="8">Ready.</content>
+  <content contentuid="h1f9b2d4fg6e39g7e8g5c4a8g3fd971d67203" version="8">I'm not that sort o' girl.</content>
+  <content contentuid="hf4b3e2a9g9d76g1f4g6a8b7g2ca483e51219" version="8">Eh?</content>
 </contentList>

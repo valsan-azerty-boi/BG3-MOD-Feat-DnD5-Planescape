@@ -357,6 +357,9 @@
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="135cb448-04f9-4543-b670-7bebea4ae21d" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(7dbd681a-da33-4ef4-8eac-d03c418dc701, -1, , ,'MimirStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK)" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerRestPerItem" enumeration_type_name="CooldownType" version="1" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Generic_GeneralAction_Start" />
+        <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
+        <field name="DelayTurnsCount" type="IntegerTableFieldDefinition" value="-1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -389,6 +392,10 @@
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="1634890a-5501-45fc-bbf6-fef91c92d0d3" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(69159db8-b313-43da-b699-0129288e8bb7, -1, , ,'FallFromGraceStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK)" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerRestPerItem" enumeration_type_name="CooldownType" version="1" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Generic_GeneralAction_Start" />
+        <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
+        <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="1fece9aa-e749-4235-8770-427d2ddf9d55" />
+        <field name="DelayTurnsCount" type="IntegerTableFieldDefinition" value="-1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -417,10 +424,14 @@
         <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasSomaticComponent" enumeration_type_name="SpellFlagList" version="1" />
         <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="HitAnimationType" version="1" />
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="1" />
-        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="7642df71-e717-4a3a-a5ee-482b29ce3e65" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="82884ed6-4f46-43d5-8660-b3e4d47cb278" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="1634890a-5501-45fc-bbf6-fef91c92d0d3" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(c651ce10-f8ff-46ea-86d2-b89ef119b901, -1, , ,'AnnahStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK)" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerRestPerItem" enumeration_type_name="CooldownType" version="1" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Generic_GeneralAction_Start" />
+        <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
+        <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="1fece9aa-e749-4235-8770-427d2ddf9d55" />
+        <field name="DelayTurnsCount" type="IntegerTableFieldDefinition" value="-1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
