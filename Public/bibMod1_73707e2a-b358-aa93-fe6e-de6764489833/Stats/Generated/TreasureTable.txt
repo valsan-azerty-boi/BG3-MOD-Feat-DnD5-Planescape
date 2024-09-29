@@ -1,5 +1,6 @@
 new treasuretable "TUT_Chest_Potions"
 CanMerge 1
+IgnoreLevelDiff 1
 new subtable "1,1"
 object category "I_OBJ_Paitm_Mimir",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -20,6 +21,7 @@ new subtable "1,1"
 object category "I_OBJ_Paitm_FallFromGrace",1,0,0,0,0,0,0,0
 new treasuretable "UND_SocietyOfBrilliance_Mindflayer"
 CanMerge 1
+IgnoreLevelDiff 1
 new subtable "3,1"
 object category "I_OBJ_Paitm_SensoryStone",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -30,20 +32,24 @@ new subtable "1,1"
 object category "I_OBJ_Paitm_PortalCompass",1,0,0,0,0,0,0,0
 new treasuretable "GOB_Festivities_Trader_GoblinWeapons"
 CanMerge 1
+IgnoreLevelDiff 1
 new subtable "1,1"
 object category "I_OBJ_Paitm_PortalCompass",1,0,0,0,0,0,0,0
 new treasuretable "LOW_VoicelessPenitent"
 CanMerge 1
+IgnoreLevelDiff 1
 new subtable "1,1"
 object category "I_OBJ_Paitm_Mimir",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Paitm_PortalCompass",1,0,0,0,0,0,0,0
 new treasuretable "MOO_ZhentQuartermaster"
 CanMerge 1
+IgnoreLevelDiff 1
 new subtable "1,1"
 object category "I_OBJ_Paitm_SensoryStone",1,0,0,0,0,0,0,0
 new treasuretable "CRE_GithQuartermistress_Trade"
 CanMerge 1
+IgnoreLevelDiff 1
 new subtable "4,1"
 object category "I_OBJ_Paitm_SensoryStone",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -54,12 +60,14 @@ new subtable "1,1"
 object category "I_OBJ_Scroll_Paitm_GateSeal",1,0,0,0,0,0,0,0
 new treasuretable "LOW_MysticCarrion_Trade"
 CanMerge 1
+IgnoreLevelDiff 1
 new subtable "1,1"
 object category "I_OBJ_Paitm_Mimir",1,0,0,0,0,0,0,0
 new subtable "3,1"
 object category "I_OBJ_Paitm_SensoryStone",1,0,0,0,0,0,0,0
 new treasuretable "UND_SocietyOfBrilliance_Hobgoblin"
 CanMerge 1
+IgnoreLevelDiff 1
 new subtable "3,1"
 object category "I_OBJ_Paitm_SensoryStone",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -68,32 +76,39 @@ new subtable "1,1"
 object category "I_OBJ_Scroll_Paitm_GateSeal",1,0,0,0,0,0,0,0
 new treasuretable "HAV_Weaponsmith_Trade"
 CanMerge 1
+IgnoreLevelDiff 1
 new subtable "2,1"
 object category "I_OBJ_Paitm_SensoryStone",1,0,0,0,0,0,0,0
 new treasuretable "DEN_Weaponsmith_Trade"
 CanMerge 1
+IgnoreLevelDiff 1
 new subtable "2,1"
 object category "I_OBJ_Paitm_SensoryStone",1,0,0,0,0,0,0,0
 new treasuretable "LOW_Weaponsmith_Trade"
 CanMerge 1
+IgnoreLevelDiff 1
 new subtable "2,1"
 object category "I_OBJ_Paitm_SensoryStone",1,0,0,0,0,0,0,0
 new treasuretable "CRE_Expeditioner_Trade"
 CanMerge 1
+IgnoreLevelDiff 1
 new subtable "1,1"
 object category "I_OBJ_Paitm_Mimir",1,0,0,0,0,0,0,0
 new treasuretable "SHA_MerregonTrader"
 CanMerge 1
+IgnoreLevelDiff 1
 new subtable "1,1"
 object category "I_OBJ_Paitm_Mimir",1,0,0,0,0,0,0,0
 new treasuretable "LOW_SteepsTrader_BooksAndScrolls"
 CanMerge 1
+IgnoreLevelDiff 1
 new subtable "1,1"
 object category "I_OBJ_Scroll_Paitm_WarpSense",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_Paitm_GateSeal",1,0,0,0,0,0,0,0
 new treasuretable "WYR_Circus_KoboldMerchant_Magic"
 CanMerge 1
+IgnoreLevelDiff 1
 new subtable "4,1"
 object category "I_OBJ_Paitm_SensoryStone",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -102,11 +117,13 @@ new subtable "1,1"
 object category "I_MAG_Paitm_DakZerthBlade",1,0,0,0,0,0,0,1
 new treasuretable "LOW_DevilsFee_Diabolist_Trade_Magic"
 CanMerge 1
+IgnoreLevelDiff 1
 new subtable "1,1"
 object category "I_OBJ_Paitm_Mimir",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Paitm_FallFromGrace",1,0,0,0,0,0,0,1
 new treasuretable "LOW_Guildhall_Bartender"
 CanMerge 1
+IgnoreLevelDiff 1
 new subtable "1,1"
 object category "I_OBJ_Paitm_Annah",1,0,0,0,0,0,0,1
