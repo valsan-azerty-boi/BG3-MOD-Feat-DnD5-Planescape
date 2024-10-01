@@ -10,7 +10,7 @@
         <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="MagicalNonDamage" enumeration_type_name="HitAnimationType" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="POTION_OF_HEALING" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RegainHitPoints(1d6)" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RegainHitPoints(1d6+UnarmedMeleeAbilityModifier/2)" />
         <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="89f2d0ac-9295-4657-bfa6-fb6d61adf59c" />
       </fields>
     </stat_object>
