@@ -420,20 +420,20 @@
   <content contentuid="h12bb70d7ga5d5g3412g4e03gf2c0b249875b" version="6">Этот старый Мимир хочет проснуться и поговорить.</content>
   <content contentuid="h7b481653g323ag3461gcd1ag86612f011e54" version="1">Морт</content>
   <content contentuid="hae6883e4gc6a3g8aaaged24ga4fca3eaef0f" version="1">Этот старый Мимир хочет проснуться и поговорить.</content>
-  <content contentuid="h89f25f6fg526egf2e2gba52gf9320bcdc03f" version="41">Эй, шеф!</content>
-  <content contentuid="h4bf59ba8g0aa0g9c87g14f6g93610f9322a6" version="52">Кто ты? Кажется, ты был без движения некоторое время, прежде чем я нашёл тебя.</content>
-  <content contentuid="h5341c925g3caag3538g75c4gdb997220e5a3" version="52">Я — Морт.</content>
-  <content contentuid="h4000c84agbbe0gdfb8g667bg1cf2ec763ce6" version="52">Знаешь, иногда я очень сильно скучаю по телу.</content>
-  <content contentuid="h48574305g2f4fg344ag1528gc371390486b7" version="52">Как ты себя чувствуешь?</content>
-  <content contentuid="h32c34513gc265g9426g6636gb6f8cc435cd1" version="52">Во мне бурлит и радость, и бесконечное отчаяние.</content>
-  <content contentuid="h13730ccageb7eg7a4ag8275g041f7c7a4119" version="29">Кроме, разве что, той части с радостью.</content>
-  <content contentuid="h71b39e8eg4dddg6048g8611g45a6cd9f868e" version="23">&lt;i&gt;Осмотреть его&lt;/i&gt;.</content>
-  <content contentuid="h2c00b4begb0c2g36a1g606egeaccefb5256f" version="21">*Крррккк*</content>
-  <content contentuid="h298809c6gdd34g704fg0ad3g783a0fc0903a" version="51">Прикрой меня.</content>
-  <content contentuid="h2bcab3f5g4988gddb5gbe9agf5c303543bbd" version="15">Эй! Ты в порядке?</content>
-  <content contentuid="h7ba6092bg97c1ge61dg9288g1aaa7c486fb4" version="15">Всё в порядке, просто у меня странное чувство насчёт тебя.</content>
-  <content contentuid="h2a48564cg077bg8416g3075ge9d152a2004e" version="14">Ладно.</content>
-  <content contentuid="h4c283e90g30a7ga324gca4eg7cacee572a6d" version="13">Да, не волнуйся, увидимся позже.</content>
+  <content contentuid="h89f25f6fg526egf2e2gba52gf9320bcdc03f" version="44">Эй, шеф!</content>
+  <content contentuid="h4bf59ba8g0aa0g9c87g14f6g93610f9322a6" version="55">Кто ты? Кажется, ты был без движения некоторое время, прежде чем я нашёл тебя.</content>
+  <content contentuid="h5341c925g3caag3538g75c4gdb997220e5a3" version="55">Я — Морт.</content>
+  <content contentuid="h4000c84agbbe0gdfb8g667bg1cf2ec763ce6" version="55">Знаешь, иногда я очень сильно скучаю по телу.</content>
+  <content contentuid="h48574305g2f4fg344ag1528gc371390486b7" version="55">Как ты себя чувствуешь?</content>
+  <content contentuid="h32c34513gc265g9426g6636gb6f8cc435cd1" version="55">Во мне бурлит и радость, и бесконечное отчаяние.</content>
+  <content contentuid="h13730ccageb7eg7a4ag8275g041f7c7a4119" version="32">Кроме, разве что, той части с радостью.</content>
+  <content contentuid="h71b39e8eg4dddg6048g8611g45a6cd9f868e" version="26">&lt;i&gt;Осмотреть его&lt;/i&gt;.</content>
+  <content contentuid="h2c00b4begb0c2g36a1g606egeaccefb5256f" version="24">*Крррккк*</content>
+  <content contentuid="h298809c6gdd34g704fg0ad3g783a0fc0903a" version="54">Прикрой меня.</content>
+  <content contentuid="h2bcab3f5g4988gddb5gbe9agf5c303543bbd" version="18">Эй! Ты в порядке?</content>
+  <content contentuid="h7ba6092bg97c1ge61dg9288g1aaa7c486fb4" version="18">Всё в порядке, просто у меня странное чувство насчёт тебя.</content>
+  <content contentuid="h2a48564cg077bg8416g3075ge9d152a2004e" version="17">Ладно.</content>
+  <content contentuid="h4c283e90g30a7ga324gca4eg7cacee572a6d" version="16">Да, не волнуйся, увидимся позже.</content>
   <content contentuid="heb794250gf2a2g367fgd6d4gb89e741b022b" version="9">Эй, шеф!</content>
   <content contentuid="h763151cbg1026g9e57gbd84ge12ebd908ea7" version="1">Знаешь, иногда я очень сильно скучаю по телу.</content>
   <content contentuid="h7df29810g66f7g26edg2361gddf510a4961a" version="1">Во мне бурлит и радость, и бесконечное отчаяние.</content>
@@ -449,4 +449,35 @@
   <content contentuid="hef75e573gd557gc235g8737ge71117f438d2" version="1">Спасибо, что снова активировал меня, шеф, жду не дождусь, когда мы пойдём на вечеринку.</content>
   <content contentuid="h3fc28911g273ag101fgc378gd304d05dae4d" version="5">Зерт-клинок Да'кона</content>
   <content contentuid="h09e1a258g06d2g1251gd407g6d608385eb5d" version="5">Этот меч был оружием знаменитого гитзерая, служившего существу, известному как "Безымянный".</content>
+  <content contentuid="hbdf89fdfg63e2g9bb0gde4ag1db6887b6995" version="1">Мимир</content>
+  <content contentuid="h86ddf0d5gb7e4g9970g06e4g93aa697ca8c4" version="26">Падшая Милость</content>
+  <content contentuid="h9b38f13fg0b85gbc56gd42egf80ad69d48f3" version="26">Танар'ри</content>
+  <content contentuid="h7810c487g87e1ge76bgd482ge0272e45cbc4" version="1">Контракт Сенсатов</content>
+  <content contentuid="h121342c7gc1c5g0542g0012g86090ddac04e" version="6">Контракт Сенсатов</content>
+  <content contentuid="hb4991804ga291g1f30g2c98g163887f7cce4" version="2">Планарный контракт на наём члена Общества Ощущений.</content>
+  <content contentuid="hf1deb2d4g3a59g35a3g9402gee4ba94c7107" version="6">Планарный контракт на наём члена Общества Ощущений.</content>
+  <content contentuid="h1f4a9e1bg7e38g2c4fgb9a2ga4dcb567f023" version="5">Что может изменить природу человека?</content>
+  <content contentuid="h67ab32c9g0d64g8a3gbe4a2gdf01e21c45b6" version="5">Ты в порядке?</content>
+  <content contentuid="h2d4e9a3fg8b77g5f5g81b0ag9c6e21d45023" version="5">Как ты себя чувствуешь?</content>
+  <content contentuid="hf5b8d1c4g3c12g8d1g17c3bgadc937fb0198" version="5">Не думаю, что мы достаточно хорошо знакомы.</content>
+  <content contentuid="h1a8c6d3fg0f47g1b8g39d1agbb8f91d2e604" version="5">На самом деле, мне нравится компания.</content>
+  <content contentuid="h7c8d4a1fg5a36g7b4g4b9eag6cde123f4079" version="5">Да?</content>
+  <content contentuid="h2f9b7e5dg4c23g9e1gf0b5bgdbe712d045b1" version="5">Через наблюдение, ощущение и опыт должна быть раскрыта истина мультивселенной.</content>
+  <content contentuid="hf3a6d5b8g9e78g2b3g14c7ag89aef34d1204" version="5">Чем могу помочь?</content>
+  <content contentuid="h4e8c1b9fg3b22g5d1g2f4eag5db421ef6078" version="5">Приятно снова путешествовать! Братель был отличным опытом, но думаю, пришло время двигаться дальше.</content>
+  <content contentuid="h197f4dabg3eeegfb9dge10ag7280beda39e2" version="28">Анна</content>
+  <content contentuid="h12bf9b74g4fcegc003g0da1ge7151a0dca17" version="10">Полудемон</content>
+  <content contentuid="h44112202gb289gf648g7e66gfc2bd50fd990" version="1">Контракт острого языка</content>
+  <content contentuid="hbbdccb8dg6150g46c8g4469gdf55b7ac2a72" version="6">Контракт острого языка</content>
+  <content contentuid="hda347ed4g1934g5536g2575g50b830602f72" version="1">Планарный контракт на наём вора из Сигила.</content>
+  <content contentuid="h82eecc97g665fgb8b5g187fgffac3c634fd6" version="6">Планарный контракт на наём вора из Сигила.</content>
+  <content contentuid="h8d2e9f4bg6a77g0a8g5b7cag79cd432e1805" version="8">Акцент? О чём ты?</content>
+  <content contentuid="h3b5f7d2eg1d42g7e8g6f8b4g8cb523f6719c" version="8">Мучение.</content>
+  <content contentuid="h9e1c4a6fg0c64g9d5g3e6aag1cd842f3020d" version="8">Что?!</content>
+  <content contentuid="hf8d3b2a1g9b55g3e4g5f9aeg2ba793d6711f" version="8">Пора пинать задницы!</content>
+  <content contentuid="h6a5c8f9dg4e88g2f6g7a1c2g3bc504e21307" version="8">Удар в спину!</content>
+  <content contentuid="h4b9e3d7fg1a32g8b7g6d8cag7ea643d4518f" version="8">Коснёшься моих клинков снова, я воткну их в твой череп.</content>
+  <content contentuid="h7e6f8b1ag2d45g4c3g1f7b6g4ea234c5102d" version="8">Готово.</content>
+  <content contentuid="h1f9b2d4fg6e39g7e8g5c4a8g3fd971d67203" version="8">Я не такая девушка.</content>
+  <content contentuid="hf4b3e2a9g9d76g1f4g6a8b7g2ca483e51219" version="8">А?</content>
 </contentList>

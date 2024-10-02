@@ -6,7 +6,7 @@ data "Icon" "PassiveFeature_DevilsSight"
 data "HitAnimationType" "MagicalNonDamage"
 data "StackId" "POTION_OF_HEALING"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
-data "OnApplyFunctors" "RegainHitPoints(1d6)"
+data "OnApplyFunctors" "RegainHitPoints(1d6+UnarmedMeleeAbilityModifier/2)"
 data "ApplyEffect" "89f2d0ac-9295-4657-bfa6-fb6d61adf59c"
 
 new entry "Paitm_SoothePain_Protection"

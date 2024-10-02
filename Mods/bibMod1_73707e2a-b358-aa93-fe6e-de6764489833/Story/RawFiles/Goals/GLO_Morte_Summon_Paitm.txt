@@ -3,18 +3,19 @@ SubGoalCombiner SGC_AND
 INITSECTION
 
 KBSECTION
-// GLOBAL NPC CONF
+// GLOBAL MORTE NPC CONFIGURATION
 //IF
 //CastSpell(_Spell, "Shout_Paitm_Mimir_Morte_Spell", _, _, _)
 //AND
-//DB_Players((CHARACTER)_Player)
+//DB_Players(_Player)
 //THEN
+//SetOnStage((GUIDSTRING)Morte_002_1199a157-cea1-4117-a089-0eb94c212870, 1);
 //Resurrect((CHARACTER)Morte_002_1199a157-cea1-4117-a089-0eb94c212870);
 //SetHitpointsPercentage((GUIDSTRING)Morte_002_1199a157-cea1-4117-a089-0eb94c212870, 100.0);
-//SetLevel((GUIDSTRING)Morte_002_1199a157-cea1-4117-a089-0eb94c212870, 12);
-//TeleportTo((GUIDSTRING)Morte_002_1199a157-cea1-4117-a089-0eb94c212870, _Player, "", 0, 1, 0, 0, 0);
-//AddPartyFollower(Morte_002_1199a157-cea1-4117-a089-0eb94c212870, _Player);
+//TeleportTo((GUIDSTRING)Morte_002_1199a157-cea1-4117-a089-0eb94c212870, (CHARACTER)_Player, "", 0, 1, 0, 0, 0);
 //SetVisible((GUIDSTRING)Morte_002_1199a157-cea1-4117-a089-0eb94c212870, 1);
+//PlayAnimation((GUIDSTRING)Morte_002_1199a157-cea1-4117-a089-0eb94c212870, UTIL_Spawn_01_510ff37e-0618-40e4-8ce0-236e3dc9c291);
+//AddPartyFollower(Morte_002_1199a157-cea1-4117-a089-0eb94c212870, (CHARACTER)_Player);
 EXITSECTION
 
 ENDEXITSECTION

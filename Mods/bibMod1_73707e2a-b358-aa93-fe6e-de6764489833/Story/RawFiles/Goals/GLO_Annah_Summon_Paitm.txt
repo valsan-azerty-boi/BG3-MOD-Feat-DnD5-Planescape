@@ -1,0 +1,21 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+// GLOBAL ANNAH NPC CONFIGURATION
+//IF
+//CastSpell(_Spell, "Shout_Paitm_Annah_Spell", _, _, _)
+//AND
+//DB_Players(_Player)
+//THEN
+//SetOnStage((GUIDSTRING)CharAnnah_001_2783a494-da42-4dcc-aeab-0b31eb2522c7, 1);
+//Resurrect((CHARACTER)CharAnnah_001_2783a494-da42-4dcc-aeab-0b31eb2522c7);
+//SetHitpointsPercentage((GUIDSTRING)CharAnnah_001_2783a494-da42-4dcc-aeab-0b31eb2522c7, 100.0);
+//TeleportTo((GUIDSTRING)CharAnnah_001_2783a494-da42-4dcc-aeab-0b31eb2522c7, (CHARACTER)_Player, "", 0, 1, 0, 0, 0);
+//SetVisible((GUIDSTRING)CharAnnah_001_2783a494-da42-4dcc-aeab-0b31eb2522c7, 1);
+//PlayAnimation((GUIDSTRING)CharAnnah_001_2783a494-da42-4dcc-aeab-0b31eb2522c7, UTIL_Spawn_01_510ff37e-0618-40e4-8ce0-236e3dc9c291);
+//AddPartyFollower(CharAnnah_001_2783a494-da42-4dcc-aeab-0b31eb2522c7, (CHARACTER)_Player);
+EXITSECTION
+
+ENDEXITSECTION

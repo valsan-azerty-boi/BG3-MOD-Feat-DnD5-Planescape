@@ -115,7 +115,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hbc628baeg7924g2968g688ege1b27b9da425" version="9" />
         <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_JackOfAllTrades" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_StasisStrike)" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_StasisStrike);ActionResource(PaitmInterruptsPoint,1,0)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -126,7 +126,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha6e5632cgaf7cg4d26g70e5g1073b3542c2d" version="8" />
         <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_DevilsSight" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_GraspOfAvarice)" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_GraspOfAvarice);ActionResource(PaitmInterruptsPoint,1,0)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -137,7 +137,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcb521ec4ge75ega4f2gee7cga136f770cf66" version="9" />
         <field name="Icon" type="StringTableFieldDefinition" value="Action_Barbarian_Frenzy" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_ChaoticFlare)" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_ChaoticFlare);ActionResource(PaitmInterruptsPoint,1,0)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -159,7 +159,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd0289576gccc2gcb7dg9966g992f0cb0c0f2" version="7" />
         <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_DarkOnesBlessing" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_SoothePain)" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_SoothePain);ActionResource(PaitmInterruptsPoint,1,0)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

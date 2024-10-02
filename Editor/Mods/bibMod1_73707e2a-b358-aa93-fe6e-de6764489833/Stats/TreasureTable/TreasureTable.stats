@@ -9,6 +9,7 @@
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_Mimir" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -20,6 +21,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_PortalCompass" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -31,6 +33,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_SensoryStone" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -42,6 +45,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Scroll_Paitm_WarpSense" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -53,6 +57,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Scroll_Paitm_GateSeal" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -64,6 +69,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_Mimir_Morte" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -75,6 +81,31 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_MAG_Paitm_DakZerthBlade" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d4e58887-9040-4646-b759-96609de1cb80" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ce08b997-8d1a-4862-bcca-6e67d1489267" />
+        <field name="Name" type="NameTableFieldDefinition" value="d4e58887-9040-4646-b759-96609de1cb80_substat_5" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_Annah" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d4e58887-9040-4646-b759-96609de1cb80" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3409b4e1-8b02-4dea-96ae-65796402f9c9" />
+        <field name="Name" type="NameTableFieldDefinition" value="d4e58887-9040-4646-b759-96609de1cb80_substat_6" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_FallFromGrace" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -85,6 +116,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="3,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_SensoryStone" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -96,6 +128,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Scroll_Paitm_WarpSense" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -107,6 +140,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Scroll_Paitm_GateSeal" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -118,6 +152,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_PortalCompass" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -128,6 +163,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_PortalCompass" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -138,6 +174,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_Mimir" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -149,6 +186,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_PortalCompass" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -159,6 +197,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_SensoryStone" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -169,6 +208,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="4,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_SensoryStone" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -180,6 +220,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_PortalCompass" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -191,6 +232,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Scroll_Paitm_WarpSense" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -202,6 +244,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Scroll_Paitm_GateSeal" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -212,6 +255,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_Mimir" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -223,6 +267,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="3,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_SensoryStone" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -233,6 +278,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="3,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_SensoryStone" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -244,6 +290,7 @@
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Scroll_Paitm_WarpSense" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -255,6 +302,7 @@
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Scroll_Paitm_GateSeal" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -265,6 +313,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="2,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_SensoryStone" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -275,6 +324,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="2,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_SensoryStone" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -285,6 +335,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="2,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_SensoryStone" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -295,6 +346,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_Mimir" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -305,6 +357,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_Mimir" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -315,6 +368,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Scroll_Paitm_WarpSense" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -326,6 +380,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Scroll_Paitm_GateSeal" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -336,6 +391,7 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="4,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_SensoryStone" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -348,6 +404,7 @@
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_Mimir_Morte" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
         <field name="Unique" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
@@ -360,6 +417,7 @@
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_MAG_Paitm_DakZerthBlade" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
         <field name="Unique" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -370,6 +428,32 @@
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_Mimir" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7a95e0cc-094c-4bca-b6e1-98ddcf9df741" />
+        <field name="UUID" type="IdTableFieldDefinition" value="88a0a245-fe00-474c-8c4f-308ed75e65c5" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOW_DevilsFee_Diabolist_Trade_Magic_substat" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_FallFromGrace" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="440c2c09-0e70-4820-8fd4-61b2f7eadd04" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOW_Guildhall_Bartender" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_Annah" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
   </stat_objects>

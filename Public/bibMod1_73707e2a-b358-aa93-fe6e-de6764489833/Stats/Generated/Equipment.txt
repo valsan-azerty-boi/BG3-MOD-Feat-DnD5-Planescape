@@ -1,0 +1,11 @@
+new equipment "EQP_Dagger_DW_Annah"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Dagger_1"
+add equipmentgroup
+add equipment entry "WPN_Dagger_1"
+add equipmentgroup
+add equipment entry "WPN_HandCrossbow_1"
+add equipmentgroup
+add equipment entry "WPN_HandCrossbow_1"
+
