@@ -24,7 +24,7 @@
                     <attribute id="FileSize" type="uint64" value="61055101"/>
                     <attribute id="Folder" type="LSString" value="bibMod1_73707e2a-b358-aa93-fe6e-de6764489833"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="761a35085fba66588bb60516ab6537a4"/>
+                    <attribute id="MD5" type="LSString" value="e414c7dce947c2ab8817a1ae854a0dc3"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
                     <attribute id="Name" type="LSString" value="Features from DnD 5E Planescape"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
@@ -32,7 +32,7 @@
                     <attribute id="PublishHandle" type="uint64" value="4320885"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="73707e2a-b358-aa93-fe6e-de6764489833"/>
-                    <attribute id="Version64" type="int64" value="36591746972385499"/>
+                    <attribute id="Version64" type="int64" value="36591746972385501"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717549775"/>
