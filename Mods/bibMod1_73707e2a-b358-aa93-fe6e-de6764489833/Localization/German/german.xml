@@ -1,0 +1,481 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h1c9149e8g6d95ge63ag585eg403768a29c67" version="1">Planar Philosopher</content>
+  <content contentuid="h914bf037g3869g4beag9f3bg36a70f55e92d" version="2">You subscribe to a philosophy that seeks to understand the nature of the planes or some hidden truth of the multiverse. You draw strength from your conviction. In your travels, emancipated from the factions of Sigil, you explore the depths of your understanding and spread your philosophy wherever you go.</content>
+  <content contentuid="h350fe144ga8fdg985dgc3acg5a7496bb2797" version="1">Gate Warden</content>
+  <content contentuid="h5e8faeefg485ag5e10g8484gf32865d861f9" version="1">You spent a significant amount of time somewhere influenced by intense planar forces or a portal to another plane of existence. You’re accustomed to experiences that would leave others reeling in terror or enraptured by otherworldly beauty, and you’re comfortable dealing with Celestials and Fiends.</content>
+  <content contentuid="h5044a308g8643g0253g4ba6ge2057b7fba3a" version="1">Planar Philosopher</content>
+  <content contentuid="hcb31dc8bga795g55aegb3ebge686e0b3ef7c" version="1">You have &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Arcana"&gt;Arcana&lt;/LSTag&gt; and, regarding your distance from the factions of Sigil, &lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt;.</content>
+  <content contentuid="hbe28ccc0gde5cgb934gba26gb9d93b9ea01a" version="1">Gate Warden</content>
+  <content contentuid="h930657efg00d8gecb5g8facg5b9b23e9e0ee" version="1">You have &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Persuasion"&gt;Persuasion&lt;/LSTag&gt; and &lt;LSTag Tooltip="Survival"&gt;Survival&lt;/LSTag&gt;.</content>
+  <content contentuid="h847ddcd7g272ag0430g716ag7f16375fc360" version="1">Scion of the Outer Planes</content>
+  <content contentuid="hbe53f43dgeeacg8f37gd1d5g3cf9b78e6290" version="3">Your connection to an Outer Plane infuses you with its energies and you gain an appropriate cantrip.</content>
+  <content contentuid="hf64a139cgc948ga643gaf46g387aed0092f2" version="1">Chaotic Outer Plane</content>
+  <content contentuid="ha428d52dg1e57g58b8gbe02g8d2c9933c779" version="4">Your connection to Chaotic Outer Plane infuses you with a Poison &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and give you the minor spell &lt;LSTag Tooltip="MinorIllusion"&gt;Minor illusion&lt;/LSTag&gt;.</content>
+  <content contentuid="heef34103gf7d6g0291g8ee3gcf8d552b9124" version="1">Evil Outer Plane</content>
+  <content contentuid="h25332eefge01cg4b69g5faag55fd585718a1" version="5">Your connection to Evil Outer Plane infuses you with a Necrotic &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and give you the minor spell &lt;LSTag Tooltip="ChillTouch"&gt;Chill touch&lt;/LSTag&gt; (also known as &lt;LSTag Tooltip="ChillTouch"&gt;Bone chill&lt;/LSTag&gt;).</content>
+  <content contentuid="h11d6a73dg4fd4ged75g2e08g319314a0224c" version="1">Good Outer Plane</content>
+  <content contentuid="hcc33cf7agd7b9g00eage804g41b8a1eee356" version="4">Your connection to Good Outer Plane infuses you with a Radiant &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and give you the minor spell &lt;LSTag Tooltip="SacredFlame"&gt;Sacred flame&lt;/LSTag&gt;.</content>
+  <content contentuid="h3039dca7g4e3dgb8cfgc231g881d97ebf543" version="1">Lawful Outer Plane</content>
+  <content contentuid="h93f08ce1g78ccg7688gd450g22dd21334e0e" version="4">Your connection to Lawful Outer Plane infuses you with a Force &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and give you the minor spell &lt;LSTag Tooltip="Guidance"&gt;Guidance&lt;/LSTag&gt;.</content>
+  <content contentuid="hf4fbbe54g075dg035cge463g187b3f9dbea7" version="1">The Outlands</content>
+  <content contentuid="h5e30a580g99b8g4dfcg2abcgb2650539f572" version="4">Your connection to Outlands infuses you with a Psychic &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and give you the minor spell &lt;LSTag Tooltip="MageHand"&gt;Mage hand&lt;/LSTag&gt;.</content>
+  <content contentuid="h3b8cb656g7968gf2dag31b8g6a98e698cd3e" version="1">Planar Wanderer</content>
+  <content contentuid="h4b1b0ee0g2aabg6fb6ge12fg61d331c63717" version="2">You can draw on the forces of the multiverse to survive cosmic extremes and you assert yourself as a true expert in planar portals.</content>
+  <content contentuid="h7922d8aag0730g408bg1301g0c3f6b90631b" version="1">Agent of Order</content>
+  <content contentuid="h080c4c35gb42dgca01ge8cfg244b47407ddb" version="2">OLD_You can channel cosmic forces of order to gain benefits.</content>
+  <content contentuid="hdaeb5abfg0ad1g2443g0f5bg3f7476e0a667" version="1">Baleful Scion</content>
+  <content contentuid="h4ef18962g3deegaa6fg1f5bg35cdad9ed299" version="2">OLD_You can channel cosmic forces of evil to gain benefits.</content>
+  <content contentuid="he5256e8dg9ddfgc0a4g9bb8gc1c8c97a4058" version="1">Cohort of Chaos</content>
+  <content contentuid="h502bfab7gb9a0gd257gd656g099d4c09c84d" version="2">OLD_You can channel cosmic forces of chaos to gain benefits.</content>
+  <content contentuid="h9fd845d9g641egebd9g981bg2ae35f4a9ffe" version="1">Outlands Envoy</content>
+  <content contentuid="h24184e08g396cg1910gf9dcg656df71d966b" version="2">OLD_You have spent significant time in the Outlands. Being steeped in converging planar energies grants you benefits.</content>
+  <content contentuid="h9c19cc12g6bcag28a1g99f8gb656a4cfd87c" version="1">Righteous Heritor</content>
+  <content contentuid="h395735d3gba45gb3d8ga495gbcb55fd7702a" version="2">OLD_You can channel cosmic forces of good to gain benefits.</content>
+  <content contentuid="h750430b5g480fgddabg4bc0g7dd11520f7a1" version="2">Acid Planar Adaptation</content>
+  <content contentuid="hffa64d14g00eage72agfbcdgf24965250c7e" version="9">With your experience of planar travel, you gain an Acid &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and the spell &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Portal cracker&lt;/LSTag&gt; to create 2 portals one time per short rest.</content>
+  <content contentuid="ha210fd4fg8dddg945ege2e9gf88344ebd3a2" version="2">Cold Planar Adaptation</content>
+  <content contentuid="h7a135195g8d7fg68cdg6fdfg5123354e16ac" version="9">With your experience of planar travel, you gain a Cold &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and the spell &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Portal cracker&lt;/LSTag&gt; to create 2 portals one time per short rest.</content>
+  <content contentuid="hdc672450g0e4dg4549g46c3g488968729677" version="2">Fire Planar Adaptation</content>
+  <content contentuid="h9f23fc0eg5eb8geb7bg3cebg93d2cbf3009f" version="10">With your experience of planar travel, you gain a Fire &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and the spell &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Portal Cracker&lt;/LSTag&gt; to create 2 portals one time per short rest.</content>
+  <content contentuid="hce1cd424g90f9gea76gb72dg44fdf98a3f8b" version="1">Agent of Order</content>
+  <content contentuid="hbc628baeg7924g2968g688ege1b27b9da425" version="9">You can channel cosmic forces of Order to gain benefits. You gain the force reaction &lt;LSTag Tooltip="Interrupt_Paitm_StasisStrike"&gt;Stasis Strike&lt;/LSTag&gt; to deal additional Force damage with a Restrain chance.</content>
+  <content contentuid="h5ff73c39g2f01g0d15g8d66ga682c91ea8eb" version="1">Baleful Scion</content>
+  <content contentuid="ha6e5632cgaf7cg4d26g70e5g1073b3542c2d" version="8">You can channel cosmic forces of Evil to gain benefits. You gain the necrotic reaction &lt;LSTag Tooltip="Interrupt_Paitm_GraspOfAvarice"&gt;Grasp of Avarice&lt;/LSTag&gt; to deal additional Necrotic damage and Heal yourself.</content>
+  <content contentuid="h6da757f1g64bbgef99g5eadg9ccaa0af91e5" version="1">Cohort of Chaos</content>
+  <content contentuid="hcb521ec4ge75ega4f2gee7cga136f770cf66" version="9">You can channel cosmic forces of Chaos to gain benefits. You gain the reaction &lt;LSTag Tooltip="Paitm_ChaoticFlare"&gt;Chaotic flare&lt;/LSTag&gt; to gain chaotic powers on Critical Miss and Critical Hit attacks.</content>
+  <content contentuid="h200b8582g0000g60deg6dcbg03ea70e221e0" version="1">Outlands Envoy</content>
+  <content contentuid="hf85ca431g8eaag85fegbadegd62822b34e33" version="12">You have spent significant time in the Outlands, being steeped in converging planar energies grants you benefits. You gain a planar &lt;LSTag Tooltip="Paitm_MistyStep"&gt;Misty Step&lt;/LSTag&gt; spell to teleport and a &lt;LSTag Tooltip="Paitm_Tongues"&gt;Tongues&lt;/LSTag&gt; spell for conversations one time per short rest.</content>
+  <content contentuid="h4d785b39gae96ge296gd520gd6f9fabfd7f9" version="1">Righteous Heritor</content>
+  <content contentuid="hd0289576gccc2gcb7dg9966g992f0cb0c0f2" version="7">You can channel cosmic forces of Good to gain benefits. You gain the protective reaction &lt;LSTag Tooltip="Interrupt_Paitm_SoothePain"&gt;Soothe Pain&lt;/LSTag&gt; to try to reduce the damage suffered by you or an ally.</content>
+  <content contentuid="h2e927036gebe3g0230gb9f4g4f25d8efeb09" version="1">Planar Agent</content>
+  <content contentuid="h1876774ag4ed5g697dgf1d7gbec26f0aab8f" version="2">You can channel specific cosmic forces to gain benefits and you increase one Ability by 1 to a maximum of 20.</content>
+  <content contentuid="h1a1a5fd5g37f0g0d8bg6e4bg0a7864f5d8a4" version="2">Misty Step</content>
+  <content contentuid="h7bc2a60ag2954gf3d4gb8a8g1d39c7db951e" version="1">Surrounded by planar energies, you teleport to an unoccupied space you can see.</content>
+  <content contentuid="h6d4f5178g1938g00a2gf920g880454834028" version="1">Gate Seal</content>
+  <content contentuid="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="3">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
+  <content contentuid="h1ee85063g393bg7bb3g8fd4g24cd706369eb" version="1">Warp Sense</content>
+  <content contentuid="h9efc7d47ga644ge2f4g79a9g781f5dfbd738" version="1">You sense the presence of planar energies, even the most residual.</content>
+  <content contentuid="h1a4889b6gba5dg1e02gbb15g9aa6c8e7b7eb" version="2">Portal Cracker</content>
+  <content contentuid="h8a984c65g71d0g34e3g4613gfd46275b7fe6" version="4">Your experience with portals allows you to open two linked portals without the need to concentrate. When casting the spell, instability may occur and inflict Psychic damage on the caster.</content>
+  <content contentuid="h40448845g14b4geda1g4211g54ed4ba847a1" version="1">Plane Shift</content>
+  <content contentuid="hf5e987ffg552bgbc4cg889bg64093ebfa108" version="1">At the end of your turn, roll a d20. On 11 or higher, you vanish into another plane. While there, you can't be harmed or seen in this world.</content>
+  <content contentuid="haee124b2g7045g3318g3b62gaf8bb2fc76c1" version="1">When you do vanish, your presence here is a representation of the location you'll come back to. You can choose to teleport it up to [1].</content>
+  <content contentuid="hadc29260g511dg0a0dg9af6g3d7a79feb6b0" version="1">Chaotic Flare</content>
+  <content contentuid="h43ad99eegb956gf273g0135gba52c1915d0b" version="1">Conjure a flare of chaotic energy.</content>
+  <content contentuid="h7026956ag83e6g3148g6b3dg2c94fa6de2ff" version="1">Planar Portal</content>
+  <content contentuid="hffefc047ge9aag4369gb494g6b5827064dfa" version="1">You open two linked portals.</content>
+  <content contentuid="h95e5ad46gcbeagd4cag1762gb51be2e9dfcb" version="1">Outlander</content>
+  <content contentuid="hc635cd26ge771g46fbgaef8ga24b8487873c" version="1">Grasp of Avarice</content>
+  <content contentuid="h38be499bg66cegfe7eg554ag39e19c04a5b9" version="1">Once per turn, when you damage a creature, you can also deal necrotic damage to it. The necrotic damage equals 1d6, and you regain 1d6 hit points.</content>
+  <content contentuid="h1c8b8d38gc2a8g380cg8a2cgc7cbaaa07449" version="1">Grasp of Avarice</content>
+  <content contentuid="h6be0c2degf8d2gf7d4g2601g3fef053dc7fe" version="4">As a Baleful Scion, once per turn, if you damage a creature you can also deal an additional [1] and you regain [2].</content>
+  <content contentuid="h179c540dg33ecg394dgd2cagb075484fbbd4" version="1">Stasis Strike</content>
+  <content contentuid="heab337b1g2162gdd98gc8aag6cde93106e6c" version="3">As an Agent of Order, once per turn, if you damage a creature you can also deal an additional [1] and, if lucky, restrain it.</content>
+  <content contentuid="h1277ed5cgfce9g69bdg7ba3g5da310c9534b" version="1">Soothe Pain</content>
+  <content contentuid="hee33068dgb4edg1702gcc1cga51de5ad3d5f" version="4">As a Righteous Heritor, once per turn, you can use this reaction and try to reduce damage suffered by you or an ally for the current turn.</content>
+  <content contentuid="h772d8616gf778g0bd8gc9efge2f5b95f85ce" version="2">Heal through Avarice</content>
+  <content contentuid="h2ffb529dgfbdeg648bg9421g3f1b503ed664" version="1">Soothe Pain</content>
+  <content contentuid="h429acdddg853fg9bfeg3e1ag3dcd338f5bf4" version="3">Cosmic forces of Good gave you a temporary protection to reduce damage suffered.</content>
+  <content contentuid="he44d3a3eg97abge426g3092gdbe21b5d95ad" version="1">Restrictive Stasis</content>
+  <content contentuid="h2442377eg66e9gcab1g6f99g168da3d4a5e0" version="2">Cosmic forces of Order prevent you from moving.</content>
+  <content contentuid="h1fd2ebbbgb28ag61f9g122bga7e5e051cb8b" version="1">%%% EMPTY</content>
+  <content contentuid="hcf9b6f82g0a03g0941g27e1g5365898a25f3" version="1">Warp Sense</content>
+  <content contentuid="h74112800gd1b6g6d15g2b3ag99b4ef5b61e7" version="5">You sense the presence of planar energies, like portals, even the most residual. Oddly, this spell seems much more enduring on this material world.</content>
+  <content contentuid="h19807a4dgb9b4g6a11g1ad1g33886795753c" version="1">Warp Sense</content>
+  <content contentuid="hc53f42ecg57cagf9f1gd923gd71c1f3dee48" version="3">You have advantage on Wisdom saving throws, as well as a Proficienty bonus in Arcana and Perception.</content>
+  <content contentuid="h4e017016g5c6bg5ce5g3ab0g22f43f822bfe" version="1">Tongues</content>
+  <content contentuid="h416260c2g5063gcb28gc5d5g202db23685fd" version="1">Your brain's understanding goes up a notch, whether in terms of logic or language. For a little while you become better at conversations with all types of people.</content>
+  <content contentuid="he719e3e7gb7a6ge63cg73e5g0a5d2bddec22" version="1">Tongues</content>
+  <content contentuid="hd2dec18dg5019g8bbdga4d8g1c1d2e3c4626" version="2">The understanding of your target goes up a notch, whether in terms of logic or language. For a little while your target become better at conversations with all types of people.</content>
+  <content contentuid="h3f0810e4g6c6bgb62bg26fag878f03d8f4e2" version="1">Tongues</content>
+  <content contentuid="h30f00253g6a92g9d58g7d82g39a60cd5e31b" version="3">You are better at conversations with all types of people.</content>
+  <content contentuid="h7d291fffgc234gea18gd43bg4116082efaf9" version="2">Battle Fury</content>
+  <content contentuid="h2f8fef43g97a8g45bfgeec3ga414ed8d5448" version="2">Cosmic forces of Chaos fill you with a reckless fury. You gain advantage on attack rolls and disadvantage on ability checks.</content>
+  <content contentuid="h864543e4g81a6g163bg5d94g21aa181f7f48" version="2">Disruption Field</content>
+  <content contentuid="h19a9a274gcdc2g340cg4c77ga5b523369756" version="2">Unbound</content>
+  <content contentuid="hd4f12e4fgbbbbgb03cgfdf9g91407993bcf8" version="2">Wailing Winds</content>
+  <content contentuid="h22d0cc80g2a3fg2da9g74e3g4b750be30c23" version="3">Cosmic forces of Chaos ripple waves of energy around you. This effect damages nearby creatures.</content>
+  <content contentuid="h03832da7gc05bga637gbfd8gcc89d6335336" version="3">Cosmic forces of Chaos allow you to teleport.</content>
+  <content contentuid="h8b867102g7084gfa8ag806dgcef27324f5df" version="3">Cosmic forces of Chaos affects the Wisdom saving throws of entities surrounding the aura.</content>
+  <content contentuid="h01740d57gb618g3b71g416cgd6fb78f59454" version="1">Unbound</content>
+  <content contentuid="h0150b07ageb11g8fddg1619g048d8caefad1" version="2">Cosmic forces of Chaos allow you to teleport.</content>
+  <content contentuid="haf7bfe00g5b51g2e49gf6bbg33a5f79ba0cf" version="1">Chaotic Flare</content>
+  <content contentuid="habbd4ca6gd7b9gb061gcf44gb220701f10dd" version="2">As an Agent of Chaos, on a Critical Hit or Critical Miss attack roll, you can randomly gain a chaotic effect for the current turn.</content>
+  <content contentuid="h2151ec82ge6beg66bege538g9d5cfc9795c6" version="2">Applying Chaotic Flare</content>
+  <content contentuid="h42589640g788cg1485g4e38gda5fce54fb78" version="1">As an Agent of Chaos, on an attack roll, you can randomly gain a chaotic effect for the current turn.</content>
+  <content contentuid="ha6b6349ege712ge389ge8e4g34555c999327" version="2">Random Chaotic Flare</content>
+  <content contentuid="h39b8eabagc511g5197g0ad2g228857a732f8" version="1">As an Agent of Chaos, on an attack roll, you can randomly gain a chaotic effect for the current turn.</content>
+  <content contentuid="hdf8de10cg455cg9379gf463gb50959cfcb46" version="1">Disruption Field</content>
+  <content contentuid="h174d21e6gad79g9e5eg412cg823a6bf46744" version="2">Cosmic forces of Chaos ripple waves of energy around you. This effect damages nearby creatures.</content>
+  <content contentuid="hd283775dg53b9g6f1fg1cecgdad08464eec5" version="1">Wailing Winds</content>
+  <content contentuid="h377a8762g5050g2747gbc46g9ca597b67200" version="2">Cosmic forces of Chaos affects the Wisdom saving throws of entities surrounding the aura.</content>
+  <content contentuid="h133dda90ga151gb786g3c9ag898a5aeaedeb" version="1">%%% EMPTY</content>
+  <content contentuid="h1098086fg5fd1g4096g0be0g7878cbfbb02c" version="1">Disruption Field</content>
+  <content contentuid="hc0de0d99g828dga24ag5826g5173a7c17174" version="2">Cosmic forces of Chaos assail entities surrounding the aura.</content>
+  <content contentuid="h41072ba9g1b28g1653g89c3geb945c1c6df1" version="1">Disruption Field</content>
+  <content contentuid="h12336d96gfb44g9ff8g5522gc851002c3ad3" version="3">Cosmic forces of Chaos assail entities surrounding the aura.</content>
+  <content contentuid="h35aae9b0g24d1g5e5cg16e9g77c09801f57c" version="1">Warp Sense</content>
+  <content contentuid="he1077f52g85acgbc6dgbeefgc69b82ed6f2c" version="1">You sense the presence of planar energies, like portals, even the most residual. Oddly, this spell seems much more enduring on this material world.</content>
+  <content contentuid="h52cb2e91gf45eg4bf2gfdaeg0df82f11acc4" version="1">Gate Seal</content>
+  <content contentuid="h7cecf0f4g32e0gbeb8g1258g196d9b29cf31" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
+  <content contentuid="h8483d49ag1e8dg1c43g8018gfcd6bbef6e23" version="1">Gate Seal</content>
+  <content contentuid="hcedc6be9ge111g4c71g1742g013f38ae2a65" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
+  <content contentuid="hc9103a06g6ce1g9873gf3b6ga43de4e8a062" version="1">Gate Seal</content>
+  <content contentuid="h717a8513g3681g3750gd31eg98db9c4c5400" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
+  <content contentuid="hf8687996gdb03g610cg1c03g3fb532b80da1" version="1">Gate Seal</content>
+  <content contentuid="h7555f29cg9d6fg1583g4a52g55fa5b85c11e" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
+  <content contentuid="h522850b4ga97fg5c82g95fdg4ae3c3599792" version="1">Gate Seal</content>
+  <content contentuid="h9bbfa2d1g1deegb97fg56adgad0e268bcbc9" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
+  <content contentuid="h9cc9310dg64a8g9de3g7d93gc692b90f1447" version="1">Sensory Stone</content>
+  <content contentuid="h9202e151gdf27g6437g8e2bgbe3f68ac3676" version="3">This small, smooth stone contains the essence of a single experience. You can throw the stone, breaking it in the process, to end the charmed or frightened condition on someone. Or you can touch and consume the stone and experience the sensation yourself.</content>
+  <content contentuid="h74d67052g3553g99d1gd4bcg33235e3fe554" version="1">Sensory Stone</content>
+  <content contentuid="h069fe3dbgc5e4g466cg0c2ag85379c7d1fc7" version="1">Portal Compass</content>
+  <content contentuid="h337d09e0ge779ga248gb52eg115621d942b5" version="1">Mimir</content>
+  <content contentuid="h8024147dg80b7gb119g7b89g833eba6f1dc5" version="1">Portal Compass</content>
+  <content contentuid="h026975dbg5f2eg8fdbgb4b3g6667c385e92e" version="1">Mimir</content>
+  <content contentuid="h3f7528ffg6fb3g3eceg1e48g1a30d3cf0062" version="1">Planescape</content>
+  <content contentuid="h642eba50g33edg2d5cgdb25gc572ea36a0fc" version="1">A Planescape themed dice.</content>
+  <content contentuid="h49168b8dgdae4g28c4g3177gc8c45ad987b3" version="2">Child's Play</content>
+  <content contentuid="h44b878a9g95a6g2a7dg2279gb236093a7ca0" version="2">Beat Oliver at hide and seek without alerting the shadow creatures.</content>
+  <content contentuid="hcafedefcg6871g3143gb866g88998ef575f0" version="2">Grove Keeper's Keeper</content>
+  <content contentuid="he02b53f2g195cg1e19g8e5fg9fab89a008ae" version="2">Protect Halsin's portal while he saves the spirit of the land.</content>
+  <content contentuid="hc4dc85d2g6494g02c3g8008ga54b22bc3bc7" version="2">I Ain't Afraid of No Shadows</content>
+  <content contentuid="h1b53902dga10bg1447gf495g2a94e4d07024" version="2">Traverse through the Shadow-Cursed Lands to Last Light and Moonrise without using a Moonlantern.</content>
+  <content contentuid="h3496b36cgd58ag18f7g9989gcab0e0c83977" version="2">Path Least Followed</content>
+  <content contentuid="hd3283d81g2154g3e15gc65eg02c5cc075680" version="2">Complete the Gauntlet of Shar without going to Last Light or Moonrise.</content>
+  <content contentuid="h45dd6cc9gb515ga09dgc634g6457525084cf" version="2">A Planar in the Dark</content>
+  <content contentuid="h69391c18g2ba6g096fgb795g5559b3ce3e7a" version="2">Conquer three combat encounters in the Shadow-Cursed Lands.</content>
+  <content contentuid="h79a0a269gd044g3d1agab3ag7c5fac1a59d4" version="2">No Cursed Stone Left Unturned</content>
+  <content contentuid="hfc688f30g9eecgf76agc817g245e0752c070" version="2">Explore each key area of the Shadow-Cursed Lands.</content>
+  <content contentuid="hb180e324gef75geb70gaf0dg0508260b1d5a" version="2">Planar Respect</content>
+  <content contentuid="h5208253dg86ddgdcc5g9e2cg282fe560fedd" version="2">Meet the tadpole-hunting cat.</content>
+  <content contentuid="hb412be33g4ccbg6a95g4c1fgea6bfd8252b0" version="2">Embracing the Plane</content>
+  <content contentuid="h43cd5202gb7d7ge714g106dg9de77fe5724d" version="2">Survive two rounds of the shadow curse.</content>
+  <content contentuid="ha1039509g0013g9c32g9b2agf21ccb546f26" version="2">Planar Weapon</content>
+  <content contentuid="hd04e86c0gbd8cg0ccegfcfeg115c8347ea40" version="2">Obtain the orthon's crossbow.</content>
+  <content contentuid="h4c77b1ebg4ed7g6cdfg104fg6b27377f3297" version="2">Sleeping in the Dark</content>
+  <content contentuid="hf0003e56gcf07gf60bgd7b0gbde0356807f4" version="2">Take a full Long Rest in the Shadow-Cursed Lands.</content>
+  <content contentuid="hc6fa57cdgf408g5c24g46a5gbe042423cee9" version="2">Always a Step Ahead of the Darkness</content>
+  <content contentuid="hc13562c4gd02cg5037g38ddgada4f87303ab" version="2">Reach Nightsong without having been affected by the shadow curse.</content>
+  <content contentuid="hf2171ff1ga078gf77agbc8eg9027b2a24d2b" version="2">Never Liked Stairs</content>
+  <content contentuid="hc4a9efacg1c5dgb20egfd68g4cd262fd579f" version="2">Enter a restricted area in Moonrise Towers from the outside.</content>
+  <content contentuid="h5bc6a0a6ge39ag4770ged5egf0b9fa9b5390" version="2">I've Had Worse</content>
+  <content contentuid="hd60d29ddgd10eg066dg6ce0gd835439176db" version="2">Successfully drink and resist the negative effects of the brewer's concoction.</content>
+  <content contentuid="h77c8e111g5bd8g30e2ge699g3ab1abff52f8" version="2">Delving into the Deep</content>
+  <content contentuid="h65dcf377gfa48gdd39g2597geefd78eaf0a3" version="2">Enter the oubliette... for better or for worse.</content>
+  <content contentuid="hb8524875g9ecbgd0a5g2af3g3a449bea812c" version="2">From Head to Toe</content>
+  <content contentuid="h790d4eaeg00a5g0992g125fg74fee5db2f38" version="2">Explore all sections of the mind flayer colony.</content>
+  <content contentuid="h1c0f51b6g2babg029cg04e9g39e4ad8b30cd" version="2">Gifts of the Planes</content>
+  <content contentuid="h235cba63g8295g8ae7g45c5g8c35b5b425df" version="2">Give raw goods as a donation.</content>
+  <content contentuid="hbc09e6a0gb75dg10b0g6f73g1ab019ebe5fd" version="2">Planar Wild</content>
+  <content contentuid="hf05cd2e7g5cf7g2207g2dd5g10f4c52026f5" version="2">Release all the imprisoned circus beasts.</content>
+  <content contentuid="h6124d31bgee9fg9cdagbbf9gb2dec864571f" version="2">Primary Needs</content>
+  <content contentuid="hdb1f3411gdd2ag47e1gdcc1g75780ba45684" version="2">Tame the dilophosaurus, making it non-hostile towards you.</content>
+  <content contentuid="h8a69f260gec64gf961g1f00gde8ab8be758a" version="2">Solemn Farewell</content>
+  <content contentuid="hfa11a496g8d2bg6aa1gcd59g52a60e3f0e0c" version="2">Witness the Gur funeral.</content>
+  <content contentuid="h847ed24dg79d0g4ca3geff5g7da7b9dc448d" version="2">Catastrophic Structural Failure</content>
+  <content contentuid="hf2040f1fgcc82gb9afg6649g50ff6e35631a" version="2">Blow up the Steel Watch Foundry.</content>
+  <content contentuid="hc7eaad0agc012g417cg5416gd245ccc32bac" version="2">Enlisted Avian</content>
+  <content contentuid="h67544727g9b4eg4b6dgb08fg9a957f512024" version="2">Meet Commander Lightfeather.</content>
+  <content contentuid="h5346d333g62ecg4ee8g0bb2gbb8f5fcd5f15" version="2">Cat's Got Your Tongue?</content>
+  <content contentuid="hf7523230g6ebdgedf6ga028g132e3947552d" version="2">Find the missing letters.</content>
+  <content contentuid="h3deb904egaba8g86ccg4482gbc3c368d08c2" version="2">Macabre Hunt</content>
+  <content contentuid="haf775035g66dcg667ag05a6g4f30e5d69378" version="2">Find all the pieces of Dribbles' body and return them to Lucretious.</content>
+  <content contentuid="h3cd1e4a7g0fd7gc2d6g5c4fg94100d469b39" version="2">Plane Walker</content>
+  <content contentuid="had6ade37gc3d9g999ag7acfgeba9a45b6248" version="2">Travel through the House of Hope portal.</content>
+  <content contentuid="h2f6fcb33g7e60ga80bg582bg0f8788592321" version="2">For Once, a Warm Meal</content>
+  <content contentuid="hf95535bege16egf738g2a17g778db1492c7d" version="2">Obtain room and board at the Elfsong Tavern.</content>
+  <content contentuid="h924e7a1fg238ag2b17g19c8gb1a187472156" version="2">Nature of the Beast</content>
+  <content contentuid="hf151abe6gdcbcg90b2gc66ega2614b7d66b7" version="2">Discover the fate of the githyanki egg.</content>
+  <content contentuid="hfa952676g051bgf4f9g8c21gee1c782f4db3" version="2">Urban Jungle</content>
+  <content contentuid="h3367558dg0a1fgbac9g40beg6560dc79d633" version="2">Survive the Bhaalist ambush at the park.</content>
+  <content contentuid="h1f96e0b6gf049gd879g67abg89d82c5a821a" version="2">Beneath the Plane</content>
+  <content contentuid="hcf5abba8g19e9ge8c2g0ebcgc654d14a773e" version="2">Enter the Undercellar.</content>
+  <content contentuid="h1a2d3d09g3ee4g4ea6g516eg93fd9a752018" version="2">Planar Adoption</content>
+  <content contentuid="h6f877938ga410g75adge0cbgf48ae3a87bf9" version="2">Convince Jaheira to let her family stay in the city.</content>
+  <content contentuid="h49132348gf7f8g06f4g23acga7bc605e1bc7" version="2">Down to the Depths Below</content>
+  <content contentuid="hef05aa7dg9d34g4dd7g9eb8ge7a46b080713" version="2">Enter the Iron Throne.</content>
+  <content contentuid="h8f88e380g8c64gddc4g0db5gea9a5bb4ca18" version="2">The Face of Evil</content>
+  <content contentuid="h4362beb6g9e2dg2b1bg0491g7c64e86d842a" version="2">Reach the Temple of Bhaal.</content>
+  <content contentuid="h49cb5a24gaf4cgb39cgfac1g8eccf007ce3b" version="2">Rock Steady</content>
+  <content contentuid="h2440839ag7382g6a20ga9bcgb335f50f0031" version="2">Survive the bandits' rolling boulder trap.</content>
+  <content contentuid="hb91823bdgbc77g4306g8e0bg0ad846b9afdf" version="2">Nest Egg</content>
+  <content contentuid="h4172576cg8d2bg760ag2da2g488fbfa18255" version="2">Take an item from the Carrion Crawler nest.</content>
+  <content contentuid="hecef1d1eg5c17g83d0g908dg647a3bdc2728" version="2">A Mother's Fury</content>
+  <content contentuid="had7985bbgc12egd29dg82fdgd46b7d812d6e" version="2">Triumph over the mother Owlbear.</content>
+  <content contentuid="he356bc4fgf0bfg7dbbgd629gf40a452bf410" version="2">Walking on Plane</content>
+  <content contentuid="hc3c3ff8fgb568gff75gc5ceg20809fc3ed68" version="2">Successfully use a fairy ring.</content>
+  <content contentuid="hdaa9df25g4378g8a6ag30ceg4cce1d312874" version="2">A Planar Vision</content>
+  <content contentuid="h857dd685g54a3g7c15g45d3g56b71ae0bb99" version="2">See past the illusion covering the swamp.</content>
+  <content contentuid="h860a5099g81ffg5f2cga010gaa3bde5798dd" version="2">Planar Cursebreaker</content>
+  <content contentuid="h5c017a9dg08c7g5167gdbc7g06d35da5e602" version="2">Discover the curse of Yeenoghu and destroy his hyenas.</content>
+  <content contentuid="h5c61c0c2g0cc3ge068g3dd3g0f38e958b917" version="2">Abyss Jumper</content>
+  <content contentuid="hf9e6bb38g9b31g7098g1257g2e554c714b28" version="2">Enter the Underdark through the bottomless well.</content>
+  <content contentuid="h44c83cbfg132bg1154g5883gc02598e98cc0" version="2">Sticky Fingers</content>
+  <content contentuid="h34cbe2cbg7614g1b17g8448gb3096039892e" version="2">Secure the pouch from the spider crevice.</content>
+  <content contentuid="hfd30a9f0gd64fgc115g834fg7ece9db4967d" version="2">Cub Tamer</content>
+  <content contentuid="hc3cc96dfg8ef6g8d3dgf041g964392aca9c8" version="2">Successfully tame the owlbear cub.</content>
+  <content contentuid="h5e8111f6g787fgb662g5bcdgbfc3107c5c5f" version="2">Mushroom Enthusiast</content>
+  <content contentuid="h2cb0e820g5cebg62d1g184ag165ba3ea93ef" version="2">Destroy each kind of hazardous Underdark mushroom.</content>
+  <content contentuid="h897bfe17g4aa1g5a88gd682g619715f1428f" version="2">A Noble Endeavour</content>
+  <content contentuid="h30cbdf38g5354g8d85g838fg228199e57662" version="2">Effectively use a noblestalk mushroom.</content>
+  <content contentuid="hf4441220g6ed4g853fgd511g03808048ebb4" version="2">Clever Planar</content>
+  <content contentuid="h7b502db9g7923g201cga8d5ge51b372e50b9" version="2">Steal from the giant bird's nest in the Underdark.</content>
+  <content contentuid="hf998bb5dg979bgb7d9g3553g055bdeaa3dea" version="2">The Floor Is Lava</content>
+  <content contentuid="h89312498gdb06g468bgb8cfg95851f21ff93" version="2">Defeat the Lava Elemental in the lava lake.</content>
+  <content contentuid="h4981346ag8069ga75dgc855g1d12976bb10f" version="2">Child's Play</content>
+  <content contentuid="h89694a09geb57g0d61g98adg16a1b18470fa" version="2">Beat Oliver at hide and seek without alerting the shadow creatures.</content>
+  <content contentuid="h299dd9f1g73bbga773ga21egf68a3331610a" version="2">A Beautiful Portal</content>
+  <content contentuid="hc376c848ge937g5cbegc21fgdc1324e773d3" version="2">Protect Halsin's portal while he saves the spirit of the land.</content>
+  <content contentuid="h4d94bfbeg3c6bg6601gba46g7ad979777861" version="2">I Ain't Afraid of No Shadows</content>
+  <content contentuid="hb3a2c26fgc170ge58bgf839ged49175d85b4" version="2">Traverse through the Shadow-Cursed Lands to Last Light and Moonrise without using a Moonlantern.</content>
+  <content contentuid="hd9a20dc9g8bd9gcecbgdd11g7d1a179717de" version="2">Path Least Followed</content>
+  <content contentuid="h21e04415gd914g2200g75b8g587468edba1d" version="2">Complete the Gauntlet of Shar without going to Last Light or Moonrise.</content>
+  <content contentuid="h9d3db8d1g7f78g8e15gc7e9g999e2a18465e" version="2">A Planar in the Dark</content>
+  <content contentuid="h215f29d0g0a3bg4c9ege5a1gbe498e63010c" version="2">Conquer three combat encounters in the Shadow-Cursed Lands.</content>
+  <content contentuid="hbb8eb652g17f8gae3eg9bbeg3354b7ed54f8" version="2">No Cursed Stone Left Unturned</content>
+  <content contentuid="hf572d38cgdef9g84d8gd3fag24bca10dfde3" version="2">Explore each key area of the Shadow-Cursed Lands.</content>
+  <content contentuid="h36166b3dg8222g5d69g30afgfe5fbea5f595" version="2">Mutual Respect</content>
+  <content contentuid="h7bb87fc1g834dgf014gf2dcgbeadf2791feb" version="2">Meet the tadpole-hunting cat.</content>
+  <content contentuid="he62e5240g9048ga2d2gdccdg573bcbf083ce" version="2">Embracing the Plane</content>
+  <content contentuid="h3960c991g937ege9f7g2721g8127a1518ef8" version="2">Survive two rounds of the shadow curse.</content>
+  <content contentuid="hb66b2733g9f26g2eaag56ccg4dfbfcfe735d" version="2">Planar Weapon</content>
+  <content contentuid="ha8152063gf6c1gab14g0344g2792f1fd0345" version="2">Obtain the orthon's crossbow.</content>
+  <content contentuid="hb0465243g188cg8654ge931g129a893e748c" version="2">Sleeping in the Dark</content>
+  <content contentuid="h038e1885g5f8ag5ea7ga0a8g70ca1f8a691c" version="2">Take a full Long Rest in the Shadow-Cursed Lands.</content>
+  <content contentuid="h2bf76a47g1aaeg7b2cg492agf4fb0f599369" version="2">Always a Step Ahead of the Darkness</content>
+  <content contentuid="h34046099g5e7egf9bbg3b59g9c403b3334c8" version="2">Reach Nightsong without having been affected by the shadow curse.</content>
+  <content contentuid="h38026fd0gf8a0g3421gc613gc3f28f440acd" version="2">Never Liked Stairs</content>
+  <content contentuid="hdae2d658gdae1g2050gbb1bg2f5568e9641c" version="2">Enter a restricted area in Moonrise Towers from the outside.</content>
+  <content contentuid="h0972d32cgb1b1g7baagf6f4g2c0e3fcc8350" version="2">I've Had Worse</content>
+  <content contentuid="h8f7a7239g974eg3658g60f2gee599eb36489" version="2">Successfully drink and resist the negative effects of the brewer's concoction.</content>
+  <content contentuid="h864f52a5g0360gc543gad1bg4f10e5c7d695" version="2">Delving into the Deep</content>
+  <content contentuid="h2d4947e3g201cgb198gf711g20a1675f939a" version="2">Enter the oubliette... for better or for worse.</content>
+  <content contentuid="he9e532fcg4cd8g37b1gd9c6g378f6c016f3b" version="2">From Head to Toe</content>
+  <content contentuid="h006cdf7dg43d3gf682g19d6g81a817c0e3a5" version="2">Explore all sections of the mind flayer colony.</content>
+  <content contentuid="h33c9fc81gb53cg8189gdf97gc21790f04ea9" version="2">Gifts of the Planes</content>
+  <content contentuid="h38e3ca05g7b7fg8fbfg7ea4gb0d52dee462b" version="2">Give raw goods as a donation.</content>
+  <content contentuid="h1ee43540g229ag022fg68dfg6b54d7e141fb" version="2">Running Wild</content>
+  <content contentuid="h2ada9223ga2c2gcee3gf553g8ca6c9cd0f50" version="2">Release all the imprisoned circus beasts.</content>
+  <content contentuid="h2d9c20d1g1ac1g17b8g2148g945aa18b978a" version="2">Primary Needs</content>
+  <content contentuid="h730791aag3946gcdc1g2f46gfbe5bbae1193" version="2">Tame the dilophosaurus, making it non-hostile towards you.</content>
+  <content contentuid="ha6039e3eg7d9egbb1bg1e79g7a2cde447213" version="2">Solemn Farewell</content>
+  <content contentuid="h7152ace8g0746g7af6gccd1gdb1f02770645" version="2">Witness the Gur funeral.</content>
+  <content contentuid="h9320531ag0643g6a3bgd0e1g8d2487fff82d" version="2">Catastrophic Structural Failure</content>
+  <content contentuid="h3a8b1498ge1e0g6f0cg628eg61d95d8caf49" version="2">Blow up the Steel Watch Foundry.</content>
+  <content contentuid="h155d2decgc888g84c1g08c4gc856c9f56d59" version="2">Enlisted Avian</content>
+  <content contentuid="h64267008gfea4g6c92gf947g183fa8968648" version="2">Meet Commander Lightfeather.</content>
+  <content contentuid="h2de59663g25fdg8522g04f5g59ef560fda2e" version="2">Cat's Got Your Tongue?</content>
+  <content contentuid="h7e49c3fcgc00bg1febgc037gbadff0c5a250" version="2">Find the missing letters.</content>
+  <content contentuid="h6bcee6f0gb9c5gd5d8g37a0g0b90c803d42a" version="2">Macabre Hunt</content>
+  <content contentuid="h8eddaa3fg4e35gbfa4g79e8g6062aa4c104f" version="2">Find all the pieces of Dribbles' body and return them to Lucretious.</content>
+  <content contentuid="h3bf92fb6g2919g02fcg501dg6219b1d639f2" version="2">Plane Walker</content>
+  <content contentuid="ha9475fb7gb743g3882gadc6gccc8cd6089fb" version="2">Travel through the House of Hope portal.</content>
+  <content contentuid="h4cba13cbg1dd0gb331gc477ga2ed3451b4de" version="2">For Once, a Warm Meal</content>
+  <content contentuid="h8eb3ad0dg6d68g09dbgc4c3g262b217f2e8b" version="2">Obtain room and board at the Elfsong Tavern.</content>
+  <content contentuid="h311de61bgad06g3490g98begb0085f2457df" version="2">Nature of the Beast</content>
+  <content contentuid="h16baf070g788bg9f29ga73ag8684a0425258" version="2">Discover the fate of the githyanki egg.</content>
+  <content contentuid="hb92426a4g813agb235g9e85gcac5f2ab9b15" version="2">Urban Jungle</content>
+  <content contentuid="h15b3a40eg9549gb065gddcdga0002efd99ef" version="2">Survive the Bhaalist ambush at the park.</content>
+  <content contentuid="h16ffc4eag852dgdc16ga444g9f8a36642ec3" version="2">Beneath the Plane</content>
+  <content contentuid="h9a1c4d7agd1adg0928g800bg439416b727cf" version="2">Enter the Undercellar.</content>
+  <content contentuid="h0fa4185egabf6g7719g3065g7e5902a7a0d8" version="2">Planar Adoption</content>
+  <content contentuid="hc7a597d4g9a2ega93bg950agd42bee1d27b6" version="2">Convince Jaheira to let her family stay in the city.</content>
+  <content contentuid="hae8711d9g8614g2c87g3549g53a9fd721e04" version="2">Down to the Depths Below</content>
+  <content contentuid="h333e75d5g77cdg2a96g345dg70e69ace5d79" version="2">Enter the Iron Throne.</content>
+  <content contentuid="h6048175cg076fgb23cg0f6ag9affa02b0bc9" version="2">The Face of Murder</content>
+  <content contentuid="hbe435305gf895g1e0egda12g051080f119d6" version="2">Reach the Temple of Bhaal.</content>
+  <content contentuid="h7b34438dg915dga33cg8bfbg22495eed6d91" version="2">Rock Steady</content>
+  <content contentuid="h982dd321g92abg32a6g1591g3ba2089026bc" version="2">Survive the bandits' rolling boulder trap.</content>
+  <content contentuid="h6d52c985g88f5g7d72g91cegff86a51fc03e" version="2">Nest Egg</content>
+  <content contentuid="h725b0fb7g9580g4ba0gd80ag25d9acd9447c" version="2">Take an item from the Carrion Crawler nest.</content>
+  <content contentuid="h20329479g8573ge343gc10ag115aa185f235" version="2">A Mother's Fury</content>
+  <content contentuid="h1a75b92ag8189gd6ebgd737g4d3ae768d3d5" version="2">Triumph over the mother Owlbear.</content>
+  <content contentuid="hbfc63574ga2c8gdaf1g26b0g3311a5ad61f8" version="2">Walking on Plane</content>
+  <content contentuid="hd24f176bg7fd9ge222g0369g0a24bcf4739f" version="2">Successfully use a fairy ring.</content>
+  <content contentuid="h8787df4dg6d97g07efg828fg090c325f1a94" version="2">A Planar Vision</content>
+  <content contentuid="h76ca3275g361cgc72dg6b87gd4d0f16252dc" version="2">See past the illusion covering the swamp.</content>
+  <content contentuid="hc6e5df0ag1cccgee17ga36cgf6b32967ecb2" version="2">Planar Cursebreaker</content>
+  <content contentuid="he62cd23bg305dgc2f8gfe78gb9d2b9e6aa5b" version="2">Discover the curse of Yeenoghu and destroy his hyenas.</content>
+  <content contentuid="h8a147207g7ae7g0023ge506gcaade50ab895" version="2">Sweet Abyss</content>
+  <content contentuid="h8b871b33gb95dg1ed5gdc65g2b9e97b9cdee" version="2">Enter the Underdark through the bottomless well.</content>
+  <content contentuid="h3f420231gf9a8g6a0dgc31ag39e84d0b40fc" version="2">Sticky Fingers</content>
+  <content contentuid="h49ecd090gc0cbg4a0bg1644g9f42e853ace5" version="2">Secure the pouch from the spider crevice.</content>
+  <content contentuid="he8b102eag14fcg6203gcd21g852db763dee2" version="2">Planar Tamer</content>
+  <content contentuid="hb5b7bb63g1bb5ga9degab51g0dc1ea4238be" version="2">Successfully tame the owlbear cub.</content>
+  <content contentuid="h62c7f5edgfbd9g4e4ag56cfg17a367cf1af9" version="2">Mushroom Enthusiast</content>
+  <content contentuid="hce941879gfbb9g0b6eg0d6bga8aca9c37cea" version="2">Destroy each kind of hazardous Underdark mushroom.</content>
+  <content contentuid="hea7b8a85gf0a3ged4ag4b9dgdeb219eb1f5c" version="2">A Noble Endeavour</content>
+  <content contentuid="hf668a90ag69b6gb6bdg0451g1297ebb2f4bd" version="2">Effectively use a noblestalk mushroom.</content>
+  <content contentuid="he9435263gb875g2ae7g4a7bg9f50433a4146" version="2">Clever Planar</content>
+  <content contentuid="ha006588fgda67gfb99g0ec5g5c6de95512ab" version="2">Steal from the giant bird's nest in the Underdark.</content>
+  <content contentuid="hc535c09cg0d2cgf714g31fdgae50b0b578ad" version="2">The Floor Is Lava</content>
+  <content contentuid="hac8c02d3g3887g6801gafc0gc40e22295d42" version="2">Defeat the Lava Elemental in the lava lake.</content>
+  <content contentuid="h1067b5f2gac8fg282eg6e02g7dcec7fd7223" version="1">%%% EMPTY</content>
+  <content contentuid="hac5d01daga4c1gad23g9b47g0f37fcd665fa" version="2">This portable arcane instrument seems old, worn and imprecise. This item does not seem to come from the Sword Coast.</content>
+  <content contentuid="h034e1312gfc43g6baeg78d7g01fdf4a6d2af" version="1">This old skull-shaped device is filled with knowledge.</content>
+  <content contentuid="hababc55dg424dg34efg8a17g12622adedd4f" version="2">This small, smooth stone contains the essence of a single experience. You can touch and consume the stone and experience the sensation yourself. End the charmed and frightened condition.</content>
+  <content contentuid="hbbe6fb62g8720ge560g9f8egfb8255bb73c1" version="1">This small, smooth stone contains the essence of a single experience. You can touch and consume the stone and experience the sensation yourself. End the charmed and frightened condition.</content>
+  <content contentuid="hc1879bf9ge4f7g5255gc004g0781b6d42fc7" version="1">Warp Sense Scroll</content>
+  <content contentuid="h5eec5a4dg2405g2283g442eg631cc1ddc8f1" version="1">Gate Seal Scroll</content>
+  <content contentuid="h553c82b2g12ebg58cbgbabfg1a9d16cfa477" version="2">Gate Seal Scroll</content>
+  <content contentuid="hfcfb0f1bg0821ge78fgd3d8g860be08d4105" version="2">Gate Seal Scroll</content>
+  <content contentuid="hc9aee5eege786g13f1gec8bgc3d884c981f3" version="1">Portal Cracker</content>
+  <content contentuid="h8b3e8f81g355bg97c3ge7e7gef7c5c149603" version="1">Try to safely cast Portal Cracker.</content>
+  <content contentuid="h39b148e5ga397g512bgc05dgc0ae5ac90c80" version="1">Sensory Stone</content>
+  <content contentuid="h8661c82cg968cg7376g49ecg0af9fc7371f0" version="3">Mimir</content>
+  <content contentuid="hc515d8bdgc91ag00afg3b5eg9f683089a0ae" version="6">Sensory Stone</content>
+  <content contentuid="ha39c241fgfdd5g1d77g28e2gde5843be5df1" version="2">Portal Compass</content>
+  <content contentuid="hc13933a5g243dg625bgbcd5g6992c525f1e5" version="4">This old inanimate skull-shaped device is filled with knowledge.</content>
+  <content contentuid="h19f6dfd8gdc11gdbabgb792gf13be0ddb61e" version="1">Sensory Stone</content>
+  <content contentuid="h11f6fe24g1b93ge170gdca1g5d79194cbfe5" version="1">Mimir</content>
+  <content contentuid="h5c94facagf9ecg4524g5fcfg4db96e33cdbb" version="1">Portal Compass</content>
+  <content contentuid="h0ecbb3b1g4632g7672g2411g10297af2e28c" version="1">Portal Compass</content>
+  <content contentuid="h82ae22f9gb470g74b9g2f81g35db749d7bf6" version="1">You have a Proficienty bonus in Arcana and Perception.</content>
+  <content contentuid="he74c5a36gaa29g319cga756gace944dd2f43" version="31">Mimir</content>
+  <content contentuid="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1">Activate the Mimir and absorb its knowledge.</content>
+  <content contentuid="hcd937889g2ddbg0436g8d85g6b74891d554c" version="1">Free thinker</content>
+  <content contentuid="h7dd603ebg6c37g27d9gd5c2ge37c18b6d230" version="3">For those independent of mind and thought, who does not refer to any god. We often see this way of thinking among residents of Sigil. With a class like Cleric, a godless character can gain powers from their own convictions and principles.</content>
+  <content contentuid="h55a58843g198fg42beg8885g5d1fa3d64808" version="11">Portal Gate</content>
+  <content contentuid="h276ab033g0890g4653g9cadg0b61a1ec93a7" version="10">Connected with planar energies to its duplicate, this gate allows those who walk through to emerge from its twin gate.</content>
+  <content contentuid="hbec64581g0ea1g8d21g6364g1d950a8f4eb4" version="1">Glitch Character</content>
+  <content contentuid="hbd824043g2337g763eg7352gc4ca3a50f974" version="4">You remember strange places and strange times. It seems that you are not the only "you" in the multiverse. As an anomaly, other incarnations sometimes appear giving you bonuses.</content>
+  <content contentuid="h8999ed50g75f7g3bf0g7ca0gbc3449663dda" version="3">Glitch Character Cast</content>
+  <content contentuid="h98e63255g6aa2g812cgfd8fg7bac7889a0f8" version="1">Glitch Character</content>
+  <content contentuid="ha002d7dfg9b65gbc68g1d45ga4ebfc362dc4" version="2">Glitch Character Attack</content>
+  <content contentuid="hc2e022a7geca5gfc47gf4a5g7bb004f7aad4" version="2">You are an anomaly in the multiverse. Sometimes other versions of you melt with your existence.</content>
+  <content contentuid="h133adffdg9b55gdb84ge031gefd6eacd21b8" version="3">A glitched incarnation appears on a cast.</content>
+  <content contentuid="h111127a8g8cafg59f4g35a3g28a89b4c0890" version="2">A glitched incarnation appears on an attack.</content>
+  <content contentuid="h3a87da69gf06eg8120g0b04gac1189fa61a1" version="2">Glitch Character Rest</content>
+  <content contentuid="h52467ffaga9f7g8c0dg71d4gc48fecaa64c6" version="2">A glitched incarnation appears on a rest.</content>
+  <content contentuid="h28f3acdbg9c62gd2f3g44d5g9f10efbb674f" version="1">Glitched incarnation</content>
+  <content contentuid="h89fde963g2175g29fdg557cgbc1c9985f779" version="1">Glitched incarnation</content>
+  <content contentuid="hb872fd88g3ebeg176ag9059gcd8d82fb556a" version="1">Glitched incarnation</content>
+  <content contentuid="h3cc42f2egd165gd174g8180g97a88556b808" version="1">Glitched incarnation</content>
+  <content contentuid="h6831885ag7936gc436g57b1g31ee187010cc" version="1">Glitched incarnation</content>
+  <content contentuid="h0a5e4c8fg9114gaaa6gf6f2gb80d61e3418f" version="1">Glitched incarnation</content>
+  <content contentuid="hb4308285g065bgf524gcf35ge38867bf31e7" version="1">Glitched incarnation</content>
+  <content contentuid="hb1105500ga005g2b47g6336g06b542f12889" version="1">Glitched incarnation</content>
+  <content contentuid="hd18ce491g3f87g8063g81c8g71295624cc1f" version="1">Glitched incarnation</content>
+  <content contentuid="h74511d86g1781g2d23g856eg51ebce8ef438" version="1">Glitched incarnation</content>
+  <content contentuid="h54807f27g4656g8ae5g6be8gfc446544686f" version="1">Glitched incarnation</content>
+  <content contentuid="h8aa6798bg5a20gef9cgc0f3g598a1b458d4d" version="1">Glitched incarnation</content>
+  <content contentuid="hfb7b5d08gadc8g44d8gfdb9gc1d33c18349f" version="1">Glitched incarnation</content>
+  <content contentuid="h5ca2be16g7877ga140gfc85ge8887887f9a4" version="1">Glitched incarnation</content>
+  <content contentuid="ha0247befgc03agb5a0gc306g447d49205169" version="1">Glitched incarnation</content>
+  <content contentuid="hd174e151gedb8g3606gfb91gac528fc28096" version="1">Glitched incarnation</content>
+  <content contentuid="ha425922fgc58eg887dgc356gd40b65dc1682" version="1">Glitched incarnation</content>
+  <content contentuid="hb1a430d2gbf17g799fgb713ga500dab876fe" version="1">Glitched incarnation</content>
+  <content contentuid="hc82ae5a6gb66eg7192g7a16g439736384c42" version="1">Glitched incarnation</content>
+  <content contentuid="hcfce0eaeg2ed1g9999g9137gf2b428c2f61c" version="1">Glitched incarnation</content>
+  <content contentuid="h453861dcg3ae7g9d5dg6093g76dbb1451add" version="1">Glitched incarnation</content>
+  <content contentuid="h8f0bd557g18e5g2bc7g9bacg13219d2483f6" version="1">Glitched incarnation</content>
+  <content contentuid="hedbd6727ge3aag76b6g3557gf08e91f2576f" version="1">Glitched incarnation</content>
+  <content contentuid="h5b62f2dbg25dcg4a9cg7736g6333fac79e87" version="1">Glitched incarnation</content>
+  <content contentuid="h88bb81fag097fg0b52gdcc6g4a8b398a1390" version="1">Glitched incarnation</content>
+  <content contentuid="h650c63ffg0b1cgc770g4dbdg09f568a16a28" version="1">Glitched incarnation</content>
+  <content contentuid="hb6f1ccd5g4bf8g4e03gc7adg4bfd59c88253" version="1">Glitched incarnation</content>
+  <content contentuid="h0f6ceb92g4767g2068gb74agda3328115e0e" version="1">Glitched incarnation</content>
+  <content contentuid="h26777477gc023gb558g70d8g06ebaabcc30e" version="1">Glitched incarnation</content>
+  <content contentuid="h30f8c32fga329g68fbg5518g20ffef2ce9fe" version="1">Glitched incarnation</content>
+  <content contentuid="he2bf6dbfg374cgc0b5ga59bgd2fd8e5d9ae3" version="1">Glitched incarnation</content>
+  <content contentuid="hd7c4bd02g6f72gc021g1e66gdd067b23fa78" version="1">Glitched incarnation</content>
+  <content contentuid="h9455585ag0e27g64f8g78a4gd47bd55f5641" version="3">Recall yourself</content>
+  <content contentuid="h4ae750aeg81dfg706fgbd60g2a22bb4ef817" version="3">Focus and try to recall your main incarnation.</content>
+  <content contentuid="hc8a2dccbgb722gec46g2936ga7dd8907efdf" version="1">Glitch</content>
+  <content contentuid="h6ce78d3bg31bag4ab7g5be7g0fd8fbe07e6b" version="1">Glitch</content>
+  <content contentuid="h0972b6b3gd7f3g54f1g013agc343d49948ac" version="1">Glitch</content>
+  <content contentuid="h826d2347g49f7g8430gca27g7055bdfd6fe5" version="1">Glitch</content>
+  <content contentuid="hf24011c8g4556g0145g9eb4ge50866f1f205" version="1">Glitch</content>
+  <content contentuid="ha33b65b6g789cg02e9g7c10g861769cbf5a3" version="1">Glitch</content>
+  <content contentuid="h8bcbee5cg55fbg2dd2g70c3ge3fc012e0278" version="3">Glitch on attack</content>
+  <content contentuid="h7aaaf703g5578gbcd4g271dg9a828ad84231" version="3">Applying a Glitch ?</content>
+  <content contentuid="h4d9d4771ge6aeg61c8gd4d5g980f59cac23e" version="4">Glitch on cast</content>
+  <content contentuid="hfec8449bga548g7d6dg3bfbg6b14f70de347" version="3">Applying a Glitch ?</content>
+  <content contentuid="h88399085gf9a1gd84bg1346g390dd2233e07" version="3">Glitch on rest</content>
+  <content contentuid="h49c2c0a9gf2f9ga7fcg4648g4feaba68b503" version="3">Applying a Glitch ?</content>
+  <content contentuid="h811bd64dg5987gc5a4g61b0ge144c1d89f0f" version="2">Half Orc Incarnation</content>
+  <content contentuid="h075ba9d9g0211g79e6g7fc7g08a9236bc21f" version="1">Tiefling Incarnation</content>
+  <content contentuid="h54a3c1eag0199g01b1gdbcdge528463cf26d" version="1">Human Incarnation</content>
+  <content contentuid="h1c5ac7d4gd05eg4379g7dc7g6e1bb4bea16c" version="1">Gnome Incarnation</content>
+  <content contentuid="h01dc71e8g16dcgf967gf977g4cf1b1bbbfbe" version="1">Halfling Incarnation</content>
+  <content contentuid="h4807472eg1020g991dgbf18g5d3c054206cf" version="1">Drow Incarnation</content>
+  <content contentuid="h81b7d4a0g982bgac0bg2566g2cf964aafc8f" version="1">Githyanki Incarnation</content>
+  <content contentuid="h97c3ceccg814ag6617g7232g6d014b6e8a7b" version="1">Dragonborn Incarnation</content>
+  <content contentuid="h420bed58gcd88g8ef2gf334g56a9ea3c3c08" version="1">Glitch Character Attacked</content>
+  <content contentuid="h1230930egee17gb774g666eg70622924ee05" version="1">A glitched incarnation appears on an attack.</content>
+  <content contentuid="h143f4421g9dc8g90afg06ceg975570e22ee8" version="1">Glitch Character Cast</content>
+  <content contentuid="h5a3b53e1g7b03gac72g2c0bgba03ebdb267f" version="1">A glitched incarnation appears on a cast.</content>
+  <content contentuid="h3f399b4bg34cag8f0bga515gb5e29655926d" version="1">Glitch on attack</content>
+  <content contentuid="heda10324g76b0gc44ag2065gb92aac937f9d" version="1">Sometimes other versions of you melt with you during an attack.</content>
+  <content contentuid="h4fbec60cg9b97gd573g5cf2g30b438699523" version="1">Glitch on cast</content>
+  <content contentuid="he2d44030gd930g2688gb270g23d185e3ee5f" version="1">Sometimes other versions of you melt with you during a cast.</content>
+  <content contentuid="hbec539bdgfe54g30abg37caga453d77caef8" version="5">*Crrrkkk*</content>
+  <content contentuid="h3a0ff6c2ge915g1a79g400agaab25e37fbd9" version="17">Morte</content>
+  <content contentuid="h78db741fgb55cg325cg3153gd1f5d62b5f87" version="17">Mimir</content>
+  <content contentuid="hbdfa7db9g426agb016g1e61g43e526925235" version="9">Morte</content>
+  <content contentuid="h12bb70d7ga5d5g3412g4e03gf2c0b249875b" version="9">This old Mimir wants to wake up and talk.</content>
+  <content contentuid="h7b481653g323ag3461gcd1ag86612f011e54" version="1">Morte</content>
+  <content contentuid="hae6883e4gc6a3g8aaaged24ga4fca3eaef0f" version="1">This old Mimir wants to wake up and talk.</content>
+  <content contentuid="h89f25f6fg526egf2e2gba52gf9320bcdc03f" version="44">Hey Chief !</content>
+  <content contentuid="h4bf59ba8g0aa0g9c87g14f6g93610f9322a6" version="55">Who are you ? It seems that you were inert for a while before I found you.</content>
+  <content contentuid="h5341c925g3caag3538g75c4gdb997220e5a3" version="55">I'm Morte.</content>
+  <content contentuid="h4000c84agbbe0gdfb8g667bg1cf2ec763ce6" version="55">You know, sometimes, I sure miss having a body.</content>
+  <content contentuid="h48574305g2f4fg344ag1528gc371390486b7" version="55">How do you feel ?</content>
+  <content contentuid="h32c34513gc265g9426g6636gb6f8cc435cd1" version="55">I am both happy and completely miserable.</content>
+  <content contentuid="h13730ccageb7eg7a4ag8275g041f7c7a4119" version="32">Without the happy part.</content>
+  <content contentuid="h71b39e8eg4dddg6048g8611g45a6cd9f868e" version="26">&lt;i&gt;Inspect him&lt;/i&gt;.</content>
+  <content contentuid="h2c00b4begb0c2g36a1g606egeaccefb5256f" version="24">*Crrrkkk*</content>
+  <content contentuid="h298809c6gdd34g704fg0ad3g783a0fc0903a" version="54">Watch my back.</content>
+  <content contentuid="h2bcab3f5g4988gddb5gbe9agf5c303543bbd" version="18">Hey ! Are you alright ?</content>
+  <content contentuid="h7ba6092bg97c1ge61dg9288g1aaa7c486fb4" version="18">It's ok, it's just that I have a strange feeling about you.</content>
+  <content contentuid="h2a48564cg077bg8416g3075ge9d152a2004e" version="17">Ok.</content>
+  <content contentuid="h4c283e90g30a7ga324gca4eg7cacee572a6d" version="16">Yes don't worry, see you later.</content>
+  <content contentuid="heb794250gf2a2g367fgd6d4gb89e741b022b" version="48">Hey Chief !</content>
+  <content contentuid="h763151cbg1026g9e57gbd84ge12ebd908ea7" version="1">You know, sometimes, I sure miss having a body.</content>
+  <content contentuid="h7df29810g66f7g26edg2361gddf510a4961a" version="1">I am both happy and completely miserable.</content>
+  <content contentuid="he41dca66g8a47g6a1eg59b5g5a9d10bcd42c" version="1">Without the happy part.</content>
+  <content contentuid="hcf0520c4gc766gbc23g88dfg229a90d05eea" version="47">You know, sometimes I sure miss having a body.</content>
+  <content contentuid="h8bbec1c6g9026g53e9ga203g83a4e7de38e0" version="47">I am both happy and completely miserable.</content>
+  <content contentuid="h0e43f5b1g35d3gbac0g562fgfb1f86b04b62" version="2">Without the happy part.</content>
+  <content contentuid="h81022b63gfd02g708fgbc41g7f549f70542e" version="42">Me? I'm the head of Vecna.</content>
+  <content contentuid="h0feed226g2c68g2458gbfd5g9ad5939ebe21" version="42">Hey Chief, you okay?</content>
+  <content contentuid="h473a2910g8f76gd086g9ec0g4e937c5645a4" version="42">We should get some female zombies to join this party.</content>
+  <content contentuid="hae4b5e8eg835eg4515g5910ge4c0fd85fcb2" version="42">I need a sensory touch.</content>
+  <content contentuid="h3406b210g2eddg30ccg8072g49ba5d3354c0" version="5">Can't wait to continue being a floating skull for the rest of eternity.</content>
+  <content contentuid="hef75e573gd557gc235g8737ge71117f438d2" version="3">Thanks for reactivating me Chief, can't wait to go out and party.</content>
+  <content contentuid="h3fc28911g273ag101fgc378gd304d05dae4d" version="5">Dak'kon's Zerth Blade</content>
+  <content contentuid="h09e1a258g06d2g1251gd407g6d608385eb5d" version="5">This sword was the weapon of choice of a famous githzerai working for a creature known as the 'Nameless One'.</content>
+  <content contentuid="hbdf89fdfg63e2g9bb0gde4ag1db6887b6995" version="1">Mimir</content>
+  <content contentuid="h86ddf0d5gb7e4g9970g06e4g93aa697ca8c4" version="26">Fall-from-Grace</content>
+  <content contentuid="h9b38f13fg0b85gbc56gd42egf80ad69d48f3" version="26">Tanar'ri</content>
+  <content contentuid="h7810c487g87e1ge76bgd482ge0272e45cbc4" version="1">Sensates contract</content>
+  <content contentuid="h121342c7gc1c5g0542g0012g86090ddac04e" version="6">Sensates contract</content>
+  <content contentuid="hb4991804ga291g1f30g2c98g163887f7cce4" version="2">A planar contract to hire a member of the Society of Sensation.</content>
+  <content contentuid="hf1deb2d4g3a59g35a3g9402gee4ba94c7107" version="6">A planar contract to hire a member of the Society of Sensation.</content>
+  <content contentuid="h1f4a9e1bg7e38g2c4fgb9a2ga4dcb567f023" version="5">What can change the nature of a man?</content>
+  <content contentuid="h67ab32c9g0d64g8a3gbe4a2gdf01e21c45b6" version="5">Are you alright?</content>
+  <content contentuid="h2d4e9a3fg8b77g5f5g81b0ag9c6e21d45023" version="5">How do you feel?</content>
+  <content contentuid="hf5b8d1c4g3c12g8d1g17c3bgadc937fb0198" version="5">I do not think we know each other well enough.</content>
+  <content contentuid="h1a8c6d3fg0f47g1b8g39d1agbb8f91d2e604" version="5">Actually, I enjoy the company.</content>
+  <content contentuid="h7c8d4a1fg5a36g7b4g4b9eag6cde123f4079" version="5">Yes?</content>
+  <content contentuid="h2f9b7e5dg4c23g9e1gf0b5bgdbe712d045b1" version="5">Through observation, sensation and experience, the truth of the multiverse should be revealed.</content>
+  <content contentuid="hf3a6d5b8g9e78g2b3g14c7ag89aef34d1204" version="5">How may I help you?</content>
+  <content contentuid="h4e8c1b9fg3b22g5d1g2f4eag5db421ef6078" version="5">It's good to be journeying again! The brothel was a learning experience, but I think it was time I moved on.</content>
+  <content contentuid="h197f4dabg3eeegfb9dge10ag7280beda39e2" version="28">Annah</content>
+  <content contentuid="h12bf9b74g4fcegc003g0da1ge7151a0dca17" version="10">Fiendling</content>
+  <content contentuid="h44112202gb289gf648g7e66gfc2bd50fd990" version="1">Sharp tongue contract</content>
+  <content contentuid="hbbdccb8dg6150g46c8g4469gdf55b7ac2a72" version="6">Sharp tongue contract</content>
+  <content contentuid="hda347ed4g1934g5536g2575g50b830602f72" version="1">A planar contract to hire a thief scavenger from Sigil.</content>
+  <content contentuid="h82eecc97g665fgb8b5g187fgffac3c634fd6" version="6">A planar contract to hire a thief scavenger from Sigil.</content>
+  <content contentuid="h8d2e9f4bg6a77g0a8g5b7cag79cd432e1805" version="8">Accent? What are ye on about?</content>
+  <content contentuid="h3b5f7d2eg1d42g7e8g6f8b4g8cb523f6719c" version="8">Torment.</content>
+  <content contentuid="h9e1c4a6fg0c64g9d5g3e6aag1cd842f3020d" version="8">What?!</content>
+  <content contentuid="hf8d3b2a1g9b55g3e4g5f9aeg2ba793d6711f" version="8">Time to kick some back!</content>
+  <content contentuid="h6a5c8f9dg4e88g2f6g7a1c2g3bc504e21307" version="8">Backstab!</content>
+  <content contentuid="h4b9e3d7fg1a32g8b7g6d8cag7ea643d4518f" version="8">Touch my blades again, and I'll put them in your skull.</content>
+  <content contentuid="h7e6f8b1ag2d45g4c3g1f7b6g4ea234c5102d" version="8">Ready.</content>
+  <content contentuid="h1f9b2d4fg6e39g7e8g5c4a8g3fd971d67203" version="8">I'm not that sort o' girl.</content>
+  <content contentuid="hf4b3e2a9g9d76g1f4g6a8b7g2ca483e51219" version="8">Eh?</content>
+</contentList>
