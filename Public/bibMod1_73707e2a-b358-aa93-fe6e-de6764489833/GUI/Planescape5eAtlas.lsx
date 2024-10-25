@@ -27,29 +27,29 @@
                 </node>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="Plns_Spell_PlanarMistyStep"/>
+                    <attribute id="U1" type="float" value="0.37597656"/>
+                    <attribute id="U2" type="float" value="0.49902344"/>
+                    <attribute id="V1" type="float" value="0.0009765625"/>
+                    <attribute id="V2" type="float" value="0.12402344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Plns_Spell_PortalCracker"/>
                     <attribute id="U1" type="float" value="0.50097656"/>
                     <attribute id="U2" type="float" value="0.62402344"/>
                     <attribute id="V1" type="float" value="0.0009765625"/>
                     <attribute id="V2" type="float" value="0.12402344"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Plns_Spell_PortalCracker"/>
+                    <attribute id="MapKey" type="FixedString" value="Plns_Spell_Tongues"/>
                     <attribute id="U1" type="float" value="0.62597656"/>
                     <attribute id="U2" type="float" value="0.74902344"/>
                     <attribute id="V1" type="float" value="0.0009765625"/>
                     <attribute id="V2" type="float" value="0.12402344"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Plns_Spell_Tongues"/>
+                    <attribute id="MapKey" type="FixedString" value="Plns_Spell_WarpSense"/>
                     <attribute id="U1" type="float" value="0.75097656"/>
                     <attribute id="U2" type="float" value="0.87402344"/>
-                    <attribute id="V1" type="float" value="0.0009765625"/>
-                    <attribute id="V2" type="float" value="0.12402344"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Plns_Spell_WarpSense"/>
-                    <attribute id="U1" type="float" value="0.37597656"/>
-                    <attribute id="U2" type="float" value="0.49902344"/>
                     <attribute id="V1" type="float" value="0.0009765625"/>
                     <attribute id="V2" type="float" value="0.12402344"/>
                 </node>
@@ -64,8 +64,8 @@
                     <attribute id="Width" type="int32" value="64"/>
                 </node>
                 <node id="TextureAtlasPath">
-                    <attribute id="Path" type="string" value="Assets/Textures/Icons/PlnsAtlas.DDS"/>
-                    <attribute id="UUID" type="FixedString" value="ca5f5735-facf-05cb-0d06-d928143675ec"/>
+                    <attribute id="Path" type="string" value="Assets/Textures/Icons/Planescape5eAtlas.DDS"/>
+                    <attribute id="UUID" type="FixedString" value="49c29fdd-18b4-d3b3-5f32-44184a95e212"/>
                 </node>
                 <node id="TextureAtlasTextureSize">
                     <attribute id="Height" type="int32" value="512"/>
