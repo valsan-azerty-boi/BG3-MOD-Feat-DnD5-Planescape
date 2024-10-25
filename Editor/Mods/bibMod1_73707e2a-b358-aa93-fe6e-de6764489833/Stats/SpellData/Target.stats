@@ -11,7 +11,7 @@
         <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 5,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ArcaneLock" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_GateSeal" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6d4f5178g1938g00a2gf920g880454834028" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="3" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,5)" />
@@ -37,6 +37,8 @@
         <field name="PositionEffect" type="GuidObjectTableFieldDefinition" value="7db045f9-83ac-4768-88c8-48563b685a9d" />
         <field name="HighlightConditions" type="StringTableFieldDefinition" value="Character() and not Dead()" />
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
+        <field name="SpellStyleGroup" type="EnumerationTableFieldDefinition" value="Class" enumeration_type_name="SpellStyleGroup" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -49,7 +51,7 @@
         <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:TeleportSource();" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="CanStand('') and not Character() and not Self()" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Conjuration_MistyStep" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_PlanarMistyStep" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1a1a5fd5g37f0g0d8bg6e4bg0a7864f5d8a4" version="2" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7bc2a60ag2954gf3d4gb8a8g1d39c7db951e" version="1" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
@@ -65,6 +67,8 @@
         <field name="LineOfSightFlags" type="EnumerationListTableFieldDefinition" value="AddSourceHeight" enumeration_type_name="LineOfSightFlags" version="1" />
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="7121a488-7c9a-4ba1-a585-f79aaa77e97c" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="71859b27-bdda-44c3-8c65-7f142a1a2f60" />
+        <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
+        <field name="SpellStyleGroup" type="EnumerationTableFieldDefinition" value="Intent" enumeration_type_name="SpellStyleGroup" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -77,7 +81,7 @@
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_Tongues_Buff, 100, 10);ApplyStatus(POTION_OF_ANIMAL_SPEAKING, 100, 10)" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="1.5" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Character() and Ally()" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_ComprehendLanguages" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_Tongues" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he719e3e7gb7a6ge63cg73e5g0a5d2bddec22" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd2dec18dg5019g8bbdga4d8g1c1d2e3c4626" version="2" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_Tongues_Buff, 100, 10);ApplyStatus(POTION_OF_ANIMAL_SPEAKING, 100, 10)" />
@@ -95,6 +99,7 @@
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="33302a46-4a12-41dd-8845-6b7314d50022" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="1a4b0423-005b-4577-b376-815a08809675" />
         <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="5eccabb5-4b4f-4d3a-87ed-69a2c27b7f18" />
+        <field name="SpellStyleGroup" type="EnumerationTableFieldDefinition" value="Intent" enumeration_type_name="SpellStyleGroup" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -104,7 +109,7 @@
         <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:TeleportSource();" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="CanStand('') and not Character() and not Self()" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Conjuration_MistyStep" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_PlanarMistyStep" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h01740d57gb618g3b71g416cgd6fb78f59454" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h0150b07ageb11g8fddg1619g048d8caefad1" version="2" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
@@ -120,6 +125,7 @@
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="7121a488-7c9a-4ba1-a585-f79aaa77e97c" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="71859b27-bdda-44c3-8c65-7f142a1a2f60" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
+        <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -132,7 +138,7 @@
         <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 5,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ArcaneLock" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_GateSeal" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h52cb2e91gf45eg4bf2gfdaeg0df82f11acc4" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7cecf0f4g32e0gbeb8g1258g196d9b29cf31" version="2" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,5)" />
@@ -172,7 +178,7 @@
         <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 10,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ArcaneLock" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_GateSeal" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8483d49ag1e8dg1c43g8018gfcd6bbef6e23" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcedc6be9ge111g4c71g1742g013f38ae2a65" version="2" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,10)" />
@@ -212,7 +218,7 @@
         <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 10,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ArcaneLock" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_GateSeal" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc9103a06g6ce1g9873gf3b6ga43de4e8a062" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h717a8513g3681g3750gd31eg98db9c4c5400" version="2" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,10)" />
@@ -252,7 +258,7 @@
         <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 10,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ArcaneLock" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_GateSeal" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf8687996gdb03g610cg1c03g3fb532b80da1" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7555f29cg9d6fg1583g4a52g55fa5b85c11e" version="2" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,10)" />
@@ -292,7 +298,7 @@
         <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 10,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ArcaneLock" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_GateSeal" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h522850b4ga97fg5c82g95fdg4ae3c3599792" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9bbfa2d1g1deegb97fg56adgad0e268bcbc9" version="2" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,10)" />
@@ -330,7 +336,7 @@
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Character() and Ally() and not Self()" />
         <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="dd86aa43-8189-4d9f-9a5c-454b5fe4a197,,;,,;39daf365-ec06-49a8-81f3-9032640699d7,,;5c400e93-0266-499c-a2e1-75d53358460f,,;cc5b0caf-3ed1-4711-a50d-11dc3f1fdc6a,,;,,;1715b877-4512-472e-9bd0-fd568a112e90,,;,,;,," />
-        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="33302a46-4a12-41dd-8845-6b7314d50022" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
       </fields>
     </stat_object>

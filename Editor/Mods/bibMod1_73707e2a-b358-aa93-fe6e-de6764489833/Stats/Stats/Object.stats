@@ -43,6 +43,8 @@
         <field name="PsychicResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="RadiantResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="ThunderResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="AddToBottomBar" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="IgnoredByAI" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -78,6 +80,8 @@
         <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Scroll" enumeration_type_name="ItemUseTypes" version="1" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="3e30def1-0d63-4488-86f4-0f0e492aef3e" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
+        <field name="AddToBottomBar" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="IgnoredByAI" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -116,6 +120,8 @@
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a5d833e9-ca2f-44fd-b714-bbb36c2f9d47" />
+        <field name="AddToBottomBar" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="IgnoredByAI" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -153,6 +159,8 @@
         <field name="DarkvisionRange" type="IntegerTableFieldDefinition" value="0" />
         <field name="MinimumDetectionRange" type="IntegerTableFieldDefinition" value="0" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
+        <field name="AddToBottomBar" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="IgnoredByAI" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -190,6 +198,8 @@
         <field name="DarkvisionRange" type="IntegerTableFieldDefinition" value="0" />
         <field name="MinimumDetectionRange" type="IntegerTableFieldDefinition" value="0" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
+        <field name="AddToBottomBar" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="IgnoredByAI" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

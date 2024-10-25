@@ -474,9 +474,9 @@ SourceControlGenerator.json
 
 # Levels
 ######################
-Mods/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/Levels/*
-Mods/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/Globals/*
-Editor/Mods/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/Levels/*
+#Mods/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/Levels/*
+#Mods/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/Globals/*
+#Editor/Mods/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/Levels/*
 
 # Story files        #
 ######################
@@ -488,7 +488,7 @@ Mods/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/Story/Dialogs/Recovered/*
 
 # Asset Folders      #
 ######################
-Public/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/Assets/*
+#Public/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/Assets/*
 #Public/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/GUI/*
 
 # Editor files       #
@@ -507,20 +507,20 @@ story.debugInfo
 
 # Assets             #
 ######################
-*.gr2
-*.dae
-*.swf
-*.bullet
-*.dds
-*.tga
-*.png
-*.ttf
-*.lsb
-*.lsf
-*.lsfx
-*.lsefx
+#*.gr2
+#*.dae
+#*.swf
+#*.bullet
+#*.dds
+#*.tga
+#*.png
+#*.ttf
+#*.lsb
+#*.lsf
+#*.lsfx
+#*.lsefx
 #*.lsx
-*.lsmg
+#*.lsmg
 
 # Logs               #
 ######################

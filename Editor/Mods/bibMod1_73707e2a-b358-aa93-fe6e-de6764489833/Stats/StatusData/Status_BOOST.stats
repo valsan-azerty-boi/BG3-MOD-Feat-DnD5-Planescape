@@ -68,7 +68,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_WarpSense_Buff" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h19807a4dgb9b4g6a11g1ad1g33886795753c" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc53f42ecg57cagf9f1gd923gd71c1f3dee48" version="3" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_ArcaneEye" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_WarpSense" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Advantage(SavingThrow,Wisdom);ProficiencyBonus(Skill,Arcana);ProficiencyBonus(Skill,Perception)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" value="Positive" enumeration_type_name="ManagedStatusEffectType" version="1" />
@@ -96,7 +96,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_Tongues_Buff" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3f0810e4g6c6bgb62bg26fag878f03d8f4e2" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h30f00253g6a92g9d58g7d82g39a60cd5e31b" version="3" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_ComprehendLanguages" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_Tongues" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Advantage(Ability, Charisma);ProficiencyBonus(Skill,Persuasion);ProficiencyBonus(Skill,Intimidation);ProficiencyBonus(Skill,Deception);ProficiencyBonus(Skill,AnimalHandling);ProficiencyBonus(Skill,Insight);ApplyStatus(PETPAL,100,10)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" value="Positive" enumeration_type_name="ManagedStatusEffectType" version="1" />
@@ -234,6 +234,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="13feb980-bffb-4a77-b27a-b3b00e9daa65" />
         <field name="StackId" type="StringTableFieldDefinition" value="PAITM_CHAOTICFLARE_DAMAGE_RECEIVED" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_Barbarian_Frenzy" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -242,7 +243,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_Attack_RandomBase" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8bcbee5cg55fbg2dd2g70c3ge3fc012e0278" version="3" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator;FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_GlitchCharacter_Attack_RandomApply,100,0)" />
       </fields>
@@ -253,7 +254,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_Attack_RandomApply" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7aaaf703g5578gbcd4g271dg9a828ad84231" version="3" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="IF(ConditionResult(GetStatusDuration('Paitm_GlitchCharacter_Attack_RandomBase',context.Target) == 1)):ApplyStatus(Paitm_GlitchCharacter_HalfOrc,100,0);IF(ConditionResult(GetStatusDuration('Paitm_GlitchCharacter_Attack_RandomBase',context.Target) == 2)):ApplyStatus(Paitm_GlitchCharacter_TiefMale,100,0);IF(ConditionResult(GetStatusDuration('Paitm_GlitchCharacter_Attack_RandomBase',context.Target) == 3)):ApplyStatus(Paitm_GlitchCharacter_HumanMale,100,0);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomBase);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomBase);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomBase)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
@@ -264,7 +265,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_Cast_RandomBase" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4d9d4771ge6aeg61c8gd4d5g980f59cac23e" version="4" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator;FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_GlitchCharacter_Cast_RandomApply,100,0)" />
       </fields>
@@ -275,7 +276,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_Cast_RandomApply" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hfec8449bga548g7d6dg3bfbg6b14f70de347" version="3" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="IF(ConditionResult(GetStatusDuration('Paitm_GlitchCharacter_Cast_RandomBase',context.Target) == 1)):ApplyStatus(Paitm_GlitchCharacter_DrowFemale,100,0);IF(ConditionResult(GetStatusDuration('Paitm_GlitchCharacter_Cast_RandomBase',context.Target) == 2)):ApplyStatus(Paitm_GlitchCharacter_GithFemale,100,0);IF(ConditionResult(GetStatusDuration('Paitm_GlitchCharacter_Cast_RandomBase',context.Target) == 3)):ApplyStatus(Paitm_GlitchCharacter_DragonbornMale,100,0);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomBase);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomBase);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomBase)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
@@ -285,7 +286,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="65ac5b2b-0f1a-4f9a-8cab-837bb4d3b2be" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_HalfOrc" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h811bd64dg5987gc5a4g61b0ge144c1d89f0f" version="2" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_HALFORC_FEMALE,100,10);ApplyStatus(STONESKIN,100,3);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
@@ -295,7 +296,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="0ea1e23e-359b-400f-b307-e8b86194869c" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_TiefMale" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h075ba9d9g0211g79e6g7fc7g08a9236bc21f" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_TIEFLING_MALE,100,10);ApplyStatus(DISENGAGE,100,3);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
@@ -305,7 +306,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="d70e3800-3825-431a-927f-df6e78c8c11d" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_HumanMale" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h54a3c1eag0199g01b1gdbcdge528463cf26d" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_HUMAN_STRONG_MALE,100,10);ApplyStatus(DIVINE_FAVOR,100,3);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
@@ -315,7 +316,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="d3231750-8ed0-460e-926c-3511b97ab090" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_GnomeMale" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1c5ac7d4gd05eg4379g7dc7g6e1bb4bea16c" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_GNOME_MALE,100,4);ApplyStatus(AID,100,-1);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
@@ -325,7 +326,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="935a159b-7f43-4319-94db-7bf3cf0342bf" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_HalflingFemale" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h01dc71e8g16dcgf967gf977g4cf1b1bbbfbe" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_HALFLING_FEMALE,100,4);ApplyStatus(AID,100,-1);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
@@ -335,7 +336,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="cbb7e247-0476-4ee5-8554-e43b4eacd053" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_DrowFemale" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4807472eg1020g991dgbf18g5d3c054206cf" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_DROW_FEMALE,100,10);ApplyStatus(FREEDOM_OF_MOVEMENT,100,4);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
@@ -345,7 +346,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="2b2e6adf-4caa-47c0-b859-2725b7b87ad1" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_GithFemale" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h81b7d4a0g982bgac0bg2566g2cf964aafc8f" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_GITHYANKI_FEMALE,100,10);ApplyStatus(HEROES_FEAST,100,3);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
@@ -355,7 +356,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="aad0ff9e-e9cc-44b9-8a19-1d0be51ff3e8" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_DragonbornMale" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h97c3ceccg814ag6617g7232g6d014b6e8a7b" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_DRAGONBORN_MALE,100,10);ApplyStatus(SHIELD_OF_FAITH,100,4);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>

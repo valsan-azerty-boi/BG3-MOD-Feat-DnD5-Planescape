@@ -105,5 +105,29 @@
         <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="2ba5248a-f014-409d-ab26-b50116f7e477" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8fe76ad4-b318-4a54-b4fe-795d8ab1105a" />
+        <field name="Name" type="NameTableFieldDefinition" value="Warlock, Archfey spell scroll list" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_Paitm_WarpSense;Target_Paitm_GateSeal" />
+        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="f95ef4cc-5f75-4274-bda5-589175d2ac66" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="575cc484-9e02-4037-9a1d-c9bffa592756" />
+        <field name="Name" type="NameTableFieldDefinition" value="Warlock, Fiend spell scroll list" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_Paitm_WarpSense;Target_Paitm_GateSeal" />
+        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="69d140ce-e988-4007-b069-30fe2e5f0d2f" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3ed11eeb-3a28-42ca-a916-80527d4b7b54" />
+        <field name="Name" type="NameTableFieldDefinition" value="Warlock, Great Old One spell scroll list" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_Paitm_WarpSense;Target_Paitm_GateSeal" />
+        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="9bcde680-356e-445e-abdb-c21f3400648b" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

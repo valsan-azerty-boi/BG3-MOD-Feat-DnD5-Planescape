@@ -5,7 +5,7 @@
         <node id="root">
             <attribute id="GameProject" type="LSString" value=""/>
             <attribute id="Module" type="LSString" value="73707e2a-b358-aa93-fe6e-de6764489833"/>
-            <attribute id="Name" type="LSString" value="bibMod1"/>
+            <attribute id="Name" type="LSString" value="FeaturesFromDnd5ePlanescape"/>
             <attribute id="UUID" type="LSString" value="4107d0b7-b2c4-1b2b-82cd-a33e04262e8a"/>
             <children>
                 <node id="Categories"/>

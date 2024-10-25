@@ -8,8 +8,8 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="4eb30305-f1a7-4df9-afef-7e876dab620a" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h28f3acdbg9c62gd2f3g44d5g9f10efbb674f" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
-        <field name="Boosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
+        <field name="Boosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
       </fields>
@@ -21,8 +21,8 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="870bb41c-bb60-4cb6-aa57-a880db759322" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h89fde963g2175g29fdg557cgbc1c9985f779" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
-        <field name="Boosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
+        <field name="Boosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
       </fields>
@@ -34,8 +34,8 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="c4f65ab0-1b10-4db4-b40a-acc744c8a3e8" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb872fd88g3ebeg176ag9059gcd8d82fb556a" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
-        <field name="Boosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
+        <field name="Boosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
       </fields>
@@ -47,7 +47,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="bee210b8-c52c-4790-984c-c6969a573fa1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3cc42f2egd165gd174g8180g97a88556b808" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -60,7 +60,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="faec9ecc-f872-444e-9c7c-7f1208af6325" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6831885ag7936gc436g57b1g31ee187010cc" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -72,7 +72,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_Glitch_SELF_HUMAN_FEMALE" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="4eb30305-f1a7-4df9-afef-7e876dab620a" />
         <field name="TemplateID" type="StringTableFieldDefinition" value="df4aee69-40ea-480d-aa96-1abe82c28b66" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0a5e4c8fg9114gaaa6gf6f2gb80d61e3418f" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
@@ -87,7 +87,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="f8bca5db-32bb-4a00-9b47-51bbbf37a64b" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb4308285g065bgf524gcf35ge38867bf31e7" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -100,7 +100,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="c2466c33-3326-4bf7-9e50-6451846a1161" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb1105500ga005g2b47g6336g06b542f12889" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -113,7 +113,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="e65b542e-bb63-43a1-9e69-0fc671208992" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd18ce491g3f87g8063g81c8g71295624cc1f" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -126,7 +126,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="2d0497db-540a-4f89-b11f-4e5d635e5b36" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h74511d86g1781g2d23g856eg51ebce8ef438" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -139,7 +139,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="4378bc3a-d519-482e-9d67-07758e3123e9" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h54807f27g4656g8ae5g6be8gfc446544686f" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -152,7 +152,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="6529c920-6ebf-4571-aab8-ca6aa879e79c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8aa6798bg5a20gef9cgc0f3g598a1b458d4d" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -165,7 +165,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="3e6a3a02-1249-4aba-a57f-7e4e41cad73b" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hfb7b5d08gadc8g44d8gfdb9gc1d33c18349f" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -178,7 +178,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="b85a459d-c183-44cd-aac6-385bd9079983" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5ca2be16g7877ga140gfc85ge8887887f9a4" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -191,7 +191,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="571c704b-d14e-484c-8aaa-0e15d4a0be54" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha0247befgc03agb5a0gc306g447d49205169" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -204,7 +204,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="b0f2326f-edb6-4317-b6c5-5cc6dd645642" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd174e151gedb8g3606gfb91gac528fc28096" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -217,7 +217,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="173bb13c-2f6e-4db0-8c7c-73d870ffb755" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha425922fgc58eg887dgc356gd40b65dc1682" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -230,7 +230,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="a9ef3355-7fcb-427c-bee8-d176952baeaf" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb1a430d2gbf17g799fgb713ga500dab876fe" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -243,7 +243,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="4c4d17bd-0629-4fa0-9b36-41b0f7dd8e7c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc82ae5a6gb66eg7192g7a16g439736384c42" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -256,7 +256,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="10964244-95b0-4967-9932-5ce87ade09e0" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hcfce0eaeg2ed1g9999g9137gf2b428c2f61c" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -269,7 +269,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="4a53072d-5f9e-41ef-8d32-36c5dd2ca395" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h453861dcg3ae7g9d5dg6093g76dbb1451add" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -282,7 +282,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="91cd878d-8cc3-4b7b-8d3e-9c2d0a38fda8" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8f0bd557g18e5g2bc7g9bacg13219d2483f6" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -295,7 +295,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="44d11028-ee21-4d65-bf3d-441402613012" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hedbd6727ge3aag76b6g3557gf08e91f2576f" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -308,7 +308,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="3de159da-68d7-4fd0-b88f-f5f0c56391d5" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5b62f2dbg25dcg4a9cg7736g6333fac79e87" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -321,7 +321,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="c5ff1379-4fa8-4ac6-943d-c3abbc6905a2" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h88bb81fag097fg0b52gdcc6g4a8b398a1390" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -334,7 +334,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="5d5445b5-0093-4a33-9f4e-804cde3e7840" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h650c63ffg0b1cgc770g4dbdg09f568a16a28" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -347,7 +347,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="302debbc-4bab-4d70-9d5b-38fdb7b43540" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb6f1ccd5g4bf8g4e03gc7adg4bfd59c88253" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -360,7 +360,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="0834abc9-11d5-4ccb-8728-7e3c1cb4329b" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0f6ceb92g4767g2068gb74agda3328115e0e" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -373,7 +373,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="f7685a4d-0f51-44d7-a490-76c323443e9e" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h26777477gc023gb558g70d8g06ebaabcc30e" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
@@ -386,8 +386,8 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="a6bf57e5-cd1f-472a-87a5-8dcf3341580b" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h30f8c32fga329g68fbg5518g20ffef2ce9fe" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
-        <field name="Boosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
+        <field name="Boosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
       </fields>
@@ -399,8 +399,8 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="6c5cd7ef-aba1-4b41-9edd-99f458ce661c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he2bf6dbfg374cgc0b5ga59bgd2fd8e5d9ae3" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
-        <field name="Boosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
+        <field name="Boosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
       </fields>
@@ -412,8 +412,8 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="e3390536-f9d8-4e2e-949c-e8036350bed4" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd7c4bd02g6f72gc021g1e66gdd067b23fa78" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
-        <field name="Boosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
+        <field name="Boosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Polymorph;SG_Disguise;SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
       </fields>

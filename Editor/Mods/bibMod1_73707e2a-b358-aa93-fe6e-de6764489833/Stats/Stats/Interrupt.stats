@@ -77,7 +77,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Interrupt_Paitm_GlitchCharacter_Attack" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3f399b4bg34cag8f0bga515gb5e29655926d" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="heda10324g76b0gc44ag2065gb92aac937f9d" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="InterruptContext" type="EnumerationListTableFieldDefinition" value="OnPreDamage" enumeration_type_name="InterruptContext" version="1" />
         <field name="InterruptContextScope" type="EnumerationListTableFieldDefinition" value="Self;Nearby" enumeration_type_name="InterruptContextScope" version="1" />
         <field name="Container" type="StringTableFieldDefinition" value="YesNoDecision" />
@@ -93,7 +93,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Interrupt_Paitm_GlitchCharacter_Cast" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4fbec60cg9b97gd573g5cf2g30b438699523" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="he2d44030gd930g2688gb270g23d185e3ee5f" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="InterruptContext" type="EnumerationListTableFieldDefinition" value="OnCastHit" enumeration_type_name="InterruptContext" version="1" />
         <field name="InterruptContextScope" type="EnumerationListTableFieldDefinition" value="Self;Nearby" enumeration_type_name="InterruptContextScope" version="1" />
         <field name="Container" type="StringTableFieldDefinition" value="YesNoDecision" />

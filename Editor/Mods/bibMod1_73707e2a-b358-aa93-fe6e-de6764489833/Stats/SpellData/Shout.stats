@@ -11,7 +11,7 @@
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,40)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_ArcaneEye" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_WarpSense" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hcf9b6f82g0a03g0941g27e1g5365898a25f3" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h74112800gd1b6g6d15g2b3ag99b4ef5b61e7" version="5" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,40)" />
@@ -29,6 +29,8 @@
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="33302a46-4a12-41dd-8845-6b7314d50022" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="1a4b0423-005b-4577-b376-815a08809675" />
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="2" />
+        <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
+        <field name="SpellStyleGroup" type="EnumerationTableFieldDefinition" value="Class" enumeration_type_name="SpellStyleGroup" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -41,7 +43,7 @@
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,40)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_ArcaneEye" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_WarpSense" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h35aae9b0g24d1g5e5cg16e9g77c09801f57c" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="he1077f52g85acgbc6dgbeefgc69b82ed6f2c" version="1" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,40)" />
@@ -73,7 +75,7 @@
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,40)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_ArcaneEye" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_WarpSense" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,40)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Buff_Gen_L1to3_01" />
@@ -103,7 +105,7 @@
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,70)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_ArcaneEye" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_WarpSense" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,70)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Buff_Gen_L1to3_01" />
@@ -133,7 +135,7 @@
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,70)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_ArcaneEye" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_WarpSense" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,70)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Buff_Gen_L1to3_01" />
@@ -163,7 +165,7 @@
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,70)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_ArcaneEye" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_WarpSense" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,70)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Buff_Gen_L1to3_01" />
@@ -193,7 +195,7 @@
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,100)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_ArcaneEye" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_WarpSense" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,100)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Buff_Gen_L1to3_01" />
@@ -223,7 +225,7 @@
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,100)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_ArcaneEye" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_WarpSense" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,100)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Buff_Gen_L1to3_01" />
@@ -264,6 +266,10 @@
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="1" />
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="7121a488-7c9a-4ba1-a585-f79aaa77e97c" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="ce5a1256-d5c8-45b5-98fc-ee9a16e3673c" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Item_LOOT_GEM_Sapphire_A" />
+        <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -288,6 +294,9 @@
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerRestPerItem" enumeration_type_name="CooldownType" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(POTION_OF_ANIMAL_SPEAKING, 100, 30);ApplyStatus(Paitm_Tongues_Buff,100,30);ApplyStatus(Paitm_WarpSense_Buff,100,30);GROUND:Summon(cbc5096d-4ac6-4eaa-8f3a-59ca3e2cdfa8, 50, , ,'MimirStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK)" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Item_DEC_Dungeon_Skeleton_Skull_B" />
+        <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -313,6 +322,8 @@
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="1a4b0423-005b-4577-b376-815a08809675" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_DetectThoughts" />
+        <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -333,6 +344,7 @@
         <field name="UseCosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="HitAnimationType" version="1" />
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -360,6 +372,9 @@
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Generic_GeneralAction_Start" />
         <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
         <field name="DelayTurnsCount" type="IntegerTableFieldDefinition" value="-1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Item_DEC_Dungeon_Skeleton_Skull_A" />
+        <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -396,6 +411,9 @@
         <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
         <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="1fece9aa-e749-4235-8770-427d2ddf9d55" />
         <field name="DelayTurnsCount" type="IntegerTableFieldDefinition" value="-1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Item_BOOK_GEN_Paper_Sheet_E" />
+        <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -432,6 +450,9 @@
         <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
         <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="1fece9aa-e749-4235-8770-427d2ddf9d55" />
         <field name="DelayTurnsCount" type="IntegerTableFieldDefinition" value="-1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Item_BOOK_GEN_Paper_Sheet_D" />
+        <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

@@ -181,7 +181,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_Passive" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h98e63255g6aa2g812cgfd8fg7bac7889a0f8" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc2e022a7geca5gfc47gf4a5g7bb004f7aad4" version="2" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_GlitchCharacter_Attack);UnlockInterrupt(Interrupt_Paitm_GlitchCharacter_Cast)" />
       </fields>
