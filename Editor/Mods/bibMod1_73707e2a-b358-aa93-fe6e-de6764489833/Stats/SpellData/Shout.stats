@@ -294,7 +294,7 @@
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerRestPerItem" enumeration_type_name="CooldownType" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(POTION_OF_ANIMAL_SPEAKING, 100, 30);ApplyStatus(Paitm_Tongues_Buff,100,30);ApplyStatus(Paitm_WarpSense_Buff,100,30);GROUND:Summon(cbc5096d-4ac6-4eaa-8f3a-59ca3e2cdfa8, 50, , ,'MimirStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK)" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Item_DEC_Dungeon_Skeleton_Skull_B" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_SummonMimir" />
         <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
         <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
       </fields>
@@ -331,7 +331,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="f1d3872f-0d44-4c7c-acae-148a832e52de" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchedIncarnation_Cancel" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="1784cf72-13f5-4810-8a55-7cf3929b9c78" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Druid_WildShape_Dismiss" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9455585ag0e27g64f8g78a4gd47bd55f5641" version="3" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h4ae750aeg81dfg706fgbd60g2a22bb4ef817" version="3" />
         <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="Temporary" enumeration_type_name="SpellFlagList" version="1" />
@@ -372,7 +372,7 @@
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Generic_GeneralAction_Start" />
         <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
         <field name="DelayTurnsCount" type="IntegerTableFieldDefinition" value="-1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Item_DEC_Dungeon_Skeleton_Skull_A" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_SummonMorte" />
         <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
         <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
       </fields>
@@ -411,7 +411,7 @@
         <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
         <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="1fece9aa-e749-4235-8770-427d2ddf9d55" />
         <field name="DelayTurnsCount" type="IntegerTableFieldDefinition" value="-1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Item_BOOK_GEN_Paper_Sheet_E" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_SummonFFGrace" />
         <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
         <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
       </fields>
@@ -450,7 +450,7 @@
         <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
         <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="1fece9aa-e749-4235-8770-427d2ddf9d55" />
         <field name="DelayTurnsCount" type="IntegerTableFieldDefinition" value="-1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Item_BOOK_GEN_Paper_Sheet_D" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_SummonAnnah" />
         <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
         <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
       </fields>
