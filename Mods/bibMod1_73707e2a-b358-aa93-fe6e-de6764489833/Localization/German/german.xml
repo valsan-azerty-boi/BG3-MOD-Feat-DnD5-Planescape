@@ -315,8 +315,8 @@
   <content contentuid="h1067b5f2gac8fg282eg6e02g7dcec7fd7223" version="1">%%% EMPTY</content>
   <content contentuid="hac5d01daga4c1gad23g9b47g0f37fcd665fa" version="2">This portable arcane instrument seems old, worn and imprecise. This item does not seem to come from the Sword Coast.</content>
   <content contentuid="h034e1312gfc43g6baeg78d7g01fdf4a6d2af" version="1">This old skull-shaped device is filled with knowledge.</content>
-  <content contentuid="hababc55dg424dg34efg8a17g12622adedd4f" version="2">This small, smooth stone contains the essence of a single experience. You can touch and consume the stone and experience the sensation yourself. End the charmed and frightened condition.</content>
-  <content contentuid="hbbe6fb62g8720ge560g9f8egfb8255bb73c1" version="1">This small, smooth stone contains the essence of a single experience. You can touch and consume the stone and experience the sensation yourself. End the charmed and frightened condition.</content>
+  <content contentuid="hababc55dg424dg34efg8a17g12622adedd4f" version="5">This small, smooth stone contains the essence of a single experience. You can touch and consume the stone and experience the sensation yourself.</content>
+  <content contentuid="hbbe6fb62g8720ge560g9f8egfb8255bb73c1" version="1">This small, smooth stone contains the essence of a single experience. You can touch and consume the stone and experience the sensation yourself.</content>
   <content contentuid="hc1879bf9ge4f7g5255gc004g0781b6d42fc7" version="1">Warp Sense Scroll</content>
   <content contentuid="h5eec5a4dg2405g2283g442eg631cc1ddc8f1" version="1">Gate Seal Scroll</content>
   <content contentuid="h553c82b2g12ebg58cbgbabfg1a9d16cfa477" version="2">Gate Seal Scroll</content>
@@ -325,7 +325,7 @@
   <content contentuid="h8b3e8f81g355bg97c3ge7e7gef7c5c149603" version="1">Try to safely cast Portal Cracker.</content>
   <content contentuid="h39b148e5ga397g512bgc05dgc0ae5ac90c80" version="1">Sensory Stone</content>
   <content contentuid="h8661c82cg968cg7376g49ecg0af9fc7371f0" version="3">Mimir</content>
-  <content contentuid="hc515d8bdgc91ag00afg3b5eg9f683089a0ae" version="6">Sensory Stone</content>
+  <content contentuid="hc515d8bdgc91ag00afg3b5eg9f683089a0ae" version="9">Sensory Stone</content>
   <content contentuid="ha39c241fgfdd5g1d77g28e2gde5843be5df1" version="2">Portal Compass</content>
   <content contentuid="hc13933a5g243dg625bgbcd5g6992c525f1e5" version="4">This old inanimate skull-shaped device is filled with knowledge.</content>
   <content contentuid="h19f6dfd8gdc11gdbabgb792gf13be0ddb61e" version="1">Sensory Stone</content>
@@ -478,4 +478,6 @@
   <content contentuid="h7e6f8b1ag2d45g4c3g1f7b6g4ea234c5102d" version="8">Ready.</content>
   <content contentuid="h1f9b2d4fg6e39g7e8g5c4a8g3fd971d67203" version="8">I'm not that sort o' girl.</content>
   <content contentuid="hf4b3e2a9g9d76g1f4g6a8b7g2ca483e51219" version="8">Eh?</content>
+  <content contentuid="h672496b9gdce8g6d0ag8488gb67e5b5c1bbf" version="2">End the &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;charmed&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;frightened&lt;/LSTag&gt; condition.</content>
+  <content contentuid="hec9e6248g566dg208agf004g76521f10bf77" version="1">Consume</content>
 </contentList>
