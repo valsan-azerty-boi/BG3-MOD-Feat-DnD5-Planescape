@@ -7,7 +7,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="10f1a769-a34a-441b-a430-3fa6cab05787" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h350fe144ga8fdg985dgc3acg5a7496bb2797" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h5e8faeefg485ag5e10g8484gf32865d861f9" version="1" />
-        <field name="Passives" type="StringTableFieldDefinition" value="Background_Paitm_GateWarden;Paitm_PlanarInfusion_Psychic" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Background_Paitm_GateWarden;Background_Paitm_ScionOfTheOuterPlanes" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="3100ddc6-70b9-4988-a6de-3df7c528f486" />
       </fields>
     </stat_object>
@@ -17,7 +17,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="d827af34-5e86-4f7c-8674-1fad967b5b0f" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1c9149e8g6d95ge63ag585eg403768a29c67" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h914bf037g3869g4beag9f3bg36a70f55e92d" version="2" />
-        <field name="Passives" type="StringTableFieldDefinition" value="Background_Paitm_PlanarPhilosopher;Paitm_PlanarInfusion_Psychic" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Background_Paitm_PlanarPhilosopher;Background_Paitm_ScionOfTheOuterPlanes" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="9dbe29e4-17eb-4310-bafd-23abfa35c369" />
       </fields>
     </stat_object>
