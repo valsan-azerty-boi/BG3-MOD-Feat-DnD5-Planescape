@@ -23,15 +23,15 @@
   <content contentuid="h3b8cb656g7968gf2dag31b8g6a98e698cd3e" version="1">Vagabond planaire</content>
   <content contentuid="h4b1b0ee0g2aabg6fb6ge12fg61d331c63717" version="2">Vous pouvez puiser dans les forces du multivers pour survivre aux conditions cosmiques extrêmes et vous vous affirmez comme un véritable expert en portails planaires.</content>
   <content contentuid="h7922d8aag0730g408bg1301g0c3f6b90631b" version="1">Agent de l'ordre</content>
-  <content contentuid="h080c4c35gb42dgca01ge8cfg244b47407ddb" version="2">OLD_Vous pouvez canaliser les forces cosmiques de l'ordre pour obtenir des avantages.</content>
+  <content contentuid="h080c4c35gb42dgca01ge8cfg244b47407ddb" version="2" />
   <content contentuid="hdaeb5abfg0ad1g2443g0f5bg3f7476e0a667" version="1">Funeste scion</content>
-  <content contentuid="h4ef18962g3deegaa6fg1f5bg35cdad9ed299" version="2">OLD_Vous pouvez canaliser les forces cosmiques du mal pour en tirer des avantages.</content>
+  <content contentuid="h4ef18962g3deegaa6fg1f5bg35cdad9ed299" version="2" />
   <content contentuid="he5256e8dg9ddfgc0a4g9bb8gc1c8c97a4058" version="1">Cohorte du chaos</content>
-  <content contentuid="h502bfab7gb9a0gd257gd656g099d4c09c84d" version="2">OLD_Vous pouvez canaliser les forces cosmiques du chaos pour en tirer des avantages.</content>
+  <content contentuid="h502bfab7gb9a0gd257gd656g099d4c09c84d" version="2" />
   <content contentuid="h9fd845d9g641egebd9g981bg2ae35f4a9ffe" version="1">Envoyé d'Outreterre</content>
-  <content contentuid="h24184e08g396cg1910gf9dcg656df71d966b" version="2">OLD_Par le passé, vous avez passé un temps significatif en Outreterre. Le fait d'être imprégné d'énergies planaires convergentes vous confère des avantages.</content>
+  <content contentuid="h24184e08g396cg1910gf9dcg656df71d966b" version="2" />
   <content contentuid="h9c19cc12g6bcag28a1g99f8gb656a4cfd87c" version="1">Héritier vertueux</content>
-  <content contentuid="h395735d3gba45gb3d8ga495gbcb55fd7702a" version="2">OLD_Vous pouvez canaliser les forces cosmiques du bien pour en tirer des avantages.</content>
+  <content contentuid="h395735d3gba45gb3d8ga495gbcb55fd7702a" version="2" />
   <content contentuid="h750430b5g480fgddabg4bc0g7dd11520f7a1" version="2">Adaptation planaire à l'acide</content>
   <content contentuid="hffa64d14g00eage72agfbcdgf24965250c7e" version="9">Avec votre expérience du voyage planaire, vous gagnez une &lt;LSTag Tooltip="Resistant"&gt;résistance&lt;/LSTag&gt; à l'acide et le sort &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Craqueur de portail&lt;/LSTag&gt; pour créer 2 portails une fois par repos court.</content>
   <content contentuid="ha210fd4fg8dddg945ege2e9gf88344ebd3a2" version="2">Adaptation planaire au froid</content>
@@ -479,11 +479,13 @@
   <content contentuid="h1f9b2d4fg6e39g7e8g5c4a8g3fd971d67203" version="8">J'suis pas ce genre de fille.</content>
   <content contentuid="hf4b3e2a9g9d76g1f4g6a8b7g2ca483e51219" version="8">Hein?</content>
   <content contentuid="h672496b9gdce8g6d0ag8488gb67e5b5c1bbf" version="2">Permet de mettre fin à l'état de &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charme&lt;/LSTag&gt; et de &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Peur&lt;/LSTag&gt;.</content>
-  <content contentuid="hec9e6248g566dg208agf004g76521f10bf77" version="1">Consommer</content>
+  <content contentuid="hec9e6248g566dg208agf004g76521f10bf77" version="1">Consommer la sensation</content>
   <content contentuid="hd3b08708g7556gd184g4e19gc2618bbfa00d" version="1">Ton expérience d'aventurier planaire fait que tu t'es lié à un plan il y a déjà longtemps.</content>
   <content contentuid="ha2bb4d68gc28fg19a6g43bcg65b4b4652847" version="1">Sacoche Planescape</content>
   <content contentuid="hf56b6440gc00cga1a5g505bg38db517ede50" version="1">Une simple petite bourse contenant des objets planaires.</content>
   <content contentuid="h55ecf3fbg65faga0c4g6f1cgcf35fc7c3d01" version="1">Boussole à portail</content>
   <content contentuid="hb18a258bge5f5gc59ag7f99g6b6c682f6db3" version="1">Bonus de compétence en Arcane et Perception.</content>
   <content contentuid="h6accf78cg81b0g4769gb3c3g570e2714d57e" version="1">Avoir cet objet dans votre inventaire vous confère son effet magique.</content>
+  <content contentuid="hf642f457gd2d9g63abgb663g925404abae05" version="1">Portail détecté</content>
+  <content contentuid="hb52aaae7g5a0cgd77ag0cdcgdfb890b9bbdc" version="1">Vous avez détecté des traces de portail.</content>
 </contentList>

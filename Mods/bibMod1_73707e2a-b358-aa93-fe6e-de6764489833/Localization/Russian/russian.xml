@@ -482,10 +482,12 @@
   <content contentuid="hf4b3e2a9g9d76g1f4g6a8b7g2ca483e51219" version="8">А?</content>
   <content contentuid="h672496b9gdce8g6d0ag8488gb67e5b5c1bbf" version="2">Оканчивает эффекты &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;очарования&lt;/LSTag&gt; и &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;испуга&lt;/LSTag&gt;.</content>
   <content contentuid="hec9e6248g566dg208agf004g76521f10bf77" version="1">Потреблять</content>
-  <content contentuid="hd3b08708g7556gd184g4e19gc2618bbfa00d" version="1" />
+  <content contentuid="hd3b08708g7556gd184g4e19gc2618bbfa00d" version="1">Your background and your adventure experience mean that you linked yourself to a plan a long time ago.</content>
   <content contentuid="ha2bb4d68gc28fg19a6g43bcg65b4b4652847" version="1">Planescape Pouch</content>
-  <content contentuid="hf56b6440gc00cga1a5g505bg38db517ede50" version="1" />
+  <content contentuid="hf56b6440gc00cga1a5g505bg38db517ede50" version="1">A simple pouch containing planar items.</content>
   <content contentuid="h55ecf3fbg65faga0c4g6f1cgcf35fc7c3d01" version="1">Портальный компас</content>
   <content contentuid="hb18a258bge5f5gc59ag7f99g6b6c682f6db3" version="1">У вас есть умение в магии и внимании.</content>
   <content contentuid="h6accf78cg81b0g4769gb3c3g570e2714d57e" version="1">Having this item in inventory grants you its magical effect.</content>
+  <content contentuid="hf642f457gd2d9g63abgb663g925404abae05" version="1">Portal detected</content>
+  <content contentuid="hb52aaae7g5a0cgd77ag0cdcgdfb890b9bbdc" version="1">You have detected portal traces.</content>
 </contentList>

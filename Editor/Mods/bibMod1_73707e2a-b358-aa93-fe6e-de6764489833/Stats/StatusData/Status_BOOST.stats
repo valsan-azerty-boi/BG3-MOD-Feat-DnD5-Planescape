@@ -78,6 +78,17 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="26014d5e-6f45-4131-a615-3f46254cc799" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WarpSense_PortalDetected_Buff" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_PortalCracker" />
+        <field name="StackId" type="StringTableFieldDefinition" value="PAITM_WPS_PORTDETCT_STACK" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf642f457gd2d9g63abgb663g925404abae05" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb52aaae7g5a0cgd77ag0cdcgdfb890b9bbdc" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="64e28150-640c-4f3b-9d67-9b3084341c71" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_PortalCompass_Buff" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0ecbb3b1g4632g7672g2411g10297af2e28c" version="1" />

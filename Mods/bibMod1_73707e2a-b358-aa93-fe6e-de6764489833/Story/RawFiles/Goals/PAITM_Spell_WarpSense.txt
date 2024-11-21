@@ -1,0 +1,100 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+//REGION Paitm Act2 Warp Sense Gith Ambush
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_TWN_GithRadarAmbushActivationArea_0506dfbf-aa7d-4e58-914a-858dd1525a75) //TODO
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WarpSense_PortalDetected_Buff", 60.0);
+
+//END_REGION
+
+//REGION Paitm Act3 Planar Circus
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_PlanarCircus_EventTrigger_9aff1f0f-e1b1-4b02-8650-dc4b583cb6e6)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WarpSense_PortalDetected_Buff", 60.0);
+
+//END_REGION
+
+//REGION Paitm Act3 Lower City
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_LorroakanSecretRoom_EventTrigger_153106b7-d1d2-4334-8157-828014f91e4f)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WarpSense_PortalDetected_Buff", 60.0);
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_LorroakanUp_EventTrigger_ce12ddfa-ee76-4aa6-b177-edbd80c3724a)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WarpSense_PortalDetected_Buff", 60.0);
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_DiabolistTrader_EventTrigger_c598d88d-6a12-4ce7-bd18-633d8928b765)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WarpSense_PortalDetected_Buff", 60.0);
+
+//END_REGION
+
+//REGION Paitm Act3 Baldur Bank
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_BaldurBank_EventTrigger_36f97264-01b1-4d08-be73-72aedf854d15)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WarpSense_PortalDetected_Buff", 60.0);
+
+//END_REGION
+
+//REGION Paitm Act3 House of Hope
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_EnterHouseOfHope_EventTrigger_72c6bd64-d557-42b6-9b20-1dc325061642)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WarpSense_PortalDetected_Buff", 60.0);
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_PortalsRoomHouseOfHope_EventTrigger_b451697f-f612-458d-b135-7678b1b437b1)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WarpSense_PortalDetected_Buff", 60.0);
+
+//END_REGION
+
+EXITSECTION
+
+ENDEXITSECTION

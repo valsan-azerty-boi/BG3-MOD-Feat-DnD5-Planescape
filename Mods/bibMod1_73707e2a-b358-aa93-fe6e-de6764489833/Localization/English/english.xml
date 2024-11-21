@@ -23,15 +23,15 @@
   <content contentuid="h3b8cb656g7968gf2dag31b8g6a98e698cd3e" version="1">Planar Wanderer</content>
   <content contentuid="h4b1b0ee0g2aabg6fb6ge12fg61d331c63717" version="2">You can draw on the forces of the multiverse to survive cosmic extremes and you assert yourself as a true expert in planar portals.</content>
   <content contentuid="h7922d8aag0730g408bg1301g0c3f6b90631b" version="1">Agent of Order</content>
-  <content contentuid="h080c4c35gb42dgca01ge8cfg244b47407ddb" version="2">OLD_You can channel cosmic forces of order to gain benefits.</content>
+  <content contentuid="h080c4c35gb42dgca01ge8cfg244b47407ddb" version="2" />
   <content contentuid="hdaeb5abfg0ad1g2443g0f5bg3f7476e0a667" version="1">Baleful Scion</content>
-  <content contentuid="h4ef18962g3deegaa6fg1f5bg35cdad9ed299" version="2">OLD_You can channel cosmic forces of evil to gain benefits.</content>
+  <content contentuid="h4ef18962g3deegaa6fg1f5bg35cdad9ed299" version="2" />
   <content contentuid="he5256e8dg9ddfgc0a4g9bb8gc1c8c97a4058" version="1">Cohort of Chaos</content>
-  <content contentuid="h502bfab7gb9a0gd257gd656g099d4c09c84d" version="2">OLD_You can channel cosmic forces of chaos to gain benefits.</content>
+  <content contentuid="h502bfab7gb9a0gd257gd656g099d4c09c84d" version="2" />
   <content contentuid="h9fd845d9g641egebd9g981bg2ae35f4a9ffe" version="1">Outlands Envoy</content>
-  <content contentuid="h24184e08g396cg1910gf9dcg656df71d966b" version="2">OLD_You have spent significant time in the Outlands. Being steeped in converging planar energies grants you benefits.</content>
+  <content contentuid="h24184e08g396cg1910gf9dcg656df71d966b" version="2" />
   <content contentuid="h9c19cc12g6bcag28a1g99f8gb656a4cfd87c" version="1">Righteous Heritor</content>
-  <content contentuid="h395735d3gba45gb3d8ga495gbcb55fd7702a" version="2">OLD_You can channel cosmic forces of good to gain benefits.</content>
+  <content contentuid="h395735d3gba45gb3d8ga495gbcb55fd7702a" version="2" />
   <content contentuid="h750430b5g480fgddabg4bc0g7dd11520f7a1" version="2">Acid Planar Adaptation</content>
   <content contentuid="hffa64d14g00eage72agfbcdgf24965250c7e" version="9">With your experience of planar travel, you gain an Acid &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and the spell &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Portal cracker&lt;/LSTag&gt; to create 2 portals one time per short rest.</content>
   <content contentuid="ha210fd4fg8dddg945ege2e9gf88344ebd3a2" version="2">Cold Planar Adaptation</content>
@@ -81,14 +81,14 @@
   <content contentuid="h2442377eg66e9gcab1g6f99g168da3d4a5e0" version="2">Cosmic forces of Order prevent you from moving.</content>
   <content contentuid="h1fd2ebbbgb28ag61f9g122bga7e5e051cb8b" version="1">%%% EMPTY</content>
   <content contentuid="hcf9b6f82g0a03g0941g27e1g5365898a25f3" version="1">Warp Sense</content>
-  <content contentuid="h74112800gd1b6g6d15g2b3ag99b4ef5b61e7" version="5">You sense the presence of planar energies, like portals, even the most residual. Oddly, this spell seems much more enduring on this material world.</content>
   <content contentuid="h19807a4dgb9b4g6a11g1ad1g33886795753c" version="1">Warp Sense</content>
+  <content contentuid="h74112800gd1b6g6d15g2b3ag99b4ef5b61e7" version="5">You sense the presence of planar energies, like portals, even the most residual. Oddly, this spell seems much more enduring on this material world.</content>
   <content contentuid="hc53f42ecg57cagf9f1gd923gd71c1f3dee48" version="3">You have advantage on Wisdom saving throws, as well as a Proficienty bonus in Arcana and Perception.</content>
   <content contentuid="h4e017016g5c6bg5ce5g3ab0g22f43f822bfe" version="1">Tongues</content>
-  <content contentuid="h416260c2g5063gcb28gc5d5g202db23685fd" version="1">Your brain's understanding goes up a notch, whether in terms of logic or language. For a little while you become better at conversations with all types of people.</content>
   <content contentuid="he719e3e7gb7a6ge63cg73e5g0a5d2bddec22" version="1">Tongues</content>
-  <content contentuid="hd2dec18dg5019g8bbdga4d8g1c1d2e3c4626" version="2">The understanding of your target goes up a notch, whether in terms of logic or language. For a little while your target become better at conversations with all types of people.</content>
   <content contentuid="h3f0810e4g6c6bgb62bg26fag878f03d8f4e2" version="1">Tongues</content>
+  <content contentuid="h416260c2g5063gcb28gc5d5g202db23685fd" version="1">Your brain's understanding goes up a notch, whether in terms of logic or language. For a little while you become better at conversations with all types of people.</content>
+  <content contentuid="hd2dec18dg5019g8bbdga4d8g1c1d2e3c4626" version="2">The understanding of your target goes up a notch, whether in terms of logic or language. For a little while your target become better at conversations with all types of people.</content>
   <content contentuid="h30f00253g6a92g9d58g7d82g39a60cd5e31b" version="3">You are better at conversations with all types of people.</content>
   <content contentuid="h7d291fffgc234gea18gd43bg4116082efaf9" version="2">Battle Fury</content>
   <content contentuid="h2f8fef43g97a8g45bfgeec3ga414ed8d5448" version="2">Cosmic forces of Chaos fill you with a reckless fury. You gain advantage on attack rolls and disadvantage on ability checks.</content>
@@ -118,14 +118,14 @@
   <content contentuid="h35aae9b0g24d1g5e5cg16e9g77c09801f57c" version="1">Warp Sense</content>
   <content contentuid="he1077f52g85acgbc6dgbeefgc69b82ed6f2c" version="1">You sense the presence of planar energies, like portals, even the most residual. Oddly, this spell seems much more enduring on this material world.</content>
   <content contentuid="h52cb2e91gf45eg4bf2gfdaeg0df82f11acc4" version="1">Gate Seal</content>
-  <content contentuid="h7cecf0f4g32e0gbeb8g1258g196d9b29cf31" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
   <content contentuid="h8483d49ag1e8dg1c43g8018gfcd6bbef6e23" version="1">Gate Seal</content>
-  <content contentuid="hcedc6be9ge111g4c71g1742g013f38ae2a65" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
   <content contentuid="hc9103a06g6ce1g9873gf3b6ga43de4e8a062" version="1">Gate Seal</content>
-  <content contentuid="h717a8513g3681g3750gd31eg98db9c4c5400" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
   <content contentuid="hf8687996gdb03g610cg1c03g3fb532b80da1" version="1">Gate Seal</content>
-  <content contentuid="h7555f29cg9d6fg1583g4a52g55fa5b85c11e" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
   <content contentuid="h522850b4ga97fg5c82g95fdg4ae3c3599792" version="1">Gate Seal</content>
+  <content contentuid="h7cecf0f4g32e0gbeb8g1258g196d9b29cf31" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
+  <content contentuid="hcedc6be9ge111g4c71g1742g013f38ae2a65" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
+  <content contentuid="h717a8513g3681g3750gd31eg98db9c4c5400" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
+  <content contentuid="h7555f29cg9d6fg1583g4a52g55fa5b85c11e" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
   <content contentuid="h9bbfa2d1g1deegb97fg56adgad0e268bcbc9" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
   <content contentuid="h9cc9310dg64a8g9de3g7d93gc692b90f1447" version="1">Sensory Stone</content>
   <content contentuid="h9202e151gdf27g6437g8e2bgbe3f68ac3676" version="3">This small, smooth stone contains the essence of a single experience. You can throw the stone, breaking it in the process, to end the charmed or frightened condition on someone. Or you can touch and consume the stone and experience the sensation yourself.</content>
@@ -479,11 +479,13 @@
   <content contentuid="h1f9b2d4fg6e39g7e8g5c4a8g3fd971d67203" version="8">I'm not that sort o' girl.</content>
   <content contentuid="hf4b3e2a9g9d76g1f4g6a8b7g2ca483e51219" version="8">Eh?</content>
   <content contentuid="h672496b9gdce8g6d0ag8488gb67e5b5c1bbf" version="2">End the &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;charmed&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;frightened&lt;/LSTag&gt; condition.</content>
-  <content contentuid="hec9e6248g566dg208agf004g76521f10bf77" version="1">Consume</content>
+  <content contentuid="hec9e6248g566dg208agf004g76521f10bf77" version="1">Siphon Sensation</content>
   <content contentuid="hd3b08708g7556gd184g4e19gc2618bbfa00d" version="1">Your background and your adventure experience mean that you linked yourself to a plan a long time ago.</content>
   <content contentuid="ha2bb4d68gc28fg19a6g43bcg65b4b4652847" version="1">Planescape Pouch</content>
   <content contentuid="hf56b6440gc00cga1a5g505bg38db517ede50" version="1">A simple pouch containing planar items.</content>
   <content contentuid="h55ecf3fbg65faga0c4g6f1cgcf35fc7c3d01" version="1">Portal Compass</content>
   <content contentuid="hb18a258bge5f5gc59ag7f99g6b6c682f6db3" version="1">You gain a Proficienty bonus in Arcana and Perception.</content>
   <content contentuid="h6accf78cg81b0g4769gb3c3g570e2714d57e" version="1">Having this item in inventory grants you its magical effect.</content>
+  <content contentuid="hf642f457gd2d9g63abgb663g925404abae05" version="1">Portal detected</content>
+  <content contentuid="hb52aaae7g5a0cgd77ag0cdcgdfb890b9bbdc" version="1">You have detected portal traces.</content>
 </contentList>
