@@ -67,9 +67,9 @@
         <field name="UUID" type="IdTableFieldDefinition" value="1201e6cf-2936-4774-9c47-391ff0812c30" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_WarpSense_Buff" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h19807a4dgb9b4g6a11g1ad1g33886795753c" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc53f42ecg57cagf9f1gd923gd71c1f3dee48" version="3" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc53f42ecg57cagf9f1gd923gd71c1f3dee48" version="5" />
         <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_WarpSense" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="Advantage(SavingThrow,Wisdom);ProficiencyBonus(Skill,Arcana);ProficiencyBonus(Skill,Perception)" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Arcana)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" value="Positive" enumeration_type_name="ManagedStatusEffectType" version="1" />
         <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" value="6435c10a-c67d-4f79-8813-b84b0762f92b" />
@@ -85,6 +85,103 @@
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf642f457gd2d9g63abgb663g925404abae05" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb52aaae7g5a0cgd77ag0cdcgdfb890b9bbdc" version="1" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Orange" enumeration_type_name="FormatStringColor" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5ed21f08-eee3-4f19-8978-3e248e95049d" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WarpSense_PortalDetectedMultiple_Buff" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26014d5e-6f45-4131-a615-3f46254cc799" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h1b653337g0d1cg6ea6g0d1ag545295f59ad5" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="baafad51-d231-4a25-9b6f-2b0eecc928ae" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WS_PortalDetected_Tut_Buff" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26014d5e-6f45-4131-a615-3f46254cc799" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h5c8aac1fge9dbgcf01g9fc5g3a66db53d8f8" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6e662b27-46cd-4854-a8e4-4858cc3d6d65" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WS_PortalDetected_Gale_Buff" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26014d5e-6f45-4131-a615-3f46254cc799" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7fb1197cg7f41gd49bg81fdgcf3b6b1e00c6" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="482f71c2-cec9-4981-8d65-17650df85ded" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WS_PortalDetected_Hag_Buff" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26014d5e-6f45-4131-a615-3f46254cc799" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h0a5fae24g4c79g4497g04d4g20fcfdd88153" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="25a57e7a-16ff-4ce0-9124-34253ca0c5d2" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WS_PortalDetected_Mushroom_Buff" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26014d5e-6f45-4131-a615-3f46254cc799" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7a44e987gab4bgd2e2gcc6dg7ab4ddc1cb21" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fc60e886-4d2d-450c-a510-914829f8cce6" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WS_PortalDetected_DaisyRoom_Buff" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26014d5e-6f45-4131-a615-3f46254cc799" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h887bddadg06f0g915dgd434gb37ad150b633" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0b33c8b1-08d7-41d7-b2e9-0b26bd525dd5" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WS_PortalDetected_GithAttack_Buff" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26014d5e-6f45-4131-a615-3f46254cc799" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h76a90da8ga3f3gd93ag34a4g6be15acdd8c0" version="3" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="56a8ade3-5e13-4dfb-a2ab-b9c8173885e7" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WS_PortalDetected_Halsin_Buff" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26014d5e-6f45-4131-a615-3f46254cc799" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h20f91cbbgbd38gedeagd60dg9e46d9bc837b" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f0b547f4-7b02-4487-95a7-87aa5c0089ff" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WS_PortalDetected_Nightsong_Buff" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26014d5e-6f45-4131-a615-3f46254cc799" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9080155dg06d8g842ag81e2gebca7f0833a8" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="79ed9bb1-6ced-4c50-8900-a34eb84bf514" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WS_PortalDetected_Circus_Buff" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26014d5e-6f45-4131-a615-3f46254cc799" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h80da2a15g3265g7a28g7265gcf4ae4c56285" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ff593f75-17f7-4853-ace3-9b17247ccef1" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WS_PortalDetected_LorknSecretRoom_Buff" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26014d5e-6f45-4131-a615-3f46254cc799" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7ddde9f0g37f5g305dga991g7b7c0b889bf7" version="3" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="562057af-8f3e-4d19-82c6-b13019e2077b" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WS_PortalDetected_Diabolist_Buff" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26014d5e-6f45-4131-a615-3f46254cc799" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h557b5d8cg0a78g38dbg5a49g38428ea8110e" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

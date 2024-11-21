@@ -3,10 +3,164 @@ SubGoalCombiner SGC_AND
 INITSECTION
 
 KBSECTION
-//REGION Paitm Act2 Warp Sense Gith Ambush
+//REGION Paitm Tut Ship Helm
 
 IF
-EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_TWN_GithRadarAmbushActivationArea_0506dfbf-aa7d-4e58-914a-858dd1525a75) //TODO
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_NautiloidHelmRoom_EventTrigger_1ecff7db-7ee7-45e6-872b-b00f4356b5b1)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_Tut_Buff", 60.0);
+
+//END_REGION
+
+//REGION Paitm Act1 Gale Encounter
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_GaleEncounter_EventTrigger_94e61c74-339a-4a63-be6f-cfa390e0bae9)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_Gale_Buff", 60.0);
+
+//END_REGION
+
+//REGION Paitm Act1 Hag Lair
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_EnterHagLair_EventTrigger_a0a1201a-94f2-43b7-bd1a-969f1da15f48)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_Hag_Buff", 60.0);
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_LeaveHagLair_EventTrigger_07826f8e-ae1c-4c79-b5d3-ddec31a37ff5)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_Hag_Buff", 60.0);
+
+//END_REGION
+
+//REGION Paitm Act1 Mushrooms
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_MushroomEnterUnderdark_EventTrigger_38ad5fc0-fd21-4585-9d10-ee0ae1e5b511)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_Mushroom_Buff", 60.0);
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_MushroomLeaveUnderdark_EventTrigger_0baa2323-2596-4186-992f-42bd9021c332)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_Mushroom_Buff", 60.0);
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_MushroomLeaveUnderdark2_EventTrigger_d606fa8d-3c8e-4c82-b16e-c5e33e93b5bc)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_Mushroom_Buff", 60.0);
+
+//END_REGION
+
+//REGION Paitm Act1 Kill Daisy Encounter
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_VlaakithDaisyRoom_EventTrigger_cc466bc8-12e6-46e2-aa3a-6821bfac0c6e)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_DaisyRoom_Buff", 60.0);
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_KillDaisyEncounter_EventTrigger_ce7a14c1-9e7c-45a4-8986-80677e139a9d)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WarpSense_PortalDetectedMultiple_Buff", 60.0);
+
+//END_REGION
+
+//REGION Paitm Act2 Warp Sense CSL
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_Act2GithAttack_EventTrigger_58ead8b3-c3b8-4af3-b7af-633a3e70a628)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_GithAttack_Buff", 60.0);
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_Act2HalsinSaving_EventTrigger_eaf01a09-64dd-4770-97cf-7cf9b68ac9db)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_Halsin_Buff", 60.0);
+
+//END_REGION
+
+//REGION Paitm Act2 Shar Temple
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_BalthazarRoom_EventTrigger_3d495c89-76b5-4482-9ae0-54e3251cae16)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WarpSense_PortalDetectedMultiple_Buff", 60.0);
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_EnterNightsong_EventTrigger_649eb7d0-9737-4098-a2fd-8158bebb6bb6)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_Nightsong_Buff", 60.0);
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_NightsongEndRoom_EventTrigger_e813b70a-681b-4efd-8d93-192c13d22012)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_Nightsong_Buff", 60.0);
+
+//END_REGION
+
+//REGION Paitm Act2 Mirkul Room
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_MirkulRoom_EventTrigger_fdf71c2d-42d0-471b-86f7-224ee9e1d8dd)
 AND
 DB_Players(_Player)
 AND
@@ -16,7 +170,42 @@ ApplyStatus((GUIDSTRING)_Player, "Paitm_WarpSense_PortalDetected_Buff", 60.0);
 
 //END_REGION
 
-//REGION Paitm Act3 Planar Circus
+//REGION Paitm Act3 Emperor Room
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_EmperorOrpheus_EventTrigger_cc052661-1c2e-4a43-ae6b-4cd0f59b0815)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_DaisyRoom_Buff", 60.0);
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_EmperorOrpheus2_EventTrigger_66fcd3eb-8fac-4d4f-a67e-44f4d9172dd9)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_DaisyRoom_Buff", 60.0);
+
+//END_REGION
+
+//REGION Paitm Transition Act2 Act3
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_StartAct3Gith_EventTrigger_57fe60f0-55e9-4238-bcd9-bf1941cdbb19)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_DaisyRoom_Buff", 60.0);
+
+//END_REGION
+
+//REGION Paitm Act3 Circus
 
 IF
 EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_PlanarCircus_EventTrigger_9aff1f0f-e1b1-4b02-8650-dc4b583cb6e6)
@@ -25,7 +214,16 @@ DB_Players(_Player)
 AND
 HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
 THEN
-ApplyStatus((GUIDSTRING)_Player, "Paitm_WarpSense_PortalDetected_Buff", 60.0);
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_Circus_Buff", 60.0);
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_Act3Jungle_EventTrigger_f9e0f645-7af4-4589-831d-896c3863afa8)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_Circus_Buff", 60.0);
 
 //END_REGION
 
@@ -38,10 +236,28 @@ DB_Players(_Player)
 AND
 HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
 THEN
-ApplyStatus((GUIDSTRING)_Player, "Paitm_WarpSense_PortalDetected_Buff", 60.0);
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_LorknSecretRoom_Buff", 60.0);
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_LorroakanSecretExit_EventTrigger_ebbb7db1-7e0b-4d34-819c-db3ca6d8d104)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_LorknSecretRoom_Buff", 60.0);
 
 IF
 EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_LorroakanUp_EventTrigger_ce12ddfa-ee76-4aa6-b177-edbd80c3724a)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WarpSense_PortalDetectedMultiple_Buff", 60.0);
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_LorroakanSky_EventTrigger_1eb734d9-28d2-457f-bfe1-c665e66fd675)
 AND
 DB_Players(_Player)
 AND
@@ -56,11 +272,7 @@ DB_Players(_Player)
 AND
 HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
 THEN
-ApplyStatus((GUIDSTRING)_Player, "Paitm_WarpSense_PortalDetected_Buff", 60.0);
-
-//END_REGION
-
-//REGION Paitm Act3 Baldur Bank
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_Diabolist_Buff", 60.0);
 
 IF
 EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_BaldurBank_EventTrigger_36f97264-01b1-4d08-be73-72aedf854d15)
@@ -70,6 +282,15 @@ AND
 HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
 THEN
 ApplyStatus((GUIDSTRING)_Player, "Paitm_WarpSense_PortalDetected_Buff", 60.0);
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_GithUnderTavernBaldur_EventTrigger_69dfd8b2-8f3b-4a79-b965-a12bb7c6c660)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_GithAttack_Buff", 60.0);
 
 //END_REGION
 
@@ -82,7 +303,7 @@ DB_Players(_Player)
 AND
 HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
 THEN
-ApplyStatus((GUIDSTRING)_Player, "Paitm_WarpSense_PortalDetected_Buff", 60.0);
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_Diabolist_Buff", 60.0);
 
 IF
 EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_PortalsRoomHouseOfHope_EventTrigger_b451697f-f612-458d-b135-7678b1b437b1)
@@ -91,10 +312,31 @@ DB_Players(_Player)
 AND
 HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
 THEN
-ApplyStatus((GUIDSTRING)_Player, "Paitm_WarpSense_PortalDetected_Buff", 60.0);
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WarpSense_PortalDetectedMultiple_Buff", 60.0);
 
 //END_REGION
 
+//REGION Paitm Act3 End High City
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_EnterEndMain_EventTrigger_325dbbbe-df54-4660-aff9-93eac7c2a11b)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_DaisyRoom_Buff", 60.0);
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_BrainEndMain_EventTrigger_67ca0c1e-51cf-42df-b1c7-6317a9c03d1f)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WarpSense_PortalDetected_Buff", 60.0);
+
+//END_REGION
 EXITSECTION
 
 ENDEXITSECTION

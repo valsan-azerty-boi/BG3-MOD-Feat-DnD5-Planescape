@@ -54,8 +54,6 @@
   <content contentuid="h7bc2a60ag2954gf3d4gb8a8g1d39c7db951e" version="1">Surrounded by planar energies, you teleport to an unoccupied space you can see.</content>
   <content contentuid="h6d4f5178g1938g00a2gf920g880454834028" version="1">Gate Seal</content>
   <content contentuid="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="3">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
-  <content contentuid="h1ee85063g393bg7bb3g8fd4g24cd706369eb" version="1">Warp Sense</content>
-  <content contentuid="h9efc7d47ga644ge2f4g79a9g781f5dfbd738" version="1">You sense the presence of planar energies, even the most residual.</content>
   <content contentuid="h1a4889b6gba5dg1e02gbb15g9aa6c8e7b7eb" version="2">Portal Cracker</content>
   <content contentuid="h8a984c65g71d0g34e3g4613gfd46275b7fe6" version="4">Your experience with portals allows you to open two linked portals without the need to concentrate. When casting the spell, instability may occur and inflict Psychic damage on the caster.</content>
   <content contentuid="h40448845g14b4geda1g4211g54ed4ba847a1" version="1">Plane Shift</content>
@@ -82,8 +80,12 @@
   <content contentuid="h1fd2ebbbgb28ag61f9g122bga7e5e051cb8b" version="1">%%% EMPTY</content>
   <content contentuid="hcf9b6f82g0a03g0941g27e1g5365898a25f3" version="1">Warp Sense</content>
   <content contentuid="h19807a4dgb9b4g6a11g1ad1g33886795753c" version="1">Warp Sense</content>
-  <content contentuid="h74112800gd1b6g6d15g2b3ag99b4ef5b61e7" version="5">You sense the presence of planar energies, like portals, even the most residual. Oddly, this spell seems much more enduring on this material world.</content>
-  <content contentuid="hc53f42ecg57cagf9f1gd923gd71c1f3dee48" version="3">You have advantage on Wisdom saving throws, as well as a Proficienty bonus in Arcana and Perception.</content>
+  <content contentuid="h1ee85063g393bg7bb3g8fd4g24cd706369eb" version="1">Warp Sense</content>
+  <content contentuid="h35aae9b0g24d1g5e5cg16e9g77c09801f57c" version="1">Warp Sense</content>
+  <content contentuid="he1077f52g85acgbc6dgbeefgc69b82ed6f2c" version="1">You sense the presence of planar energies, like portals, even the most residual. Additionally, you gain a Proficienty bonus in Arcana.</content>
+  <content contentuid="h9efc7d47ga644ge2f4g79a9g781f5dfbd738" version="1">You sense the presence of planar energies, like portals, even the most residual. Additionally, you gain a Proficienty bonus in Arcana.</content>
+  <content contentuid="h74112800gd1b6g6d15g2b3ag99b4ef5b61e7" version="7">You sense the presence of planar energies, like portals, even the most residual. Additionally, you gain a Proficienty bonus in Arcana.</content>
+  <content contentuid="hc53f42ecg57cagf9f1gd923gd71c1f3dee48" version="5">You sense the presence of planar energies, like portals, even the most residual. Additionally, you gain a Proficienty bonus in Arcana.</content>
   <content contentuid="h4e017016g5c6bg5ce5g3ab0g22f43f822bfe" version="1">Tongues</content>
   <content contentuid="he719e3e7gb7a6ge63cg73e5g0a5d2bddec22" version="1">Tongues</content>
   <content contentuid="h3f0810e4g6c6bgb62bg26fag878f03d8f4e2" version="1">Tongues</content>
@@ -115,8 +117,6 @@
   <content contentuid="hc0de0d99g828dga24ag5826g5173a7c17174" version="2">Cosmic forces of Chaos assail entities surrounding the aura.</content>
   <content contentuid="h41072ba9g1b28g1653g89c3geb945c1c6df1" version="1">Disruption Field</content>
   <content contentuid="h12336d96gfb44g9ff8g5522gc851002c3ad3" version="3">Cosmic forces of Chaos assail entities surrounding the aura.</content>
-  <content contentuid="h35aae9b0g24d1g5e5cg16e9g77c09801f57c" version="1">Warp Sense</content>
-  <content contentuid="he1077f52g85acgbc6dgbeefgc69b82ed6f2c" version="1">You sense the presence of planar energies, like portals, even the most residual. Oddly, this spell seems much more enduring on this material world.</content>
   <content contentuid="h52cb2e91gf45eg4bf2gfdaeg0df82f11acc4" version="1">Gate Seal</content>
   <content contentuid="h8483d49ag1e8dg1c43g8018gfcd6bbef6e23" version="1">Gate Seal</content>
   <content contentuid="hc9103a06g6ce1g9873gf3b6ga43de4e8a062" version="1">Gate Seal</content>
@@ -488,4 +488,16 @@
   <content contentuid="h6accf78cg81b0g4769gb3c3g570e2714d57e" version="1">Having this item in inventory grants you its magical effect.</content>
   <content contentuid="hf642f457gd2d9g63abgb663g925404abae05" version="1">Portal detected</content>
   <content contentuid="hb52aaae7g5a0cgd77ag0cdcgdfb890b9bbdc" version="1">You have detected portal traces.</content>
+  <content contentuid="h0a5fae24g4c79g4497g04d4g20fcfdd88153" version="1">You have detected portal traces of a hag.</content>
+  <content contentuid="h5c8aac1fge9dbgcf01g9fc5g3a66db53d8f8" version="1">The ship's Helm leaves traces of multiple passages across the planes.</content>
+  <content contentuid="h7fb1197cg7f41gd49bg81fdgcf3b6b1e00c6" version="1">You have detected traces of an unstable wizard portal.</content>
+  <content contentuid="h7a44e987gab4bgd2e2gcc6dg7ab4ddc1cb21" version="1">You have detected traces of mushroom circles connecting the Underdark and a hag's lair.</content>
+  <content contentuid="h1b653337g0d1cg6ea6g0d1ag545295f59ad5" version="1">You have detected numerous portal traces.</content>
+  <content contentuid="h887bddadg06f0g915dgd434gb37ad150b633" version="1">You have detected traces of a portal connecting the Material Plane and a pocket dimension. The key appears to be the mysterious artifact you are carrying.</content>
+  <content contentuid="h76a90da8ga3f3gd93ag34a4g6be15acdd8c0" version="3">You have detected evidence of a portal used by some githyanki.</content>
+  <content contentuid="h20f91cbbgbd38gedeagd60dg9e46d9bc837b" version="1">You have detected traces of a portal that could lead to the heart of the shadow curse.</content>
+  <content contentuid="h9080155dg06d8g842ag81e2gebca7f0833a8" version="1">You have detected traces of a portal connecting a cursed prison and the Material Plane. The key seems to be Shar's trials.</content>
+  <content contentuid="h80da2a15g3265g7a28g7265gcf4ae4c56285" version="1">You have detected traces of a portal connecting Baldur's Gate circus and a distant jungle.</content>
+  <content contentuid="h7ddde9f0g37f5g305dga991g7b7c0b889bf7" version="3">You have detected traces of a portal connecting the Sorcerous Sundries store and some secret magical rooms.</content>
+  <content contentuid="h557b5d8cg0a78g38dbg5a49g38428ea8110e" version="1">You have detected traces of a portal connecting the Material Plane and a devil's lair. The key appears to be a ritual composed of multiple objects.</content>
 </contentList>

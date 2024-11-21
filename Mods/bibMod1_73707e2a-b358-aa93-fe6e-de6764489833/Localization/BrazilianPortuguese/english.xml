@@ -1,5 +1,4 @@
 <?xml version="1.0"?>
-<!--Translation by AlucardTraducao-->
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <content contentuid="h1c9149e8g6d95ge63ag585eg403768a29c67" version="1">Filósofo Planar</content>
 <content contentuid="h914bf037g3869g4beag9f3bg36a70f55e92d" version="2">Você adere a uma filosofia que busca entender a natureza dos planos ou alguma verdade oculta do multiverso. Você extrai força de sua convicção. Em suas viagens, emancipado das facções de Sigil, você explora as profundezas de sua compreensão e espalha sua filosofia por onde quer que vá.</content>
@@ -84,7 +83,7 @@
 <content contentuid="hcf9b6f82g0a03g0941g27e1g5365898a25f3" version="1">Sentido de distorção</content>
 <content contentuid="h74112800gd1b6g6d15g2b3ag99b4ef5b61e7" version="5">Você sente a presença de energias planares, como portais, mesmo as mais residuais. Estranhamente, esta magia parece muito mais duradoura neste mundo material.</content>
 <content contentuid="h19807a4dgb9b4g6a11g1ad1g33886795753c" version="1">Sentido de distorção</content>
-<content contentuid="hc53f42ecg57cagf9f1gd923gd71c1f3dee48" version="3">Você tem vantagem em testes de resistência de Sabedoria, bem como um bônus de Proficiência em Arcanismo e Percepção.</content>
+<content contentuid="hc53f42ecg57cagf9f1gd923gd71c1f3dee48" version="3">Bônus de Proficiência em Arcanismo.</content>
 <content contentuid="h4e017016g5c6bg5ce5g3ab0g22f43f822bfe" version="1">Línguas</content>
 <content contentuid="h416260c2g5063gcb28gc5d5g202db23685fd" version="1">A compreensão do seu cérebro sobe um nível, seja em termos de lógica ou linguagem. Por um tempo, você se torna melhor em conversas com todos os tipos de pessoas.</content>
 <content contentuid="he719e3e7gb7a6ge63cg73e5g0a5d2bddec22" version="1">Línguas</content>
@@ -489,4 +488,16 @@
 <content contentuid="h6accf78cg81b0g4769gb3c3g570e2714d57e" version="1">Having this item in inventory grants you its magical effect.</content>
 <content contentuid="hf642f457gd2d9g63abgb663g925404abae05" version="1">Portal detected</content>
 <content contentuid="hb52aaae7g5a0cgd77ag0cdcgdfb890b9bbdc" version="1">You have detected portal traces.</content>
+<content contentuid="h0a5fae24g4c79g4497g04d4g20fcfdd88153" version="1">You have detected portal traces of a hag.</content>
+<content contentuid="h5c8aac1fge9dbgcf01g9fc5g3a66db53d8f8" version="1">The ship's Helm leaves traces of multiple passages across the planes.</content>
+<content contentuid="h7fb1197cg7f41gd49bg81fdgcf3b6b1e00c6" version="1">You have detected traces of an unstable wizard portal.</content>
+<content contentuid="h7a44e987gab4bgd2e2gcc6dg7ab4ddc1cb21" version="1">You have detected traces of mushroom circles connecting the Underdark and a hag's lair.</content>
+<content contentuid="h1b653337g0d1cg6ea6g0d1ag545295f59ad5" version="1">You have detected numerous portal traces.</content>
+<content contentuid="h887bddadg06f0g915dgd434gb37ad150b633" version="1">You have detected traces of a portal connecting the Material Plane and a pocket dimension. The key appears to be the mysterious artifact you are carrying.</content>
+<content contentuid="h76a90da8ga3f3gd93ag34a4g6be15acdd8c0" version="3">You have detected evidence of a portal used by some githyanki.</content>
+<content contentuid="h20f91cbbgbd38gedeagd60dg9e46d9bc837b" version="1">You have detected traces of a portal that could lead to the heart of the shadow curse.</content>
+<content contentuid="h9080155dg06d8g842ag81e2gebca7f0833a8" version="1">You have detected traces of a portal connecting a cursed prison and the Material Plane. The key seems to be Shar's trials.</content>
+<content contentuid="h80da2a15g3265g7a28g7265gcf4ae4c56285" version="1">You have detected traces of a portal connecting Baldur's Gate circus and a distant jungle.</content>
+<content contentuid="h7ddde9f0g37f5g305dga991g7b7c0b889bf7" version="3">You have detected traces of a portal connecting the Sorcerous Sundries store and some secret magical rooms.</content>
+<content contentuid="h557b5d8cg0a78g38dbg5a49g38428ea8110e" version="1">You have detected traces of a portal connecting the Material Plane and a devil's lair. The key appears to be a ritual composed of multiple objects.</content>
 </contentList>
