@@ -326,13 +326,13 @@
   <content contentuid="h39b148e5ga397g512bgc05dgc0ae5ac90c80" version="1">Pierre sensorielle</content>
   <content contentuid="h8661c82cg968cg7376g49ecg0af9fc7371f0" version="3">Mimir</content>
   <content contentuid="hc515d8bdgc91ag00afg3b5eg9f683089a0ae" version="9">Pierre sensorielle</content>
-  <content contentuid="ha39c241fgfdd5g1d77g28e2gde5843be5df1" version="2">Boussole à portail</content>
+  <content contentuid="ha39c241fgfdd5g1d77g28e2gde5843be5df1" version="5">Boussole à portail</content>
   <content contentuid="hc13933a5g243dg625bgbcd5g6992c525f1e5" version="4">Ce vieux dispositif inanimé en forme de crâne est rempli de connaissances.</content>
   <content contentuid="h19f6dfd8gdc11gdbabgb792gf13be0ddb61e" version="1">Pierre sensorielle</content>
   <content contentuid="h11f6fe24g1b93ge170gdca1g5d79194cbfe5" version="1">Mimir</content>
   <content contentuid="h5c94facagf9ecg4524g5fcfg4db96e33cdbb" version="1">Boussole à portail</content>
   <content contentuid="h0ecbb3b1g4632g7672g2411g10297af2e28c" version="1">Boussole à portail</content>
-  <content contentuid="h82ae22f9gb470g74b9g2f81g35db749d7bf6" version="1">Bonus de compétence en Arcane et Perception.</content>
+  <content contentuid="h82ae22f9gb470g74b9g2f81g35db749d7bf6" version="2">Bonus de compétence en Arcane et Perception.</content>
   <content contentuid="he74c5a36gaa29g319cga756gace944dd2f43" version="30">Mimir</content>
   <content contentuid="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1">Active le Mimir et absorbe ses connaissances.</content>
   <content contentuid="hcd937889g2ddbg0436g8d85g6b74891d554c" version="1">Libre penseur</content>
@@ -481,4 +481,9 @@
   <content contentuid="h672496b9gdce8g6d0ag8488gb67e5b5c1bbf" version="2">Permet de mettre fin à l'état de &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charme&lt;/LSTag&gt; et de &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Peur&lt;/LSTag&gt;.</content>
   <content contentuid="hec9e6248g566dg208agf004g76521f10bf77" version="1">Consommer</content>
   <content contentuid="hd3b08708g7556gd184g4e19gc2618bbfa00d" version="1">Ton expérience d'aventurier planaire fait que tu t'es lié à un plan il y a déjà longtemps.</content>
+  <content contentuid="ha2bb4d68gc28fg19a6g43bcg65b4b4652847" version="1">Sacoche Planescape</content>
+  <content contentuid="hf56b6440gc00cga1a5g505bg38db517ede50" version="1">Une simple petite bourse contenant des objets planaires.</content>
+  <content contentuid="h55ecf3fbg65faga0c4g6f1cgcf35fc7c3d01" version="1">Boussole à portail</content>
+  <content contentuid="hb18a258bge5f5gc59ag7f99g6b6c682f6db3" version="1">Bonus de compétence en Arcane et Perception.</content>
+  <content contentuid="h6accf78cg81b0g4769gb3c3g570e2714d57e" version="1">Avoir cet objet dans votre inventaire vous confère son effet magique.</content>
 </contentList>

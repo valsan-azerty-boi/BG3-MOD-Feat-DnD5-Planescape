@@ -1,5 +1,5 @@
-new treasuretable "TUT_Chest_Potions"
-CanMerge 1
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+new treasuretable "Paitm_Tut_Treasure"
 IgnoreLevelDiff 1
 new subtable "1,1"
 object category "I_OBJ_Paitm_Mimir",1,0,0,0,0,0,0,0
@@ -12,13 +12,18 @@ object category "I_OBJ_Scroll_Paitm_WarpSense",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_Paitm_GateSeal",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_OBJ_Paitm_Mimir_Morte",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_MAG_Paitm_DakZerthBlade",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Paitm_Mimir_Morte",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Paitm_Annah",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Paitm_FallFromGrace",1,0,0,0,0,0,0,0
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+IgnoreLevelDiff 1
+new subtable "1,1"
+object category "I_OBJ_Paitm_PlanescapeStartingPouch",1,0,0,0,0,0,0,0
 new treasuretable "UND_SocietyOfBrilliance_Mindflayer"
 CanMerge 1
 IgnoreLevelDiff 1

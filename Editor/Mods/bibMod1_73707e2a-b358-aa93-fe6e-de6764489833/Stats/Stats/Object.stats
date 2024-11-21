@@ -3,6 +3,15 @@
   <stat_objects>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1a9031c7-17b0-4dc4-b76c-ab16b907e2b3" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_PlanescapeStartingPouch" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a451f608-ff09-4fc7-a328-99ff05f70491" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="bdb6e30d-d8c0-4ee1-9578-e1f59c23d3a8" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Uncommon" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="a6176fba-e47e-4bfa-ab43-cfed1214a4c8" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_Mimir" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
@@ -76,12 +85,14 @@
         <field name="MinimumDetectionRange" type="IntegerTableFieldDefinition" value="0" />
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Magical" enumeration_type_name="InventoryTabs" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="This portable arcane instrument seems old, worn and imprecise." />
-        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
-        <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Scroll" enumeration_type_name="ItemUseTypes" version="1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="EMPTY" />
+        <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="ItemUseTypes" version="1" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="3e30def1-0d63-4488-86f4-0f0e492aef3e" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
         <field name="AddToBottomBar" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="IgnoredByAI" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="Paitm_PortalCompass_Passive_ForTooltip" />
+        <field name="StatusInInventory" type="StringTableFieldDefinition" value="Paitm_PortalCompass_Buff" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -223,7 +234,6 @@
         <field name="IgnoredByAI" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
         <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
-        <field name="Unique" type="IntegerTableFieldDefinition" value="1" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
         <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Scroll" enumeration_type_name="ItemUseTypes" version="1" />
         <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
@@ -287,7 +297,6 @@
         <field name="FOV" type="IntegerTableFieldDefinition" value="0" />
         <field name="DarkvisionRange" type="IntegerTableFieldDefinition" value="0" />
         <field name="MinimumDetectionRange" type="IntegerTableFieldDefinition" value="0" />
-        <field name="Unique" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -310,7 +319,6 @@
         <field name="IgnoredByAI" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
         <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
-        <field name="Unique" type="IntegerTableFieldDefinition" value="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="A planar contract to hire a thief scavenger from Sigil." />
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
         <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Scroll" enumeration_type_name="ItemUseTypes" version="1" />
@@ -355,7 +363,6 @@
         <field name="IgnoredByAI" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
         <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
-        <field name="Unique" type="IntegerTableFieldDefinition" value="1" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
         <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Scroll" enumeration_type_name="ItemUseTypes" version="1" />
         <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
@@ -398,7 +405,6 @@
         <field name="IgnoredByAI" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
         <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
-        <field name="Unique" type="IntegerTableFieldDefinition" value="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="A planar contract to hire a member of the Society of Sensation." />
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
         <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Scroll" enumeration_type_name="ItemUseTypes" version="1" />
@@ -443,7 +449,6 @@
         <field name="IgnoredByAI" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
         <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
-        <field name="Unique" type="IntegerTableFieldDefinition" value="1" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
         <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Scroll" enumeration_type_name="ItemUseTypes" version="1" />
         <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />

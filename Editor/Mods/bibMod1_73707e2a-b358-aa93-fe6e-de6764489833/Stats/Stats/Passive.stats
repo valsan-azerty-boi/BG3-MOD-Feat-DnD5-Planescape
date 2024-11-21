@@ -194,5 +194,15 @@
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_GlitchCharacter_Attack);UnlockInterrupt(Interrupt_Paitm_GlitchCharacter_Cast)" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d903743b-9eb8-443b-9791-1ba91d51b18e" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_PortalCompass_Passive_ForTooltip" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h55ecf3fbg65faga0c4g6f1cgcf35fc7c3d01" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb18a258bge5f5gc59ag7f99g6b6c682f6db3" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_Generic_Magical" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
