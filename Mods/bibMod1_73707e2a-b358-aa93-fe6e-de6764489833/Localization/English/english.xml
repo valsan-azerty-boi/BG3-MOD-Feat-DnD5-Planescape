@@ -313,7 +313,7 @@
   <content contentuid="hc535c09cg0d2cgf714g31fdgae50b0b578ad" version="2">The Floor Is Lava</content>
   <content contentuid="hac8c02d3g3887g6801gafc0gc40e22295d42" version="2">Defeat the Lava Elemental in the lava lake.</content>
   <content contentuid="h1067b5f2gac8fg282eg6e02g7dcec7fd7223" version="1">%%% EMPTY</content>
-  <content contentuid="hac5d01daga4c1gad23g9b47g0f37fcd665fa" version="7">This portable arcane instrument seems old, worn and imprecise. This item does not seem to come from the Sword Coast.</content>
+  <content contentuid="hac5d01daga4c1gad23g9b47g0f37fcd665fa" version="8">This portable arcane instrument seems old, worn and imprecise. This item does not seem to come from the Sword Coast.</content>
   <content contentuid="h034e1312gfc43g6baeg78d7g01fdf4a6d2af" version="1">This old skull-shaped device is filled with knowledge.</content>
   <content contentuid="hababc55dg424dg34efg8a17g12622adedd4f" version="7">This small, smooth stone contains the essence of a single experience. You can touch and consume the stone and experience the sensation yourself.</content>
   <content contentuid="hbbe6fb62g8720ge560g9f8egfb8255bb73c1" version="1">This small, smooth stone contains the essence of a single experience. You can touch and consume the stone and experience the sensation yourself.</content>
@@ -324,16 +324,16 @@
   <content contentuid="hc9aee5eege786g13f1gec8bgc3d884c981f3" version="1">Portal Cracker</content>
   <content contentuid="h8b3e8f81g355bg97c3ge7e7gef7c5c149603" version="1">Try to safely cast Portal Cracker.</content>
   <content contentuid="h39b148e5ga397g512bgc05dgc0ae5ac90c80" version="1">Sensory Stone</content>
-  <content contentuid="h8661c82cg968cg7376g49ecg0af9fc7371f0" version="6">Mimir</content>
+  <content contentuid="h8661c82cg968cg7376g49ecg0af9fc7371f0" version="9">Mimir</content>
   <content contentuid="hc515d8bdgc91ag00afg3b5eg9f683089a0ae" version="11">Sensory Stone</content>
-  <content contentuid="ha39c241fgfdd5g1d77g28e2gde5843be5df1" version="7">Portal Compass</content>
-  <content contentuid="hc13933a5g243dg625bgbcd5g6992c525f1e5" version="7">This old inanimate skull-shaped device is filled with knowledge.</content>
+  <content contentuid="ha39c241fgfdd5g1d77g28e2gde5843be5df1" version="8">Portal Compass</content>
+  <content contentuid="hc13933a5g243dg625bgbcd5g6992c525f1e5" version="10">This old inanimate skull-shaped device is filled with knowledge.</content>
   <content contentuid="h19f6dfd8gdc11gdbabgb792gf13be0ddb61e" version="1">Sensory Stone</content>
   <content contentuid="h11f6fe24g1b93ge170gdca1g5d79194cbfe5" version="1">Mimir</content>
   <content contentuid="h5c94facagf9ecg4524g5fcfg4db96e33cdbb" version="1">Portal Compass</content>
   <content contentuid="h0ecbb3b1g4632g7672g2411g10297af2e28c" version="1">Portal Compass</content>
   <content contentuid="h82ae22f9gb470g74b9g2f81g35db749d7bf6" version="2">You gain a Proficienty bonus in Arcana and Perception.</content>
-  <content contentuid="he74c5a36gaa29g319cga756gace944dd2f43" version="31">Mimir</content>
+  <content contentuid="he74c5a36gaa29g319cga756gace944dd2f43" version="33">Mimir</content>
   <content contentuid="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1">Activate the Mimir and absorb its knowledge.</content>
   <content contentuid="hcd937889g2ddbg0436g8d85g6b74891d554c" version="1">Free thinker</content>
   <content contentuid="h7dd603ebg6c37g27d9gd5c2ge37c18b6d230" version="3">For those independent of mind and thought, who does not refer to any god. We often see this way of thinking among residents of Sigil. With a class like Cleric, a godless character can gain powers from their own convictions and principles.</content>
@@ -414,8 +414,8 @@
   <content contentuid="hbec539bdgfe54g30abg37caga453d77caef8" version="5">*Crrrkkk*</content>
   <content contentuid="h3a0ff6c2ge915g1a79g400agaab25e37fbd9" version="17">Morte</content>
   <content contentuid="h78db741fgb55cg325cg3153gd1f5d62b5f87" version="17">Mimir</content>
-  <content contentuid="hbdfa7db9g426agb016g1e61g43e526925235" version="11">Morte</content>
-  <content contentuid="h12bb70d7ga5d5g3412g4e03gf2c0b249875b" version="11">This old Mimir wants to wake up and talk.</content>
+  <content contentuid="hbdfa7db9g426agb016g1e61g43e526925235" version="13">Morte</content>
+  <content contentuid="h12bb70d7ga5d5g3412g4e03gf2c0b249875b" version="13">This old Mimir wants to wake up and talk.</content>
   <content contentuid="h7b481653g323ag3461gcd1ag86612f011e54" version="1">Morte</content>
   <content contentuid="hae6883e4gc6a3g8aaaged24ga4fca3eaef0f" version="1">This old Mimir wants to wake up and talk.</content>
   <content contentuid="h89f25f6fg526egf2e2gba52gf9320bcdc03f" version="45">Hey Chief !</content>
@@ -448,12 +448,12 @@
   <content contentuid="h3fc28911g273ag101fgc378gd304d05dae4d" version="6">Dak'kon's Zerth Blade</content>
   <content contentuid="h09e1a258g06d2g1251gd407g6d608385eb5d" version="6">This sword was the weapon of choice of a famous githzerai working for a creature known as the 'Nameless One'.</content>
   <content contentuid="hbdf89fdfg63e2g9bb0gde4ag1db6887b6995" version="2">Mimir</content>
-  <content contentuid="h86ddf0d5gb7e4g9970g06e4g93aa697ca8c4" version="26">Fall-from-Grace</content>
-  <content contentuid="h9b38f13fg0b85gbc56gd42egf80ad69d48f3" version="26">Tanar'ri</content>
+  <content contentuid="h86ddf0d5gb7e4g9970g06e4g93aa697ca8c4" version="30">Fall-from-Grace</content>
+  <content contentuid="h9b38f13fg0b85gbc56gd42egf80ad69d48f3" version="30">Tanar'ri</content>
   <content contentuid="h7810c487g87e1ge76bgd482ge0272e45cbc4" version="1">Sensates contract</content>
-  <content contentuid="h121342c7gc1c5g0542g0012g86090ddac04e" version="7">Sensates contract</content>
+  <content contentuid="h121342c7gc1c5g0542g0012g86090ddac04e" version="10">Sensates contract</content>
   <content contentuid="hb4991804ga291g1f30g2c98g163887f7cce4" version="2">A planar contract to hire a member of the Society of Sensation.</content>
-  <content contentuid="hf1deb2d4g3a59g35a3g9402gee4ba94c7107" version="7">A planar contract to hire a member of the Society of Sensation.</content>
+  <content contentuid="hf1deb2d4g3a59g35a3g9402gee4ba94c7107" version="10">A planar contract to hire a member of the Society of Sensation.</content>
   <content contentuid="h1f4a9e1bg7e38g2c4fgb9a2ga4dcb567f023" version="5">What can change the nature of a man?</content>
   <content contentuid="h67ab32c9g0d64g8a3gbe4a2gdf01e21c45b6" version="5">Are you alright?</content>
   <content contentuid="h2d4e9a3fg8b77g5f5g81b0ag9c6e21d45023" version="5">How do you feel?</content>
@@ -463,12 +463,12 @@
   <content contentuid="h2f9b7e5dg4c23g9e1gf0b5bgdbe712d045b1" version="5">Through observation, sensation and experience, the truth of the multiverse should be revealed.</content>
   <content contentuid="hf3a6d5b8g9e78g2b3g14c7ag89aef34d1204" version="5">How may I help you?</content>
   <content contentuid="h4e8c1b9fg3b22g5d1g2f4eag5db421ef6078" version="5">It's good to be journeying again! The brothel was a learning experience, but I think it was time I moved on.</content>
-  <content contentuid="h197f4dabg3eeegfb9dge10ag7280beda39e2" version="28">Annah</content>
-  <content contentuid="h12bf9b74g4fcegc003g0da1ge7151a0dca17" version="10">Fiendling</content>
+  <content contentuid="h197f4dabg3eeegfb9dge10ag7280beda39e2" version="30">Annah</content>
+  <content contentuid="h12bf9b74g4fcegc003g0da1ge7151a0dca17" version="12">Fiendling</content>
   <content contentuid="h44112202gb289gf648g7e66gfc2bd50fd990" version="1">Sharp tongue contract</content>
-  <content contentuid="hbbdccb8dg6150g46c8g4469gdf55b7ac2a72" version="7">Sharp tongue contract</content>
+  <content contentuid="hbbdccb8dg6150g46c8g4469gdf55b7ac2a72" version="10">Sharp tongue contract</content>
   <content contentuid="hda347ed4g1934g5536g2575g50b830602f72" version="1">A planar contract to hire a thief scavenger from Sigil.</content>
-  <content contentuid="h82eecc97g665fgb8b5g187fgffac3c634fd6" version="7">A planar contract to hire a thief scavenger from Sigil.</content>
+  <content contentuid="h82eecc97g665fgb8b5g187fgffac3c634fd6" version="10">A planar contract to hire a thief scavenger from Sigil.</content>
   <content contentuid="h8d2e9f4bg6a77g0a8g5b7cag79cd432e1805" version="8">Accent? What are ye on about?</content>
   <content contentuid="h3b5f7d2eg1d42g7e8g6f8b4g8cb523f6719c" version="8">Torment.</content>
   <content contentuid="h9e1c4a6fg0c64g9d5g3e6aag1cd842f3020d" version="8">What?!</content>
@@ -485,7 +485,7 @@
   <content contentuid="hf56b6440gc00cga1a5g505bg38db517ede50" version="1">A simple pouch containing planar items.</content>
   <content contentuid="h55ecf3fbg65faga0c4g6f1cgcf35fc7c3d01" version="1">Portal Compass</content>
   <content contentuid="hb18a258bge5f5gc59ag7f99g6b6c682f6db3" version="1">You gain a Proficienty bonus in Arcana and Perception.</content>
-  <content contentuid="h6accf78cg81b0g4769gb3c3g570e2714d57e" version="3">Having this item in inventory grants you its magical effect.</content>
+  <content contentuid="h6accf78cg81b0g4769gb3c3g570e2714d57e" version="4">Having this item in inventory grants you its magical effect.</content>
   <content contentuid="hf642f457gd2d9g63abgb663g925404abae05" version="1">Portal detected</content>
   <content contentuid="hb52aaae7g5a0cgd77ag0cdcgdfb890b9bbdc" version="1">You have detected portal traces.</content>
   <content contentuid="h0a5fae24g4c79g4497g04d4g20fcfdd88153" version="1">You have detected portal traces of a hag.</content>
@@ -500,4 +500,13 @@
   <content contentuid="h80da2a15g3265g7a28g7265gcf4ae4c56285" version="1">You have detected traces of a portal connecting Baldur's Gate circus and a distant jungle.</content>
   <content contentuid="h7ddde9f0g37f5g305dga991g7b7c0b889bf7" version="3">You have detected traces of a portal connecting the Sorcerous Sundries store and some secret magical rooms.</content>
   <content contentuid="h557b5d8cg0a78g38dbg5a49g38428ea8110e" version="1">You have detected traces of a portal connecting the Material Plane and a devil's lair. The key appears to be a ritual composed of multiple objects.</content>
+  <content contentuid="hebd9c2cbgc7bdgf824gbb3fge923b39d701d" version="1">Mimir Knowledge</content>
+  <content contentuid="h6bdbaaa7g5f25g5e3dg9e9cg3844a3acf6b1" version="3">Device activation</content>
+  <content contentuid="hd2f425b6gaa0cgcf5bga5f5g5256424ccdc8" version="2">Activating this device grants you some of its knowledge.</content>
+  <content contentuid="h2934311cg6fcbgaf64g1afag61f82c373b17" version="2">Use</content>
+  <content contentuid="h40684fe9gc931ge587gd987gc858d716944e" version="2">If it really is a Mimir, activating it should grant you some of its knowledge, right?</content>
+  <content contentuid="h14b0dc56g5dbfgf375ge343g78cf7ae51b0c" version="3">Use</content>
+  <content contentuid="h33fffc28g5ec9g17dbg540bg411313d49cf1" version="3">Use</content>
+  <content contentuid="h487284a8gc7e7gdf75g7001gb8055212b8b2" version="2">Using this contract allows you to hire the creature linked to it.</content>
+  <content contentuid="hf2bd0455gdf88g41f0g99c2g21683bb3da6d" version="2">Using this contract allows you to hire the creature linked to it.</content>
 </contentList>
