@@ -483,32 +483,32 @@
 <content contentuid="hf4b3e2a9g9d76g1f4g6a8b7g2ca483e51219" version="8">Eh?</content>
 <content contentuid="h672496b9gdce8g6d0ag8488gb67e5b5c1bbf" version="2">Acabe com a condição &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;encantada&lt;/LSTag&gt; e &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;assustada&lt;/LSTag&gt;.</content>
 <content contentuid="hec9e6248g566dg208agf004g76521f10bf77" version="1">Consumir</content>
-<content contentuid="hd3b08708g7556gd184g4e19gc2618bbfa00d" version="1">Your background and your adventure experience mean that you linked yourself to a plan a long time ago.</content>
-<content contentuid="ha2bb4d68gc28fg19a6g43bcg65b4b4652847" version="1">Planescape Pouch</content>
-<content contentuid="hf56b6440gc00cga1a5g505bg38db517ede50" version="1">A simple pouch containing planar items.</content>
-<content contentuid="hf642f457gd2d9g63abgb663g925404abae05" version="1">Portal detected</content>
-<content contentuid="hb52aaae7g5a0cgd77ag0cdcgdfb890b9bbdc" version="1">You have detected portal traces.</content>
-<content contentuid="h0a5fae24g4c79g4497g04d4g20fcfdd88153" version="1">You have detected portal traces of a hag.</content>
-<content contentuid="h5c8aac1fge9dbgcf01g9fc5g3a66db53d8f8" version="1">The ship's Helm leaves traces of multiple passages across the planes.</content>
-<content contentuid="h7fb1197cg7f41gd49bg81fdgcf3b6b1e00c6" version="1">You have detected traces of an unstable wizard portal.</content>
-<content contentuid="h7a44e987gab4bgd2e2gcc6dg7ab4ddc1cb21" version="1">You have detected traces of mushroom circles connecting the Underdark and a hag's lair.</content>
-<content contentuid="h1b653337g0d1cg6ea6g0d1ag545295f59ad5" version="1">You have detected numerous portal traces.</content>
-<content contentuid="h887bddadg06f0g915dgd434gb37ad150b633" version="1">You have detected traces of a portal connecting the Material Plane and a pocket dimension. The key appears to be the mysterious artifact you are carrying.</content>
-<content contentuid="h76a90da8ga3f3gd93ag34a4g6be15acdd8c0" version="3">You have detected evidence of a portal used by some githyanki.</content>
-<content contentuid="h20f91cbbgbd38gedeagd60dg9e46d9bc837b" version="1">You have detected traces of a portal that could lead to the heart of the shadow curse.</content>
-<content contentuid="h9080155dg06d8g842ag81e2gebca7f0833a8" version="1">You have detected traces of a portal connecting a cursed prison and the Material Plane. The key seems to be Shar's trials.</content>
-<content contentuid="h80da2a15g3265g7a28g7265gcf4ae4c56285" version="1">You have detected traces of a portal connecting Baldur's Gate circus and a distant jungle.</content>
-<content contentuid="h7ddde9f0g37f5g305dga991g7b7c0b889bf7" version="3">You have detected traces of a portal connecting the Sorcerous Sundries store and some secret magical rooms.</content>
-<content contentuid="h557b5d8cg0a78g38dbg5a49g38428ea8110e" version="1">You have detected traces of a portal connecting the Material Plane and a devil's lair. The key appears to be a ritual composed of multiple objects.</content>
-<content contentuid="hebd9c2cbgc7bdgf824gbb3fge923b39d701d" version="1">Mimir Knowledge</content>
-<content contentuid="h6bdbaaa7g5f25g5e3dg9e9cg3844a3acf6b1" version="3">Device activation</content>
-<content contentuid="hd2f425b6gaa0cgcf5bga5f5g5256424ccdc8" version="2">Activating this device grants you some of its knowledge.</content>
-<content contentuid="h2934311cg6fcbgaf64g1afag61f82c373b17" version="2">Use</content>
-<content contentuid="h40684fe9gc931ge587gd987gc858d716944e" version="2">If it really is a Mimir, activating it should grant you some of its knowledge, right?</content>
-<content contentuid="h14b0dc56g5dbfgf375ge343g78cf7ae51b0c" version="3">Use</content>
-<content contentuid="h33fffc28g5ec9g17dbg540bg411313d49cf1" version="3">Use</content>
-<content contentuid="h487284a8gc7e7gdf75g7001gb8055212b8b2" version="2">Using this contract allows you to hire the creature linked to it.</content>
-<content contentuid="hf2bd0455gdf88g41f0g99c2g21683bb3da6d" version="2">Using this contract allows you to hire the creature linked to it.</content>
+<content contentuid="hd3b08708g7556gd184g4e19gc2618bbfa00d" version="1">Sua formação e sua experiência de aventura significam que você se vinculou a um plano há muito tempo.</content>
+<content contentuid="ha2bb4d68gc28fg19a6g43bcg65b4b4652847" version="1">Bolsa Planescape</content>
+<content contentuid="hf56b6440gc00cga1a5g505bg38db517ede50" version="1">Uma bolsa simples contendo itens planares.</content>
+<content contentuid="hf642f457gd2d9g63abgb663g925404abae05" version="1">Portal detectado</content>
+<content contentuid="hb52aaae7g5a0cgd77ag0cdcgdfb890b9bbdc" version="1">Você detectou rastros do portal.</content>
+<content contentuid="h0a5fae24g4c79g4497g04d4g20fcfdd88153" version="1">Você detectou vestígios de uma bruxa no portal.</content>
+<content contentuid="h5c8aac1fge9dbgcf01g9fc5g3a66db53d8f8" version="1">O leme do navio deixa rastros de múltiplas passagens pelos planos.</content>
+<content contentuid="h7fb1197cg7f41gd49bg81fdgcf3b6b1e00c6" version="1">Você detectou vestígios de um portal de assistente instável.</content>
+<content contentuid="h7a44e987gab4bgd2e2gcc6dg7ab4ddc1cb21" version="1">Você detectou vestígios de círculos de cogumelo conectando o Subterrâneo ao covil de uma bruxa.</content>
+<content contentuid="h1b653337g0d1cg6ea6g0d1ag545295f59ad5" version="1">Você detectou vários rastros de portal.</content>
+<content contentuid="h887bddadg06f0g915dgd434gb37ad150b633" version="1">Você detectou vestígios de um portal conectando o Plano Material e uma dimensão de bolsão. A chave parece ser o artefato misterioso que você carrega.</content>
+<content contentuid="h76a90da8ga3f3gd93ag34a4g6be15acdd8c0" version="3">Você detectou evidências de um portal usado por alguns githyanki.</content>
+<content contentuid="h20f91cbbgbd38gedeagd60dg9e46d9bc837b" version="1">Você detectou vestígios de um portal que pode levar ao coração da maldição das sombras.</content>
+<content contentuid="h9080155dg06d8g842ag81e2gebca7f0833a8" version="1">Você detectou vestígios de um portal conectando uma prisão amaldiçoada e o Plano Material. A chave parece ser os julgamentos de Shar.</content>
+<content contentuid="h80da2a15g3265g7a28g7265gcf4ae4c56285" version="1">Você detectou vestígios de um portal conectando o circo Baldur's Gate e uma selva distante.</content>
+<content contentuid="h7ddde9f0g37f5g305dga991g7b7c0b889bf7" version="3">Você detectou vestígios de um portal conectando a loja Sorcerous Sundries e algumas salas mágicas secretas.</content>
+<content contentuid="h557b5d8cg0a78g38dbg5a49g38428ea8110e" version="1">Você detectou vestígios de um portal conectando o Plano Material e o covil do diabo. A chave parece ser um ritual composto de múltiplos objetos.</content>
+<content contentuid="hebd9c2cbgc7bdgf824gbb3fge923b39d701d" version="1">Conhecimento Mimir</content>
+<content contentuid="h6bdbaaa7g5f25g5e3dg9e9cg3844a3acf6b1" version="3">Ativação do dispositivo</content>
+<content contentuid="hd2f425b6gaa0cgcf5bga5f5g5256424ccdc8" version="2">Ativar este dispositivo concede a você parte de seu conhecimento.</content>
+<content contentuid="h2934311cg6fcbgaf64g1afag61f82c373b17" version="2">Usar</content>
+<content contentuid="h40684fe9gc931ge587gd987gc858d716944e" version="2">Se for realmente um Mimir, ativá-lo deverá conceder a você parte de seu conhecimento, certo?</content>
+<content contentuid="h14b0dc56g5dbfgf375ge343g78cf7ae51b0c" version="3">Usar</content>
+<content contentuid="h33fffc28g5ec9g17dbg540bg411313d49cf1" version="3">Usar</content>
+<content contentuid="h487284a8gc7e7gdf75g7001gb8055212b8b2" version="2">Usar este contrato permite que você contrate a criatura vinculada a ele.</content>
+<content contentuid="hf2bd0455gdf88g41f0g99c2g21683bb3da6d" version="2">Usar este contrato permite que você contrate a criatura vinculada a ele.</content>
 <content contentuid="hbb5bea25g6704gc77fg568agc308cbd55f8d" version="1">Selado</content>
 <content contentuid="hc4877bc9gf86ag4709ga9d8g4d9830dc267a" version="2">Impede o lançamento de feitiços de teletransporte ou portal.</content>
 </contentList>
