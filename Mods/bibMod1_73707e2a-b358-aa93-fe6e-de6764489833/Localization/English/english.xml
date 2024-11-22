@@ -52,8 +52,6 @@
   <content contentuid="h1876774ag4ed5g697dgf1d7gbec26f0aab8f" version="2">You can channel specific cosmic forces to gain benefits and you increase one Ability by 1 to a maximum of 20.</content>
   <content contentuid="h1a1a5fd5g37f0g0d8bg6e4bg0a7864f5d8a4" version="2">Misty Step</content>
   <content contentuid="h7bc2a60ag2954gf3d4gb8a8g1d39c7db951e" version="1">Surrounded by planar energies, you teleport to an unoccupied space you can see.</content>
-  <content contentuid="h6d4f5178g1938g00a2gf920g880454834028" version="1">Gate Seal</content>
-  <content contentuid="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="3">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
   <content contentuid="h1a4889b6gba5dg1e02gbb15g9aa6c8e7b7eb" version="2">Portal Cracker</content>
   <content contentuid="h8a984c65g71d0g34e3g4613gfd46275b7fe6" version="4">Your experience with portals allows you to open two linked portals without the need to concentrate. When casting the spell, instability may occur and inflict Psychic damage on the caster.</content>
   <content contentuid="h40448845g14b4geda1g4211g54ed4ba847a1" version="1">Plane Shift</content>
@@ -122,11 +120,13 @@
   <content contentuid="hc9103a06g6ce1g9873gf3b6ga43de4e8a062" version="1">Gate Seal</content>
   <content contentuid="hf8687996gdb03g610cg1c03g3fb532b80da1" version="1">Gate Seal</content>
   <content contentuid="h522850b4ga97fg5c82g95fdg4ae3c3599792" version="1">Gate Seal</content>
-  <content contentuid="h7cecf0f4g32e0gbeb8g1258g196d9b29cf31" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
-  <content contentuid="hcedc6be9ge111g4c71g1742g013f38ae2a65" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
-  <content contentuid="h717a8513g3681g3750gd31eg98db9c4c5400" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
-  <content contentuid="h7555f29cg9d6fg1583g4a52g55fa5b85c11e" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
-  <content contentuid="h9bbfa2d1g1deegb97fg56adgad0e268bcbc9" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
+  <content contentuid="h6d4f5178g1938g00a2gf920g880454834028" version="1">Gate Seal</content>
+  <content contentuid="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="3">You fortify the fabric of the planes, which prevents your targets from casting most teleportation or portal spells.</content>
+  <content contentuid="h7cecf0f4g32e0gbeb8g1258g196d9b29cf31" version="2">You fortify the fabric of the planes, which prevents your targets from casting most teleportation or portal spells.</content>
+  <content contentuid="hcedc6be9ge111g4c71g1742g013f38ae2a65" version="2">You fortify the fabric of the planes, which prevents your targets from casting most teleportation or portal spells.</content>
+  <content contentuid="h717a8513g3681g3750gd31eg98db9c4c5400" version="2">You fortify the fabric of the planes, which prevents your targets from casting most teleportation or portal spells.</content>
+  <content contentuid="h7555f29cg9d6fg1583g4a52g55fa5b85c11e" version="2">You fortify the fabric of the planes, which prevents your targets from casting most teleportation or portal spells.</content>
+  <content contentuid="h9bbfa2d1g1deegb97fg56adgad0e268bcbc9" version="2">You fortify the fabric of the planes, which prevents your targets from casting most teleportation or portal spells.</content>
   <content contentuid="h9cc9310dg64a8g9de3g7d93gc692b90f1447" version="1">Sensory Stone</content>
   <content contentuid="h9202e151gdf27g6437g8e2bgbe3f68ac3676" version="3">This small, smooth stone contains the essence of a single experience. You can throw the stone, breaking it in the process, to end the charmed or frightened condition on someone. Or you can touch and consume the stone and experience the sensation yourself.</content>
   <content contentuid="h74d67052g3553g99d1gd4bcg33235e3fe554" version="1">Sensory Stone</content>
@@ -332,6 +332,9 @@
   <content contentuid="h11f6fe24g1b93ge170gdca1g5d79194cbfe5" version="1">Mimir</content>
   <content contentuid="h5c94facagf9ecg4524g5fcfg4db96e33cdbb" version="1">Portal Compass</content>
   <content contentuid="h0ecbb3b1g4632g7672g2411g10297af2e28c" version="1">Portal Compass</content>
+  <content contentuid="h55ecf3fbg65faga0c4g6f1cgcf35fc7c3d01" version="1">Portal Compass</content>
+  <content contentuid="h6accf78cg81b0g4769gb3c3g570e2714d57e" version="4">Having this item in inventory grants you its magical effect.</content>
+  <content contentuid="hb18a258bge5f5gc59ag7f99g6b6c682f6db3" version="1">You gain a Proficienty bonus in Arcana and Perception.</content>
   <content contentuid="h82ae22f9gb470g74b9g2f81g35db749d7bf6" version="2">You gain a Proficienty bonus in Arcana and Perception.</content>
   <content contentuid="he74c5a36gaa29g319cga756gace944dd2f43" version="33">Mimir</content>
   <content contentuid="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1">Activate the Mimir and absorb its knowledge.</content>
@@ -483,9 +486,6 @@
   <content contentuid="hd3b08708g7556gd184g4e19gc2618bbfa00d" version="1">Your background and your adventure experience mean that you linked yourself to a plan a long time ago.</content>
   <content contentuid="ha2bb4d68gc28fg19a6g43bcg65b4b4652847" version="1">Planescape Pouch</content>
   <content contentuid="hf56b6440gc00cga1a5g505bg38db517ede50" version="1">A simple pouch containing planar items.</content>
-  <content contentuid="h55ecf3fbg65faga0c4g6f1cgcf35fc7c3d01" version="1">Portal Compass</content>
-  <content contentuid="hb18a258bge5f5gc59ag7f99g6b6c682f6db3" version="1">You gain a Proficienty bonus in Arcana and Perception.</content>
-  <content contentuid="h6accf78cg81b0g4769gb3c3g570e2714d57e" version="4">Having this item in inventory grants you its magical effect.</content>
   <content contentuid="hf642f457gd2d9g63abgb663g925404abae05" version="1">Portal detected</content>
   <content contentuid="hb52aaae7g5a0cgd77ag0cdcgdfb890b9bbdc" version="1">You have detected portal traces.</content>
   <content contentuid="h0a5fae24g4c79g4497g04d4g20fcfdd88153" version="1">You have detected portal traces of a hag.</content>
@@ -509,4 +509,6 @@
   <content contentuid="h33fffc28g5ec9g17dbg540bg411313d49cf1" version="3">Use</content>
   <content contentuid="h487284a8gc7e7gdf75g7001gb8055212b8b2" version="2">Using this contract allows you to hire the creature linked to it.</content>
   <content contentuid="hf2bd0455gdf88g41f0g99c2g21683bb3da6d" version="2">Using this contract allows you to hire the creature linked to it.</content>
+  <content contentuid="hbb5bea25g6704gc77fg568agc308cbd55f8d" version="1">Sealed</content>
+  <content contentuid="hc4877bc9gf86ag4709ga9d8g4d9830dc267a" version="2">Prevents casting most teleportation or portal spells.</content>
 </contentList>

@@ -11,7 +11,7 @@
         <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="18" />
         <field name="LineOfSightFlags" type="EnumerationListTableFieldDefinition" value="AddSourceHeight" enumeration_type_name="LineOfSightFlags" version="1" />
-        <field name="TargetConditions" type="StringTableFieldDefinition" value="CanStand('43e16983-e277-4b29-a122-e84326b45402') and not Character()" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="CanStand('43e16983-e277-4b29-a122-e84326b45402') and not Character() and not not Character()" />
         <field name="OriginSpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(43e16983-e277-4b29-a122-e84326b45402,10,,,PaitmPortalGate1)" />
         <field name="OriginTargetConditions" type="StringTableFieldDefinition" value="CanStand('43e16983-e277-4b29-a122-e84326b45402') and not Character() and not Item()" />
         <field name="TeleportSelf" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
@@ -32,6 +32,71 @@
         <field name="DeathType" type="EnumerationTableFieldDefinition" value="Lifetime" enumeration_type_name="Death Type" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(43e16983-e277-4b29-a122-e84326b45402,10,,PaitmPortalGate2)" />
         <field name="SpellStyleGroup" type="EnumerationTableFieldDefinition" value="Intent" enumeration_type_name="SpellStyleGroup" version="1" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="60bed6b0-4cc8-4be0-af5c-defb179beba5" />
+        <field name="Name" type="NameTableFieldDefinition" value="END_Orpheus_DimensionDoor" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="06edf979-19da-4122-b059-7b80f06654ae" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="396a28d0-7f3d-45bf-9a65-ce356c1c464a" />
+        <field name="Name" type="NameTableFieldDefinition" value="MAG_Dolor_DimensionDoor" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="10647adb-0ce5-4b87-94a7-50b43dc6a348" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ce82b345-1d06-4a48-a31a-faf1b1c83af6" />
+        <field name="Name" type="NameTableFieldDefinition" value="DimensionDoor" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f48dfb67-37f1-45aa-9148-74b7c25e28fc" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="01050268-6a0b-4b0f-82f5-ebea9802dac6" />
+        <field name="Name" type="NameTableFieldDefinition" value="DimensionDoor_5" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2be65da7-d22d-40ee-9b51-dc74253d32eb" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="12c48a09-0a34-4c85-8424-162ffbb72671" />
+        <field name="Name" type="NameTableFieldDefinition" value="DimensionDoor_6" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="df621743-3fc5-403b-bfd9-6635d90d265d" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="71356b41-bc89-4d81-b6cf-2edde00c081f" />
+        <field name="Name" type="NameTableFieldDefinition" value="Displacement_DisplacerBeast" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6ae03678-f75d-40e9-bd86-d99d7553b202" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="22cf2b6f-a6ff-4a30-a30f-ccd7e8e5d301" />
+        <field name="Name" type="NameTableFieldDefinition" value="ArcaneGate" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="3e9f7ebc-2eab-4461-acbf-0e38b813a88a" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9debc3d7-f32d-4070-b591-1bf31ceaaac6" />
+        <field name="Name" type="NameTableFieldDefinition" value="MAG_ArcaneGate" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ae56c0d0-97d9-4945-9735-38a0826a8fff" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
       </fields>
     </stat_object>
   </stat_objects>

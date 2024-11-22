@@ -29,6 +29,7 @@
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="71859b27-bdda-44c3-8c65-7f142a1a2f60" />
         <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
         <field name="SpellStyleGroup" type="EnumerationTableFieldDefinition" value="Intent" enumeration_type_name="SpellStyleGroup" version="1" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -106,6 +107,7 @@
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="71859b27-bdda-44c3-8c65-7f142a1a2f60" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
         <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -114,33 +116,30 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GateSeal" />
         <field name="Level" type="IntegerTableFieldDefinition" value="4" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Abjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerCombat" enumeration_type_name="CooldownType" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 5,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
-        <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
-        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_SEALED_Debuff,100,10)" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="22" />
+        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="9" />
         <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_GateSeal" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6d4f5178g1938g00a2gf920g880454834028" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="3" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,5)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_SEALED,100,5)" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
-        <field name="TooltipPermanentWarnings" type="StringTableFieldDefinition" value="375e5ffb-c67a-434c-a64e-323f7afeb25b" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Debuff_Gen_L1to3_01" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Spell_Prepare_Debuff_Gen_L1to3_01_Loop" />
         <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Utility_ArcaneLock_L1to3" />
         <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Debuff_Silence_L1to3" />
         <field name="VocalComponentSound" type="StringTableFieldDefinition" value="Vocal_Component_Lock" />
         <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
-        <field name="CycleConditions" type="StringTableFieldDefinition" value="Enemy() and not Dead()" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:4" />
         <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="9313094a-bae2-454f-9701-f920d0e8e98d,,;,,;4148823a-6dbc-4692-a8ff-71520315a10f,,;1b8cdb9d-6f8e-4161-901c-1fd7a7787c7c,,;808fdfab-2e6c-472e-b3c4-19ce4a719d9d,,;,,;ea745d30-eb87-447f-b190-c81298e27d9c,,;,,;,," />
         <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Debuff" enumeration_type_name="VerbalIntent" version="1" />
-        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell;CannotTargetItems" enumeration_type_name="SpellFlagList" version="1" />
-        <field name="RechargeValues" type="StringTableFieldDefinition" value="5-6" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell" enumeration_type_name="SpellFlagList" version="1" />
         <field name="MaximumTargets" type="IntegerTableFieldDefinition" value="1" />
         <field name="SpellPrepareCost" type="IntegerTableFieldDefinition" value="1" />
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="556fd141-698d-4c08-9322-ad155821260a" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="38776222-db33-4b53-9e23-ca3b47ab58cb" />
-        <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="b5b72f72-297b-4a96-b215-b5611359555a" />
+        <field name="TargetEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="b5b72f72-297b-4a96-b215-b5611359555a" />
         <field name="PositionEffect" type="GuidObjectTableFieldDefinition" value="7db045f9-83ac-4768-88c8-48563b685a9d" />
         <field name="HighlightConditions" type="StringTableFieldDefinition" value="Character() and not Dead()" />
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="4" />
@@ -152,37 +151,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="25565067-f2de-421f-b8c0-04b1c3aea9ed" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GateSeal_5" />
-        <field name="Level" type="IntegerTableFieldDefinition" value="4" />
-        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Abjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerCombat" enumeration_type_name="CooldownType" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 5,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
-        <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
-        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_GateSeal" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h52cb2e91gf45eg4bf2gfdaeg0df82f11acc4" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7cecf0f4g32e0gbeb8g1258g196d9b29cf31" version="2" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,5)" />
-        <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
-        <field name="TooltipPermanentWarnings" type="StringTableFieldDefinition" value="375e5ffb-c67a-434c-a64e-323f7afeb25b" />
-        <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Debuff_Gen_L1to3_01" />
-        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Spell_Prepare_Debuff_Gen_L1to3_01_Loop" />
-        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Utility_ArcaneLock_L1to3" />
-        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Debuff_Silence_L1to3" />
-        <field name="VocalComponentSound" type="StringTableFieldDefinition" value="Vocal_Component_Lock" />
-        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
-        <field name="CycleConditions" type="StringTableFieldDefinition" value="Enemy() and not Dead()" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:5" />
-        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="9313094a-bae2-454f-9701-f920d0e8e98d,,;,,;4148823a-6dbc-4692-a8ff-71520315a10f,,;1b8cdb9d-6f8e-4161-901c-1fd7a7787c7c,,;808fdfab-2e6c-472e-b3c4-19ce4a719d9d,,;,,;ea745d30-eb87-447f-b190-c81298e27d9c,,;,,;,," />
-        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Debuff" enumeration_type_name="VerbalIntent" version="1" />
-        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell;CannotTargetItems" enumeration_type_name="SpellFlagList" version="1" />
-        <field name="RechargeValues" type="StringTableFieldDefinition" value="5-6" />
-        <field name="MaximumTargets" type="IntegerTableFieldDefinition" value="1" />
-        <field name="SpellPrepareCost" type="IntegerTableFieldDefinition" value="1" />
-        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="556fd141-698d-4c08-9322-ad155821260a" />
-        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="38776222-db33-4b53-9e23-ca3b47ab58cb" />
-        <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="b5b72f72-297b-4a96-b215-b5611359555a" />
-        <field name="PositionEffect" type="GuidObjectTableFieldDefinition" value="7db045f9-83ac-4768-88c8-48563b685a9d" />
-        <field name="HighlightConditions" type="StringTableFieldDefinition" value="Character() and not Dead()" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="c86b6694-8f94-4b02-9b18-3c69c94de8f8" />
         <field name="RootSpellID" type="StringTableFieldDefinition" value="Target_Paitm_GateSeal" />
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="5" />
@@ -192,37 +161,8 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="541548c8-1a4b-4da2-8e34-29bb24846e1b" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GateSeal_6" />
-        <field name="Level" type="IntegerTableFieldDefinition" value="4" />
-        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Abjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerCombat" enumeration_type_name="CooldownType" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 10,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
-        <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
-        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_GateSeal" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8483d49ag1e8dg1c43g8018gfcd6bbef6e23" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcedc6be9ge111g4c71g1742g013f38ae2a65" version="2" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,10)" />
-        <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
-        <field name="TooltipPermanentWarnings" type="StringTableFieldDefinition" value="375e5ffb-c67a-434c-a64e-323f7afeb25b" />
-        <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Debuff_Gen_L1to3_01" />
-        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Spell_Prepare_Debuff_Gen_L1to3_01_Loop" />
-        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Utility_ArcaneLock_L1to3" />
-        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Debuff_Silence_L1to3" />
-        <field name="VocalComponentSound" type="StringTableFieldDefinition" value="Vocal_Component_Lock" />
-        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
-        <field name="CycleConditions" type="StringTableFieldDefinition" value="Enemy() and not Dead()" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_SEALED,100,10)" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:6" />
-        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="9313094a-bae2-454f-9701-f920d0e8e98d,,;,,;4148823a-6dbc-4692-a8ff-71520315a10f,,;1b8cdb9d-6f8e-4161-901c-1fd7a7787c7c,,;808fdfab-2e6c-472e-b3c4-19ce4a719d9d,,;,,;ea745d30-eb87-447f-b190-c81298e27d9c,,;,,;,," />
-        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Debuff" enumeration_type_name="VerbalIntent" version="1" />
-        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell;CannotTargetItems" enumeration_type_name="SpellFlagList" version="1" />
-        <field name="RechargeValues" type="StringTableFieldDefinition" value="5-6" />
-        <field name="MaximumTargets" type="IntegerTableFieldDefinition" value="1" />
-        <field name="SpellPrepareCost" type="IntegerTableFieldDefinition" value="1" />
-        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="556fd141-698d-4c08-9322-ad155821260a" />
-        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="38776222-db33-4b53-9e23-ca3b47ab58cb" />
-        <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="b5b72f72-297b-4a96-b215-b5611359555a" />
-        <field name="PositionEffect" type="GuidObjectTableFieldDefinition" value="7db045f9-83ac-4768-88c8-48563b685a9d" />
-        <field name="HighlightConditions" type="StringTableFieldDefinition" value="Character() and not Dead()" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="c86b6694-8f94-4b02-9b18-3c69c94de8f8" />
         <field name="RootSpellID" type="StringTableFieldDefinition" value="Target_Paitm_GateSeal" />
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="6" />
@@ -232,38 +172,9 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="17e7c710-b2e9-4168-9535-bd9983e05350" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GateSeal_7" />
-        <field name="Level" type="IntegerTableFieldDefinition" value="4" />
-        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Abjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerCombat" enumeration_type_name="CooldownType" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 10,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
-        <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
-        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_GateSeal" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc9103a06g6ce1g9873gf3b6ga43de4e8a062" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h717a8513g3681g3750gd31eg98db9c4c5400" version="2" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,10)" />
-        <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
-        <field name="TooltipPermanentWarnings" type="StringTableFieldDefinition" value="375e5ffb-c67a-434c-a64e-323f7afeb25b" />
-        <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Debuff_Gen_L1to3_01" />
-        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Spell_Prepare_Debuff_Gen_L1to3_01_Loop" />
-        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Utility_ArcaneLock_L1to3" />
-        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Debuff_Silence_L1to3" />
-        <field name="VocalComponentSound" type="StringTableFieldDefinition" value="Vocal_Component_Lock" />
-        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
-        <field name="CycleConditions" type="StringTableFieldDefinition" value="Enemy() and not Dead()" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_SEALED,100,10)" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:7" />
-        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="9313094a-bae2-454f-9701-f920d0e8e98d,,;,,;4148823a-6dbc-4692-a8ff-71520315a10f,,;1b8cdb9d-6f8e-4161-901c-1fd7a7787c7c,,;808fdfab-2e6c-472e-b3c4-19ce4a719d9d,,;,,;ea745d30-eb87-447f-b190-c81298e27d9c,,;,,;,," />
-        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Debuff" enumeration_type_name="VerbalIntent" version="1" />
-        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell;CannotTargetItems" enumeration_type_name="SpellFlagList" version="1" />
-        <field name="RechargeValues" type="StringTableFieldDefinition" value="5-6" />
-        <field name="MaximumTargets" type="IntegerTableFieldDefinition" value="1" />
-        <field name="SpellPrepareCost" type="IntegerTableFieldDefinition" value="1" />
-        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="556fd141-698d-4c08-9322-ad155821260a" />
-        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="38776222-db33-4b53-9e23-ca3b47ab58cb" />
-        <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="b5b72f72-297b-4a96-b215-b5611359555a" />
-        <field name="PositionEffect" type="GuidObjectTableFieldDefinition" value="7db045f9-83ac-4768-88c8-48563b685a9d" />
-        <field name="HighlightConditions" type="StringTableFieldDefinition" value="Character() and not Dead()" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="c86b6694-8f94-4b02-9b18-3c69c94de8f8" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="541548c8-1a4b-4da2-8e34-29bb24846e1b" />
         <field name="RootSpellID" type="StringTableFieldDefinition" value="Target_Paitm_GateSeal" />
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="7" />
       </fields>
@@ -272,38 +183,9 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="af9b264a-734a-4218-95ac-43b1c2346c89" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GateSeal_8" />
-        <field name="Level" type="IntegerTableFieldDefinition" value="4" />
-        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Abjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerCombat" enumeration_type_name="CooldownType" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 10,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
-        <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
-        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_GateSeal" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf8687996gdb03g610cg1c03g3fb532b80da1" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7555f29cg9d6fg1583g4a52g55fa5b85c11e" version="2" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,10)" />
-        <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
-        <field name="TooltipPermanentWarnings" type="StringTableFieldDefinition" value="375e5ffb-c67a-434c-a64e-323f7afeb25b" />
-        <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Debuff_Gen_L1to3_01" />
-        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Spell_Prepare_Debuff_Gen_L1to3_01_Loop" />
-        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Utility_ArcaneLock_L1to3" />
-        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Debuff_Silence_L1to3" />
-        <field name="VocalComponentSound" type="StringTableFieldDefinition" value="Vocal_Component_Lock" />
-        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
-        <field name="CycleConditions" type="StringTableFieldDefinition" value="Enemy() and not Dead()" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_SEALED,100,10)" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:8" />
-        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="9313094a-bae2-454f-9701-f920d0e8e98d,,;,,;4148823a-6dbc-4692-a8ff-71520315a10f,,;1b8cdb9d-6f8e-4161-901c-1fd7a7787c7c,,;808fdfab-2e6c-472e-b3c4-19ce4a719d9d,,;,,;ea745d30-eb87-447f-b190-c81298e27d9c,,;,,;,," />
-        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Debuff" enumeration_type_name="VerbalIntent" version="1" />
-        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell;CannotTargetItems" enumeration_type_name="SpellFlagList" version="1" />
-        <field name="RechargeValues" type="StringTableFieldDefinition" value="5-6" />
-        <field name="MaximumTargets" type="IntegerTableFieldDefinition" value="1" />
-        <field name="SpellPrepareCost" type="IntegerTableFieldDefinition" value="1" />
-        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="556fd141-698d-4c08-9322-ad155821260a" />
-        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="38776222-db33-4b53-9e23-ca3b47ab58cb" />
-        <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="b5b72f72-297b-4a96-b215-b5611359555a" />
-        <field name="PositionEffect" type="GuidObjectTableFieldDefinition" value="7db045f9-83ac-4768-88c8-48563b685a9d" />
-        <field name="HighlightConditions" type="StringTableFieldDefinition" value="Character() and not Dead()" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="c86b6694-8f94-4b02-9b18-3c69c94de8f8" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="541548c8-1a4b-4da2-8e34-29bb24846e1b" />
         <field name="RootSpellID" type="StringTableFieldDefinition" value="Target_Paitm_GateSeal" />
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="8" />
       </fields>
@@ -312,40 +194,451 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="7567d5f0-2c4d-4ffb-84c6-badfaff2fa3d" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GateSeal_9" />
-        <field name="Level" type="IntegerTableFieldDefinition" value="4" />
-        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Abjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerCombat" enumeration_type_name="CooldownType" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(edca6656-dc8c-410b-9f16-fcc02d5ed803, 10,Projectile_AiHelper_Silence,,,SILENCED_AURA)" />
-        <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
-        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_GateSeal" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h522850b4ga97fg5c82g95fdg4ae3c3599792" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9bbfa2d1g1deegb97fg56adgad0e268bcbc9" version="2" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SILENCED,100,10)" />
-        <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
-        <field name="TooltipPermanentWarnings" type="StringTableFieldDefinition" value="375e5ffb-c67a-434c-a64e-323f7afeb25b" />
-        <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Debuff_Gen_L1to3_01" />
-        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Spell_Prepare_Debuff_Gen_L1to3_01_Loop" />
-        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Utility_ArcaneLock_L1to3" />
-        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Debuff_Silence_L1to3" />
-        <field name="VocalComponentSound" type="StringTableFieldDefinition" value="Vocal_Component_Lock" />
-        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
-        <field name="CycleConditions" type="StringTableFieldDefinition" value="Enemy() and not Dead()" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_SEALED,100,10)" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:9" />
-        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="9313094a-bae2-454f-9701-f920d0e8e98d,,;,,;4148823a-6dbc-4692-a8ff-71520315a10f,,;1b8cdb9d-6f8e-4161-901c-1fd7a7787c7c,,;808fdfab-2e6c-472e-b3c4-19ce4a719d9d,,;,,;ea745d30-eb87-447f-b190-c81298e27d9c,,;,,;,," />
-        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Debuff" enumeration_type_name="VerbalIntent" version="1" />
-        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell;CannotTargetItems" enumeration_type_name="SpellFlagList" version="1" />
-        <field name="RechargeValues" type="StringTableFieldDefinition" value="5-6" />
-        <field name="MaximumTargets" type="IntegerTableFieldDefinition" value="1" />
-        <field name="SpellPrepareCost" type="IntegerTableFieldDefinition" value="1" />
-        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="556fd141-698d-4c08-9322-ad155821260a" />
-        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="38776222-db33-4b53-9e23-ca3b47ab58cb" />
-        <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="b5b72f72-297b-4a96-b215-b5611359555a" />
-        <field name="PositionEffect" type="GuidObjectTableFieldDefinition" value="7db045f9-83ac-4768-88c8-48563b685a9d" />
-        <field name="HighlightConditions" type="StringTableFieldDefinition" value="Character() and not Dead()" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="c86b6694-8f94-4b02-9b18-3c69c94de8f8" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="541548c8-1a4b-4da2-8e34-29bb24846e1b" />
         <field name="RootSpellID" type="StringTableFieldDefinition" value="Target_Paitm_GateSeal" />
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="9" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="263e3d60-5244-4b8a-bddb-e4bda2d8e215" />
+        <field name="Name" type="NameTableFieldDefinition" value="BladeFlourish_Mobile_FollowUp" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f330994f-80a0-418e-b413-ca61a4ef58bf" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4c567206-df2d-4be8-98fd-e1d570876cd6" />
+        <field name="Name" type="NameTableFieldDefinition" value="Blink_Teleport" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="5790e67f-cd25-4d11-86cf-c45fadfcdade" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1e82b30b-d402-43bf-96d0-404cab49ce8f" />
+        <field name="Name" type="NameTableFieldDefinition" value="MistyStep_4" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b797412b-06fb-44bc-bbe3-4c73b0d284df" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7bb4bf17-7d23-45a6-b99b-dec00148dae5" />
+        <field name="Name" type="NameTableFieldDefinition" value="MistyStep_Free" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="04acd1a7-f95f-404c-91f4-caa94112f693" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="dc5cabfc-8cf4-4b17-8622-525c9cb1578d" />
+        <field name="Name" type="NameTableFieldDefinition" value="ShadowStrike_Instant" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="760eb209-d970-48e8-8cc1-7c8cfa338ad6" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="IsSneakingOrInvisible() and not not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="adddab52-5396-4195-ad70-762667b881d2" />
+        <field name="Name" type="NameTableFieldDefinition" value="ShadowStrike_Instant_Unarmed" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="78734e0d-45bb-4b31-af6d-ce62f5a92b65" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="IsSneakingOrInvisible() and not not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="378b094e-17ae-4d9f-b36b-a834303a8a18" />
+        <field name="Name" type="NameTableFieldDefinition" value="WildMagicBarbarian_Teleport" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f0d941a6-f68f-460b-9da3-24e0acd4da06" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="34ff0439-8507-4533-99b2-09eec743a8fc" />
+        <field name="Name" type="NameTableFieldDefinition" value="Burrow_DarkVine" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="bb3fcf81-6c72-4543-8674-8c24a0a18e95" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9d30811b-c753-43a3-b8d3-6b645679c7b7" />
+        <field name="Name" type="NameTableFieldDefinition" value="Burrow_Myrmidon_Earth" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f13515e5-ecdf-4cc7-bfee-0e0bfd37d911" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="911a7ef4-1bf2-4577-8117-c5aba286af4d" />
+        <field name="Name" type="NameTableFieldDefinition" value="Burrow_Wildshape_Myrmidon_Earth" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f5a945dd-dbfe-4bd7-95c9-253debaf5b12" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e8f0aa83-8146-4655-84cc-2be242777960" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_Dragon" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17f7ab67-f2bd-4890-bf36-7c185ed97db2" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c0d0e7ed-9fd8-4bf8-bbe4-2066dcba1c83" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_Dragon_Skeletal" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="59f0bcc1-cc19-48e4-863a-e4785fb242c0" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('DRAGON_SKELETAL_FLIGHTSTATE') and not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7c20b43d-5f08-463e-a1ec-e559495fb5b6" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fly_Dragon_Skeletal_EnterFlightState_Far" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6aa13f29-3711-4858-997c-c58337bd5274" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('DRAGON_SKELETAL_FLIGHTSTATE') and not HasStatus('DRAGON_SKELETAL_FLIGHTSTATE_COOLDOWN') and not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9020ea32-6d53-48f3-8c10-42cf23badb27" />
+        <field name="Name" type="NameTableFieldDefinition" value="AstralStep_Githyanki" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="9dad90f6-d231-43fc-816e-2e4168c42bf1" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2ef14656-9eca-4a87-b933-2ca6149b45ba" />
+        <field name="Name" type="NameTableFieldDefinition" value="MistyEscape_ShadarKai_GloomWeaver" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6a9f5d0c-5738-4ed0-9e70-d05eae70b1a6" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a1059522-9c20-44b3-bff9-5e7f7764d6f6" />
+        <field name="Name" type="NameTableFieldDefinition" value="MistyStep_Djinni" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="3b48cbab-730f-4028-b82f-9b62c7182ae9" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7768dc36-60c4-496b-8ed3-cbb6c980221e" />
+        <field name="Name" type="NameTableFieldDefinition" value="MistyStep_Myrmidon_Air" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="59537a80-2ed9-4728-afeb-c77961a496bc" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7bf997dc-994d-4c03-a3ac-c59d0b87e273" />
+        <field name="Name" type="NameTableFieldDefinition" value="MistyStep_Myrmidon_Earth" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7a211e7d-91fd-4e77-9d56-bb0fd524d944" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="700aba65-d608-40b4-8fae-083c42cdf05c" />
+        <field name="Name" type="NameTableFieldDefinition" value="MistyStep_Myrmidon_Fire" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="eaf7855b-5e9b-4446-8078-80561e519687" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9be7d1ef-0fb8-4410-a065-fe2cb41910a4" />
+        <field name="Name" type="NameTableFieldDefinition" value="MistyStep_Myrmidon_Water" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="16c29728-9676-4b57-a2d6-e1009258a6e1" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b37ab6f7-8183-4246-bb41-b41c9d1fd544" />
+        <field name="Name" type="NameTableFieldDefinition" value="MistyStep_Elemental_Air" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="69517d36-b508-41dc-a02a-7ded2b35aaf4" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4c411e21-6d3f-43e0-9a1f-92730de3c22b" />
+        <field name="Name" type="NameTableFieldDefinition" value="MistyStep_Elemental_Earth" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="12659bad-e477-464b-a105-718b720247d2" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7eacaac4-11bc-442f-a37e-38fa77bd0f4c" />
+        <field name="Name" type="NameTableFieldDefinition" value="MistyStep_Elemental_Fire" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b5436854-109e-4984-b451-ee4958eef78a" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="97e776df-f12d-4568-aa87-53f75230a10b" />
+        <field name="Name" type="NameTableFieldDefinition" value="MistyStep_Elemental_Water" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="204543df-df46-4a63-827d-dc02698149ec" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="db7e766e-3020-498b-9fed-694b33a0d3c8" />
+        <field name="Name" type="NameTableFieldDefinition" value="ShadowTeleport_Meazel" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b6d5c2c2-23a5-48f7-82f0-8a41ec338344" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5a1f7a75-fb52-4607-844c-5ac72ca5c575" />
+        <field name="Name" type="NameTableFieldDefinition" value="ShadowTeleport_Meenlock" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ff0ec95e-8d6d-4d5b-989d-65488cbebd05" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8555fca6-0ba4-4c38-844b-f67ab3770f0b" />
+        <field name="Name" type="NameTableFieldDefinition" value="ShadowStep" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="5020d2cb-51f0-4d9f-8ab0-5e62b0368461" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasObscuredState(ObscuredState.Clear,context.Source) and not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3c40705f-5827-4cea-a161-98b0c7bbe080" />
+        <field name="Name" type="NameTableFieldDefinition" value="Teleport_Shadow" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8c668965-0d4c-42a9-8281-c10ccb38da90" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasObscuredState(ObscuredState.Clear,context.Source) and not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b44c7fa0-62e3-4c73-92f0-b36c34158cd1" />
+        <field name="Name" type="NameTableFieldDefinition" value="MistyStep_5" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="19841c9e-19c6-4733-84cc-d6fe48553707" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="36a0eaee-bd5b-4670-b472-258c7fe6cc85" />
+        <field name="Name" type="NameTableFieldDefinition" value="MistyStep_6" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="5ab6a604-92df-496f-ac1c-67cbd76c9121" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="35d78cfd-487a-4822-ad29-a9cc1148e372" />
+        <field name="Name" type="NameTableFieldDefinition" value="UNI_MistyStep_DrowCommander_Amulet" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18da5e7a-4fa9-4318-98f9-0fca0a1ba97c" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ed013bf4-d592-43f7-8ad0-7fadc0afc7bd" />
+        <field name="Name" type="NameTableFieldDefinition" value="UNI_MistyStep_NightWalkers" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8e3b3972-fe9b-4538-9329-9b9a24123bef" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4de1f2ee-4442-4031-b800-7beb35010fa7" />
+        <field name="Name" type="NameTableFieldDefinition" value="UND_MushroomHunter_MistyStep" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="9d20c2a4-7572-42c3-8d1e-6d9fd72c0636" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="dca96d24-0775-4d2d-a73f-b6e7952e4e32" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHA_Justiciar_ShadowStep" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c534ceb9-bab9-46a0-acc9-1f28308ba01a" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasObscuredState(ObscuredState.Clear,context.Source) and not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e7c0a866-63dc-4e60-8f7f-b6b6ca8227cd" />
+        <field name="Name" type="NameTableFieldDefinition" value="MOO_BloodPotion_MistyStep" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="58df57b1-b569-436a-b33e-b9f72c27fee8" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7361b14d-80f6-4909-98b1-1e524d95e7c4" />
+        <field name="Name" type="NameTableFieldDefinition" value="MAG_Shadow_Shadowstep" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c6205048-3d20-4423-a3d4-48c2c0658fa5" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="abdfffa9-52b9-49f2-9d15-e42f85eca6bc" />
+        <field name="Name" type="NameTableFieldDefinition" value="MAG_Legendary_HellCrawler" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="16892f90-8235-4dad-add8-a81de85ead94" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="defce8e7-372f-47d7-85f5-7e311d08b5b5" />
+        <field name="Name" type="NameTableFieldDefinition" value="WYR_Dribbles_Dog_Blink" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="169d08e3-1615-40a3-b860-106408273792" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="58866b1d-eea6-4651-825b-595d5c8ae250" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOW_GithyankiProdigy_AstralStep_ReactiveDisplacement" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="67843a08-96d6-46cd-9763-871a467f9be9" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="739da98f-ff43-4da0-9cd7-b32521aeb0fb" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOW_RamazithsTower_MistyStep" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="5f31bfe2-6c37-4564-abb0-1605c97d6e0b" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8f7767d5-a134-496f-8434-695dac3be4e9" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOW_Raphael_Hellcrawler" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="00aa87a9-dce4-4c7a-8973-85e2bb49d973" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('LOW_RAPHAEL_MONSTER_FORM') and not HasStatus('LOW_RAPHAEL_OVERCHARGE') and not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b50e161f-5d74-41f1-a6f4-08a033516aed" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOW_HouseOfGrief_ShadowStep" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="9e52509d-feb3-48db-aed0-e214d1f7d440" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasObscuredState(ObscuredState.Clear,context.Source) and not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1714398a-d484-47c5-b56c-640e75249707" />
+        <field name="Name" type="NameTableFieldDefinition" value="END_Daisy_Teleport" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="16bdc6c5-fc6d-4ee6-9aac-273b0c9607fa" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3e93504d-a03e-4306-8752-d9766124ba87" />
+        <field name="Name" type="NameTableFieldDefinition" value="END_VossEncounter_GithMistyStep" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4c1ab283-49df-47ec-9876-c5cb7f448101" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bc72e79d-c538-4a62-98db-5b37b193bb59" />
+        <field name="Name" type="NameTableFieldDefinition" value="WYR_Circus_TeleportBoots_MistyStep" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2808d99b-d6c9-4c29-b4e2-40f53e374de0" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="49d37403-dd35-4b5c-abc5-1632ee19f18e" />
+        <field name="Name" type="NameTableFieldDefinition" value="MistyStep" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fdf25d3d-b45f-47b6-9760-d2f2f0651239" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a53f8db0-ce19-42f6-b915-2420634c47c6" />
+        <field name="Name" type="NameTableFieldDefinition" value="MistyStep_3" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="3ed17aee-4e56-4b54-ab56-10ed5f23e37c" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d56d0106-4ce5-4207-b6ec-f9af34ed61e6" />
+        <field name="Name" type="NameTableFieldDefinition" value="MistyStep_Githyanki" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="09ec8e53-443f-48c0-a9af-1df4c5c6a44f" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="01f7de1e-dcdd-40ed-82bc-2752cca218ac" />
+        <field name="Name" type="NameTableFieldDefinition" value="MistyStep_Shadow_TEST" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e5a51a7b-9c91-4aef-be82-ecf3df4f8325" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="61f7085f-6809-44b8-bc75-d07a6d84c4ad" />
+        <field name="Name" type="NameTableFieldDefinition" value="SupernaturalAttraction" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4398caf8-c243-4635-8396-f4e58a0e5233" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not Tagged('TADPOLE_POWERS_BLOCKED') and not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1dbe58bc-a9c9-41d4-b360-553514903665" />
+        <field name="Name" type="NameTableFieldDefinition" value="WildMagic_Teleport" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b8d07ab0-611e-4374-a8cc-2ac7c53dc80c" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ca4975d0-4dd3-4fe8-a5e3-e2fc44fe5543" />
+        <field name="Name" type="NameTableFieldDefinition" value="Burrow_GiantBadger" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="887efcc2-c5ae-4bb5-824d-36bac08749af" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="330f0c84-aa94-4f79-a386-a9d96151528c" />
+        <field name="Name" type="NameTableFieldDefinition" value="EtherealJaunt" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc59ce34-fc8d-4ae9-b267-3a905bf48c02" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="84501d24-51d4-4f18-a680-2d5b61c395c6" />
+        <field name="Name" type="NameTableFieldDefinition" value="EtherealJaunt_Spiderling" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2b212b0e-9b80-4959-865c-a4724eb4dd6c" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e5af4cd8-a79e-41c8-be6f-5061e0ec8eb4" />
+        <field name="Name" type="NameTableFieldDefinition" value="EtherealJaunt_Queen" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="677a1867-e65b-439f-8e0c-e00f033e8769" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('Paitm_SEALED')" />
       </fields>
     </stat_object>
   </stat_objects>
