@@ -313,21 +313,21 @@
   <content contentuid="hc535c09cg0d2cgf714g31fdgae50b0b578ad" version="2">The Floor Is Lava</content>
   <content contentuid="hac8c02d3g3887g6801gafc0gc40e22295d42" version="2">Defeat the Lava Elemental in the lava lake.</content>
   <content contentuid="h1067b5f2gac8fg282eg6e02g7dcec7fd7223" version="1">%%% EMPTY</content>
-  <content contentuid="hac5d01daga4c1gad23g9b47g0f37fcd665fa" version="5">This portable arcane instrument seems old, worn and imprecise. This item does not seem to come from the Sword Coast.</content>
+  <content contentuid="hac5d01daga4c1gad23g9b47g0f37fcd665fa" version="7">This portable arcane instrument seems old, worn and imprecise. This item does not seem to come from the Sword Coast.</content>
   <content contentuid="h034e1312gfc43g6baeg78d7g01fdf4a6d2af" version="1">This old skull-shaped device is filled with knowledge.</content>
-  <content contentuid="hababc55dg424dg34efg8a17g12622adedd4f" version="5">This small, smooth stone contains the essence of a single experience. You can touch and consume the stone and experience the sensation yourself.</content>
+  <content contentuid="hababc55dg424dg34efg8a17g12622adedd4f" version="7">This small, smooth stone contains the essence of a single experience. You can touch and consume the stone and experience the sensation yourself.</content>
   <content contentuid="hbbe6fb62g8720ge560g9f8egfb8255bb73c1" version="1">This small, smooth stone contains the essence of a single experience. You can touch and consume the stone and experience the sensation yourself.</content>
-  <content contentuid="hc1879bf9ge4f7g5255gc004g0781b6d42fc7" version="3">Warp Sense Scroll</content>
-  <content contentuid="h5eec5a4dg2405g2283g442eg631cc1ddc8f1" version="3">Gate Seal Scroll</content>
+  <content contentuid="hc1879bf9ge4f7g5255gc004g0781b6d42fc7" version="6">Warp Sense Scroll</content>
+  <content contentuid="h5eec5a4dg2405g2283g442eg631cc1ddc8f1" version="5">Gate Seal Scroll</content>
   <content contentuid="h553c82b2g12ebg58cbgbabfg1a9d16cfa477" version="2">Gate Seal Scroll</content>
   <content contentuid="hfcfb0f1bg0821ge78fgd3d8g860be08d4105" version="2">Gate Seal Scroll</content>
   <content contentuid="hc9aee5eege786g13f1gec8bgc3d884c981f3" version="1">Portal Cracker</content>
   <content contentuid="h8b3e8f81g355bg97c3ge7e7gef7c5c149603" version="1">Try to safely cast Portal Cracker.</content>
   <content contentuid="h39b148e5ga397g512bgc05dgc0ae5ac90c80" version="1">Sensory Stone</content>
-  <content contentuid="h8661c82cg968cg7376g49ecg0af9fc7371f0" version="4">Mimir</content>
-  <content contentuid="hc515d8bdgc91ag00afg3b5eg9f683089a0ae" version="9">Sensory Stone</content>
-  <content contentuid="ha39c241fgfdd5g1d77g28e2gde5843be5df1" version="5">Portal Compass</content>
-  <content contentuid="hc13933a5g243dg625bgbcd5g6992c525f1e5" version="5">This old inanimate skull-shaped device is filled with knowledge.</content>
+  <content contentuid="h8661c82cg968cg7376g49ecg0af9fc7371f0" version="6">Mimir</content>
+  <content contentuid="hc515d8bdgc91ag00afg3b5eg9f683089a0ae" version="11">Sensory Stone</content>
+  <content contentuid="ha39c241fgfdd5g1d77g28e2gde5843be5df1" version="7">Portal Compass</content>
+  <content contentuid="hc13933a5g243dg625bgbcd5g6992c525f1e5" version="7">This old inanimate skull-shaped device is filled with knowledge.</content>
   <content contentuid="h19f6dfd8gdc11gdbabgb792gf13be0ddb61e" version="1">Sensory Stone</content>
   <content contentuid="h11f6fe24g1b93ge170gdca1g5d79194cbfe5" version="1">Mimir</content>
   <content contentuid="h5c94facagf9ecg4524g5fcfg4db96e33cdbb" version="1">Portal Compass</content>
@@ -337,8 +337,8 @@
   <content contentuid="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1">Activate the Mimir and absorb its knowledge.</content>
   <content contentuid="hcd937889g2ddbg0436g8d85g6b74891d554c" version="1">Free thinker</content>
   <content contentuid="h7dd603ebg6c37g27d9gd5c2ge37c18b6d230" version="3">For those independent of mind and thought, who does not refer to any god. We often see this way of thinking among residents of Sigil. With a class like Cleric, a godless character can gain powers from their own convictions and principles.</content>
-  <content contentuid="h55a58843g198fg42beg8885g5d1fa3d64808" version="11">Portal Gate</content>
-  <content contentuid="h276ab033g0890g4653g9cadg0b61a1ec93a7" version="10">Connected with planar energies to its duplicate, this gate allows those who walk through to emerge from its twin gate.</content>
+  <content contentuid="h55a58843g198fg42beg8885g5d1fa3d64808" version="14">Portal Gate</content>
+  <content contentuid="h276ab033g0890g4653g9cadg0b61a1ec93a7" version="13">Connected with planar energies to its duplicate, this gate allows those who walk through to emerge from its twin gate.</content>
   <content contentuid="hbec64581g0ea1g8d21g6364g1d950a8f4eb4" version="1">Glitch Character</content>
   <content contentuid="hbd824043g2337g763eg7352gc4ca3a50f974" version="4">You remember strange places and strange times. It seems that you are not the only "you" in the multiverse. As an anomaly, other incarnations sometimes appear giving you bonuses.</content>
   <content contentuid="h8999ed50g75f7g3bf0g7ca0gbc3449663dda" version="3">Glitch Character Cast</content>
@@ -414,8 +414,8 @@
   <content contentuid="hbec539bdgfe54g30abg37caga453d77caef8" version="5">*Crrrkkk*</content>
   <content contentuid="h3a0ff6c2ge915g1a79g400agaab25e37fbd9" version="17">Morte</content>
   <content contentuid="h78db741fgb55cg325cg3153gd1f5d62b5f87" version="17">Mimir</content>
-  <content contentuid="hbdfa7db9g426agb016g1e61g43e526925235" version="10">Morte</content>
-  <content contentuid="h12bb70d7ga5d5g3412g4e03gf2c0b249875b" version="10">This old Mimir wants to wake up and talk.</content>
+  <content contentuid="hbdfa7db9g426agb016g1e61g43e526925235" version="11">Morte</content>
+  <content contentuid="h12bb70d7ga5d5g3412g4e03gf2c0b249875b" version="11">This old Mimir wants to wake up and talk.</content>
   <content contentuid="h7b481653g323ag3461gcd1ag86612f011e54" version="1">Morte</content>
   <content contentuid="hae6883e4gc6a3g8aaaged24ga4fca3eaef0f" version="1">This old Mimir wants to wake up and talk.</content>
   <content contentuid="h89f25f6fg526egf2e2gba52gf9320bcdc03f" version="45">Hey Chief !</content>
@@ -445,15 +445,15 @@
   <content contentuid="hae4b5e8eg835eg4515g5910ge4c0fd85fcb2" version="42">I need a sensory touch.</content>
   <content contentuid="h3406b210g2eddg30ccg8072g49ba5d3354c0" version="5">Can't wait to continue being a floating skull for the rest of eternity.</content>
   <content contentuid="hef75e573gd557gc235g8737ge71117f438d2" version="3">Thanks for reactivating me Chief, can't wait to go out and party.</content>
-  <content contentuid="h3fc28911g273ag101fgc378gd304d05dae4d" version="5">Dak'kon's Zerth Blade</content>
-  <content contentuid="h09e1a258g06d2g1251gd407g6d608385eb5d" version="5">This sword was the weapon of choice of a famous githzerai working for a creature known as the 'Nameless One'.</content>
-  <content contentuid="hbdf89fdfg63e2g9bb0gde4ag1db6887b6995" version="1">Mimir</content>
+  <content contentuid="h3fc28911g273ag101fgc378gd304d05dae4d" version="6">Dak'kon's Zerth Blade</content>
+  <content contentuid="h09e1a258g06d2g1251gd407g6d608385eb5d" version="6">This sword was the weapon of choice of a famous githzerai working for a creature known as the 'Nameless One'.</content>
+  <content contentuid="hbdf89fdfg63e2g9bb0gde4ag1db6887b6995" version="2">Mimir</content>
   <content contentuid="h86ddf0d5gb7e4g9970g06e4g93aa697ca8c4" version="26">Fall-from-Grace</content>
   <content contentuid="h9b38f13fg0b85gbc56gd42egf80ad69d48f3" version="26">Tanar'ri</content>
   <content contentuid="h7810c487g87e1ge76bgd482ge0272e45cbc4" version="1">Sensates contract</content>
-  <content contentuid="h121342c7gc1c5g0542g0012g86090ddac04e" version="6">Sensates contract</content>
+  <content contentuid="h121342c7gc1c5g0542g0012g86090ddac04e" version="7">Sensates contract</content>
   <content contentuid="hb4991804ga291g1f30g2c98g163887f7cce4" version="2">A planar contract to hire a member of the Society of Sensation.</content>
-  <content contentuid="hf1deb2d4g3a59g35a3g9402gee4ba94c7107" version="6">A planar contract to hire a member of the Society of Sensation.</content>
+  <content contentuid="hf1deb2d4g3a59g35a3g9402gee4ba94c7107" version="7">A planar contract to hire a member of the Society of Sensation.</content>
   <content contentuid="h1f4a9e1bg7e38g2c4fgb9a2ga4dcb567f023" version="5">What can change the nature of a man?</content>
   <content contentuid="h67ab32c9g0d64g8a3gbe4a2gdf01e21c45b6" version="5">Are you alright?</content>
   <content contentuid="h2d4e9a3fg8b77g5f5g81b0ag9c6e21d45023" version="5">How do you feel?</content>
@@ -466,9 +466,9 @@
   <content contentuid="h197f4dabg3eeegfb9dge10ag7280beda39e2" version="28">Annah</content>
   <content contentuid="h12bf9b74g4fcegc003g0da1ge7151a0dca17" version="10">Fiendling</content>
   <content contentuid="h44112202gb289gf648g7e66gfc2bd50fd990" version="1">Sharp tongue contract</content>
-  <content contentuid="hbbdccb8dg6150g46c8g4469gdf55b7ac2a72" version="6">Sharp tongue contract</content>
+  <content contentuid="hbbdccb8dg6150g46c8g4469gdf55b7ac2a72" version="7">Sharp tongue contract</content>
   <content contentuid="hda347ed4g1934g5536g2575g50b830602f72" version="1">A planar contract to hire a thief scavenger from Sigil.</content>
-  <content contentuid="h82eecc97g665fgb8b5g187fgffac3c634fd6" version="6">A planar contract to hire a thief scavenger from Sigil.</content>
+  <content contentuid="h82eecc97g665fgb8b5g187fgffac3c634fd6" version="7">A planar contract to hire a thief scavenger from Sigil.</content>
   <content contentuid="h8d2e9f4bg6a77g0a8g5b7cag79cd432e1805" version="8">Accent? What are ye on about?</content>
   <content contentuid="h3b5f7d2eg1d42g7e8g6f8b4g8cb523f6719c" version="8">Torment.</content>
   <content contentuid="h9e1c4a6fg0c64g9d5g3e6aag1cd842f3020d" version="8">What?!</content>
@@ -478,14 +478,14 @@
   <content contentuid="h7e6f8b1ag2d45g4c3g1f7b6g4ea234c5102d" version="8">Ready.</content>
   <content contentuid="h1f9b2d4fg6e39g7e8g5c4a8g3fd971d67203" version="8">I'm not that sort o' girl.</content>
   <content contentuid="hf4b3e2a9g9d76g1f4g6a8b7g2ca483e51219" version="8">Eh?</content>
-  <content contentuid="h672496b9gdce8g6d0ag8488gb67e5b5c1bbf" version="2">End the &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;charmed&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;frightened&lt;/LSTag&gt; condition.</content>
-  <content contentuid="hec9e6248g566dg208agf004g76521f10bf77" version="1">Siphon Sensation</content>
+  <content contentuid="h672496b9gdce8g6d0ag8488gb67e5b5c1bbf" version="4">End the &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;charmed&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;frightened&lt;/LSTag&gt; condition.</content>
+  <content contentuid="hec9e6248g566dg208agf004g76521f10bf77" version="3">Siphon Sensation</content>
   <content contentuid="hd3b08708g7556gd184g4e19gc2618bbfa00d" version="1">Your background and your adventure experience mean that you linked yourself to a plan a long time ago.</content>
   <content contentuid="ha2bb4d68gc28fg19a6g43bcg65b4b4652847" version="1">Planescape Pouch</content>
   <content contentuid="hf56b6440gc00cga1a5g505bg38db517ede50" version="1">A simple pouch containing planar items.</content>
   <content contentuid="h55ecf3fbg65faga0c4g6f1cgcf35fc7c3d01" version="1">Portal Compass</content>
   <content contentuid="hb18a258bge5f5gc59ag7f99g6b6c682f6db3" version="1">You gain a Proficienty bonus in Arcana and Perception.</content>
-  <content contentuid="h6accf78cg81b0g4769gb3c3g570e2714d57e" version="1">Having this item in inventory grants you its magical effect.</content>
+  <content contentuid="h6accf78cg81b0g4769gb3c3g570e2714d57e" version="3">Having this item in inventory grants you its magical effect.</content>
   <content contentuid="hf642f457gd2d9g63abgb663g925404abae05" version="1">Portal detected</content>
   <content contentuid="hb52aaae7g5a0cgd77ag0cdcgdfb890b9bbdc" version="1">You have detected portal traces.</content>
   <content contentuid="h0a5fae24g4c79g4497g04d4g20fcfdd88153" version="1">You have detected portal traces of a hag.</content>

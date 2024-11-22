@@ -13,7 +13,7 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="a6176fba-e47e-4bfa-ab43-cfed1214a4c8" />
-        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_Mimir" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_Mimir_Template" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="a229f048-70b0-4b0c-88cb-29b5c6bdb2d0" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
@@ -42,7 +42,6 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="This old skull-shaped device is filled with knowledge." />
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
         <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Scroll" enumeration_type_name="ItemUseTypes" version="1" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="55e494ef-762f-4201-b287-10d42e23bdd9" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
         <field name="AcidResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="ColdResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
@@ -58,8 +57,16 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e65cf3f1-7be2-4a64-a5ec-44fa06b65495" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_Mimir" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a6176fba-e47e-4bfa-ab43-cfed1214a4c8" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="55e494ef-762f-4201-b287-10d42e23bdd9" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="b9301bfb-3fbd-43b2-8c37-bf6d2147ded5" />
-        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_PortalCompass" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_PortalCompass_Template" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0e7be35-8be4-483d-afa8-dc9a104ea758" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
@@ -85,9 +92,8 @@
         <field name="MinimumDetectionRange" type="IntegerTableFieldDefinition" value="0" />
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Magical" enumeration_type_name="InventoryTabs" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="This portable arcane instrument seems old, worn and imprecise." />
-        <field name="UseCosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="EMPTY" />
+        <field name="UseCosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="ItemUseTypes" version="1" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="3e30def1-0d63-4488-86f4-0f0e492aef3e" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
         <field name="AddToBottomBar" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="IgnoredByAI" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
@@ -97,8 +103,16 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="450a81dd-8f8b-46cb-9e15-ab1991e0f371" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_PortalCompass" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b9301bfb-3fbd-43b2-8c37-bf6d2147ded5" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="3e30def1-0d63-4488-86f4-0f0e492aef3e" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="5ab43e65-77a0-48ea-a294-0e6058aa27d4" />
-        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_SensoryStone" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_SensoryStone_Template" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="76f5b0ab-ca1c-4c19-9787-f2310ca386a4" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
@@ -130,16 +144,22 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="This small, smooth stone contains the essence of a single experience. You can throw the stone, breaking it in the process, to end the charmed or frightened condition on someone. Or you can touch and consume the stone and experience the sensation yourself." />
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a5d833e9-ca2f-44fd-b714-bbb36c2f9d47" />
         <field name="AddToBottomBar" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="IgnoredByAI" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4e256059-755c-46a4-a69f-708113c6ab9b" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_SensoryStone" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="5ab43e65-77a0-48ea-a294-0e6058aa27d4" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a5d833e9-ca2f-44fd-b714-bbb36c2f9d47" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="e81259e1-1423-4932-af04-85894de52907" />
-        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Scroll_Paitm_GateSeal" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="9caeb87b-fe08-4ceb-8231-c0b91d6d082a" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Scroll_Paitm_GateSeal_Template" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="903e4dee-a3d5-4f72-8b72-c81541fd29aa" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
@@ -176,9 +196,16 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="271cf040-cc22-4621-a1ad-ffc1683a9fe5" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Scroll_Paitm_GateSeal" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e81259e1-1423-4932-af04-85894de52907" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="9caeb87b-fe08-4ceb-8231-c0b91d6d082a" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="b3b81697-2c6a-44f7-b474-a1aa2164e9a0" />
-        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Scroll_Paitm_WarpSense" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="0449d8a2-fe45-45c9-82f9-46ad856864e4" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Scroll_Paitm_WarpSense_Template" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="2" />
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="903e4dee-a3d5-4f72-8b72-c81541fd29aa" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
@@ -211,6 +238,14 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
         <field name="AddToBottomBar" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="IgnoredByAI" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="34a35313-058a-4e7b-8bea-0e00ce559009" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Scroll_Paitm_WarpSense" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b3b81697-2c6a-44f7-b474-a1aa2164e9a0" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="0449d8a2-fe45-45c9-82f9-46ad856864e4" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -257,46 +292,10 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="f40dcb50-a984-4da5-99b8-1b2e11f725a6" />
+        <field name="UUID" type="IdTableFieldDefinition" value="62ee838f-935c-4fdd-831f-6b189fe86f42" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_Mimir_Morte" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c876f612-3944-4035-aefc-ea4a861e8bfc" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b3d600f4-d877-4926-87c4-8cd1488bc2e4" />
-        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
-        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="903e4dee-a3d5-4f72-8b72-c81541fd29aa" />
-        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
-        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
-        <field name="Value" type="IntegerTableFieldDefinition" value="1999" />
-        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
-        <field name="Weight" type="FloatTableFieldDefinition" value="5" />
-        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
-        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="22" />
-        <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SG_Condition;BLEEDING;MAG_ATTACK_DEBUFF" />
-        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Consumable" enumeration_type_name="InventoryTabs" version="1" />
-        <field name="AddToBottomBar" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="IgnoredByAI" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
-        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="This old Mimir wants to wake up and talk." />
-        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
-        <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Scroll" enumeration_type_name="ItemUseTypes" version="1" />
-        <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="SlashingResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="PiercingResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="AcidResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="ColdResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="FireResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="ForceResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="LightningResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="NecroticResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="PoisonResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="PsychicResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="RadiantResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="ThunderResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="UseConditions" type="StringTableFieldDefinition" value="not IsSummonWithoutMouth()" />
-        <field name="Sight" type="IntegerTableFieldDefinition" value="0" />
-        <field name="FOV" type="IntegerTableFieldDefinition" value="0" />
-        <field name="DarkvisionRange" type="IntegerTableFieldDefinition" value="0" />
-        <field name="MinimumDetectionRange" type="IntegerTableFieldDefinition" value="0" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -344,45 +343,10 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="f8b8c48b-6ad2-49c1-831e-1a31b3f1f454" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7c814fd8-9870-4a7d-8ab8-4df95d7b8346" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_Annah" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2ba0c892-d8db-4ab3-8e1d-3faf8071810d" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="082b1eaa-939d-4d58-9a65-1349cc865cd2" />
-        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
-        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="903e4dee-a3d5-4f72-8b72-c81541fd29aa" />
-        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
-        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
-        <field name="Value" type="IntegerTableFieldDefinition" value="1999" />
-        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
-        <field name="Weight" type="FloatTableFieldDefinition" value="0.02" />
-        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
-        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="22" />
-        <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SG_Condition;BLEEDING;MAG_ATTACK_DEBUFF" />
-        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Consumable" enumeration_type_name="InventoryTabs" version="1" />
-        <field name="AddToBottomBar" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="IgnoredByAI" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
-        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
-        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
-        <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Scroll" enumeration_type_name="ItemUseTypes" version="1" />
-        <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="SlashingResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="PiercingResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="AcidResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="ColdResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="FireResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="ForceResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="LightningResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="NecroticResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="PoisonResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="PsychicResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="RadiantResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="ThunderResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="UseConditions" type="StringTableFieldDefinition" value="not IsSummonWithoutMouth()" />
-        <field name="Sight" type="IntegerTableFieldDefinition" value="0" />
-        <field name="FOV" type="IntegerTableFieldDefinition" value="0" />
-        <field name="DarkvisionRange" type="IntegerTableFieldDefinition" value="0" />
-        <field name="MinimumDetectionRange" type="IntegerTableFieldDefinition" value="0" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -430,45 +394,10 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="0b633756-9e3d-4865-840d-4f0314439a1d" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c8536bac-4a55-4138-b7bc-5cadc3293830" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_FallFromGrace" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="bdea8397-5de8-4aad-a9a5-7af524b4a221" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f8ed0e96-a9c8-48d5-abde-c0c6f9368bba" />
-        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
-        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="903e4dee-a3d5-4f72-8b72-c81541fd29aa" />
-        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
-        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
-        <field name="Value" type="IntegerTableFieldDefinition" value="1999" />
-        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
-        <field name="Weight" type="FloatTableFieldDefinition" value="0.02" />
-        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
-        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="22" />
-        <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SG_Condition;BLEEDING;MAG_ATTACK_DEBUFF" />
-        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Consumable" enumeration_type_name="InventoryTabs" version="1" />
-        <field name="AddToBottomBar" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="IgnoredByAI" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
-        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
-        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
-        <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Scroll" enumeration_type_name="ItemUseTypes" version="1" />
-        <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="SlashingResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="PiercingResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="AcidResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="ColdResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="FireResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="ForceResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="LightningResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="NecroticResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="PoisonResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="PsychicResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="RadiantResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="ThunderResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="UseConditions" type="StringTableFieldDefinition" value="not IsSummonWithoutMouth()" />
-        <field name="Sight" type="IntegerTableFieldDefinition" value="0" />
-        <field name="FOV" type="IntegerTableFieldDefinition" value="0" />
-        <field name="DarkvisionRange" type="IntegerTableFieldDefinition" value="0" />
-        <field name="MinimumDetectionRange" type="IntegerTableFieldDefinition" value="0" />
       </fields>
     </stat_object>
   </stat_objects>
