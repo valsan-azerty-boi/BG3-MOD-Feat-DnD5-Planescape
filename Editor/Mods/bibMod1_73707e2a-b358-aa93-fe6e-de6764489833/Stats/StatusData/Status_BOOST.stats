@@ -81,7 +81,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="26014d5e-6f45-4131-a615-3f46254cc799" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_WarpSense_PortalDetected_Buff" />
         <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_PortalCracker" />
-        <field name="StackId" type="StringTableFieldDefinition" value="PAITM_WPS_PORTDETCT_STACK" />
+        <field name="StackId" type="StringTableFieldDefinition" value="PAITM_WARPSENSE_STACK" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf642f457gd2d9g63abgb663g925404abae05" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb52aaae7g5a0cgd77ag0cdcgdfb890b9bbdc" version="1" />
@@ -479,6 +479,7 @@
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="0d1f50f9-b164-499a-9829-2ab46810597d" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc4877bc9gf86ag4709ga9d8g4d9830dc267a" version="2" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Red" enumeration_type_name="FormatStringColor" version="1" />
         <field name="RemoveConditions" type="RollConditionsTableFieldDefinition" value="not Combat()" />
         <field name="RemoveEvents" type="EnumerationListTableFieldDefinition" value="OnTurn;OnCombatEnded" enumeration_type_name="StatusEvent" version="1" />
         <field name="TickFunctors" type="FunctorsTableFieldDefinition" value="IF(not Combat(context.Source)):RemoveStatus(Paitm_SEALED)" />
