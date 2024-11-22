@@ -146,14 +146,14 @@ HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
 THEN
 ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_Nightsong_Buff", 60.0);
 
-IF
-EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_NightsongEndRoom_EventTrigger_e813b70a-681b-4efd-8d93-192c13d22012)
-AND
-DB_Players(_Player)
-AND
-HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
-THEN
-ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_Nightsong_Buff", 60.0);
+//IF
+//EnteredTrigger((CHARACTER)_Player, (TRIGGER)PAITM_WarpSense_NightsongEndRoom_EventTrigger_e813b70a-681b-4efd-8d93-192c13d22012)
+//AND
+//DB_Players(_Player)
+//AND
+//HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+//THEN
+//ApplyStatus((GUIDSTRING)_Player, "Paitm_WS_PortalDetected_Nightsong_Buff", 60.0);
 
 //END_REGION
 
