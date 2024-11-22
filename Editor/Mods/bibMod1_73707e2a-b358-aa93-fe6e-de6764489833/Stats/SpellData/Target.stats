@@ -117,14 +117,14 @@
         <field name="Level" type="IntegerTableFieldDefinition" value="4" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Abjuration" enumeration_type_name="SpellSchool" version="1" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_SEALED_Debuff,100,10)" />
-        <field name="TargetRadius" type="StringTableFieldDefinition" value="22" />
-        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="9" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_SEALED, 100, 10)" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
+        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
         <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_GateSeal" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6d4f5178g1938g00a2gf920g880454834028" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="3" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_SEALED,100,5)" />
-        <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_SEALED,100,10)" />
+        <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="fcc00846-6526-4d5d-9933-7f3e0bd7e2ef" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Spell_Prepare_Debuff_Gen_L1to3_01" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Spell_Prepare_Debuff_Gen_L1to3_01_Loop" />
         <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Utility_ArcaneLock_L1to3" />
@@ -134,17 +134,17 @@
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:4" />
         <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="9313094a-bae2-454f-9701-f920d0e8e98d,,;,,;4148823a-6dbc-4692-a8ff-71520315a10f,,;1b8cdb9d-6f8e-4161-901c-1fd7a7787c7c,,;808fdfab-2e6c-472e-b3c4-19ce4a719d9d,,;,,;ea745d30-eb87-447f-b190-c81298e27d9c,,;,,;,," />
         <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Debuff" enumeration_type_name="VerbalIntent" version="1" />
-        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell" enumeration_type_name="SpellFlagList" version="1" />
-        <field name="MaximumTargets" type="IntegerTableFieldDefinition" value="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell;RangeIgnoreVerticalThreshold" enumeration_type_name="SpellFlagList" version="1" />
         <field name="SpellPrepareCost" type="IntegerTableFieldDefinition" value="1" />
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="556fd141-698d-4c08-9322-ad155821260a" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="38776222-db33-4b53-9e23-ca3b47ab58cb" />
-        <field name="TargetEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="b5b72f72-297b-4a96-b215-b5611359555a" />
-        <field name="PositionEffect" type="GuidObjectTableFieldDefinition" value="7db045f9-83ac-4768-88c8-48563b685a9d" />
+        <field name="TargetEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="PositionEffect" type="GuidObjectTableFieldDefinition" value="863456af-4e7d-4251-bf86-935e18c4b444" />
         <field name="HighlightConditions" type="StringTableFieldDefinition" value="Character() and not Dead()" />
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="4" />
         <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
         <field name="SpellStyleGroup" type="EnumerationTableFieldDefinition" value="Class" enumeration_type_name="SpellStyleGroup" version="1" />
+        <field name="Requirements" type="StringTableFieldDefinition" value="Combat" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -161,7 +161,6 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="541548c8-1a4b-4da2-8e34-29bb24846e1b" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GateSeal_6" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_SEALED,100,10)" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:6" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="c86b6694-8f94-4b02-9b18-3c69c94de8f8" />
         <field name="RootSpellID" type="StringTableFieldDefinition" value="Target_Paitm_GateSeal" />
@@ -172,7 +171,6 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="17e7c710-b2e9-4168-9535-bd9983e05350" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GateSeal_7" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_SEALED,100,10)" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:7" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="541548c8-1a4b-4da2-8e34-29bb24846e1b" />
         <field name="RootSpellID" type="StringTableFieldDefinition" value="Target_Paitm_GateSeal" />
@@ -183,7 +181,6 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="af9b264a-734a-4218-95ac-43b1c2346c89" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GateSeal_8" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_SEALED,100,10)" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:8" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="541548c8-1a4b-4da2-8e34-29bb24846e1b" />
         <field name="RootSpellID" type="StringTableFieldDefinition" value="Target_Paitm_GateSeal" />
@@ -194,7 +191,6 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="7567d5f0-2c4d-4ffb-84c6-badfaff2fa3d" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GateSeal_9" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_SEALED,100,10)" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:9" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="541548c8-1a4b-4da2-8e34-29bb24846e1b" />
         <field name="RootSpellID" type="StringTableFieldDefinition" value="Target_Paitm_GateSeal" />

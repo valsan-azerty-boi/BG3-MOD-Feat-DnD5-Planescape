@@ -470,16 +470,19 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="ba33d685-cdd5-4bb9-994e-3388b588e3dc" />
-        <field name="Name" type="NameTableFieldDefinition" value="Paitm_SEALED_Debuff" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_SEALED" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbb5bea25g6704gc77fg568agc308cbd55f8d" version="1" />
         <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_GateSeal" />
         <field name="SoundStart" type="StringTableFieldDefinition" value="Misc_Status_Silence_Gameobject_Mute" />
         <field name="SoundStop" type="StringTableFieldDefinition" value="Misc_Status_Silence_Gameobject_Unmute" />
         <field name="StackId" type="StringTableFieldDefinition" value="PAITM_SEALED" />
-        <field name="StackPriority" type="IntegerTableFieldDefinition" value="1" />
-        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Condition" enumeration_type_name="StatusGroupFlags" version="1" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="0d1f50f9-b164-499a-9829-2ab46810597d" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc4877bc9gf86ag4709ga9d8g4d9830dc267a" version="2" />
+        <field name="RemoveConditions" type="RollConditionsTableFieldDefinition" value="not Combat()" />
+        <field name="RemoveEvents" type="EnumerationListTableFieldDefinition" value="OnTurn;OnCombatEnded" enumeration_type_name="StatusEvent" version="1" />
+        <field name="TickFunctors" type="FunctorsTableFieldDefinition" value="IF(not Combat(context.Source)):RemoveStatus(Paitm_SEALED)" />
+        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(Paitm_SEALED)" />
       </fields>
     </stat_object>
   </stat_objects>
