@@ -339,3 +339,21 @@ type "Object"
 using "OBJ_Paitm_FallFromGrace_Template"
 data "RootTemplate" "f8ed0e96-a9c8-48d5-abde-c0c6f9368bba"
 
+new entry "OBJ_Paitm_CharmIncorporeality_Template"
+type "Object"
+data "ValueLevel" "1"
+data "ValueUUID" "1f40e7a6-fb87-41ab-9da9-282a359b7e89"
+
+new entry "OBJ_Paitm_CharmIncorporeality"
+type "Object"
+using "OBJ_Paitm_CharmIncorporeality_Template"
+
+new entry "OBJ_Paitm_CharmDeadTruce_Template"
+type "Object"
+data "ValueLevel" "1"
+data "ValueUUID" "1f40e7a6-fb87-41ab-9da9-282a359b7e89"
+
+new entry "OBJ_Paitm_CharmDeadTruce"
+type "Object"
+using "OBJ_Paitm_CharmDeadTruce_Template"
+

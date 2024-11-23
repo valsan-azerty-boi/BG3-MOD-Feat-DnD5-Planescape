@@ -11,7 +11,7 @@
         <field name="DefaultBoosts" type="StringTableFieldDefinition" value="WeaponEnchantment(2);WeaponProperty(Magical)" />
         <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SILENCED;SG_Condition;BLEEDING;BURNING" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_MAG_SpellSlotRestoration);AC(1);UnlockSpell(Target_PommelStrike);UnlockSpell(Target_Slash_New);UnlockSpell(Rush_SpringAttack)" />
-        <field name="BoostsOnEquipMainHand" type="StringTableFieldDefinition" clear_inherited_value="true" value="UnlockSpell(Target_PommelStrike);UnlockSpell(Target_Slash_New);UnlockSpell(Rush_SpringAttack);" />
+        <field name="BoostsOnEquipMainHand" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MartialWeapons;Longswords" enumeration_type_name="ProficiencyGroupFlags" version="1" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
         <field name="Damage Type" type="EnumerationTableFieldDefinition" value="Slashing" enumeration_type_name="Damage Type" version="1" />
@@ -53,6 +53,177 @@
         <field name="Weight" type="FloatTableFieldDefinition" value="0.02" />
         <field name="StatusOnEquip" type="StringTableFieldDefinition" value="EXTRA_ATTACK" />
         <field name="VersatileDamage" type="DiceTableFieldDefinition" value="11d10+201" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="098e5660-4ff0-4240-9261-9aad0a1cc01c" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_ShiningBlade_Template" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f7daec68-f627-4e0a-9392-a089f8035f16" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_ShiningBlade" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="098e5660-4ff0-4240-9261-9aad0a1cc01c" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1ecabc02-49d6-4580-acfe-2d815e81af78" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_BarbedJavelin_Template" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="260f3222-ac44-43e5-ae03-06874784baec" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_BarbedJavelin" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ecabc02-49d6-4580-acfe-2d815e81af78" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d7e1d4ff-2f1a-48cc-b374-04e41787d0ec" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_EnervatingTrident_Template" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3178037b-2b21-44b0-8179-5a0148ff4b78" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_EnervatingTrident" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d7e1d4ff-2f1a-48cc-b374-04e41787d0ec" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7b650cb9-0605-4f54-b27a-e49a508322cc" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_BoneBlade_Template" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="af095d66-e76b-4f42-8877-ba97b8ecfcb8" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_BoneBlade" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7b650cb9-0605-4f54-b27a-e49a508322cc" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e2b9576a-dbca-4bce-b579-89bde1b94461" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_UnerringBlade_Template" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="12777e4f-f08f-4964-b34b-bed183775321" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_UnerringBlade" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e2b9576a-dbca-4bce-b579-89bde1b94461" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1cc3a129-9fb7-4929-b425-265e1465f30e" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_ManifestedBlade_Template" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d0b377a2-a5e9-4ba6-ba92-254e594e4da6" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_ManifestedBlade" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1cc3a129-9fb7-4929-b425-265e1465f30e" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d10f6113-7364-443f-819e-5e82c1b5aa9b" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_BurnishedBlade_Template" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e5890a7d-8f3b-476b-a79c-296132393c56" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_BurnishedBlade" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d10f6113-7364-443f-819e-5e82c1b5aa9b" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c259fa23-8442-4f5d-a7fe-6596bb3de6a9" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_ForceDagger_Template" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7942985d-1952-4e54-89b4-51cf36fe598c" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_ForceDagger" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c259fa23-8442-4f5d-a7fe-6596bb3de6a9" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5ef923c7-b2a6-474f-8f40-734d81badb21" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_EntropicGreatsword_Template" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="91471f1b-0b05-44ba-b8ba-fc812381d9ec" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_EntropicGreatsword" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="5ef923c7-b2a6-474f-8f40-734d81badb21" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ab109bb2-d616-4e2b-96a5-d41dc67bdb1b" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_EntropicJavelin_Template" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="dcffdf32-005d-4089-a31b-5e5da7def337" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_EntropicJavelin" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ab109bb2-d616-4e2b-96a5-d41dc67bdb1b" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9fbc5399-468e-42ec-a634-e0a87338a17e" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_HavocHammer_Template" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a12ca44d-27bf-4f84-981e-aeda7b794695" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_HavocHammer" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="9fbc5399-468e-42ec-a634-e0a87338a17e" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e4ad164d-b1f3-4e76-8e55-b9c6441ce497" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_HarmoniumBlade_Template" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4835ee93-ecd7-4203-b154-2f33c605548a" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_HarmoniumBlade" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e4ad164d-b1f3-4e76-8e55-b9c6441ce497" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="40429be5-2176-4dd5-9f31-27e0bb66e9db" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_ElectrifiedMancatcher_Template" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="96db25ae-b470-4252-879d-fd9adfbfa8d1" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_ElectrifiedMancatcher" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="40429be5-2176-4dd5-9f31-27e0bb66e9db" />
       </fields>
     </stat_object>
   </stat_objects>

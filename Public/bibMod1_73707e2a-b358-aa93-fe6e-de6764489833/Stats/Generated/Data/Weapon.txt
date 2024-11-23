@@ -43,3 +43,96 @@ data "Weight" "0.02"
 data "StatusOnEquip" "EXTRA_ATTACK"
 data "VersatileDamage" "11d10+201"
 
+new entry "WPN_Paitm_ShiningBlade_Template"
+type "Weapon"
+data "Level" "1"
+data "UseCosts" "ActionPoint:1"
+
+new entry "WPN_Paitm_ShiningBlade"
+type "Weapon"
+using "WPN_Paitm_ShiningBlade_Template"
+
+new entry "WPN_Paitm_BarbedJavelin_Template"
+type "Weapon"
+
+new entry "WPN_Paitm_BarbedJavelin"
+type "Weapon"
+using "WPN_Paitm_BarbedJavelin_Template"
+
+new entry "WPN_Paitm_EnervatingTrident_Template"
+type "Weapon"
+
+new entry "WPN_Paitm_EnervatingTrident"
+type "Weapon"
+using "WPN_Paitm_EnervatingTrident_Template"
+
+new entry "WPN_Paitm_BoneBlade_Template"
+type "Weapon"
+
+new entry "WPN_Paitm_BoneBlade"
+type "Weapon"
+using "WPN_Paitm_BoneBlade_Template"
+
+new entry "WPN_Paitm_UnerringBlade_Template"
+type "Weapon"
+
+new entry "WPN_Paitm_UnerringBlade"
+type "Weapon"
+using "WPN_Paitm_UnerringBlade_Template"
+
+new entry "WPN_Paitm_ManifestedBlade_Template"
+type "Weapon"
+
+new entry "WPN_Paitm_ManifestedBlade"
+type "Weapon"
+using "WPN_Paitm_ManifestedBlade_Template"
+
+new entry "WPN_Paitm_BurnishedBlade_Template"
+type "Weapon"
+
+new entry "WPN_Paitm_BurnishedBlade"
+type "Weapon"
+using "WPN_Paitm_BurnishedBlade_Template"
+
+new entry "WPN_Paitm_ForceDagger_Template"
+type "Weapon"
+
+new entry "WPN_Paitm_ForceDagger"
+type "Weapon"
+using "WPN_Paitm_ForceDagger_Template"
+
+new entry "WPN_Paitm_EntropicGreatsword_Template"
+type "Weapon"
+
+new entry "WPN_Paitm_EntropicGreatsword"
+type "Weapon"
+using "WPN_Paitm_EntropicGreatsword_Template"
+
+new entry "WPN_Paitm_EntropicJavelin_Template"
+type "Weapon"
+
+new entry "WPN_Paitm_EntropicJavelin"
+type "Weapon"
+using "WPN_Paitm_EntropicJavelin_Template"
+
+new entry "WPN_Paitm_HavocHammer_Template"
+type "Weapon"
+
+new entry "WPN_Paitm_HavocHammer"
+type "Weapon"
+using "WPN_Paitm_HavocHammer_Template"
+
+new entry "WPN_Paitm_HarmoniumBlade_Template"
+type "Weapon"
+
+new entry "WPN_Paitm_HarmoniumBlade"
+type "Weapon"
+using "WPN_Paitm_HarmoniumBlade_Template"
+
+new entry "WPN_Paitm_ElectrifiedMancatcher_Template"
+type "Weapon"
+
+new entry "WPN_Paitm_ElectrifiedMancatcher"
+type "Weapon"
+using "WPN_Paitm_ElectrifiedMancatcher_Template"
+

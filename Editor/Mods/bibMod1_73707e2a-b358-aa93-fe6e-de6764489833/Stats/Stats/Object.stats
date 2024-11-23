@@ -400,5 +400,35 @@
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f8ed0e96-a9c8-48d5-abde-c0c6f9368bba" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="26e97b8d-386d-4ca8-8cb9-fbcbd9fdddba" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_CharmIncorporeality_Template" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="1f40e7a6-fb87-41ab-9da9-282a359b7e89" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e1c27f71-dd23-4e39-ad91-9a7aac4a12f7" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_CharmIncorporeality" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26e97b8d-386d-4ca8-8cb9-fbcbd9fdddba" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6fb5759d-c455-4054-b2b5-bed56341fc4a" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_CharmDeadTruce_Template" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="1f40e7a6-fb87-41ab-9da9-282a359b7e89" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="97dfa802-b5ed-4886-9541-9acd6d9c3fba" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_CharmDeadTruce" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6fb5759d-c455-4054-b2b5-bed56341fc4a" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

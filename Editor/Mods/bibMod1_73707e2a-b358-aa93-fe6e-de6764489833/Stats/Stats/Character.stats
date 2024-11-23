@@ -35,7 +35,7 @@
         <field name="FOV" type="IntegerTableFieldDefinition" value="90" />
         <field name="StepsType" type="EnumerationTableFieldDefinition" value="Bare" enumeration_type_name="StepsType" version="1" />
         <field name="Proficiency Bonus Scaling" type="GuidObjectTableFieldDefinition" value="265d62c4-9b82-4ed6-9a86-da675b4ef8fe" />
-        <field name="DifficultyStatuses" type="StringTableFieldDefinition" clear_inherited_value="true" value="EMPTY" />
+        <field name="DifficultyStatuses" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -73,11 +73,12 @@
         <field name="AcidResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="FireResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="LightningResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="NecroticResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="NecroticResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="PoisonResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="PsychicResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="ThunderResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="DifficultyStatuses" type="StringTableFieldDefinition" clear_inherited_value="true" value="EMPTY" />
+        <field name="DifficultyStatuses" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" value="Vulnerable" enumeration_type_name="ResistanceFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -115,7 +116,7 @@
         <field name="ActionResources" type="StringTableFieldDefinition" value="Movement:12;ActionPoint:1;BonusActionPoint:2;ReactionActionPoint:1" />
         <field name="Passives" type="StringTableFieldDefinition" value="Tiefling_HellishResistance;AttackOfOpportunity;DarknessRules;Darkvision;Paitm_PlanarInfusion_Poison;Paitm_CohortOfChaos;DualWielder_PassiveBonuses;Alert;Mobile_PassiveBonuses;SavageAttacker;Assassinate_Initiative;Assassinate_Ambush;Assassinate_Resource" />
         <field name="AcidResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="DifficultyStatuses" type="StringTableFieldDefinition" clear_inherited_value="true" value="EMPTY" />
+        <field name="DifficultyStatuses" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -154,7 +155,7 @@
         <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SG_Charmed" />
         <field name="ActionResources" type="StringTableFieldDefinition" value="Movement:9;ActionPoint:1;BonusActionPoint:1;ReactionActionPoint:1" />
         <field name="Passives" type="StringTableFieldDefinition" value="Tiefling_HellishResistance;DarknessRules;Darkvision;Paitm_PlanarInfusion_Force;Paitm_AgentOfOrder" />
-        <field name="DifficultyStatuses" type="StringTableFieldDefinition" clear_inherited_value="true" value="EMPTY" />
+        <field name="DifficultyStatuses" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
       </fields>
     </stat_object>
   </stat_objects>
