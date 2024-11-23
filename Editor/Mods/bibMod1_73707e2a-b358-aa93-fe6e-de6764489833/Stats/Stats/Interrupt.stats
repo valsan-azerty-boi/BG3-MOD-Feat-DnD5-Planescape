@@ -8,7 +8,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1c8b8d38gc2a8g380cg8a2cgc7cbaaa07449" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h6be0c2degf8d2gf7d4g2601g3fef053dc7fe" version="4" />
         <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(1d6,Necrotic);RegainHitPoints(1d6)" />
-        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_DevilsSight" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_BalefulScion" />
         <field name="InterruptContext" type="EnumerationListTableFieldDefinition" value="OnCastHit" enumeration_type_name="InterruptContext" version="1" />
         <field name="InterruptContextScope" type="EnumerationListTableFieldDefinition" value="Self" enumeration_type_name="InterruptContextScope" version="1" />
         <field name="Container" type="StringTableFieldDefinition" value="YesNoDecision" />
@@ -26,7 +26,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h179c540dg33ecg394dgd2cagb075484fbbd4" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="heab337b1g2162gdd98gc8aag6cde93106e6c" version="3" />
         <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(1d8,Force)" />
-        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_JackOfAllTrades" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_AgentOfOrder" />
         <field name="InterruptContext" type="EnumerationListTableFieldDefinition" value="OnCastHit" enumeration_type_name="InterruptContext" version="1" />
         <field name="InterruptContextScope" type="EnumerationListTableFieldDefinition" value="Self" enumeration_type_name="InterruptContextScope" version="1" />
         <field name="Container" type="StringTableFieldDefinition" value="YesNoDecision" />
@@ -43,7 +43,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Interrupt_Paitm_SoothePain" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1277ed5cgfce9g69bdg7ba3g5da310c9534b" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hee33068dgb4edg1702gcc1cga51de5ad3d5f" version="4" />
-        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_DarkOnesBlessing" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_RighteousHeritor" />
         <field name="InterruptContext" type="EnumerationListTableFieldDefinition" value="OnPreDamage" enumeration_type_name="InterruptContext" version="1" />
         <field name="InterruptContextScope" type="EnumerationListTableFieldDefinition" value="Nearby;Self" enumeration_type_name="InterruptContextScope" version="1" />
         <field name="Container" type="StringTableFieldDefinition" value="YesNoDecision" />
@@ -60,7 +60,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Interrupt_Paitm_ChaoticFlare" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="haf7bfe00g5b51g2e49gf6bbg33a5f79ba0cf" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="habbd4ca6gd7b9gb061gcf44gb220701f10dd" version="2" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Action_Barbarian_Frenzy" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_CohortOfChaos" />
         <field name="InterruptContext" type="EnumerationListTableFieldDefinition" value="OnCastHit" enumeration_type_name="InterruptContext" version="1" />
         <field name="InterruptContextScope" type="EnumerationListTableFieldDefinition" value="Self" enumeration_type_name="InterruptContextScope" version="1" />
         <field name="Container" type="StringTableFieldDefinition" value="YesNoDecision" />
