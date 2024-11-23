@@ -70,6 +70,7 @@ new entry "Target_Paitm_MimirKnowledge_Bonus"
 type "SpellData"
 data "SpellType" "Target"
 using "Target_Paitm_Tongues_Bonus"
+data "Icon" "Plns_Spell_Knowledge"
 data "DisplayName" "hebd9c2cbgc7bdgf824gbb3fge923b39d701d;1"
 
 new entry "Target_Paitm_ChaoticFlare_Unbound_Teleport"

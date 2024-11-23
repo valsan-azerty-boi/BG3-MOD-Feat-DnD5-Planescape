@@ -6,10 +6,10 @@
             <children>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="Paitm_Spell_AgentOfOrder"/>
-                    <attribute id="U1" type="float" value="0.12597656"/>
-                    <attribute id="U2" type="float" value="0.24902344"/>
-                    <attribute id="V1" type="float" value="0.37597656"/>
-                    <attribute id="V2" type="float" value="0.49902344"/>
+                    <attribute id="U1" type="float" value="0.75097656"/>
+                    <attribute id="U2" type="float" value="0.87402344"/>
+                    <attribute id="V1" type="float" value="0.25097656"/>
+                    <attribute id="V2" type="float" value="0.37402344"/>
                 </node>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="Paitm_Spell_BalefulScion"/>
@@ -20,24 +20,24 @@
                 </node>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="Paitm_Spell_CohortOfChaos"/>
-                    <attribute id="U1" type="float" value="0.25097656"/>
-                    <attribute id="U2" type="float" value="0.37402344"/>
-                    <attribute id="V1" type="float" value="0.37597656"/>
-                    <attribute id="V2" type="float" value="0.49902344"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Paitm_Spell_OutlandsEnvoy"/>
                     <attribute id="U1" type="float" value="0.0009765625"/>
                     <attribute id="U2" type="float" value="0.12402344"/>
                     <attribute id="V1" type="float" value="0.37597656"/>
                     <attribute id="V2" type="float" value="0.49902344"/>
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Paitm_Spell_OutlandsEnvoy"/>
+                    <attribute id="U1" type="float" value="0.12597656"/>
+                    <attribute id="U2" type="float" value="0.24902344"/>
+                    <attribute id="V1" type="float" value="0.37597656"/>
+                    <attribute id="V2" type="float" value="0.49902344"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="Paitm_Spell_RighteousHeritor"/>
-                    <attribute id="U1" type="float" value="0.75097656"/>
-                    <attribute id="U2" type="float" value="0.87402344"/>
-                    <attribute id="V1" type="float" value="0.25097656"/>
-                    <attribute id="V2" type="float" value="0.37402344"/>
+                    <attribute id="U1" type="float" value="0.25097656"/>
+                    <attribute id="U2" type="float" value="0.37402344"/>
+                    <attribute id="V1" type="float" value="0.37597656"/>
+                    <attribute id="V2" type="float" value="0.49902344"/>
                 </node>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="Paitm_Spell_ScionChaos"/>
@@ -157,6 +157,13 @@
                     <attribute id="U2" type="float" value="0.37402344"/>
                     <attribute id="V1" type="float" value="0.0009765625"/>
                     <attribute id="V2" type="float" value="0.12402344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Plns_Spell_Knowledge"/>
+                    <attribute id="U1" type="float" value="0.75097656"/>
+                    <attribute id="U2" type="float" value="0.87402344"/>
+                    <attribute id="V1" type="float" value="0.37597656"/>
+                    <attribute id="V2" type="float" value="0.49902344"/>
                 </node>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="Plns_Spell_PlanarMistyStep"/>

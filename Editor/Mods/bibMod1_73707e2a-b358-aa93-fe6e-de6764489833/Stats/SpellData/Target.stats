@@ -81,6 +81,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_MimirKnowledge_Bonus" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="b30e3475-bb28-4abd-8a65-9a5a83917c5a" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hebd9c2cbgc7bdgf824gbb3fge923b39d701d" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_Knowledge" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
