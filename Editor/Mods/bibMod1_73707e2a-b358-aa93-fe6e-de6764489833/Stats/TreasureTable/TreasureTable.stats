@@ -99,6 +99,39 @@
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7c5fae29-4181-4a46-bd25-1a52b41094d2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7ef51c73-cd4e-46e6-94b7-5e368d5cdd3d" />
+        <field name="Name" type="NameTableFieldDefinition" value="7c5fae29-4181-4a46-bd25-1a52b41094d2_substat_7" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_WPN_Paitm_ShiningBlade" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7c5fae29-4181-4a46-bd25-1a52b41094d2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ce4ca813-dbee-468c-874a-dba09df02dd6" />
+        <field name="Name" type="NameTableFieldDefinition" value="7c5fae29-4181-4a46-bd25-1a52b41094d2_substat_8" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_WPN_Paitm_BarbedJavelin" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7c5fae29-4181-4a46-bd25-1a52b41094d2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="02a7fdba-de8b-4561-af9b-527781a125b0" />
+        <field name="Name" type="NameTableFieldDefinition" value="7c5fae29-4181-4a46-bd25-1a52b41094d2_substat_9" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_WPN_Paitm_EnervatingTrident" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="d4e58887-9040-4646-b759-96609de1cb80" />

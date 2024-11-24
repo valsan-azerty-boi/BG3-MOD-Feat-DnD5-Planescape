@@ -144,3 +144,13 @@ data "Description" "hb18a258bge5f5gc59ag7f99g6b6c682f6db3;1"
 data "Icon" "PassiveFeature_Generic_Magical"
 data "Properties" "Highlighted"
 
+new entry "Paitm_BarbedJavelin_Passive"
+type "PassiveData"
+data "DisplayName" "h3dcf0ea8ge550g9d38g7eecg157bbd582e1e;1"
+data "Description" "hc6658301g5a8fg2016gbc73g09279e9cb0b6;2"
+data "Icon" "Status_Incapacitated"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "AttackedWithPassiveSourceWeapon()"
+data "StatsFunctors" "ApplyStatus(Paitm_BarbedJavelin_Debuff,100,1)"
+

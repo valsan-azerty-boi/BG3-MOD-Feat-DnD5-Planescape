@@ -511,4 +511,16 @@
   <content contentuid="h33fffc28g5ec9g17dbg540bg411313d49cf1" version="3">Utiliser</content>
   <content contentuid="hbb5bea25g6704gc77fg568agc308cbd55f8d" version="1">Scellé</content>
   <content contentuid="hc4877bc9gf86ag4709ga9d8g4d9830dc267a" version="2">Empêche de lancer la plupart des sorts de téléportation ou de portails.</content>
+  <content contentuid="hb962d685g4018g8a8dge9d2gc06274e5ed66" version="2">Lame Auréolée</content>
+  <content contentuid="h98c8764ag7b21ga56egbdd3gf996c310b6b4" version="2">Une épée magique généralement associée au bien utilisée par les archontes de Celestia. Il est très rare de croiser une telle arme dans les mains d'un simple mortel.</content>
+  <content contentuid="h02089bcegb7ebg068aga103g1426f95f699c" version="3">Javelot barbelé</content>
+  <content contentuid="h2c99692cg38d4g92b1g9f01g65f67b4c5d94" version="3">Un javelot généralement utilisé par les bariaurs d'Ysgard.</content>
+  <content contentuid="h48c10e09gaf5dga5eeg8c04g95ecef98393d" version="1">Obstruction</content>
+  <content contentuid="h3dcf0ea8ge550g9d38g7eecg157bbd582e1e" version="1">Obstruction</content>
+  <content contentuid="hc6658301g5a8fg2016gbc73g09279e9cb0b6" version="2">Une cible touchée par un javelot barbelé a sa vitesse de déplacement réduite.</content>
+  <content contentuid="ha4ea0696gece4g37f1g31eeg3f39bdcb7d28" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de déplacement&lt;/LSTag&gt; réduite de [1].</content>
+  <content contentuid="hd794ab6bga5e2g6b6eg4910gc3275610a782" version="2">Trident d'Exténuation</content>
+  <content contentuid="h2e945529g8e31g003dgb209g1ca0b3413b7a" version="2">Un immonde trident provenant des Carcères.</content>
+  <content contentuid="h0b66fab4g4e01g23e3g2ac9g7b84bae5108f" version="1">Flasque de dévastation</content>
+  <content contentuid="h33e1c7cfgbea0gc63ag0c12g4308903db781" version="1">Les pyromanes, brandissant ces fioles, tentent de réduire en cendres les systèmes oppressifs dans le chaos et les flammes.</content>
 </contentList>

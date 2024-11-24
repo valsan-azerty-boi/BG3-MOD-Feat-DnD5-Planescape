@@ -486,5 +486,23 @@
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(Paitm_SEALED)" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9ca6d331-90d6-4d39-b996-1b731a074e50" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_BarbedJavelin_Debuff" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h48c10e09gaf5dga5eeg8c04g95ecef98393d" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha4ea0696gece4g37f1g31eeg3f39bdcb7d28" version="1" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="3" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Incapacitated" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Red" enumeration_type_name="FormatStringColor" version="1" />
+        <field name="StillAnimationType" type="EnumerationTableFieldDefinition" value="Weakened" enumeration_type_name="StatusAnimationType" version="1" />
+        <field name="StillAnimationPriority" type="EnumerationTableFieldDefinition" value="Weakened" enumeration_type_name="StillAnimPriority" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="PAITM_OBSTRUCTION" />
+        <field name="TickType" type="EnumerationTableFieldDefinition" value="StartTurn" enumeration_type_name="TickType" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="TickingWithSource" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" value="Negative" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" value="d787f666-8ee6-4185-9365-6aac9ebe76ae" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

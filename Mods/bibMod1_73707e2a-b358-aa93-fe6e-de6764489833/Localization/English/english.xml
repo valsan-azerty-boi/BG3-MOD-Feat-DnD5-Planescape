@@ -511,4 +511,16 @@
   <content contentuid="hf2bd0455gdf88g41f0g99c2g21683bb3da6d" version="4">Using this contract allows you to hire the creature linked to it.</content>
   <content contentuid="hbb5bea25g6704gc77fg568agc308cbd55f8d" version="1">Sealed</content>
   <content contentuid="hc4877bc9gf86ag4709ga9d8g4d9830dc267a" version="2">Prevents casting most teleportation or portal spells.</content>
+  <content contentuid="hb962d685g4018g8a8dge9d2gc06274e5ed66" version="2">Shining Blade</content>
+  <content contentuid="h98c8764ag7b21ga56egbdd3gf996c310b6b4" version="2">A magical sword usually associated with good used by the archons of Mount Celestia. It is very rare to come across a mortal holding such a weapon.</content>
+  <content contentuid="h02089bcegb7ebg068aga103g1426f95f699c" version="3">Barbed Javelin</content>
+  <content contentuid="h2c99692cg38d4g92b1g9f01g65f67b4c5d94" version="3">A javelin typically used by bariaurs from Ysgard.</content>
+  <content contentuid="h48c10e09gaf5dga5eeg8c04g95ecef98393d" version="1">Obstruction</content>
+  <content contentuid="h3dcf0ea8ge550g9d38g7eecg157bbd582e1e" version="1">Obstruction</content>
+  <content contentuid="hc6658301g5a8fg2016gbc73g09279e9cb0b6" version="2">When hit by a Barbed Javelin, the target's movement speed is reduced.</content>
+  <content contentuid="ha4ea0696gece4g37f1g31eeg3f39bdcb7d28" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; is reduced by [1].</content>
+  <content contentuid="hd794ab6bga5e2g6b6eg4910gc3275610a782" version="2">Enervating Trident</content>
+  <content contentuid="h2e945529g8e31g003dgb209g1ca0b3413b7a" version="2">A despicable trident from Carceri.</content>
+  <content contentuid="h0b66fab4g4e01g23e3g2ac9g7b84bae5108f" version="1">Havok Flask</content>
+  <content contentuid="h33e1c7cfgbea0gc63ag0c12g4308903db781" version="1">The Fire Starters, wielding these flasks, burn away oppressive systems through chaos and flame.</content>
 </contentList>

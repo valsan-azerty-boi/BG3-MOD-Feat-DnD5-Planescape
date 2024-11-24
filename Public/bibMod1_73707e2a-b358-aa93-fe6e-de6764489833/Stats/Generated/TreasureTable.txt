@@ -19,6 +19,12 @@ new subtable "1,1"
 object category "I_OBJ_Paitm_Annah",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Paitm_FallFromGrace",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Paitm_ShiningBlade",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Paitm_BarbedJavelin",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Paitm_EnervatingTrident",1,0,0,0,0,0,0,0
 new treasuretable "TUT_Chest_Potions"
 CanMerge 1
 IgnoreLevelDiff 1
