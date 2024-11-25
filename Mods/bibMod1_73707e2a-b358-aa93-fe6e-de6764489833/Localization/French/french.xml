@@ -340,8 +340,8 @@
   <content contentuid="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1">Active le Mimir et absorbe ses connaissances.</content>
   <content contentuid="hcd937889g2ddbg0436g8d85g6b74891d554c" version="1">Libre penseur</content>
   <content contentuid="h7dd603ebg6c37g27d9gd5c2ge37c18b6d230" version="3">Pour ceux qui ne se réfère à aucun dieu. On retrouve souvent cette manière de penser chez les habitants de Sigil. Un clerc sans dieu, par exemple, obtiendra souvent ses pouvoirs de convictions fortes et de principes forts.</content>
-  <content contentuid="h55a58843g198fg42beg8885g5d1fa3d64808" version="11">Portail</content>
-  <content contentuid="h276ab033g0890g4653g9cadg0b61a1ec93a7" version="10">Cette porte téléporte vers son portail jumeau.</content>
+  <content contentuid="h55a58843g198fg42beg8885g5d1fa3d64808" version="15">Portail</content>
+  <content contentuid="h276ab033g0890g4653g9cadg0b61a1ec93a7" version="14">Cette porte téléporte vers son portail jumeau.</content>
   <content contentuid="hbec64581g0ea1g8d21g6364g1d950a8f4eb4" version="1">Persona glitch</content>
   <content contentuid="hbd824043g2337g763eg7352gc4ca3a50f974" version="4">Vous vous souvenez d'endroits étranges, de temps que vous ne devriez pas connaître. Il semble que vous n'êtes pas "la seule version de vous" dans le multivers. En tant qu'anomalie, d'autres incarnations de vous se manifeste parfois, offrant des bonus temporaire en combat.</content>
   <content contentuid="h8999ed50g75f7g3bf0g7ca0gbc3449663dda" version="3">Soin de persona glitch</content>
@@ -519,8 +519,28 @@
   <content contentuid="h3dcf0ea8ge550g9d38g7eecg157bbd582e1e" version="1">Obstruction</content>
   <content contentuid="hc6658301g5a8fg2016gbc73g09279e9cb0b6" version="2">Une cible touchée par un javelot barbelé a sa vitesse de déplacement réduite.</content>
   <content contentuid="ha4ea0696gece4g37f1g31eeg3f39bdcb7d28" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de déplacement&lt;/LSTag&gt; réduite de [1].</content>
-  <content contentuid="hd794ab6bga5e2g6b6eg4910gc3275610a782" version="2">Trident d'Exténuation</content>
+  <content contentuid="hd794ab6bga5e2g6b6eg4910gc3275610a782" version="2">Trident d'exténuation</content>
   <content contentuid="h2e945529g8e31g003dgb209g1ca0b3413b7a" version="2">Un immonde trident provenant des Carcères.</content>
-  <content contentuid="h0b66fab4g4e01g23e3g2ac9g7b84bae5108f" version="1">Flasque de dévastation</content>
-  <content contentuid="h33e1c7cfgbea0gc63ag0c12g4308903db781" version="1">Les pyromanes, brandissant ces fioles, tentent de réduire en cendres les systèmes oppressifs dans le chaos et les flammes.</content>
+  <content contentuid="h5dbfde50g1c6eg14d0g0faeg791cbd77b2e7" version="2">Flasque de dévastation</content>
+  <content contentuid="h3d32fda7ge9cbge5c5g85a2g30d9bf01b77a" version="1">Les pyromanes, brandissant ces fioles, tentent de réduire en cendres les systèmes oppressifs dans le chaos et les flammes.</content>
+  <content contentuid="h3fc36651g15cfg8fd0g57ffgc3a6c7996af7" version="6">Marteau de dévastation</content>
+  <content contentuid="h65e8e328gff3dg6ca0gaaedged047777e3f9" version="2">Les pyromanes, brandissant ces marteaux, tentent de réduire en cendres les systèmes oppressifs dans le chaos et les flammes.</content>
+  <content contentuid="h1fa2b04cg935fg9a8eg19b6g48008d4836ed" version="6">Lame en os</content>
+  <content contentuid="h3322594fg78d3gb2acg833bgc512f987123c" version="3">Trident électrifié</content>
+  <content contentuid="ha5b08061gc445ga218g4ac8gfed895be15b3" version="6">Poignard de force</content>
+  <content contentuid="h9b76d8fegc962g6c90g6e84ga91b7c6150df" version="3">Épée de l'Harmonium</content>
+  <content contentuid="hf56ee662g7bf2gd275g9246g05095158b407" version="5">Les kolyaruts ayant 4 bras, ils utilisent très souvent 4 de ces armes en même temps.</content>
+  <content contentuid="h0555e713g84c6g6e93g449dge72ba5aa5067" version="5">Lame brunie</content>
+  <content contentuid="h35268241g93ccg1e06g4d0cg1850c2720341" version="2">Lame infaillible</content>
+  <content contentuid="h5cb30b60g66c8g7b0cg14fag9fa644b334b5" version="1">Une arme utilisée par les patrouilleurs de l'Harmonium.</content>
+  <content contentuid="hdd0dcadcg37ecg48a1g381eg8624c7a83c94" version="1">Une arme utilisée pour la répression par les représentants de l'Harmonium.</content>
+  <content contentuid="h1c95414cg5d5cge0a9g3245g109d768402af" version="1">Une arme parfaitement proportionné pour les mustevals.</content>
+  <content contentuid="h04189e49gf2f9gb38fgcae8g6167a9eed597" version="3">Les cuprilachs frappent chirurgicalement, suivant les ordres des aurumachs sans question ni émotion.</content>
+  <content contentuid="h0aa9e328gb8a1g34d8ga58dg70538986bf1e" version="1">Les nulls travaillent dans l'ombre, servant d'assassins et d'espions pour la faction Athar.</content>
+  <content contentuid="hf489b8c2g5b0bge6f2g3f19g179b498fbf7f" version="2">Entropic Greatsword</content>
+  <content contentuid="ha8de7837ga4d7gc117g5575g8dac219499dc" version="2">Entropic Blade</content>
+  <content contentuid="h52da9222g30f5gaffcg64f5g0f6a84c38601" version="1">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
+  <content contentuid="hde6d1a89g2c19g2ce6g1053ga8d0246a579a" version="1">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
+  <content contentuid="hadedb95eg122eg02d2gc381g7b2c7810157f" version="1">Entropic Javelin</content>
+  <content contentuid="hf67f607bgfe6ag874dgd6a0gadaf001f711d" version="1">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
 </contentList>

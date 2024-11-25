@@ -69,19 +69,19 @@
         <field name="Damage" type="DiceTableFieldDefinition" value="2d6" />
         <field name="WeaponRange" type="IntegerTableFieldDefinition" value="150" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
-        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="81764c3c-c7a9-49a7-b145-d31ffd5aebe1" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="9b6a4ab2-323b-4030-89ab-030252bb6214" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
         <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
-        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
         <field name="Weight" type="FloatTableFieldDefinition" value="3.1" />
         <field name="Slot" type="EnumerationTableFieldDefinition" value="Melee Main Weapon" enumeration_type_name="Itemslot" version="1" />
-        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="WeaponEnchantment(2);WeaponProperty(Magical)" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="WeaponEnchantment(1);WeaponProperty(Magical)" />
         <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SILENCED;SG_Condition;BLEEDING;BURNING" />
         <field name="BoostsOnEquipMainHand" type="StringTableFieldDefinition" value="UnlockSpell(Target_PommelStrike);UnlockSpell(Target_Slash_New);UnlockSpell(Zone_Cleave);" />
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
         <field name="ItemColor" type="StringTableFieldDefinition" value="DefaultGray" />
         <field name="Weapon Group" type="EnumerationTableFieldDefinition" value="MartialMeleeWeapon" enumeration_type_name="Weapon Group" version="1" />
-        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="2d6+1" />
+        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="2d6+2" />
         <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Twohanded;Heavy;Melee;Dippable" enumeration_type_name="WeaponFlags" version="1" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Greatswords;MartialWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
@@ -118,7 +118,7 @@
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
         <field name="ItemColor" type="StringTableFieldDefinition" value="DefaultGray" />
         <field name="Weapon Group" type="EnumerationTableFieldDefinition" value="SimpleMeleeWeapon" enumeration_type_name="Weapon Group" version="1" />
-        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="1d8" />
+        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="1d10+2" />
         <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Thrown;Melee;Dippable;Magical" enumeration_type_name="WeaponFlags" version="1" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Javelins;SimpleWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
@@ -154,7 +154,7 @@
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
         <field name="ItemColor" type="StringTableFieldDefinition" value="DefaultGray" />
         <field name="Weapon Group" type="EnumerationTableFieldDefinition" value="MartialMeleeWeapon" enumeration_type_name="Weapon Group" version="1" />
-        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="1d10+1" />
+        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="1d10+4" />
         <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Thrown;Melee;Dippable;Versatile;Magical" enumeration_type_name="WeaponFlags" version="1" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Tridents;MartialWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
@@ -174,7 +174,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_BoneBlade_Template" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
-        <field name="Damage Type" type="EnumerationTableFieldDefinition" value="Radiant" enumeration_type_name="Damage Type" version="1" />
+        <field name="Damage Type" type="EnumerationTableFieldDefinition" value="Slashing" enumeration_type_name="Damage Type" version="1" />
         <field name="Damage" type="DiceTableFieldDefinition" value="1d4" />
         <field name="WeaponRange" type="IntegerTableFieldDefinition" value="150" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="3" />
@@ -190,7 +190,7 @@
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
         <field name="ItemColor" type="StringTableFieldDefinition" value="DefaultGray" />
         <field name="Weapon Group" type="EnumerationTableFieldDefinition" value="SimpleMeleeWeapon" enumeration_type_name="Weapon Group" version="1" />
-        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="1d6+1" />
+        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="1d6" />
         <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Finesse;Light;Thrown;Melee;Dippable;Magical" enumeration_type_name="WeaponFlags" version="1" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Daggers;SimpleWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
@@ -201,6 +201,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_BoneBlade" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="7b650cb9-0605-4f54-b27a-e49a508322cc" />
         <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SILENCED;SG_Condition;BLEEDING;BURNING" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="2fb0e051-32cb-4b73-8780-e316f628ffdc" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -213,19 +214,19 @@
         <field name="Damage" type="DiceTableFieldDefinition" value="2d6" />
         <field name="WeaponRange" type="IntegerTableFieldDefinition" value="200" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="5" />
-        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="d24c441f-7ebe-4229-8522-cf34c257ff20" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="81764c3c-c7a9-49a7-b145-d31ffd5aebe1" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
         <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
-        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
         <field name="Weight" type="FloatTableFieldDefinition" value="6" />
         <field name="Slot" type="EnumerationTableFieldDefinition" value="Melee Main Weapon" enumeration_type_name="Itemslot" version="1" />
-        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="WeaponEnchantment(2);WeaponProperty(Magical)" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="WeaponEnchantment(3);WeaponProperty(Magical)" />
         <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SILENCED;SG_Condition;BLEEDING;BURNING" />
         <field name="BoostsOnEquipMainHand" type="StringTableFieldDefinition" value="UnlockSpell(Target_PommelStrike);UnlockSpell(Target_Slash_New);UnlockSpell(Zone_Cleave);UnlockSpell(Zone_Mag_WeaponAction_GiantBlade)" />
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
         <field name="ItemColor" type="StringTableFieldDefinition" value="DefaultGray" />
         <field name="Weapon Group" type="EnumerationTableFieldDefinition" value="MartialMeleeWeapon" enumeration_type_name="Weapon Group" version="1" />
-        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="24" />
+        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="2d6+14" />
         <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Twohanded;Heavy;Melee;Dippable;Magical" enumeration_type_name="WeaponFlags" version="1" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Greatswords;MartialWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
@@ -236,6 +237,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_UnerringBlade" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="e2b9576a-dbca-4bce-b579-89bde1b94461" />
         <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SILENCED;SG_Condition;BLEEDING;BURNING" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="23e7d78e-eda9-4f2c-9a26-6fbfbcb38b8c" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -244,7 +246,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_BurnishedBlade_Template" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
-        <field name="Damage Type" type="EnumerationTableFieldDefinition" value="Psychic" enumeration_type_name="Damage Type" version="1" />
+        <field name="Damage Type" type="EnumerationTableFieldDefinition" value="Piercing" enumeration_type_name="Damage Type" version="1" />
         <field name="Damage" type="DiceTableFieldDefinition" value="1d6" />
         <field name="WeaponRange" type="IntegerTableFieldDefinition" value="150" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
@@ -260,7 +262,7 @@
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
         <field name="ItemColor" type="StringTableFieldDefinition" value="DefaultGray" />
         <field name="Weapon Group" type="EnumerationTableFieldDefinition" value="MartialMeleeWeapon" enumeration_type_name="Weapon Group" version="1" />
-        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="1d6+13" />
+        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="1d6+2" />
         <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Finesse;Light;Melee;Dippable;Magical" enumeration_type_name="WeaponFlags" version="1" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Scimitars;MartialWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
@@ -271,6 +273,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_BurnishedBlade" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="d10f6113-7364-443f-819e-5e82c1b5aa9b" />
         <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SILENCED;SG_Condition;BLEEDING;BURNING" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="c0d455c3-2af4-44de-920d-c0a09eef3451" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -279,7 +282,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_ForceDagger_Template" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
-        <field name="Damage Type" type="EnumerationTableFieldDefinition" value="Force" enumeration_type_name="Damage Type" version="1" />
+        <field name="Damage Type" type="EnumerationTableFieldDefinition" value="Piercing" enumeration_type_name="Damage Type" version="1" />
         <field name="Damage" type="DiceTableFieldDefinition" value="1d4" />
         <field name="WeaponRange" type="IntegerTableFieldDefinition" value="150" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
@@ -295,7 +298,7 @@
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
         <field name="ItemColor" type="StringTableFieldDefinition" value="DefaultGray" />
         <field name="Weapon Group" type="EnumerationTableFieldDefinition" value="SimpleMeleeWeapon" enumeration_type_name="Weapon Group" version="1" />
-        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="1d4+13" />
+        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="1d4+2" />
         <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Finesse;Light;Thrown;Melee;Dippable;Magical" enumeration_type_name="WeaponFlags" version="1" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Daggers;SimpleWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
@@ -306,6 +309,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_ForceDagger" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="c259fa23-8442-4f5d-a7fe-6596bb3de6a9" />
         <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SILENCED;SG_Condition;BLEEDING;BURNING" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="410839f4-8c95-4fd9-bd76-c96a962fd599" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -314,7 +318,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_EntropicGreatsword_Template" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
-        <field name="Damage Type" type="EnumerationTableFieldDefinition" value="Necrotic" enumeration_type_name="Damage Type" version="1" />
+        <field name="Damage Type" type="EnumerationTableFieldDefinition" value="Slashing" enumeration_type_name="Damage Type" version="1" />
         <field name="Damage" type="DiceTableFieldDefinition" value="2d6" />
         <field name="WeaponRange" type="IntegerTableFieldDefinition" value="150" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
@@ -322,7 +326,7 @@
         <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
         <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
         <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
-        <field name="Weight" type="FloatTableFieldDefinition" value="2.5" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1.45" />
         <field name="Slot" type="EnumerationTableFieldDefinition" value="Melee Main Weapon" enumeration_type_name="Itemslot" version="1" />
         <field name="DefaultBoosts" type="StringTableFieldDefinition" value="WeaponEnchantment(2);WeaponProperty(Magical)" />
         <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SILENCED;SG_Condition;BLEEDING;BURNING" />
@@ -330,7 +334,7 @@
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
         <field name="ItemColor" type="StringTableFieldDefinition" value="DefaultGray" />
         <field name="Weapon Group" type="EnumerationTableFieldDefinition" value="MartialMeleeWeapon" enumeration_type_name="Weapon Group" version="1" />
-        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="2d6+10" />
+        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="2d6+2" />
         <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Twohanded;Heavy;Melee;Dippable;Magical" enumeration_type_name="WeaponFlags" version="1" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Greatswords;MartialWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
@@ -341,6 +345,43 @@
         <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_EntropicGreatsword" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="5ef923c7-b2a6-474f-8f40-734d81badb21" />
         <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SILENCED;SG_Condition;BLEEDING;BURNING" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="3072af59-186e-4322-af13-9d189fcf31b8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="766161b1-939f-4ca2-9c81-73abae7963c8" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_EntropicBlade_Template" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="Damage Type" type="EnumerationTableFieldDefinition" value="Slashing" enumeration_type_name="Damage Type" version="1" />
+        <field name="Damage" type="DiceTableFieldDefinition" value="1d8" />
+        <field name="WeaponRange" type="IntegerTableFieldDefinition" value="150" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="81764c3c-c7a9-49a7-b145-d31ffd5aebe1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.75" />
+        <field name="Slot" type="EnumerationTableFieldDefinition" value="Melee Main Weapon" enumeration_type_name="Itemslot" version="1" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="WeaponEnchantment(2);WeaponProperty(Magical)" />
+        <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SILENCED;SG_Condition;BLEEDING;BURNING" />
+        <field name="BoostsOnEquipMainHand" type="StringTableFieldDefinition" value="UnlockSpell(Target_PommelStrike);UnlockSpell(Target_Slash_New);UnlockSpell(Rush_SpringAttack);" />
+        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
+        <field name="ItemColor" type="StringTableFieldDefinition" value="DefaultGray" />
+        <field name="Weapon Group" type="EnumerationTableFieldDefinition" value="MartialMeleeWeapon" enumeration_type_name="Weapon Group" version="1" />
+        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="1d10+1" />
+        <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Versatile;Melee;Dippable;Magical" enumeration_type_name="WeaponFlags" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Longswords;MartialWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8af941d1-b0d4-4702-b8d3-ae2b95fb7681" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_EntropicBlade" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="766161b1-939f-4ca2-9c81-73abae7963c8" />
+        <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SILENCED;SG_Condition;BLEEDING;BURNING" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="05adce65-cfa2-4811-b0f3-f67a892c5545" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -349,14 +390,14 @@
         <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_EntropicJavelin_Template" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
-        <field name="Damage Type" type="EnumerationTableFieldDefinition" value="Necrotic" enumeration_type_name="Damage Type" version="1" />
+        <field name="Damage Type" type="EnumerationTableFieldDefinition" value="Piercing" enumeration_type_name="Damage Type" version="1" />
         <field name="WeaponRange" type="IntegerTableFieldDefinition" value="150" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="81764c3c-c7a9-49a7-b145-d31ffd5aebe1" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
         <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
         <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
-        <field name="Weight" type="FloatTableFieldDefinition" value="0.7" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.55" />
         <field name="Slot" type="EnumerationTableFieldDefinition" value="Melee Main Weapon" enumeration_type_name="Itemslot" version="1" />
         <field name="DefaultBoosts" type="StringTableFieldDefinition" value="WeaponEnchantment(1);WeaponProperty(Magical)" />
         <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SILENCED;SG_Condition;BLEEDING;BURNING" />
@@ -364,9 +405,10 @@
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
         <field name="ItemColor" type="StringTableFieldDefinition" value="DefaultGray" />
         <field name="Weapon Group" type="EnumerationTableFieldDefinition" value="SimpleMeleeWeapon" enumeration_type_name="Weapon Group" version="1" />
-        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="1d6+14" />
+        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="1d6+2" />
         <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Thrown;Melee;Dippable;Magical" enumeration_type_name="WeaponFlags" version="1" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Javelins;SimpleWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="Damage" type="DiceTableFieldDefinition" value="1d6" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -375,22 +417,34 @@
         <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_EntropicJavelin" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="ab109bb2-d616-4e2b-96a5-d41dc67bdb1b" />
         <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SILENCED;SG_Condition;BLEEDING;BURNING" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b7c38ee9-efbd-4ab9-953e-380f7510803e" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="9fbc5399-468e-42ec-a634-e0a87338a17e" />
         <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_HavocHammer_Template" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="3b309509-b361-4696-8f33-c73a12a632a9" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
-        <field name="Damage Type" type="EnumerationTableFieldDefinition" value="Fire" enumeration_type_name="Damage Type" version="1" />
+        <field name="Damage Type" type="EnumerationTableFieldDefinition" value="Bludgeoning" enumeration_type_name="Damage Type" version="1" />
         <field name="WeaponRange" type="IntegerTableFieldDefinition" value="150" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
         <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
         <field name="Slot" type="EnumerationTableFieldDefinition" value="Melee Main Weapon" enumeration_type_name="Itemslot" version="1" />
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
         <field name="ItemColor" type="StringTableFieldDefinition" value="DefaultGray" />
+        <field name="Damage" type="DiceTableFieldDefinition" value="1d8" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="81764c3c-c7a9-49a7-b145-d31ffd5aebe1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="2.4" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="WeaponEnchantment(2);WeaponProperty(Magical)" />
+        <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SILENCED;SG_Condition;BLEEDING;BURNING" />
+        <field name="BoostsOnEquipMainHand" type="StringTableFieldDefinition" value="UnlockSpell(Target_PostureBreaker);UnlockSpell(Target_ConcussiveSmash);UnlockSpell(Target_HinderingSmash)" />
+        <field name="Weapon Group" type="EnumerationTableFieldDefinition" value="MartialMeleeWeapon" enumeration_type_name="Weapon Group" version="1" />
+        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="1d8" />
+        <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Melee;Dippable;Versatile;Magical" enumeration_type_name="WeaponFlags" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Warhammers;MartialWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -398,13 +452,14 @@
         <field name="UUID" type="IdTableFieldDefinition" value="a12ca44d-27bf-4f84-981e-aeda7b794695" />
         <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_HavocHammer" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="9fbc5399-468e-42ec-a634-e0a87338a17e" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="967d1996-cd73-451d-9497-86661ffacf59" />
+        <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SILENCED;SG_Condition;BLEEDING;BURNING" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="e4ad164d-b1f3-4e76-8e55-b9c6441ce497" />
         <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_HarmoniumBlade_Template" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="bc4a1eb6-dd53-40ee-b720-09991b0c1833" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
@@ -412,6 +467,20 @@
         <field name="Slot" type="EnumerationTableFieldDefinition" value="Melee Main Weapon" enumeration_type_name="Itemslot" version="1" />
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
         <field name="ItemColor" type="StringTableFieldDefinition" value="DefaultGray" />
+        <field name="Damage Type" type="EnumerationTableFieldDefinition" value="Piercing" enumeration_type_name="Damage Type" version="1" />
+        <field name="Damage" type="DiceTableFieldDefinition" value="1d8" />
+        <field name="WeaponRange" type="IntegerTableFieldDefinition" value="150" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="81764c3c-c7a9-49a7-b145-d31ffd5aebe1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1.3" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="WeaponEnchantment(1);WeaponProperty(Magical)" />
+        <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SILENCED;SG_Condition;BLEEDING;BURNING" />
+        <field name="BoostsOnEquipMainHand" type="StringTableFieldDefinition" value="UnlockSpell(Target_PommelStrike);UnlockSpell(Target_Slash_New);UnlockSpell(Rush_SpringAttack);" />
+        <field name="Weapon Group" type="EnumerationTableFieldDefinition" value="MartialMeleeWeapon" enumeration_type_name="Weapon Group" version="1" />
+        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="1d10+2" />
+        <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Versatile;Melee;Dippable;Magical" enumeration_type_name="WeaponFlags" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Longswords;MartialWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -419,6 +488,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="4835ee93-ecd7-4203-b154-2f33c605548a" />
         <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_HarmoniumBlade" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="e4ad164d-b1f3-4e76-8e55-b9c6441ce497" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="8e05c62e-39ff-4cfe-9a63-abb1f8a4f1b2" />
+        <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SILENCED;SG_Condition;BLEEDING;BURNING" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -432,6 +503,20 @@
         <field name="Slot" type="EnumerationTableFieldDefinition" value="Melee Main Weapon" enumeration_type_name="Itemslot" version="1" />
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
         <field name="ItemColor" type="StringTableFieldDefinition" value="DefaultGray" />
+        <field name="Damage Type" type="EnumerationTableFieldDefinition" value="Piercing" enumeration_type_name="Damage Type" version="1" />
+        <field name="Damage" type="DiceTableFieldDefinition" value="1d6" />
+        <field name="WeaponRange" type="IntegerTableFieldDefinition" value="150" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="81764c3c-c7a9-49a7-b145-d31ffd5aebe1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="2.1" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="WeaponEnchantment(1);WeaponProperty(Magical)" />
+        <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SILENCED;SG_Condition;BLEEDING;BURNING" />
+        <field name="BoostsOnEquipMainHand" type="StringTableFieldDefinition" value="UnlockSpell(Rush_SpringAttack);UnlockSpell(Target_PiercingThrust);UnlockSpell(Target_DisarmingStrike)" />
+        <field name="Weapon Group" type="EnumerationTableFieldDefinition" value="MartialMeleeWeapon" enumeration_type_name="Weapon Group" version="1" />
+        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="1d10+1" />
+        <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Thrown;Melee;Dippable;Versatile;Magical" enumeration_type_name="WeaponFlags" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Tridents;MartialWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -439,6 +524,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="96db25ae-b470-4252-879d-fd9adfbfa8d1" />
         <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_ElectrifiedMancatcher" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="40429be5-2176-4dd5-9f31-27e0bb66e9db" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="c635d594-7cd4-48a1-a88f-feb25f57a3b2" />
+        <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SILENCED;SG_Condition;BLEEDING;BURNING" />
       </fields>
     </stat_object>
   </stat_objects>
