@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings source="($SOURCE)\WPN_HUM_BarbedJavelin_A_1_Physical.DDS">
+  <TextureLayerSettings>
+    <Scale>Full</Scale>
+    <QualityProfile>Default</QualityProfile>
+    <PreserveCoverage>false</PreserveCoverage>
+    <alphaCoverage>0.75</alphaCoverage>
+    <IsTiled>false</IsTiled>
+    <XPatches>0</XPatches>
+    <YPatches>0</YPatches>
+    <AllowNonPowerOfTwo>false</AllowNonPowerOfTwo>
+  </TextureLayerSettings>
+</Settings>

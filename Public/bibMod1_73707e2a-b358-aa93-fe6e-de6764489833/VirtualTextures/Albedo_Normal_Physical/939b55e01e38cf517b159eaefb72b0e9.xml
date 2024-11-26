@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StackedTexture>
+  <Layers>
+    <Layer type="Albedo" source="($DATA)\Public\($MOD)\VirtualTextures\WPN_HUM_EntropicLongsword_Albedo" />
+    <Layer type="Normal" source="($DATA)\Public\($MOD)\VirtualTextures\WPN_HUM_EntropicLongsword_Normal" />
+    <Layer type="Physical" source="($DATA)\Public\($MOD)\VirtualTextures\WPN_HUM_EntropicLongsword_Physical" />
+  </Layers>
+</StackedTexture>

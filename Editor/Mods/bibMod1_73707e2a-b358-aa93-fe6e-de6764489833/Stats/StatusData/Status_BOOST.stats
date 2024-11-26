@@ -509,8 +509,6 @@
         <field name="UUID" type="IdTableFieldDefinition" value="2b699227-9b79-48cd-b600-e858a030f5f4" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_WeaponNecroticTrident_Buff" />
         <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_EnervatingTrident" />
-        <field name="StatusEffectOverrideForItems" type="StringTableFieldDefinition" value="86b94e03-b0d5-46aa-9045-88cdc5aeff47" />
-        <field name="StatusEffectOverride" type="StringTableFieldDefinition" value="86b94e03-b0d5-46aa-9045-88cdc5aeff47" />
         <field name="StackId" type="StringTableFieldDefinition" value="DIPPED" />
         <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(1d10,Necrotic)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
@@ -537,8 +535,6 @@
         <field name="UUID" type="IdTableFieldDefinition" value="14681e38-db15-44ae-bab4-343ce07d709b" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_WeaponForceDagger_Buff" />
         <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_ForceDagger" />
-        <field name="StatusEffectOverrideForItems" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
-        <field name="StatusEffectOverride" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="SoundStart" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="SoundStop" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(3d8,Force)" />
@@ -553,8 +549,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_WeaponRadiantBone_Buff" />
         <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_BoneBlade" />
         <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(1d6,Radiant)" />
-        <field name="StatusEffectOverrideForItems" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
-        <field name="StatusEffectOverride" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="StackId" type="StringTableFieldDefinition" value="DIPPED" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_WeaponCoating" enumeration_type_name="StatusGroupFlags" version="1" />
@@ -565,8 +559,6 @@
         <field name="UUID" type="IdTableFieldDefinition" value="1b911b22-2632-42f8-93d2-979c96cfda98" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_WeaponPsychicBurnished_Buff" />
         <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_BurnishedBlade" />
-        <field name="StatusEffectOverrideForItems" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
-        <field name="StatusEffectOverride" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="SoundStart" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="SoundStop" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(2d12,Psychic)" />
@@ -581,8 +573,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_WeaponNecroticEntropicGreatsw_Buff" />
         <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_EntropicGreatsword" />
         <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(3d6,Necrotic)" />
-        <field name="StatusEffectOverrideForItems" type="StringTableFieldDefinition" value="50625e6a-fa77-4f9e-a863-5368cc9d716c" />
-        <field name="StatusEffectOverride" type="StringTableFieldDefinition" value="50625e6a-fa77-4f9e-a863-5368cc9d716c" />
         <field name="SoundStart" type="StringTableFieldDefinition" value="Action_Cast_Dipped_Poison" />
         <field name="SoundStop" type="StringTableFieldDefinition" value="Action_Prepare_Dipped_Poison_Loop_Stop" />
         <field name="StackId" type="StringTableFieldDefinition" value="DIPPED" />
@@ -636,6 +626,19 @@
         <field name="StackId" type="StringTableFieldDefinition" value="DIPPED" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_WeaponCoating" enumeration_type_name="StatusGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d3aa4777-d73f-4973-b0f0-0973c2ea582a" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd03eeeb1g0e99g80d2g9246g93cb8215e28f" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ProtectionFromEvilAndGood" />
+        <field name="StackId" type="StringTableFieldDefinition" value="PROTECTION_FROM_UNDEAD" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(Tagged('UNDEAD', context.Source)):Disadvantage(AttackTarget);StatusImmunity(SG_Possessed);StatusImmunity(SG_Frightened)" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
+        <field name="StatusEffect" type="GuidObjectTableFieldDefinition" value="6abba0c1-9fe0-4425-a0cc-58156988e806" />
       </fields>
     </stat_object>
   </stat_objects>
