@@ -488,20 +488,15 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="9ca6d331-90d6-4d39-b996-1b731a074e50" />
-        <field name="Name" type="NameTableFieldDefinition" value="Paitm_BarbedJavelin_Debuff" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h48c10e09gaf5dga5eeg8c04g95ecef98393d" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha4ea0696gece4g37f1g31eeg3f39bdcb7d28" version="1" />
-        <field name="DescriptionParams" type="StringTableFieldDefinition" value="3" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_BarbedJavelin" />
-        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Red" enumeration_type_name="FormatStringColor" version="1" />
-        <field name="StillAnimationType" type="EnumerationTableFieldDefinition" value="Weakened" enumeration_type_name="StatusAnimationType" version="1" />
-        <field name="StillAnimationPriority" type="EnumerationTableFieldDefinition" value="Weakened" enumeration_type_name="StillAnimPriority" version="1" />
-        <field name="StackId" type="StringTableFieldDefinition" value="PAITM_OBSTRUCTION" />
-        <field name="TickType" type="EnumerationTableFieldDefinition" value="StartTurn" enumeration_type_name="TickType" version="1" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="TickingWithSource" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" value="Negative" enumeration_type_name="ManagedStatusEffectType" version="1" />
-        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" value="d787f666-8ee6-4185-9365-6aac9ebe76ae" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d3aa4777-d73f-4973-b0f0-0973c2ea582a" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_ProtectionUndead" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd03eeeb1g0e99g80d2g9246g93cb8215e28f" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ProtectionFromEvilAndGood" />
+        <field name="StackId" type="StringTableFieldDefinition" value="PROTECTION_FROM_UNDEAD" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(Tagged('UNDEAD', context.Source)):Disadvantage(AttackTarget);StatusImmunity(SG_Possessed);StatusImmunity(SG_Frightened)" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
+        <field name="StatusEffect" type="GuidObjectTableFieldDefinition" value="6abba0c1-9fe0-4425-a0cc-58156988e806" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -621,8 +616,8 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_WeaponElectricMancatch_Buff" />
         <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_ElectrifiedMancatcher" />
         <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(1d8,Lightning)" />
-        <field name="StatusEffectOverrideForItems" type="StringTableFieldDefinition" value="89545fe8-59a6-4992-85cc-323d00554119" />
-        <field name="StatusEffectOverride" type="StringTableFieldDefinition" value="89545fe8-59a6-4992-85cc-323d00554119" />
+        <field name="StatusEffectOverrideForItems" type="StringTableFieldDefinition" value="f1c5a7d3-c966-4d7f-87b7-376f1e64edbd" />
+        <field name="StatusEffectOverride" type="StringTableFieldDefinition" value="f1c5a7d3-c966-4d7f-87b7-376f1e64edbd" />
         <field name="StackId" type="StringTableFieldDefinition" value="DIPPED" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_WeaponCoating" enumeration_type_name="StatusGroupFlags" version="1" />
@@ -630,15 +625,42 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="d3aa4777-d73f-4973-b0f0-0973c2ea582a" />
-        <field name="Name" type="NameTableFieldDefinition" value="Paitm_" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd03eeeb1g0e99g80d2g9246g93cb8215e28f" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ProtectionFromEvilAndGood" />
-        <field name="StackId" type="StringTableFieldDefinition" value="PROTECTION_FROM_UNDEAD" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="IF(Tagged('UNDEAD', context.Source)):Disadvantage(AttackTarget);StatusImmunity(SG_Possessed);StatusImmunity(SG_Frightened)" />
-        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
-        <field name="StatusEffect" type="GuidObjectTableFieldDefinition" value="6abba0c1-9fe0-4425-a0cc-58156988e806" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9ca6d331-90d6-4d39-b996-1b731a074e50" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_BarbedJavelin_Debuff" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h48c10e09gaf5dga5eeg8c04g95ecef98393d" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha4ea0696gece4g37f1g31eeg3f39bdcb7d28" version="1" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="3" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_KnockOut" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Red" enumeration_type_name="FormatStringColor" version="1" />
+        <field name="StillAnimationType" type="EnumerationTableFieldDefinition" value="Weakened" enumeration_type_name="StatusAnimationType" version="1" />
+        <field name="StillAnimationPriority" type="EnumerationTableFieldDefinition" value="Weakened" enumeration_type_name="StillAnimPriority" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="PAITM_OBSTRUCTION" />
+        <field name="TickType" type="EnumerationTableFieldDefinition" value="StartTurn" enumeration_type_name="TickType" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="TickingWithSource" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" value="Negative" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" value="d787f666-8ee6-4185-9365-6aac9ebe76ae" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e1687a51-9627-4116-ad47-0acd6ca5ecfa" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_HavocHammer_FireDot" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc5ba049bg1d5eg6404g8a09gbfe881c3e26d" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h244fa72cg8090g14f2ga028ge59a03bf16c5" version="1" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(1d6,Fire)" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_HeatConvergence" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Fire" enumeration_type_name="FormatStringColor" version="1" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="PhysicalDamage" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Misc_Status_Burning_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Misc_Status_Burning_MO_Stop" />
+        <field name="StackId" type="StringTableFieldDefinition" value="PAITM_HAVOCHAMMER_FIRE" />
+        <field name="TickType" type="EnumerationTableFieldDefinition" value="StartTurn" enumeration_type_name="TickType" version="1" />
+        <field name="RemoveConditions" type="RollConditionsTableFieldDefinition" value="SavingThrow(Ability.Dexterity,13)" />
+        <field name="RemoveEvents" type="EnumerationListTableFieldDefinition" value="OnTurn" enumeration_type_name="StatusEvent" version="1" />
+        <field name="TooltipDamage" type="StringTableFieldDefinition" value="DealDamage(1d6,Fire)" />
+        <field name="TickFunctors" type="FunctorsTableFieldDefinition" value="DealDamage(1d6,Fire)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="Burning" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(Paitm_HavocHammer_FireDot)" />
       </fields>
     </stat_object>
   </stat_objects>

@@ -211,7 +211,7 @@
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
         <field name="Damage Type" type="EnumerationTableFieldDefinition" value="Force" enumeration_type_name="Damage Type" version="1" />
-        <field name="Damage" type="DiceTableFieldDefinition" value="2d6" />
+        <field name="Damage" type="DiceTableFieldDefinition" value="1+23" />
         <field name="WeaponRange" type="IntegerTableFieldDefinition" value="200" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="5" />
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="81764c3c-c7a9-49a7-b145-d31ffd5aebe1" />
@@ -226,7 +226,6 @@
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
         <field name="ItemColor" type="StringTableFieldDefinition" value="DefaultGray" />
         <field name="Weapon Group" type="EnumerationTableFieldDefinition" value="MartialMeleeWeapon" enumeration_type_name="Weapon Group" version="1" />
-        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="2d6+14" />
         <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Twohanded;Heavy;Melee;Dippable;Magical" enumeration_type_name="WeaponFlags" version="1" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Greatswords;MartialWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
@@ -446,6 +445,7 @@
         <field name="VersatileDamage" type="DiceTableFieldDefinition" value="1d8" />
         <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Melee;Dippable;Versatile;Magical" enumeration_type_name="WeaponFlags" version="1" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Warhammers;MartialWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="Paitm_HavocHammer_FireDot_Passive" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

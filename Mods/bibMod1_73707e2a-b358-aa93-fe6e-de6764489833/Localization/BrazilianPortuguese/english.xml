@@ -486,6 +486,8 @@
 <content contentuid="hd3b08708g7556gd184g4e19gc2618bbfa00d" version="1">Sua formação e sua experiência de aventura significam que você se vinculou a um plano há muito tempo.</content>
 <content contentuid="ha2bb4d68gc28fg19a6g43bcg65b4b4652847" version="1">Bolsa Planescape</content>
 <content contentuid="hf56b6440gc00cga1a5g505bg38db517ede50" version="1">Uma bolsa simples contendo itens planares.</content>
+<content contentuid="hf2654e2ag423eg54bfg049cga58d2d40c6b2" version="2">Bolsa Planescape (Npc items)</content>
+<content contentuid="h3b5ef546g4ceeg453cg03ecgffb643e42406" version="2">Uma bolsa simples contendo itens planares.</content>
 <content contentuid="hf642f457gd2d9g63abgb663g925404abae05" version="1">Portal detectado</content>
 <content contentuid="hb52aaae7g5a0cgd77ag0cdcgdfb890b9bbdc" version="1">Você detectou rastros do portal.</content>
 <content contentuid="h0a5fae24g4c79g4497g04d4g20fcfdd88153" version="1">Você detectou vestígios de uma bruxa no portal.</content>
@@ -543,4 +545,20 @@
 <content contentuid="h52da9222g30f5gaffcg64f5g0f6a84c38601" version="1">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
 <content contentuid="hde6d1a89g2c19g2ce6g1053ga8d0246a579a" version="1">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
 <content contentuid="hf67f607bgfe6ag874dgd6a0gadaf001f711d" version="1">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
+<content contentuid="h4d6ca746g8bbdg75bcgbb04g36301dbcf747" version="4">Use</content>
+<content contentuid="h9e970a59ge7a4gdb07g04f5g0d74ce703e1c" version="3">Charm of the Dead Truce</content>
+<content contentuid="h2b8753d0g5a5dg5203g5cf1g87e6646a16b8" version="3">Charm Dead Truce lore</content>
+<content contentuid="h0100b285gc467gca8cg94d3g89064fbaa365" version="1">Charm of Incorporeality</content>
+<content contentuid="ha116c558g4f4bg031ega93bg0bd71f7adb5c" version="1">Use</content>
+<content contentuid="h90d5382cgac10gce4fgfa62g30a16f8fdec4" version="1">Charm Incorporeality lore</content>
+<content contentuid="hd9e90659g39b6g07d1ga365g6adb41d0d962" version="1">Shout_Paitm_CharmDeadTruce</content>
+<content contentuid="h9c1d41cfg908dgb54bgd45ag1d1827eca7fd" version="1">desc Shout_Paitm_CharmDeadTruce</content>
+<content contentuid="hf9ac3656gfaf2g80d4gae2dg594efd79ef17" version="1">Shout_Paitm_Paitm_CharmIncorporeality</content>
+<content contentuid="h3375375fgf2f8g4cedg8cb5gfb53fd26ab1c" version="1">desc Shout_Paitm_Paitm_CharmIncorporeality</content>
+<content contentuid="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="1">Protection from Undead creatures</content>
+<content contentuid="hd03eeeb1g0e99g80d2g9246g93cb8215e28f" version="1">The target is protected against undead creatures. These creatures have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against the target, and the target can't be Charmed, Frightened, or Possessed by them.</content>
+<content contentuid="hc5ba049bg1d5eg6404g8a09gbfe881c3e26d" version="1">Havoc Flame</content>
+<content contentuid="h3c22c311g5c4ega574g00c7g3955c940943b" version="1">Havoc Flame</content>
+<content contentuid="h244fa72cg8090g14f2ga028ge59a03bf16c5" version="1">Takes [1] each turn.</content>
+<content contentuid="h4b01b315ga76age906ga70fg7336c25b0a65" version="1">Whenever you deal damage with this weapon, inflicts Havoc Flame to your target.</content>
 </contentList>

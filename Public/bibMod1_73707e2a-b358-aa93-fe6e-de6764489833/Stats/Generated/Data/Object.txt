@@ -4,6 +4,12 @@ using "OBJ_GenericLootItem"
 data "RootTemplate" "bdb6e30d-d8c0-4ee1-9578-e1f59c23d3a8"
 data "Rarity" "Uncommon"
 
+new entry "OBJ_Paitm_PlanescapeNpcPouch"
+type "Object"
+using "OBJ_Paitm_PlanescapeStartingPouch"
+data "RootTemplate" "3551a869-50ed-4f8c-8139-bae6169a79b2"
+data "Rarity" "VeryRare"
+
 new entry "OBJ_Paitm_Mimir_Template"
 type "Object"
 using "_MagicScroll"

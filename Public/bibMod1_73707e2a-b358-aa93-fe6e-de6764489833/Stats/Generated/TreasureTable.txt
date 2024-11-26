@@ -24,6 +24,10 @@ object category "I_OBJ_Paitm_CharmIncorporeality",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Paitm_CharmDeadTruce",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_OBJ_Paitm_PlanescapeNpcPouch",1,0,0,0,0,0,0,0
+new treasuretable "Paitm_Tut_NpcTreasure"
+IgnoreLevelDiff 1
+new subtable "1,1"
 object category "I_WPN_Paitm_ShiningBlade",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_WPN_Paitm_BarbedJavelin",1,0,0,0,0,0,0,0

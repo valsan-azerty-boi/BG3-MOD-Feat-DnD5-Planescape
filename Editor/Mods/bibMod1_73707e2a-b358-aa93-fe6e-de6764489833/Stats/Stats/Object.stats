@@ -12,6 +12,15 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a7426e0a-41f9-474f-98e7-859774abb824" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_PlanescapeNpcPouch" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1a9031c7-17b0-4dc4-b76c-ab16b907e2b3" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="3551a869-50ed-4f8c-8139-bae6169a79b2" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="a6176fba-e47e-4bfa-ab43-cfed1214a4c8" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_Mimir_Template" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
