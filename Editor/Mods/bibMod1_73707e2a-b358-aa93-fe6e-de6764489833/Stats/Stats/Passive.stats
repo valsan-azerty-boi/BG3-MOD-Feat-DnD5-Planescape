@@ -213,7 +213,7 @@
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="OncePerAttack" enumeration_type_name="PassiveFlags" version="1" />
         <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnDamage" enumeration_type_name="StatsFunctorContext" version="1" />
         <field name="Conditions" type="StringTableFieldDefinition" value="AttackedWithPassiveSourceWeapon()" />
-        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Target,Paitm_BarbedJavelin_Debuff,100,2)" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_BarbedJavelin_Debuff,100,1)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -225,7 +225,7 @@
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="OncePerAttack" enumeration_type_name="PassiveFlags" version="1" />
         <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnDamage" enumeration_type_name="StatsFunctorContext" version="1" />
         <field name="Conditions" type="StringTableFieldDefinition" value="AttackedWithPassiveSourceWeapon()" />
-        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Target,Paitm_HavocHammer_FireDot,100,3)" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_HavocHammer_FireDot,100,3)" />
       </fields>
     </stat_object>
   </stat_objects>

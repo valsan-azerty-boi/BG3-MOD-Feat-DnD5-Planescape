@@ -324,10 +324,10 @@
   <content contentuid="hc9aee5eege786g13f1gec8bgc3d884c981f3" version="1">Portal Cracker</content>
   <content contentuid="h8b3e8f81g355bg97c3ge7e7gef7c5c149603" version="1">Try to safely cast Portal Cracker.</content>
   <content contentuid="h39b148e5ga397g512bgc05dgc0ae5ac90c80" version="1">Sensory Stone</content>
-  <content contentuid="h8661c82cg968cg7376g49ecg0af9fc7371f0" version="10">Mimir</content>
+  <content contentuid="h8661c82cg968cg7376g49ecg0af9fc7371f0" version="11">Mimir</content>
   <content contentuid="hc515d8bdgc91ag00afg3b5eg9f683089a0ae" version="12">Sensory Stone</content>
   <content contentuid="ha39c241fgfdd5g1d77g28e2gde5843be5df1" version="9">Portal Compass</content>
-  <content contentuid="hc13933a5g243dg625bgbcd5g6992c525f1e5" version="11">This old inanimate skull-shaped device is filled with knowledge.</content>
+  <content contentuid="hc13933a5g243dg625bgbcd5g6992c525f1e5" version="12">This old inanimate skull-shaped device is filled with knowledge.</content>
   <content contentuid="h19f6dfd8gdc11gdbabgb792gf13be0ddb61e" version="1">Sensory Stone</content>
   <content contentuid="h11f6fe24g1b93ge170gdca1g5d79194cbfe5" version="1">Mimir</content>
   <content contentuid="h5c94facagf9ecg4524g5fcfg4db96e33cdbb" version="1">Portal Compass</content>
@@ -340,8 +340,8 @@
   <content contentuid="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1">Activate the Mimir and absorb its knowledge.</content>
   <content contentuid="hcd937889g2ddbg0436g8d85g6b74891d554c" version="1">Free thinker</content>
   <content contentuid="h7dd603ebg6c37g27d9gd5c2ge37c18b6d230" version="3">For those independent of mind and thought, who does not refer to any god. We often see this way of thinking among residents of Sigil. With a class like Cleric, a godless character can gain powers from their own convictions and principles.</content>
-  <content contentuid="h55a58843g198fg42beg8885g5d1fa3d64808" version="15">Portal Gate</content>
-  <content contentuid="h276ab033g0890g4653g9cadg0b61a1ec93a7" version="14">Connected with planar energies to its duplicate, this gate allows those who walk through to emerge from its twin gate.</content>
+  <content contentuid="h55a58843g198fg42beg8885g5d1fa3d64808" version="16">Portal Gate</content>
+  <content contentuid="h276ab033g0890g4653g9cadg0b61a1ec93a7" version="15">Connected with planar energies to its duplicate, this gate allows those who walk through to emerge from its twin gate.</content>
   <content contentuid="hbec64581g0ea1g8d21g6364g1d950a8f4eb4" version="1">Glitch Character</content>
   <content contentuid="hbd824043g2337g763eg7352gc4ca3a50f974" version="4">You remember strange places and strange times. It seems that you are not the only "you" in the multiverse. As an anomaly, other incarnations sometimes appear giving you bonuses.</content>
   <content contentuid="h8999ed50g75f7g3bf0g7ca0gbc3449663dda" version="3">Glitch Character Cast</content>
@@ -417,8 +417,8 @@
   <content contentuid="hbec539bdgfe54g30abg37caga453d77caef8" version="5">*Crrrkkk*</content>
   <content contentuid="h3a0ff6c2ge915g1a79g400agaab25e37fbd9" version="17">Morte</content>
   <content contentuid="h78db741fgb55cg325cg3153gd1f5d62b5f87" version="17">Mimir</content>
-  <content contentuid="hbdfa7db9g426agb016g1e61g43e526925235" version="14">Morte</content>
-  <content contentuid="h12bb70d7ga5d5g3412g4e03gf2c0b249875b" version="14">This old Mimir wants to wake up and talk.</content>
+  <content contentuid="hbdfa7db9g426agb016g1e61g43e526925235" version="16">Morte</content>
+  <content contentuid="h12bb70d7ga5d5g3412g4e03gf2c0b249875b" version="16">This old Mimir wants to wake up and talk.</content>
   <content contentuid="h7b481653g323ag3461gcd1ag86612f011e54" version="1">Morte</content>
   <content contentuid="hae6883e4gc6a3g8aaaged24ga4fca3eaef0f" version="1">This old Mimir wants to wake up and talk.</content>
   <content contentuid="h89f25f6fg526egf2e2gba52gf9320bcdc03f" version="45">Hey Chief !</content>
@@ -503,54 +503,54 @@
   <content contentuid="h7ddde9f0g37f5g305dga991g7b7c0b889bf7" version="3">You have detected traces of a portal connecting the Sorcerous Sundries store and some secret magical rooms.</content>
   <content contentuid="h557b5d8cg0a78g38dbg5a49g38428ea8110e" version="1">You have detected traces of a portal connecting the Material Plane and a devil's lair. The key appears to be a ritual composed of multiple objects.</content>
   <content contentuid="hebd9c2cbgc7bdgf824gbb3fge923b39d701d" version="1">Mimir Knowledge</content>
-  <content contentuid="h6bdbaaa7g5f25g5e3dg9e9cg3844a3acf6b1" version="4">Device activation</content>
-  <content contentuid="hd2f425b6gaa0cgcf5bga5f5g5256424ccdc8" version="3">Activating this device grants you some of its knowledge.</content>
-  <content contentuid="h2934311cg6fcbgaf64g1afag61f82c373b17" version="3">Use</content>
-  <content contentuid="h40684fe9gc931ge587gd987gc858d716944e" version="3">If it really is a Mimir, activating it should grant you some of its knowledge, right?</content>
+  <content contentuid="h6bdbaaa7g5f25g5e3dg9e9cg3844a3acf6b1" version="5">Device activation</content>
+  <content contentuid="hd2f425b6gaa0cgcf5bga5f5g5256424ccdc8" version="4">Activating this device grants you some of its knowledge.</content>
+  <content contentuid="h2934311cg6fcbgaf64g1afag61f82c373b17" version="5">Use</content>
+  <content contentuid="h40684fe9gc931ge587gd987gc858d716944e" version="5">If it really is a Mimir, activating it should grant you some of its knowledge, right?</content>
   <content contentuid="h14b0dc56g5dbfgf375ge343g78cf7ae51b0c" version="5">Use</content>
   <content contentuid="h33fffc28g5ec9g17dbg540bg411313d49cf1" version="5">Use</content>
   <content contentuid="h487284a8gc7e7gdf75g7001gb8055212b8b2" version="4">Using this contract allows you to hire the creature linked to it.</content>
   <content contentuid="hf2bd0455gdf88g41f0g99c2g21683bb3da6d" version="4">Using this contract allows you to hire the creature linked to it.</content>
   <content contentuid="hbb5bea25g6704gc77fg568agc308cbd55f8d" version="1">Sealed</content>
   <content contentuid="hc4877bc9gf86ag4709ga9d8g4d9830dc267a" version="2">Prevents casting most teleportation or portal spells.</content>
-  <content contentuid="hb962d685g4018g8a8dge9d2gc06274e5ed66" version="5">Shining Blade</content>
-  <content contentuid="h98c8764ag7b21ga56egbdd3gf996c310b6b4" version="5">A magical sword usually associated with good used by the archons of Mount Celestia. It is very rare to come across a mortal holding such a weapon.</content>
-  <content contentuid="h02089bcegb7ebg068aga103g1426f95f699c" version="6">Barbed Javelin</content>
-  <content contentuid="h2c99692cg38d4g92b1g9f01g65f67b4c5d94" version="6">A javelin typically used by bariaurs from Ysgard.</content>
+  <content contentuid="hb962d685g4018g8a8dge9d2gc06274e5ed66" version="6">Shining Blade</content>
+  <content contentuid="h98c8764ag7b21ga56egbdd3gf996c310b6b4" version="6">A magical sword usually associated with good used by the archons of Mount Celestia. It is very rare to come across a mortal holding such a weapon.</content>
+  <content contentuid="h02089bcegb7ebg068aga103g1426f95f699c" version="7">Barbed Javelin</content>
+  <content contentuid="h2c99692cg38d4g92b1g9f01g65f67b4c5d94" version="7">A javelin typically used by bariaurs from Ysgard.</content>
   <content contentuid="h48c10e09gaf5dga5eeg8c04g95ecef98393d" version="1">Obstruction</content>
   <content contentuid="h3dcf0ea8ge550g9d38g7eecg157bbd582e1e" version="1">Obstruction</content>
   <content contentuid="hc6658301g5a8fg2016gbc73g09279e9cb0b6" version="2">When hit by a Barbed Javelin, the target's movement speed is reduced.</content>
   <content contentuid="ha4ea0696gece4g37f1g31eeg3f39bdcb7d28" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; is reduced by [1].</content>
-  <content contentuid="hd794ab6bga5e2g6b6eg4910gc3275610a782" version="6">Enervating Trident</content>
-  <content contentuid="h2e945529g8e31g003dgb209g1ca0b3413b7a" version="6">A despicable trident from Carceri.</content>
+  <content contentuid="hd794ab6bga5e2g6b6eg4910gc3275610a782" version="7">Enervating Trident</content>
+  <content contentuid="h2e945529g8e31g003dgb209g1ca0b3413b7a" version="7">A despicable trident from Carceri.</content>
   <content contentuid="h5dbfde50g1c6eg14d0g0faeg791cbd77b2e7" version="4">Havok Flask</content>
   <content contentuid="h3d32fda7ge9cbge5c5g85a2g30d9bf01b77a" version="3">The Fire Starters, wielding these flasks, burn away oppressive systems through chaos and flame.</content>
   <content contentuid="h3fc36651g15cfg8fd0g57ffgc3a6c7996af7" version="7">Havok Hammer</content>
   <content contentuid="h65e8e328gff3dg6ca0gaaedged047777e3f9" version="3">The Fire Starters, wielding these hammers, burn away oppressive systems through chaos and flame.</content>
-  <content contentuid="h1fa2b04cg935fg9a8eg19b6g48008d4836ed" version="9">Bone Blade</content>
+  <content contentuid="h1fa2b04cg935fg9a8eg19b6g48008d4836ed" version="10">Bone Blade</content>
   <content contentuid="h3322594fg78d3gb2acg833bgc512f987123c" version="4">Electrified Mancatcher</content>
-  <content contentuid="ha5b08061gc445ga218g4ac8gfed895be15b3" version="8">Force Dagger</content>
-  <content contentuid="h9b76d8fegc962g6c90g6e84ga91b7c6150df" version="6">Harmonium Blade</content>
-  <content contentuid="hf56ee662g7bf2gd275g9246g05095158b407" version="9">Since kolyaruts have 4 arms, they very often use 4 of these weapons at the same time.</content>
-  <content contentuid="h0555e713g84c6g6e93g449dge72ba5aa5067" version="7">Burnished Blade</content>
-  <content contentuid="h35268241g93ccg1e06g4d0cg1850c2720341" version="6">Unerring Blade</content>
-  <content contentuid="h5cb30b60g66c8g7b0cg14fag9fa644b334b5" version="4">A weapon used by Harmonium patrollers.</content>
+  <content contentuid="ha5b08061gc445ga218g4ac8gfed895be15b3" version="9">Force Dagger</content>
+  <content contentuid="h9b76d8fegc962g6c90g6e84ga91b7c6150df" version="7">Harmonium Blade</content>
+  <content contentuid="hf56ee662g7bf2gd275g9246g05095158b407" version="10">Since kolyaruts have 4 arms, they very often use 4 of these weapons at the same time.</content>
+  <content contentuid="h0555e713g84c6g6e93g449dge72ba5aa5067" version="8">Burnished Blade</content>
+  <content contentuid="h35268241g93ccg1e06g4d0cg1850c2720341" version="7">Unerring Blade</content>
+  <content contentuid="h5cb30b60g66c8g7b0cg14fag9fa644b334b5" version="5">A weapon used by Harmonium patrollers.</content>
   <content contentuid="hdd0dcadcg37ecg48a1g381eg8624c7a83c94" version="2">A weapon used for repression by representatives of the Harmonium.</content>
-  <content contentuid="h1c95414cg5d5cge0a9g3245g109d768402af" version="4">A perfectly proportioned weapon for mustevals.</content>
-  <content contentuid="h04189e49gf2f9gb38fgcae8g6167a9eed597" version="5">Cuprilachs strike surgically, following the orders of aurumachs without question or emotion.</content>
-  <content contentuid="h0aa9e328gb8a1g34d8ga58dg70538986bf1e" version="3">Nulls work in the shadows, serving as assassins and spies for the Athar.</content>
+  <content contentuid="h1c95414cg5d5cge0a9g3245g109d768402af" version="5">A perfectly proportioned weapon for mustevals.</content>
+  <content contentuid="h04189e49gf2f9gb38fgcae8g6167a9eed597" version="6">Cuprilachs strike surgically, following the orders of aurumachs without question or emotion.</content>
+  <content contentuid="h0aa9e328gb8a1g34d8ga58dg70538986bf1e" version="4">Nulls work in the shadows, serving as assassins and spies for the Athar.</content>
   <content contentuid="hf489b8c2g5b0bge6f2g3f19g179b498fbf7f" version="7">Entropic Greatsword</content>
-  <content contentuid="ha8de7837ga4d7gc117g5575g8dac219499dc" version="3">Entropic Blade</content>
+  <content contentuid="ha8de7837ga4d7gc117g5575g8dac219499dc" version="4">Entropic Blade</content>
   <content contentuid="hadedb95eg122eg02d2gc381g7b2c7810157f" version="2">Entropic Javelin</content>
-  <content contentuid="h52da9222g30f5gaffcg64f5g0f6a84c38601" version="2">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
+  <content contentuid="h52da9222g30f5gaffcg64f5g0f6a84c38601" version="3">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
   <content contentuid="hde6d1a89g2c19g2ce6g1053ga8d0246a579a" version="6">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
   <content contentuid="hf67f607bgfe6ag874dgd6a0gadaf001f711d" version="2">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
-  <content contentuid="h9e970a59ge7a4gdb07g04f5g0d74ce703e1c" version="3">Charm of the Dead Truce</content>
-  <content contentuid="h2b8753d0g5a5dg5203g5cf1g87e6646a16b8" version="3">Charm Dead Truce lore</content>
-  <content contentuid="h0100b285gc467gca8cg94d3g89064fbaa365" version="1">Charm of Incorporeality</content>
-  <content contentuid="h90d5382cgac10gce4fgfa62g30a16f8fdec4" version="1">Charm Incorporeality lore</content>
-  <content contentuid="ha116c558g4f4bg031ega93bg0bd71f7adb5c" version="1">Use</content>
-  <content contentuid="h4d6ca746g8bbdg75bcgbb04g36301dbcf747" version="4">Use</content>
+  <content contentuid="h9e970a59ge7a4gdb07g04f5g0d74ce703e1c" version="5">Charm of the Dead Truce</content>
+  <content contentuid="h2b8753d0g5a5dg5203g5cf1g87e6646a16b8" version="5">Charm Dead Truce lore</content>
+  <content contentuid="h0100b285gc467gca8cg94d3g89064fbaa365" version="2">Charm of Incorporeality</content>
+  <content contentuid="h90d5382cgac10gce4fgfa62g30a16f8fdec4" version="2">Charm Incorporeality lore</content>
+  <content contentuid="ha116c558g4f4bg031ega93bg0bd71f7adb5c" version="2">Use</content>
+  <content contentuid="h4d6ca746g8bbdg75bcgbb04g36301dbcf747" version="6">Use</content>
   <content contentuid="hd9e90659g39b6g07d1ga365g6adb41d0d962" version="1">Shout_Paitm_CharmDeadTruce</content>
   <content contentuid="h9c1d41cfg908dgb54bgd45ag1d1827eca7fd" version="1">desc Shout_Paitm_CharmDeadTruce</content>
   <content contentuid="hf9ac3656gfaf2g80d4gae2dg594efd79ef17" version="1">Shout_Paitm_Paitm_CharmIncorporeality</content>

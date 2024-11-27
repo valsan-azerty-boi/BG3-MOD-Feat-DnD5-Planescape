@@ -211,7 +211,7 @@
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
         <field name="Damage Type" type="EnumerationTableFieldDefinition" value="Force" enumeration_type_name="Damage Type" version="1" />
-        <field name="Damage" type="DiceTableFieldDefinition" value="1+23" />
+        <field name="Damage" type="DiceTableFieldDefinition" value="24" />
         <field name="WeaponRange" type="IntegerTableFieldDefinition" value="200" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="5" />
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="81764c3c-c7a9-49a7-b145-d31ffd5aebe1" />
