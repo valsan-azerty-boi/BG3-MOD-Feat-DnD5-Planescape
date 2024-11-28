@@ -569,4 +569,6 @@
 <content contentuid="ha13cd106g9877g8ad7g41e4gcc9c61aa7f74" version="1">Whenever you deal damage with this weapon, it can push your target backwards.</content>
 <content contentuid="h29b950f4gee17g71bdg6948g70a0371c30c8" version="1">Entropy</content>
 <content contentuid="hb874d355ge9e4g02fcg49b8g77d11b2dad19" version="1">A creature killed by this weapon is reduced to ash.</content>
+<content contentuid="hf871407eg4afbgba85gad7ag195a98cf6fc7" version="1">Entropic Emission</content>
+<content contentuid="h4d9e33c6g842eg3bf3g444dg0713d909a0ce" version="2">The blade emits a burst of entropic magic. Each creature in the spell area must succeed on a Constitution saving throw or take [1].</content>
 </contentList>

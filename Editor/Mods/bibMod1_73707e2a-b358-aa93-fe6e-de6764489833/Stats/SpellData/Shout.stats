@@ -3,6 +3,13 @@
   <stat_objects>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="29192ebe-2313-4132-8461-d2795e3467b3" />
+        <field name="Name" type="NameTableFieldDefinition" value="paitm_cool_animation_shout_spell" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="71369b20-18f1-4d33-89ad-a99b10f0444c,,;48beee2b-7124-4fa1-b820-dab4d89198d4,,;512f7a89-a41c-43f9-beba-03ea5e9f33bd,,;9add032c-e500-4e88-a2ea-ef6c905bd656,,;3b9da8d4-3eff-43bd-9eaa-1c13fba0045e,,;d9feef5a-3726-4e23-95e5-6ec295efdc96,,;0b07883a-08b8-43b6-ac18-84dc9e84ff50,,;,,;,," />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="70fc8b54-586f-4483-b7d1-7f3c8aadaef0" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_WarpSense" />
         <field name="Level" type="IntegerTableFieldDefinition" value="2" />
@@ -384,6 +391,48 @@
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="1" />
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="ec80b3cd-29fd-40d2-a41a-b703db1b6f8e" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="0d00be21-dd30-4b42-b5a0-afc6271033bc" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="418bb7d7-6c90-44dd-886a-7ae61bd73d0e" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_EntropicEmission" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="4" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Necromancy" enumeration_type_name="SpellSchool" version="1" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
+        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="10" />
+        <field name="DeathType" type="EnumerationTableFieldDefinition" value="Disintegrate" enumeration_type_name="Death Type" version="1" />
+        <field name="SpellRoll" type="StringTableFieldDefinition" value="not SavingThrow(Ability.Constitution,13);Attack(AttackType.MeleeWeaponAttack)" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(1d12,Necrotic,Magical)" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="not Dead() and Character()" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Dethrone" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf871407eg4afbgba85gad7ag195a98cf6fc7" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h4d9e33c6g842eg3bf3g444dg0713d909a0ce" version="2" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(1d12,Necrotic)" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(1d12,Necrotic)" />
+        <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineStrike" />
+        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Cleric_DivineStrike" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Cleric_DivineStrikeMelee" />
+        <field name="TargetSound" type="StringTableFieldDefinition" value="Action_Impact_Cleric_DivineStrikeMeleeDamagePoison" />
+        <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Melee" enumeration_type_name="CursorMode" version="1" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="AlternativeCastTextEvents" type="StringTableFieldDefinition" value="CastOffhand" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="8b8bb757-21ce-4e02-a2f3-97d55cf2f90b,,;,,;35b644cf-5c13-4407-9dc1-23bf4309216e,,;823e3ddf-c670-41ef-b7b4-9f4a4e38300b,,;7bb52cd4-0b1c-4926-9165-fa92b75876a3,,;,,;0b07883a-08b8-43b6-ac18-84dc9e84ff50,,;,,;,," />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Damage" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="SpellStyleGroup" type="EnumerationTableFieldDefinition" value="Intent" enumeration_type_name="SpellStyleGroup" version="1" />
+        <field name="WeaponType" type="EnumerationListTableFieldDefinition" value="Melee" enumeration_type_name="WeaponFlags" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasSomaticComponent;IsHarmful" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="MagicalDamage_External" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
+        <field name="RechargeValues" type="StringTableFieldDefinition" value="2-3" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="ec80b3cd-29fd-40d2-a41a-b703db1b6f8e" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="e61d2266-f041-4bd5-a488-7b66e76d781c" />
+        <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="878dfe31-5d87-4a20-b47f-97a8b5742c79" />
+        <field name="SpellSoundMagnitude" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="SpellSoundMagnitude" version="1" />
+        <field name="Sheathing" type="EnumerationTableFieldDefinition" value="Melee" enumeration_type_name="SpellSheathing" version="1" />
       </fields>
     </stat_object>
   </stat_objects>

@@ -376,6 +376,7 @@
         <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Versatile;Melee;Dippable;Magical" enumeration_type_name="WeaponFlags" version="1" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Longswords;MartialWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
         <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="Paitm_EntropicWeaponAsh_Passive" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_EntropicEmission)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

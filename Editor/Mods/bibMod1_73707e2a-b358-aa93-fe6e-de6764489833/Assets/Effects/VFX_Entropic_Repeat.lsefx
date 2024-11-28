@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <effect version="0.0" effectversion="1.0.0" id="00000000-0000-0000-0000-000000000000">
-  <phases />
+  <phases>
+    <object class="" classid="00000000-0000-0000-0000-000000000000" assembly="">
+      <data id="c60ec06a-dd0f-495f-8027-5f23feab98ae" duration="0.44" playcount="1" definitionid="fc34bad5-e4a8-4855-bdd1-ece88d327719" />
+    </object>
+    <object class="" classid="00000000-0000-0000-0000-000000000000" assembly="">
+      <data id="e3f38715-53a8-4776-90fa-66c94aefef94" duration="0.88" playcount="-1" definitionid="2d6a16c1-4632-4f7f-8097-4717dc65d7bd" />
+    </object>
+    <object class="" classid="00000000-0000-0000-0000-000000000000" assembly="">
+      <data id="a8184b64-82ae-4bd9-9a0e-7d7799324458" duration="0.3" playcount="1" definitionid="fc8e9f77-827a-433f-a58d-ad1007605399" />
+    </object>
+  </phases>
   <colors />
   <trackgroups>
     <trackgroup name="New Track Group">

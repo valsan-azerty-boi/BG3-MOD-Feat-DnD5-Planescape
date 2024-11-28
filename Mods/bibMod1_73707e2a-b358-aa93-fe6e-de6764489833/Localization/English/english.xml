@@ -540,9 +540,9 @@
   <content contentuid="h04189e49gf2f9gb38fgcae8g6167a9eed597" version="6">Cuprilachs strike surgically, following the orders of aurumachs without question or emotion.</content>
   <content contentuid="h0aa9e328gb8a1g34d8ga58dg70538986bf1e" version="4">Nulls work in the shadows, serving as assassins and spies for the Athar.</content>
   <content contentuid="hf489b8c2g5b0bge6f2g3f19g179b498fbf7f" version="8">Entropic Greatsword</content>
-  <content contentuid="ha8de7837ga4d7gc117g5575g8dac219499dc" version="5">Entropic Blade</content>
+  <content contentuid="ha8de7837ga4d7gc117g5575g8dac219499dc" version="6">Entropic Blade</content>
   <content contentuid="hadedb95eg122eg02d2gc381g7b2c7810157f" version="3">Entropic Javelin</content>
-  <content contentuid="h52da9222g30f5gaffcg64f5g0f6a84c38601" version="4">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
+  <content contentuid="h52da9222g30f5gaffcg64f5g0f6a84c38601" version="5">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
   <content contentuid="hde6d1a89g2c19g2ce6g1053ga8d0246a579a" version="7">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
   <content contentuid="hf67f607bgfe6ag874dgd6a0gadaf001f711d" version="3">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
   <content contentuid="h9e970a59ge7a4gdb07g04f5g0d74ce703e1c" version="5">Charm of the Dead Truce</content>
@@ -569,4 +569,6 @@
   <content contentuid="ha13cd106g9877g8ad7g41e4gcc9c61aa7f74" version="1">Whenever you deal damage with this weapon, it can push your target backwards.</content>
   <content contentuid="h29b950f4gee17g71bdg6948g70a0371c30c8" version="1">Entropy</content>
   <content contentuid="hb874d355ge9e4g02fcg49b8g77d11b2dad19" version="1">A creature killed by this weapon is reduced to ash.</content>
+  <content contentuid="hf871407eg4afbgba85gad7ag195a98cf6fc7" version="1">Entropic Emission</content>
+  <content contentuid="h4d9e33c6g842eg3bf3g444dg0713d909a0ce" version="2">The blade emits a burst of entropic magic. Each creature in the spell area must succeed on a Constitution saving throw or take [1].</content>
 </contentList>
