@@ -123,7 +123,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hbc628baeg7924g2968g688ege1b27b9da425" version="9" />
         <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_AgentOfOrder" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_StasisStrike);ActionResource(PaitmInterruptsPoint,1,0)" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_StasisStrike);ActionResource(PaitmInterruptsPoint,1,0);ActionResource(PaitmInterruptsPointRest,ProficiencyBonus,0)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -134,7 +134,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha6e5632cgaf7cg4d26g70e5g1073b3542c2d" version="8" />
         <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_BalefulScion" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_GraspOfAvarice);ActionResource(PaitmInterruptsPoint,1,0)" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_GraspOfAvarice);ActionResource(PaitmInterruptsPoint,1,0);ActionResource(PaitmInterruptsPointRest,ProficiencyBonus,0)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -167,7 +167,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd0289576gccc2gcb7dg9966g992f0cb0c0f2" version="7" />
         <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_RighteousHeritor" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_SoothePain);ActionResource(PaitmInterruptsPoint,1,0)" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_SoothePain);ActionResource(PaitmInterruptsPoint,1,0);ActionResource(PaitmInterruptsPointRest,ProficiencyBonus,0)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -220,12 +220,48 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="08b73b79-4bc1-40cd-8816-9333350e994c" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_HavocHammer_FireDot_Passive" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3c22c311g5c4ega574g00c7g3955c940943b" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h4b01b315ga76age906ga70fg7336c25b0a65" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3c22c311g5c4ega574g00c7g3955c940943b" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h4b01b315ga76age906ga70fg7336c25b0a65" version="2" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="OncePerAttack" enumeration_type_name="PassiveFlags" version="1" />
         <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnDamage" enumeration_type_name="StatsFunctorContext" version="1" />
         <field name="Conditions" type="StringTableFieldDefinition" value="AttackedWithPassiveSourceWeapon()" />
-        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_HavocHammer_FireDot,100,3)" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_HavocHammer_FireDot,100,2)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="89f17473-7a5d-4bbe-8113-7b4f87c716a4" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_ElecMancatch_ElecDot_Passive" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9fcdae5eg0e2eg3ff0ge2aegb3383f8a81a6" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h4f796a42gde7cgc6ccg5bf8ge753df49975d" version="2" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="OncePerAttack;OncePerCombat" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnDamage" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="Conditions" type="StringTableFieldDefinition" value="AttackedWithPassiveSourceWeapon()" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_ElecMancatch_ElecDot,100,3);ApplyStatus(Paitm_SEALED,100,3);ApplyStatus(RESTRAINED,100,3)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="89ec686c-8907-49e1-89f0-8527cade46be" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_UnerringBlade_Passive" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb41684b4g64e0geae3gb8f2g5961893564f2" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha13cd106g9877g8ad7g41e4gcc9c61aa7f74" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="OncePerAttack" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnDamage" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="Conditions" type="StringTableFieldDefinition" value="AttackedWithPassiveSourceWeapon()" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF(not SavingThrow(Ability.Strength,ManeuverSaveDC())):Force(2)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="94dac0b1-1f70-4a3d-a782-d3c635c11757" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_EntropicWeaponAsh_Passive" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h29b950f4gee17g71bdg6948g70a0371c30c8" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb874d355ge9e4g02fcg49b8g77d11b2dad19" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="OncePerAttack" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnDamage" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="Conditions" type="StringTableFieldDefinition" value="AttackedWithPassiveSourceWeapon()" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Entropy_DeathDebuff,100,0)" />
       </fields>
     </stat_object>
   </stat_objects>

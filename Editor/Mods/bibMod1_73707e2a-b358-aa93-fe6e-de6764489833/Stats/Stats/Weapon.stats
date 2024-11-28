@@ -228,6 +228,7 @@
         <field name="Weapon Group" type="EnumerationTableFieldDefinition" value="MartialMeleeWeapon" enumeration_type_name="Weapon Group" version="1" />
         <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Twohanded;Heavy;Melee;Dippable;Magical" enumeration_type_name="WeaponFlags" version="1" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Greatswords;MartialWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="Paitm_UnerringBlade_Passive" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -337,6 +338,7 @@
         <field name="VersatileDamage" type="DiceTableFieldDefinition" value="2d6+2" />
         <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Twohanded;Heavy;Melee;Dippable;Magical" enumeration_type_name="WeaponFlags" version="1" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Greatswords;MartialWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="Paitm_EntropicWeaponAsh_Passive" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -373,6 +375,7 @@
         <field name="VersatileDamage" type="DiceTableFieldDefinition" value="1d10+1" />
         <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Versatile;Melee;Dippable;Magical" enumeration_type_name="WeaponFlags" version="1" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Longswords;MartialWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="Paitm_EntropicWeaponAsh_Passive" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -409,6 +412,7 @@
         <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Thrown;Melee;Dippable;Magical" enumeration_type_name="WeaponFlags" version="1" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Javelins;SimpleWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
         <field name="Damage" type="DiceTableFieldDefinition" value="1d6" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="Paitm_EntropicWeaponAsh_Passive" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -518,6 +522,7 @@
         <field name="VersatileDamage" type="DiceTableFieldDefinition" value="1d10+1" />
         <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Thrown;Melee;Dippable;Versatile;Magical" enumeration_type_name="WeaponFlags" version="1" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Tridents;MartialWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="Paitm_ElecMancatch_ElecDot_Passive" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

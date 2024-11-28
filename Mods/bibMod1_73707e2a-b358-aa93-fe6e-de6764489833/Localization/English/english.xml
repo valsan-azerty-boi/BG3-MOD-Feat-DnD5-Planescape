@@ -65,7 +65,7 @@
   <content contentuid="hc635cd26ge771g46fbgaef8ga24b8487873c" version="1">Grasp of Avarice</content>
   <content contentuid="h38be499bg66cegfe7eg554ag39e19c04a5b9" version="1">Once per turn, when you damage a creature, you can also deal necrotic damage to it. The necrotic damage equals 1d6, and you regain 1d6 hit points.</content>
   <content contentuid="h1c8b8d38gc2a8g380cg8a2cgc7cbaaa07449" version="1">Grasp of Avarice</content>
-  <content contentuid="h6be0c2degf8d2gf7d4g2601g3fef053dc7fe" version="4">As a Baleful Scion, once per turn, if you damage a creature you can also deal an additional [1] and you regain [2].</content>
+  <content contentuid="h6be0c2degf8d2gf7d4g2601g3fef053dc7fe" version="6">As a Baleful Scion, once per turn, if you damage a creature you can also deal an additional [1] and you regain [2]. You add your &lt;LSTag Tooltip="Proficiency"&gt;Proficiency Bonus&lt;/LSTag&gt; to these damage and healing rolls.</content>
   <content contentuid="h179c540dg33ecg394dgd2cagb075484fbbd4" version="1">Stasis Strike</content>
   <content contentuid="heab337b1g2162gdd98gc8aag6cde93106e6c" version="3">As an Agent of Order, once per turn, if you damage a creature you can also deal an additional [1] and, if lucky, restrain it.</content>
   <content contentuid="h1277ed5cgfce9g69bdg7ba3g5da310c9534b" version="1">Soothe Pain</content>
@@ -525,26 +525,26 @@
   <content contentuid="h2e945529g8e31g003dgb209g1ca0b3413b7a" version="7">A despicable trident from Carceri.</content>
   <content contentuid="h5dbfde50g1c6eg14d0g0faeg791cbd77b2e7" version="5">Havok Flask</content>
   <content contentuid="h3d32fda7ge9cbge5c5g85a2g30d9bf01b77a" version="4">The Fire Starters, wielding these flasks, burn away oppressive systems through chaos and flame.</content>
-  <content contentuid="h3fc36651g15cfg8fd0g57ffgc3a6c7996af7" version="7">Havok Hammer</content>
-  <content contentuid="h65e8e328gff3dg6ca0gaaedged047777e3f9" version="3">The Fire Starters, wielding these hammers, burn away oppressive systems through chaos and flame.</content>
+  <content contentuid="h3fc36651g15cfg8fd0g57ffgc3a6c7996af7" version="8">Havok Hammer</content>
+  <content contentuid="h65e8e328gff3dg6ca0gaaedged047777e3f9" version="4">The Fire Starters, wielding these hammers, burn away oppressive systems through chaos and flame.</content>
   <content contentuid="h1fa2b04cg935fg9a8eg19b6g48008d4836ed" version="10">Bone Blade</content>
-  <content contentuid="h3322594fg78d3gb2acg833bgc512f987123c" version="4">Electrified Mancatcher</content>
+  <content contentuid="h3322594fg78d3gb2acg833bgc512f987123c" version="5">Electrified Mancatcher</content>
   <content contentuid="ha5b08061gc445ga218g4ac8gfed895be15b3" version="9">Force Dagger</content>
   <content contentuid="h9b76d8fegc962g6c90g6e84ga91b7c6150df" version="7">Harmonium Blade</content>
-  <content contentuid="hf56ee662g7bf2gd275g9246g05095158b407" version="10">Since kolyaruts have 4 arms, they very often use 4 of these weapons at the same time.</content>
+  <content contentuid="hf56ee662g7bf2gd275g9246g05095158b407" version="12">Since kolyaruts have 4 arms, they very often use 4 of these weapons at the same time.</content>
   <content contentuid="h0555e713g84c6g6e93g449dge72ba5aa5067" version="8">Burnished Blade</content>
-  <content contentuid="h35268241g93ccg1e06g4d0cg1850c2720341" version="7">Unerring Blade</content>
+  <content contentuid="h35268241g93ccg1e06g4d0cg1850c2720341" version="9">Unerring Blade</content>
   <content contentuid="h5cb30b60g66c8g7b0cg14fag9fa644b334b5" version="5">A weapon used by Harmonium patrollers.</content>
-  <content contentuid="hdd0dcadcg37ecg48a1g381eg8624c7a83c94" version="2">A weapon used for repression by representatives of the Harmonium.</content>
+  <content contentuid="hdd0dcadcg37ecg48a1g381eg8624c7a83c94" version="3">A weapon used for repression by representatives of the Harmonium.</content>
   <content contentuid="h1c95414cg5d5cge0a9g3245g109d768402af" version="5">A perfectly proportioned weapon for mustevals.</content>
   <content contentuid="h04189e49gf2f9gb38fgcae8g6167a9eed597" version="6">Cuprilachs strike surgically, following the orders of aurumachs without question or emotion.</content>
   <content contentuid="h0aa9e328gb8a1g34d8ga58dg70538986bf1e" version="4">Nulls work in the shadows, serving as assassins and spies for the Athar.</content>
-  <content contentuid="hf489b8c2g5b0bge6f2g3f19g179b498fbf7f" version="7">Entropic Greatsword</content>
-  <content contentuid="ha8de7837ga4d7gc117g5575g8dac219499dc" version="4">Entropic Blade</content>
-  <content contentuid="hadedb95eg122eg02d2gc381g7b2c7810157f" version="2">Entropic Javelin</content>
-  <content contentuid="h52da9222g30f5gaffcg64f5g0f6a84c38601" version="3">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
-  <content contentuid="hde6d1a89g2c19g2ce6g1053ga8d0246a579a" version="6">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
-  <content contentuid="hf67f607bgfe6ag874dgd6a0gadaf001f711d" version="2">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
+  <content contentuid="hf489b8c2g5b0bge6f2g3f19g179b498fbf7f" version="8">Entropic Greatsword</content>
+  <content contentuid="ha8de7837ga4d7gc117g5575g8dac219499dc" version="5">Entropic Blade</content>
+  <content contentuid="hadedb95eg122eg02d2gc381g7b2c7810157f" version="3">Entropic Javelin</content>
+  <content contentuid="h52da9222g30f5gaffcg64f5g0f6a84c38601" version="4">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
+  <content contentuid="hde6d1a89g2c19g2ce6g1053ga8d0246a579a" version="7">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
+  <content contentuid="hf67f607bgfe6ag874dgd6a0gadaf001f711d" version="3">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
   <content contentuid="h9e970a59ge7a4gdb07g04f5g0d74ce703e1c" version="5">Charm of the Dead Truce</content>
   <content contentuid="h2b8753d0g5a5dg5203g5cf1g87e6646a16b8" version="5">Charm Dead Truce lore</content>
   <content contentuid="h0100b285gc467gca8cg94d3g89064fbaa365" version="2">Charm of Incorporeality</content>
@@ -557,8 +557,16 @@
   <content contentuid="h3375375fgf2f8g4cedg8cb5gfb53fd26ab1c" version="1">desc Shout_Paitm_Paitm_CharmIncorporeality</content>
   <content contentuid="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="1">Protection from Undead creatures</content>
   <content contentuid="hd03eeeb1g0e99g80d2g9246g93cb8215e28f" version="1">The target is protected against undead creatures. These creatures have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against the target, and the target can't be Charmed, Frightened, or Possessed by them.</content>
-  <content contentuid="hc5ba049bg1d5eg6404g8a09gbfe881c3e26d" version="1">Havoc Flame</content>
+  <content contentuid="hc5ba049bg1d5eg6404g8a09gbfe881c3e26d" version="2">Havoc Fire</content>
   <content contentuid="h244fa72cg8090g14f2ga028ge59a03bf16c5" version="1">Takes [1] each turn.</content>
-  <content contentuid="h3c22c311g5c4ega574g00c7g3955c940943b" version="1">Havoc Flame</content>
-  <content contentuid="h4b01b315ga76age906ga70fg7336c25b0a65" version="1">Whenever you deal damage with this weapon, inflicts Havoc Flame to your target.</content>
+  <content contentuid="h3c22c311g5c4ega574g00c7g3955c940943b" version="2">Havoc Fire</content>
+  <content contentuid="h4b01b315ga76age906ga70fg7336c25b0a65" version="2">Whenever you deal damage with this weapon, inflicts Havoc Fire to your target.</content>
+  <content contentuid="h9fcdae5eg0e2eg3ff0ge2aegb3383f8a81a6" version="1">Lightning Seal</content>
+  <content contentuid="h4f796a42gde7cgc6ccg5bf8ge753df49975d" version="2">Once per combat, whenever you deal damage with this weapon, inflicts a Lightning Seal to your target.</content>
+  <content contentuid="hf6cc7530g18e6g0dedg7679g49df7ad6cbcb" version="1">Lighting Seal</content>
+  <content contentuid="h7824fb26g0bdbgfd75g245agd3ea9ca52ebb" version="1">Takes [1] each turn.</content>
+  <content contentuid="hb41684b4g64e0geae3gb8f2g5961893564f2" version="1">Push</content>
+  <content contentuid="ha13cd106g9877g8ad7g41e4gcc9c61aa7f74" version="1">Whenever you deal damage with this weapon, it can push your target backwards.</content>
+  <content contentuid="h29b950f4gee17g71bdg6948g70a0371c30c8" version="1">Entropy</content>
+  <content contentuid="hb874d355ge9e4g02fcg49b8g77d11b2dad19" version="1">A creature killed by this weapon is reduced to ash.</content>
 </contentList>

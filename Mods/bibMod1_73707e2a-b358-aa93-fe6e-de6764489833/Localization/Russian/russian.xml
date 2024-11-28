@@ -65,7 +65,7 @@
   <content contentuid="hc635cd26ge771g46fbgaef8ga24b8487873c" version="1">Хватка алчности</content>
   <content contentuid="h38be499bg66cegfe7eg554ag39e19c04a5b9" version="1">Один раз за ход, когда вы наносите урон существу, вы также можете нанести ему некротический урон. Некротический урон равен 1d6, и вы восстанавливаете 1d6 очков жизни.</content>
   <content contentuid="h1c8b8d38gc2a8g380cg8a2cgc7cbaaa07449" version="1">Хватка алчности</content>
-  <content contentuid="h6be0c2degf8d2gf7d4g2601g3fef053dc7fe" version="4">Как Зловещий наследник, раз за ход, один раз за ход, если вы наносите урон существу, вы также можете нанести дополнительно [1] и восстановить себе [2].</content>
+  <content contentuid="h6be0c2degf8d2gf7d4g2601g3fef053dc7fe" version="4">Как Зловещий наследник, раз за ход, один раз за ход, если вы наносите урон существу, вы также можете нанести дополнительно [1] и восстановить себе [2]. You add your &lt;LSTag Tooltip="Proficiency"&gt;Proficiency Bonus&lt;/LSTag&gt; to these damage and healing rolls.</content>
   <content contentuid="h179c540dg33ecg394dgd2cagb075484fbbd4" version="1">Стазисный удар</content>
   <content contentuid="heab337b1g2162gdd98gc8aag6cde93106e6c" version="3">Как Агент порядка, один раз за ход, если вы наносите урон существу, вы также можете нанести дополнительно [1] и, если повезет, обездвижить его.</content>
   <content contentuid="h1277ed5cgfce9g69bdg7ba3g5da310c9534b" version="1">Успокоить боль</content>
@@ -561,4 +561,12 @@
   <content contentuid="h3c22c311g5c4ega574g00c7g3955c940943b" version="1">Havoc Flame</content>
   <content contentuid="h244fa72cg8090g14f2ga028ge59a03bf16c5" version="1">Takes [1] each turn.</content>
   <content contentuid="h4b01b315ga76age906ga70fg7336c25b0a65" version="1">Whenever you deal damage with this weapon, inflicts Havoc Flame to your target.</content>
+  <content contentuid="h9fcdae5eg0e2eg3ff0ge2aegb3383f8a81a6" version="1">Lightning Seal</content>
+  <content contentuid="h4f796a42gde7cgc6ccg5bf8ge753df49975d" version="2">Once per combat, whenever you deal damage with this weapon, inflicts a Lightning Seal to your target.</content>
+  <content contentuid="hf6cc7530g18e6g0dedg7679g49df7ad6cbcb" version="1">Lighting Seal</content>
+  <content contentuid="h7824fb26g0bdbgfd75g245agd3ea9ca52ebb" version="1">Takes [1] each turn.</content>
+  <content contentuid="hb41684b4g64e0geae3gb8f2g5961893564f2" version="1">Push</content>
+  <content contentuid="ha13cd106g9877g8ad7g41e4gcc9c61aa7f74" version="1">Whenever you deal damage with this weapon, it can push your target backwards.</content>
+  <content contentuid="h29b950f4gee17g71bdg6948g70a0371c30c8" version="1">Entropy</content>
+  <content contentuid="hb874d355ge9e4g02fcg49b8g77d11b2dad19" version="1">A creature killed by this weapon is reduced to ash.</content>
 </contentList>

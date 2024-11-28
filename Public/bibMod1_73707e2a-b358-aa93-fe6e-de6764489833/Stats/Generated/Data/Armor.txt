@@ -1,0 +1,7 @@
+new entry "PAITM_CheatRingForTest"
+type "Armor"
+using "UND_Tower_RingLight"
+data "UseCosts" "ActionPoint:0"
+data "PassivesOnEquip" "MAG_ShapesifterSlayer_Passive;MAG_MagicalDurability_Passive"
+data "StatusOnEquip" "EXTRA_ATTACK"
+
