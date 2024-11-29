@@ -71,6 +71,7 @@ data "Description" "hb52aaae7g5a0cgd77ag0cdcgdfb890b9bbdc;1"
 data "Icon" "Plns_Spell_PortalCracker"
 data "FormatColor" "Orange"
 data "StackId" "PAITM_WARPSENSE_STACK"
+data "StatusPropertyFlags" "ForceOverhead"
 data "StatusGroups" "SG_RemoveOnRespec"
 
 new entry "Paitm_WarpSense_PortalDetectedMultiple_Buff"
