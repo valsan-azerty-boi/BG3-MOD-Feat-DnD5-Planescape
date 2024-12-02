@@ -19,6 +19,42 @@ new subtable "1,1"
 object category "I_OBJ_Paitm_Annah",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Paitm_FallFromGrace",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Paitm_CharmIncorporeality",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Paitm_CharmDeadTruce",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Paitm_PlanescapeNpcPouch",1,0,0,0,0,0,0,0
+new treasuretable "Paitm_Tut_NpcTreasure"
+IgnoreLevelDiff 1
+new subtable "1,1"
+object category "I_WPN_Paitm_ShiningBlade",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Paitm_BarbedJavelin",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Paitm_EnervatingTrident",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Paitm_BoneBlade",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Paitm_UnerringBlade",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Paitm_BurnishedBlade",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Paitm_ForceDagger",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Paitm_EntropicGreatsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Paitm_EntropicBlade",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Paitm_EntropicJavelin",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Paitm_HavocHammer",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Paitm_HavocFlask",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Paitm_HarmoniumBlade",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Paitm_ElectrifiedMancatcher",1,0,0,0,0,0,0,0
 new treasuretable "TUT_Chest_Potions"
 CanMerge 1
 IgnoreLevelDiff 1

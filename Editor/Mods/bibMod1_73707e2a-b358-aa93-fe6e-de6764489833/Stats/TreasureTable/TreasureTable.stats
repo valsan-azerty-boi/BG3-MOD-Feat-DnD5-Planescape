@@ -99,6 +99,192 @@
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7c5fae29-4181-4a46-bd25-1a52b41094d2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fe88711b-d014-4aca-8848-9e12dc30a59d" />
+        <field name="Name" type="NameTableFieldDefinition" value="7c5fae29-4181-4a46-bd25-1a52b41094d2_substat_10" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_CharmIncorporeality" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7c5fae29-4181-4a46-bd25-1a52b41094d2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5e82dfb9-7aff-413b-88c1-0784e3f4fd37" />
+        <field name="Name" type="NameTableFieldDefinition" value="7c5fae29-4181-4a46-bd25-1a52b41094d2_substat_11" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_CharmDeadTruce" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7c5fae29-4181-4a46-bd25-1a52b41094d2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="49b609b8-e205-483f-b196-e2ad02526fb7" />
+        <field name="Name" type="NameTableFieldDefinition" value="7c5fae29-4181-4a46-bd25-1a52b41094d2_substat_23" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_PlanescapeNpcPouch" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Tut_NpcTreasure" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_WPN_Paitm_ShiningBlade" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa" />
+        <field name="UUID" type="IdTableFieldDefinition" value="79f2d601-c82a-444e-ab06-ed969c550184" />
+        <field name="Name" type="NameTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa_substat_11" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_WPN_Paitm_BarbedJavelin" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5864376e-3dd8-4c2e-b803-70abb019fd65" />
+        <field name="Name" type="NameTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa_substat_10" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_WPN_Paitm_EnervatingTrident" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa" />
+        <field name="UUID" type="IdTableFieldDefinition" value="acde13ae-50a9-412d-afc5-af2832a68848" />
+        <field name="Name" type="NameTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa_substat_8" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_WPN_Paitm_BoneBlade" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a727c50c-b3d6-4737-acaf-1f46cadc83fc" />
+        <field name="Name" type="NameTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa_substat_9" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_WPN_Paitm_UnerringBlade" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa" />
+        <field name="UUID" type="IdTableFieldDefinition" value="94f9f38a-dc51-4686-8c0d-1a8b4a8c0351" />
+        <field name="Name" type="NameTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa_substat_5" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_WPN_Paitm_BurnishedBlade" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3444c868-b6b3-411c-8078-ad539cdee76d" />
+        <field name="Name" type="NameTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa_substat_6" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_WPN_Paitm_ForceDagger" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa" />
+        <field name="UUID" type="IdTableFieldDefinition" value="90e12fa3-be8d-4dcb-8221-561743513abf" />
+        <field name="Name" type="NameTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa_substat_7" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_WPN_Paitm_EntropicGreatsword" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa" />
+        <field name="UUID" type="IdTableFieldDefinition" value="13c9b2a7-ef0f-4921-976e-0279dfc0e812" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Tut_NpcTreasure_substat" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_WPN_Paitm_EntropicBlade" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8db1d2cb-2404-47bb-9929-95aed5879cf1" />
+        <field name="Name" type="NameTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa_substat_0" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_WPN_Paitm_EntropicJavelin" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6adaf2b1-766a-4fd9-b2e3-675d3af2bc3a" />
+        <field name="Name" type="NameTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa_substat_1" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_WPN_Paitm_HavocHammer" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa" />
+        <field name="UUID" type="IdTableFieldDefinition" value="014736ce-447b-4806-be56-00aec1f2c1af" />
+        <field name="Name" type="NameTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa_substat_2" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_HavocFlask" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa" />
+        <field name="UUID" type="IdTableFieldDefinition" value="98512c71-5b63-4d9b-8562-5deb507a2fda" />
+        <field name="Name" type="NameTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa_substat_3" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_WPN_Paitm_HarmoniumBlade" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d5e8dd4b-9446-4572-bfad-d3f056d33005" />
+        <field name="Name" type="NameTableFieldDefinition" value="4ef27927-c3b8-41e8-a81b-8ccde126e0fa_substat_4" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_WPN_Paitm_ElectrifiedMancatcher" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="d4e58887-9040-4646-b759-96609de1cb80" />

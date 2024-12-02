@@ -6,11 +6,11 @@
         <field name="UUID" type="IdTableFieldDefinition" value="ae0df5bb-c2a1-45a2-802b-43a6a6353774" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GraspOfAvarice_Heal" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h772d8616gf778g0bd8gc9efge2f5b95f85ce" version="2" />
-        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_DevilsSight" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_BalefulScion" />
         <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="MagicalNonDamage" enumeration_type_name="HitAnimationType" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="POTION_OF_HEALING" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RegainHitPoints(1d6+UnarmedMeleeAbilityModifier/2)" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RegainHitPoints(1d6+ProficiencyBonus)" />
         <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="89f2d0ac-9295-4657-bfa6-fb6d61adf59c" />
       </fields>
     </stat_object>
@@ -20,10 +20,10 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_SoothePain_Protection" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2ffb529dgfbdeg648bg9421g3f1b503ed664" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h429acdddg853fg9bfeg3e1ag3dcd338f5bf4" version="3" />
-        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_DarkOnesBlessing" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_RighteousHeritor" />
         <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_Buff_MO" />
         <field name="TickType" type="EnumerationTableFieldDefinition" value="EndTurn" enumeration_type_name="TickType" version="1" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamageResistance(Bludgeoning);WeaponDamageResistance(Slashing);WeaponDamageResistance(Piercing);AC(2)" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamageResistance(Bludgeoning);WeaponDamageResistance(Slashing);WeaponDamageResistance(Piercing);AC(1)" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="AI_ONLY:IF(not HasStatus('Paitm_SoothePain_Protection')):ApplyStatus(AI_HELPER_Paitm_SoothePain_Protection,100,1)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" value="c1e8b65e-f8ba-4b9a-ac55-f7edbb328633" />
@@ -37,7 +37,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_StasisStrike_Restain" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he44d3a3eg97abge426g3092gdbe21b5d95ad" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h2442377eg66e9gcab1g6f99g168da3d4a5e0" version="2" />
-        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_JackOfAllTrades" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_AgentOfOrder" />
         <field name="StillAnimationType" type="EnumerationTableFieldDefinition" value="Snared" enumeration_type_name="StatusAnimationType" version="1" />
         <field name="StillAnimationPriority" type="EnumerationTableFieldDefinition" value="Snared" enumeration_type_name="StillAnimPriority" version="1" />
         <field name="SoundVocalStart" type="EnumerationTableFieldDefinition" value="EXHAUSTED" enumeration_type_name="SoundVocalType" version="1" />
@@ -57,9 +57,9 @@
         <field name="UUID" type="IdTableFieldDefinition" value="b7a34b89-ebf6-4277-a7d1-0c6e3a204313" />
         <field name="Name" type="NameTableFieldDefinition" value="AI_HELPER_Paitm_SoothePain_Protection" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1fd2ebbbgb28ag61f9g122bga7e5e051cb8b" version="1" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="AC(2);" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamageResistance(Bludgeoning);WeaponDamageResistance(Slashing);WeaponDamageResistance(Piercing);AC(1)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_DarkOnesBlessing" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_RighteousHeritor" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -81,11 +81,12 @@
         <field name="UUID" type="IdTableFieldDefinition" value="26014d5e-6f45-4131-a615-3f46254cc799" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_WarpSense_PortalDetected_Buff" />
         <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_PortalCracker" />
-        <field name="StackId" type="StringTableFieldDefinition" value="PAITM_WPS_PORTDETCT_STACK" />
+        <field name="StackId" type="StringTableFieldDefinition" value="PAITM_WARPSENSE_STACK" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf642f457gd2d9g63abgb663g925404abae05" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb52aaae7g5a0cgd77ag0cdcgdfb890b9bbdc" version="1" />
         <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Orange" enumeration_type_name="FormatStringColor" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="ForceOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -216,7 +217,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_ChaoticFlare_BattleFury" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7d291fffgc234gea18gd43bg4116082efaf9" version="2" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h2f8fef43g97a8g45bfgeec3ga414ed8d5448" version="2" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Action_Barbarian_Frenzy" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_CohortOfChaos" />
         <field name="StackId" type="StringTableFieldDefinition" value="PAITM_CHAOTICFLARE_STACK" />
         <field name="Boosts" type="StringTableFieldDefinition" value="IF(IsMeleeAttack()):Advantage(AttackRoll);IF(IsRangedUnarmedAttack()):Advantage(AttackRoll);IF(IsAttack()):Advantage(AttackRoll);Advantage(AttackTarget)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
@@ -229,7 +230,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_ChaoticFlare_Unbound" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h19a9a274gcdc2g340cg4c77ga5b523369756" version="2" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h03832da7gc05bga637gbfd8gcc89d6335336" version="3" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Action_Barbarian_Frenzy" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_CohortOfChaos" />
         <field name="StackId" type="StringTableFieldDefinition" value="PAITM_CHAOTICFLARE_STACK" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_Paitm_ChaoticFlare_Unbound_Teleport)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
@@ -243,7 +244,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_ChaoticFlare_WailingWinds" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd4f12e4fgbbbbgb03cgfdf9g91407993bcf8" version="2" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h8b867102g7084gfa8ag806dgcef27324f5df" version="3" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Action_Barbarian_Frenzy" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_CohortOfChaos" />
         <field name="StackId" type="StringTableFieldDefinition" value="PAITM_CHAOTICFLARE_STACK" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="TickingWithSource" enumeration_type_name="StatusPropertyFlags" version="1" />
@@ -258,7 +259,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_ChaoticFlare_WailingWinds_AURA" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd283775dg53b9g6f1fg1cecgdad08464eec5" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h377a8762g5050g2747gbc46g9ca597b67200" version="2" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Action_Barbarian_Frenzy" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_CohortOfChaos" />
         <field name="StackId" type="StringTableFieldDefinition" value="PAITM_CHAOTICFLARE_STACK_AURA" />
         <field name="AuraRadius" type="IntegerTableFieldDefinition" value="6" />
         <field name="AuraStatuses" type="StringTableFieldDefinition" value="TARGET:IF(Enemy() and not (Dead() or HasStatus('KNOCKED_OUT'))):ApplyStatus(Paitm_ChaoticFlare_WailingWinds,100,1)" />
@@ -276,7 +277,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="51bff220-b4a8-43fa-9655-017c7b58a9f8" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_ChaoticFlare_RandomBase" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha6b6349ege712ge389ge8e4g34555c999327" version="2" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Action_Barbarian_Frenzy" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_CohortOfChaos" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator;FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_ChaoticFlare_RandomApply,100,0)" />
       </fields>
@@ -286,7 +287,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="e768f0dd-b8b7-4ec2-85c1-15fc5e4f933c" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_ChaoticFlare_RandomApply" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2151ec82ge6beg66bege538g9d5cfc9795c6" version="2" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Action_Barbarian_Frenzy" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_CohortOfChaos" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="IF(ConditionResult(GetStatusDuration('Paitm_ChaoticFlare_RandomBase',context.Target) == 1)):ApplyStatus(Paitm_ChaoticFlare_BattleFury,100,1);IF(ConditionResult(GetStatusDuration('Paitm_ChaoticFlare_RandomBase',context.Target) == 2)):ApplyStatus(Paitm_ChaoticFlare_DisruptionField_AURA,100,1);IF(ConditionResult(GetStatusDuration('Paitm_ChaoticFlare_RandomBase',context.Target) == 3)):ApplyStatus(Paitm_ChaoticFlare_Unbound,100,1);IF(ConditionResult(GetStatusDuration('Paitm_ChaoticFlare_RandomBase',context.Target) == 4)):ApplyStatus(Paitm_ChaoticFlare_WailingWinds_AURA,100,1);RemoveStatus(Paitm_ChaoticFlare_RandomBase)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
@@ -299,7 +300,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1098086fg5fd1g4096g0be0g7878cbfbb02c" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc0de0d99g828dga24ag5826g5173a7c17174" version="2" />
         <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(1d8,Force)" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Action_Barbarian_Frenzy" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_CohortOfChaos" />
         <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_CloudOfDaggers_ST" />
         <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_CloudOfDaggers_ST_Stop" />
         <field name="StackId" type="StringTableFieldDefinition" value="PAITM_CHAOTICFLARE_STACK_AURA" />
@@ -320,7 +321,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h41072ba9g1b28g1653g89c3geb945c1c6df1" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h12336d96gfb44g9ff8g5522gc851002c3ad3" version="3" />
         <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(1d8,Force)" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Action_Barbarian_Frenzy" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_CohortOfChaos" />
         <field name="TooltipDamage" type="StringTableFieldDefinition" value="DealDamage(1d8,Force)" />
         <field name="OnApplySuccess" type="FunctorsTableFieldDefinition" value="IF(not HasStatus('Paitm_ChaoticFlare_DisruptionField_DAMAGE_RECEIVED')):DealDamage(1d8,Force,Magical);IF(not HasStatus('Paitm_ChaoticFlare_DisruptionField_DAMAGE_RECEIVED')):ApplyStatus(Paitm_ChaoticFlare_DisruptionField_DAMAGE_RECEIVED,100,1)" />
         <field name="OnApplyFail" type="FunctorsTableFieldDefinition" value="IF(not HasStatus('Paitm_ChaoticFlare_DisruptionField_DAMAGE_RECEIVED')):DealDamage(1d8,Force,Magical);IF(not HasStatus('Paitm_ChaoticFlare_DisruptionField_DAMAGE_RECEIVED')):ApplyStatus(Paitm_ChaoticFlare_DisruptionField_DAMAGE_RECEIVED,100,1)" />
@@ -340,7 +341,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="13feb980-bffb-4a77-b27a-b3b00e9daa65" />
         <field name="StackId" type="StringTableFieldDefinition" value="PAITM_CHAOTICFLARE_DAMAGE_RECEIVED" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Action_Barbarian_Frenzy" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_CohortOfChaos" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -393,7 +394,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_HalfOrc" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h811bd64dg5987gc5a4g61b0ge144c1d89f0f" version="2" />
         <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
-        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_HALFORC_FEMALE,100,10);ApplyStatus(STONESKIN,100,3);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
+        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_HALFORC_FEMALE,100,10);ApplyStatus(STONESKIN,100,3);ApplyStatus(SHIELD_OF_FAITH,100,3);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
@@ -403,7 +404,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_TiefMale" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h075ba9d9g0211g79e6g7fc7g08a9236bc21f" version="1" />
         <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
-        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_TIEFLING_MALE,100,10);ApplyStatus(DISENGAGE,100,3);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
+        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_TIEFLING_MALE,100,10);ApplyStatys(DASH,100,2);ApplyStatus(DISENGAGE,100,2);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
@@ -413,27 +414,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_HumanMale" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h54a3c1eag0199g01b1gdbcdge528463cf26d" version="1" />
         <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
-        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_HUMAN_STRONG_MALE,100,10);ApplyStatus(DIVINE_FAVOR,100,3);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="d3231750-8ed0-460e-926c-3511b97ab090" />
-        <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_GnomeMale" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1c5ac7d4gd05eg4379g7dc7g6e1bb4bea16c" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
-        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_GNOME_MALE,100,4);ApplyStatus(AID,100,-1);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="935a159b-7f43-4319-94db-7bf3cf0342bf" />
-        <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_HalflingFemale" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h01dc71e8g16dcgf967gf977g4cf1b1bbbfbe" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
-        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_HALFLING_FEMALE,100,4);ApplyStatus(AID,100,-1);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
+        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_HUMAN_STRONG_MALE,100,10);ApplyStatus(DIVINE_FAVOR,100,3);ApplyStatus(BLESS,100,3);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
@@ -443,7 +424,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_DrowFemale" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4807472eg1020g991dgbf18g5d3c054206cf" version="1" />
         <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
-        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_DROW_FEMALE,100,10);ApplyStatus(FREEDOM_OF_MOVEMENT,100,4);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
+        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_DROW_FEMALE,100,10);ApplyStatus(WEB_WALKER,100,3);ApplyStatus(FREEDOM_OF_MOVEMENT,100,3);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
@@ -463,8 +444,290 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_DragonbornMale" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h97c3ceccg814ag6617g7232g6d014b6e8a7b" version="1" />
         <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
-        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_DRAGONBORN_MALE,100,10);ApplyStatus(SHIELD_OF_FAITH,100,4);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
+        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_DRAGONBORN_MALE,100,10);ApplyStatus(CRYSTALSKIN,100,3);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d3231750-8ed0-460e-926c-3511b97ab090" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_GnomeMale" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1c5ac7d4gd05eg4379g7dc7g6e1bb4bea16c" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
+        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_GNOME_MALE,100,4);ApplyStatus(AID_4,100,-1);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="935a159b-7f43-4319-94db-7bf3cf0342bf" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_GlitchCharacter_HalflingFemale" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h01dc71e8g16dcgf967gf977g4cf1b1bbbfbe" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
+        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Glitch_SELF_HALFLING_FEMALE,100,4);ApplyStatus(AID_4,100,-1);RemoveStatus(Paitm_GlitchCharacter_Attack_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Cast_RandomApply);RemoveStatus(Paitm_GlitchCharacter_Rest_RandomApply)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ba33d685-cdd5-4bb9-994e-3388b588e3dc" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_SEALED" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbb5bea25g6704gc77fg568agc308cbd55f8d" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Spell_GateSeal" />
+        <field name="SoundStart" type="StringTableFieldDefinition" value="Misc_Status_Silence_Gameobject_Mute" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Misc_Status_Silence_Gameobject_Unmute" />
+        <field name="StackId" type="StringTableFieldDefinition" value="PAITM_SEALED" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="0d1f50f9-b164-499a-9829-2ab46810597d" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc4877bc9gf86ag4709ga9d8g4d9830dc267a" version="2" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Red" enumeration_type_name="FormatStringColor" version="1" />
+        <field name="RemoveConditions" type="RollConditionsTableFieldDefinition" value="not Combat()" />
+        <field name="RemoveEvents" type="EnumerationListTableFieldDefinition" value="OnTurn;OnCombatEnded" enumeration_type_name="StatusEvent" version="1" />
+        <field name="TickFunctors" type="FunctorsTableFieldDefinition" value="IF(not Combat(context.Source)):RemoveStatus(Paitm_SEALED)" />
+        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(Paitm_SEALED)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2b699227-9b79-48cd-b600-e858a030f5f4" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WeaponNecroticTrident_Buff" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_EnervatingTrident" />
+        <field name="StackId" type="StringTableFieldDefinition" value="DIPPED" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(1d10,Necrotic)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_WeaponCoating" enumeration_type_name="StatusGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="12e5d419-e146-46b7-ad07-d110fbb23aa3" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WeaponFireHammer_Buff" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_HavocHammer" />
+        <field name="StatusEffectOverrideForItems" type="StringTableFieldDefinition" value="44d77ebf-fc9e-407d-b20f-257019351f2a" />
+        <field name="StatusEffectOverride" type="StringTableFieldDefinition" value="44d77ebf-fc9e-407d-b20f-257019351f2a" />
+        <field name="SoundStart" type="StringTableFieldDefinition" value="Action_Cast_Dipped_Fire" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Action_Prepare_Dipped_Fire_Loop_Stop" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(2d8,Fire)" />
+        <field name="StackId" type="StringTableFieldDefinition" value="DIPPED" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_WeaponCoating" enumeration_type_name="StatusGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="14681e38-db15-44ae-bab4-343ce07d709b" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WeaponForceDagger_Buff" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_ForceDagger" />
+        <field name="SoundStart" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="SoundStop" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(3d8,Force)" />
+        <field name="StackId" type="StringTableFieldDefinition" value="DIPPED" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_WeaponCoating" enumeration_type_name="StatusGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f81a2ae5-57a5-4464-bcd8-88a7ccde69ce" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WeaponRadiantBone_Buff" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_BoneBlade" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(1d6,Radiant)" />
+        <field name="StackId" type="StringTableFieldDefinition" value="DIPPED" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_WeaponCoating" enumeration_type_name="StatusGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1b911b22-2632-42f8-93d2-979c96cfda98" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WeaponPsychicBurnished_Buff" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_BurnishedBlade" />
+        <field name="SoundStart" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="SoundStop" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(2d12,Psychic)" />
+        <field name="StackId" type="StringTableFieldDefinition" value="DIPPED" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_WeaponCoating" enumeration_type_name="StatusGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="db42e6a0-d2e0-4405-ad39-5d68b04ac8f2" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WeaponNecroticEntropicGreatsw_Buff" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_EntropicGreatsword" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(3d6,Necrotic)" />
+        <field name="SoundStart" type="StringTableFieldDefinition" value="Action_Cast_Dipped_Poison" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Action_Prepare_Dipped_Poison_Loop_Stop" />
+        <field name="StackId" type="StringTableFieldDefinition" value="DIPPED" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_WeaponCoating" enumeration_type_name="StatusGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c61338a4-99e0-48ac-8f4a-80fd7b9947e1" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WeaponNecroticEntropicJav_Buff" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="db42e6a0-d2e0-4405-ad39-5d68b04ac8f2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_EntropicJavelin" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(4d6,Necrotic)" />
+        <field name="SoundStart" type="StringTableFieldDefinition" value="Action_Cast_Dipped_Poison" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Action_Prepare_Dipped_Poison_Loop_Stop" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1d87cbaf-d548-4c18-8e71-bf0fdf5c2995" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WeaponNecroticEntropicBlade_Buff" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="db42e6a0-d2e0-4405-ad39-5d68b04ac8f2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_EntropicBlade" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(2d6,Necrotic)" />
+        <field name="SoundStart" type="StringTableFieldDefinition" value="Action_Cast_Dipped_Poison" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Action_Prepare_Dipped_Poison_Loop_Stop" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d316788f-e2ee-4852-85df-3c2803a38a06" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WeaponElectricBlade_Buff" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_HarmoniumBlade" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(3d6,Lightning)" />
+        <field name="StatusEffectOverrideForItems" type="StringTableFieldDefinition" value="f1c5a7d3-c966-4d7f-87b7-376f1e64edbd" />
+        <field name="StatusEffectOverride" type="StringTableFieldDefinition" value="f1c5a7d3-c966-4d7f-87b7-376f1e64edbd" />
+        <field name="StackId" type="StringTableFieldDefinition" value="DIPPED" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_WeaponCoating" enumeration_type_name="StatusGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a898838e-cd4d-40aa-bd05-b6e3729d5ce3" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WeaponElectricMancatch_Buff" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_ElectrifiedMancatcher" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(1d8,Lightning)" />
+        <field name="StatusEffectOverrideForItems" type="StringTableFieldDefinition" value="f1c5a7d3-c966-4d7f-87b7-376f1e64edbd" />
+        <field name="StatusEffectOverride" type="StringTableFieldDefinition" value="f1c5a7d3-c966-4d7f-87b7-376f1e64edbd" />
+        <field name="StackId" type="StringTableFieldDefinition" value="DIPPED" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_WeaponCoating" enumeration_type_name="StatusGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9ca6d331-90d6-4d39-b996-1b731a074e50" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_BarbedJavelin_Debuff" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h48c10e09gaf5dga5eeg8c04g95ecef98393d" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha4ea0696gece4g37f1g31eeg3f39bdcb7d28" version="1" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="5" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_KnockOut" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Red" enumeration_type_name="FormatStringColor" version="1" />
+        <field name="StillAnimationType" type="EnumerationTableFieldDefinition" value="Weakened" enumeration_type_name="StatusAnimationType" version="1" />
+        <field name="StillAnimationPriority" type="EnumerationTableFieldDefinition" value="Weakened" enumeration_type_name="StillAnimPriority" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="PAITM_OBSTRUCTION" />
+        <field name="TickType" type="EnumerationTableFieldDefinition" value="StartTurn" enumeration_type_name="TickType" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="TickingWithSource" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" value="Negative" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" value="d787f666-8ee6-4185-9365-6aac9ebe76ae" />
+        <field name="StackType" type="EnumerationTableFieldDefinition" value="Overwrite" enumeration_type_name="StatusStackType" version="1" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Condition" enumeration_type_name="StatusGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e1687a51-9627-4116-ad47-0acd6ca5ecfa" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_HavocHammer_FireDot" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc5ba049bg1d5eg6404g8a09gbfe881c3e26d" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h244fa72cg8090g14f2ga028ge59a03bf16c5" version="1" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(1d6,Fire)" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_HeatConvergence" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Fire" enumeration_type_name="FormatStringColor" version="1" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="PhysicalDamage" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Misc_Status_Burning_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Misc_Status_Burning_MO_Stop" />
+        <field name="StackId" type="StringTableFieldDefinition" value="PAITM_HAVOCHAMMER_FIRE" />
+        <field name="TickType" type="EnumerationTableFieldDefinition" value="StartTurn" enumeration_type_name="TickType" version="1" />
+        <field name="RemoveConditions" type="RollConditionsTableFieldDefinition" value="SavingThrow(Ability.Dexterity,13)" />
+        <field name="RemoveEvents" type="EnumerationListTableFieldDefinition" value="OnTurn" enumeration_type_name="StatusEvent" version="1" />
+        <field name="TooltipDamage" type="StringTableFieldDefinition" value="DealDamage(1d6,Fire)" />
+        <field name="TickFunctors" type="FunctorsTableFieldDefinition" value="DealDamage(1d6,Fire)" />
+        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(Paitm_HavocHammer_FireDot)" />
+        <field name="StackType" type="EnumerationTableFieldDefinition" value="Additive" enumeration_type_name="StatusStackType" version="1" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Condition" enumeration_type_name="StatusGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1d30d49a-7f03-4ea2-9b2a-b982530438f7" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_ElecMancatch_ElecDot" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf6cc7530g18e6g0dedg7679g49df7ad6cbcb" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7824fb26g0bdbgfd75g245agd3ea9ca52ebb" version="1" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(1d10+3,Lightning)" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Conjuration_CallLightning" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Yellow" enumeration_type_name="FormatStringColor" version="1" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="PhysicalDamage" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="PAITM_ELECMANCATCH_ELEC" />
+        <field name="StackType" type="EnumerationTableFieldDefinition" value="Additive" enumeration_type_name="StatusStackType" version="1" />
+        <field name="TickType" type="EnumerationTableFieldDefinition" value="StartTurn" enumeration_type_name="TickType" version="1" />
+        <field name="TooltipDamage" type="StringTableFieldDefinition" value="DealDamage(1d10+3,Lightning)" />
+        <field name="TickFunctors" type="FunctorsTableFieldDefinition" value="DealDamage(1d10+3,Lightning)" />
+        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(Paitm_ElecMancatch_ElecDot)" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Condition" enumeration_type_name="StatusGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6b4cac07-997f-4f9d-8e9a-73b5d9a7f4f7" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Entropy_DeathDebuff" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="IF(RemoveCause(StatusRemoveCause.Death)):SwitchDeathType(Disintegrate)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d3aa4777-d73f-4973-b0f0-0973c2ea582a" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_CharmOfTheDeadTruce_Buff" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd03eeeb1g0e99g80d2g9246g93cb8215e28f" version="4" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Necromancy_RecastSpeakWithDead" />
+        <field name="StackId" type="StringTableFieldDefinition" value="PAITM_CHARM_DEADTRUCE" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_Paitm_SpeakWithDead_Free)" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
+        <field name="StatusEffect" type="GuidObjectTableFieldDefinition" value="6abba0c1-9fe0-4425-a0cc-58156988e806" />
+        <field name="AuraRadius" type="IntegerTableFieldDefinition" value="36" />
+        <field name="AuraStatuses" type="StringTableFieldDefinition" value="TARGET:IF(Tagged('UNDEAD') and not HasStatus('Paitm_CharmOfTheDeadTruce_Buff')):ApplyStatus(Paitm_UdPacified_Debuff);TARGET:IF(Tagged('HASSWDDIALOG') and FreshCorpse() and not Tagged('BEAST') and not Tagged('UNDEAD') and not Tagged('CORPSE_SPOKEN') and not Tagged('BLOCK_SPEAK_WITH_DEAD') and not Player()):ApplyStatus(SPEAK_WITH_DEAD_INTERESTING)" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="LightBlue" enumeration_type_name="FormatStringColor" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="84c3bd64-b3ca-4c0e-b274-cf6795ce0265" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_UdPacified_Debuff" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h32b321cdg32c0g3845gfcffg54dda677fc07" version="3" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf7cebf92gccc4ga6fcga716ge79dfd1c81e1" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Necromancy_RecastSpeakWithDead" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Overlay" enumeration_type_name="MaterialType" version="1" />
+        <field name="MaterialApplyBody" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="MaterialApplyArmor" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="MaterialApplyWeapon" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
+        <field name="MaterialApplyNormalMap" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Advantage(AttackTarget);DetectDisturbancesBlock(true);CannotHarmCauseEntity(CannotHarmCharmer);Advantage(SourceDialogue,Charisma)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec;SG_Condition" enumeration_type_name="StatusGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="624781ac-4828-48fa-aa8e-61c8e03b368b" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_CharmOfIncorporeality_Buff" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h82e5cc2dg1ee4geaaeg6a2cgc51ff337c1a3" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hbec8085egb989g2e3fg0fc7gb473c086d489" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Transmutation_Blink" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="LightBlue" enumeration_type_name="FormatStringColor" version="1" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Misc_Status_Speak_With_Dead_Interesting_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Misc_Status_Speak_With_Dead_Interesting_MO_Stop" />
+        <field name="StackId" type="StringTableFieldDefinition" value="PAITM_CHARM_INCORP" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamageResistance(Bludgeoning);WeaponDamageResistance(Slashing);WeaponDamageResistance(Piercing)" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
+        <field name="StatusEffect" type="GuidObjectTableFieldDefinition" value="8aa59540-9ded-437f-aa13-5c7c2d3c7cac" />
       </fields>
     </stat_object>
   </stat_objects>

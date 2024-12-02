@@ -52,8 +52,6 @@
   <content contentuid="h1876774ag4ed5g697dgf1d7gbec26f0aab8f" version="2">You can channel specific cosmic forces to gain benefits and you increase one Ability by 1 to a maximum of 20.</content>
   <content contentuid="h1a1a5fd5g37f0g0d8bg6e4bg0a7864f5d8a4" version="2">Misty Step</content>
   <content contentuid="h7bc2a60ag2954gf3d4gb8a8g1d39c7db951e" version="1">Surrounded by planar energies, you teleport to an unoccupied space you can see.</content>
-  <content contentuid="h6d4f5178g1938g00a2gf920g880454834028" version="1">Gate Seal</content>
-  <content contentuid="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="3">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
   <content contentuid="h1a4889b6gba5dg1e02gbb15g9aa6c8e7b7eb" version="2">Portal Cracker</content>
   <content contentuid="h8a984c65g71d0g34e3g4613gfd46275b7fe6" version="4">Your experience with portals allows you to open two linked portals without the need to concentrate. When casting the spell, instability may occur and inflict Psychic damage on the caster.</content>
   <content contentuid="h40448845g14b4geda1g4211g54ed4ba847a1" version="1">Plane Shift</content>
@@ -67,7 +65,7 @@
   <content contentuid="hc635cd26ge771g46fbgaef8ga24b8487873c" version="1">Grasp of Avarice</content>
   <content contentuid="h38be499bg66cegfe7eg554ag39e19c04a5b9" version="1">Once per turn, when you damage a creature, you can also deal necrotic damage to it. The necrotic damage equals 1d6, and you regain 1d6 hit points.</content>
   <content contentuid="h1c8b8d38gc2a8g380cg8a2cgc7cbaaa07449" version="1">Grasp of Avarice</content>
-  <content contentuid="h6be0c2degf8d2gf7d4g2601g3fef053dc7fe" version="4">As a Baleful Scion, once per turn, if you damage a creature you can also deal an additional [1] and you regain [2].</content>
+  <content contentuid="h6be0c2degf8d2gf7d4g2601g3fef053dc7fe" version="6">As a Baleful Scion, once per turn, if you damage a creature you can also deal an additional [1] and you regain [2]. You add your &lt;LSTag Tooltip="Proficiency"&gt;Proficiency Bonus&lt;/LSTag&gt; to these damage and healing rolls.</content>
   <content contentuid="h179c540dg33ecg394dgd2cagb075484fbbd4" version="1">Stasis Strike</content>
   <content contentuid="heab337b1g2162gdd98gc8aag6cde93106e6c" version="3">As an Agent of Order, once per turn, if you damage a creature you can also deal an additional [1] and, if lucky, restrain it.</content>
   <content contentuid="h1277ed5cgfce9g69bdg7ba3g5da310c9534b" version="1">Soothe Pain</content>
@@ -82,10 +80,10 @@
   <content contentuid="h19807a4dgb9b4g6a11g1ad1g33886795753c" version="1">Warp Sense</content>
   <content contentuid="h1ee85063g393bg7bb3g8fd4g24cd706369eb" version="1">Warp Sense</content>
   <content contentuid="h35aae9b0g24d1g5e5cg16e9g77c09801f57c" version="1">Warp Sense</content>
-  <content contentuid="he1077f52g85acgbc6dgbeefgc69b82ed6f2c" version="1">You sense the presence of planar energies, like portals, even the most residual. Additionally, you gain a Proficienty bonus in Arcana.</content>
-  <content contentuid="h9efc7d47ga644ge2f4g79a9g781f5dfbd738" version="1">You sense the presence of planar energies, like portals, even the most residual. Additionally, you gain a Proficienty bonus in Arcana.</content>
-  <content contentuid="h74112800gd1b6g6d15g2b3ag99b4ef5b61e7" version="7">You sense the presence of planar energies, like portals, even the most residual. Additionally, you gain a Proficienty bonus in Arcana.</content>
-  <content contentuid="hc53f42ecg57cagf9f1gd923gd71c1f3dee48" version="5">You sense the presence of planar energies, like portals, even the most residual. Additionally, you gain a Proficienty bonus in Arcana.</content>
+  <content contentuid="he1077f52g85acgbc6dgbeefgc69b82ed6f2c" version="1">You sense the presence of planar energies, like portals, even the most residual. Additionally, you gain a Proficienty bonus in Arcana. The spell ends when you detect a portal and obtain information about that portal.</content>
+  <content contentuid="h9efc7d47ga644ge2f4g79a9g781f5dfbd738" version="1">You sense the presence of planar energies, like portals, even the most residual. Additionally, you gain a Proficienty bonus in Arcana. The spell ends when you detect a portal and obtain information about that portal.</content>
+  <content contentuid="h74112800gd1b6g6d15g2b3ag99b4ef5b61e7" version="7">You sense the presence of planar energies, like portals, even the most residual. Additionally, you gain a Proficienty bonus in Arcana. The spell ends when you detect a portal and obtain information about that portal.</content>
+  <content contentuid="hc53f42ecg57cagf9f1gd923gd71c1f3dee48" version="5">You sense the presence of planar energies, like portals, even the most residual. Additionally, you gain a Proficienty bonus in Arcana. The spell ends when you detect a portal and obtain information about that portal.</content>
   <content contentuid="h4e017016g5c6bg5ce5g3ab0g22f43f822bfe" version="1">Tongues</content>
   <content contentuid="he719e3e7gb7a6ge63cg73e5g0a5d2bddec22" version="1">Tongues</content>
   <content contentuid="h3f0810e4g6c6bgb62bg26fag878f03d8f4e2" version="1">Tongues</content>
@@ -122,11 +120,13 @@
   <content contentuid="hc9103a06g6ce1g9873gf3b6ga43de4e8a062" version="1">Gate Seal</content>
   <content contentuid="hf8687996gdb03g610cg1c03g3fb532b80da1" version="1">Gate Seal</content>
   <content contentuid="h522850b4ga97fg5c82g95fdg4ae3c3599792" version="1">Gate Seal</content>
-  <content contentuid="h7cecf0f4g32e0gbeb8g1258g196d9b29cf31" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
-  <content contentuid="hcedc6be9ge111g4c71g1742g013f38ae2a65" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
-  <content contentuid="h717a8513g3681g3750gd31eg98db9c4c5400" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
-  <content contentuid="h7555f29cg9d6fg1583g4a52g55fa5b85c11e" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
-  <content contentuid="h9bbfa2d1g1deegb97fg56adgad0e268bcbc9" version="2">You fortify the fabric of the planes. Oddly, on this material world, this spell seems to create a &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silencing&lt;/LSTag&gt; sphere without any need to concentrate.</content>
+  <content contentuid="h6d4f5178g1938g00a2gf920g880454834028" version="1">Gate Seal</content>
+  <content contentuid="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="3">You fortify the fabric of the planes, which prevents your targets from casting most teleportation or portal spells.</content>
+  <content contentuid="h7cecf0f4g32e0gbeb8g1258g196d9b29cf31" version="2">You fortify the fabric of the planes, which prevents your targets from casting most teleportation or portal spells.</content>
+  <content contentuid="hcedc6be9ge111g4c71g1742g013f38ae2a65" version="2">You fortify the fabric of the planes, which prevents your targets from casting most teleportation or portal spells.</content>
+  <content contentuid="h717a8513g3681g3750gd31eg98db9c4c5400" version="2">You fortify the fabric of the planes, which prevents your targets from casting most teleportation or portal spells.</content>
+  <content contentuid="h7555f29cg9d6fg1583g4a52g55fa5b85c11e" version="2">You fortify the fabric of the planes, which prevents your targets from casting most teleportation or portal spells.</content>
+  <content contentuid="h9bbfa2d1g1deegb97fg56adgad0e268bcbc9" version="2">You fortify the fabric of the planes, which prevents your targets from casting most teleportation or portal spells.</content>
   <content contentuid="h9cc9310dg64a8g9de3g7d93gc692b90f1447" version="1">Sensory Stone</content>
   <content contentuid="h9202e151gdf27g6437g8e2bgbe3f68ac3676" version="3">This small, smooth stone contains the essence of a single experience. You can throw the stone, breaking it in the process, to end the charmed or frightened condition on someone. Or you can touch and consume the stone and experience the sensation yourself.</content>
   <content contentuid="h74d67052g3553g99d1gd4bcg33235e3fe554" version="1">Sensory Stone</content>
@@ -313,9 +313,9 @@
   <content contentuid="hc535c09cg0d2cgf714g31fdgae50b0b578ad" version="2">The Floor Is Lava</content>
   <content contentuid="hac8c02d3g3887g6801gafc0gc40e22295d42" version="2">Defeat the Lava Elemental in the lava lake.</content>
   <content contentuid="h1067b5f2gac8fg282eg6e02g7dcec7fd7223" version="1">%%% EMPTY</content>
-  <content contentuid="hac5d01daga4c1gad23g9b47g0f37fcd665fa" version="7">This portable arcane instrument seems old, worn and imprecise. This item does not seem to come from the Sword Coast.</content>
+  <content contentuid="hac5d01daga4c1gad23g9b47g0f37fcd665fa" version="9">This portable arcane instrument seems old, worn and imprecise. This item does not seem to come from the Sword Coast.</content>
   <content contentuid="h034e1312gfc43g6baeg78d7g01fdf4a6d2af" version="1">This old skull-shaped device is filled with knowledge.</content>
-  <content contentuid="hababc55dg424dg34efg8a17g12622adedd4f" version="7">This small, smooth stone contains the essence of a single experience. You can touch and consume the stone and experience the sensation yourself.</content>
+  <content contentuid="hababc55dg424dg34efg8a17g12622adedd4f" version="8">This small, smooth stone contains the essence of a single experience. You can touch and consume the stone and experience the sensation yourself.</content>
   <content contentuid="hbbe6fb62g8720ge560g9f8egfb8255bb73c1" version="1">This small, smooth stone contains the essence of a single experience. You can touch and consume the stone and experience the sensation yourself.</content>
   <content contentuid="hc1879bf9ge4f7g5255gc004g0781b6d42fc7" version="6">Warp Sense Scroll</content>
   <content contentuid="h5eec5a4dg2405g2283g442eg631cc1ddc8f1" version="5">Gate Seal Scroll</content>
@@ -324,21 +324,24 @@
   <content contentuid="hc9aee5eege786g13f1gec8bgc3d884c981f3" version="1">Portal Cracker</content>
   <content contentuid="h8b3e8f81g355bg97c3ge7e7gef7c5c149603" version="1">Try to safely cast Portal Cracker.</content>
   <content contentuid="h39b148e5ga397g512bgc05dgc0ae5ac90c80" version="1">Sensory Stone</content>
-  <content contentuid="h8661c82cg968cg7376g49ecg0af9fc7371f0" version="6">Mimir</content>
-  <content contentuid="hc515d8bdgc91ag00afg3b5eg9f683089a0ae" version="11">Sensory Stone</content>
-  <content contentuid="ha39c241fgfdd5g1d77g28e2gde5843be5df1" version="7">Portal Compass</content>
-  <content contentuid="hc13933a5g243dg625bgbcd5g6992c525f1e5" version="7">This old inanimate skull-shaped device is filled with knowledge.</content>
+  <content contentuid="h8661c82cg968cg7376g49ecg0af9fc7371f0" version="11">Mimir</content>
+  <content contentuid="hc515d8bdgc91ag00afg3b5eg9f683089a0ae" version="12">Sensory Stone</content>
+  <content contentuid="ha39c241fgfdd5g1d77g28e2gde5843be5df1" version="9">Portal Compass</content>
+  <content contentuid="hc13933a5g243dg625bgbcd5g6992c525f1e5" version="12">This old inanimate skull-shaped device is filled with knowledge.</content>
   <content contentuid="h19f6dfd8gdc11gdbabgb792gf13be0ddb61e" version="1">Sensory Stone</content>
   <content contentuid="h11f6fe24g1b93ge170gdca1g5d79194cbfe5" version="1">Mimir</content>
   <content contentuid="h5c94facagf9ecg4524g5fcfg4db96e33cdbb" version="1">Portal Compass</content>
   <content contentuid="h0ecbb3b1g4632g7672g2411g10297af2e28c" version="1">Portal Compass</content>
+  <content contentuid="h55ecf3fbg65faga0c4g6f1cgcf35fc7c3d01" version="1">Portal Compass</content>
+  <content contentuid="h6accf78cg81b0g4769gb3c3g570e2714d57e" version="5">Having this item in inventory grants you its magical effect.</content>
+  <content contentuid="hb18a258bge5f5gc59ag7f99g6b6c682f6db3" version="1">You gain a Proficienty bonus in Arcana and Perception.</content>
   <content contentuid="h82ae22f9gb470g74b9g2f81g35db749d7bf6" version="2">You gain a Proficienty bonus in Arcana and Perception.</content>
-  <content contentuid="he74c5a36gaa29g319cga756gace944dd2f43" version="31">Mimir</content>
+  <content contentuid="he74c5a36gaa29g319cga756gace944dd2f43" version="33">Mimir</content>
   <content contentuid="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1">Activate the Mimir and absorb its knowledge.</content>
   <content contentuid="hcd937889g2ddbg0436g8d85g6b74891d554c" version="1">Free thinker</content>
   <content contentuid="h7dd603ebg6c37g27d9gd5c2ge37c18b6d230" version="3">For those independent of mind and thought, who does not refer to any god. We often see this way of thinking among residents of Sigil. With a class like Cleric, a godless character can gain powers from their own convictions and principles.</content>
-  <content contentuid="h55a58843g198fg42beg8885g5d1fa3d64808" version="14">Portal Gate</content>
-  <content contentuid="h276ab033g0890g4653g9cadg0b61a1ec93a7" version="13">Connected with planar energies to its duplicate, this gate allows those who walk through to emerge from its twin gate.</content>
+  <content contentuid="h55a58843g198fg42beg8885g5d1fa3d64808" version="16">Portal Gate</content>
+  <content contentuid="h276ab033g0890g4653g9cadg0b61a1ec93a7" version="15">Connected with planar energies to its duplicate, this gate allows those who walk through to emerge from its twin gate.</content>
   <content contentuid="hbec64581g0ea1g8d21g6364g1d950a8f4eb4" version="1">Glitch Character</content>
   <content contentuid="hbd824043g2337g763eg7352gc4ca3a50f974" version="4">You remember strange places and strange times. It seems that you are not the only "you" in the multiverse. As an anomaly, other incarnations sometimes appear giving you bonuses.</content>
   <content contentuid="h8999ed50g75f7g3bf0g7ca0gbc3449663dda" version="3">Glitch Character Cast</content>
@@ -414,8 +417,8 @@
   <content contentuid="hbec539bdgfe54g30abg37caga453d77caef8" version="5">*Crrrkkk*</content>
   <content contentuid="h3a0ff6c2ge915g1a79g400agaab25e37fbd9" version="17">Morte</content>
   <content contentuid="h78db741fgb55cg325cg3153gd1f5d62b5f87" version="17">Mimir</content>
-  <content contentuid="hbdfa7db9g426agb016g1e61g43e526925235" version="11">Morte</content>
-  <content contentuid="h12bb70d7ga5d5g3412g4e03gf2c0b249875b" version="11">This old Mimir wants to wake up and talk.</content>
+  <content contentuid="hbdfa7db9g426agb016g1e61g43e526925235" version="16">Morte</content>
+  <content contentuid="h12bb70d7ga5d5g3412g4e03gf2c0b249875b" version="16">This old Mimir wants to wake up and talk.</content>
   <content contentuid="h7b481653g323ag3461gcd1ag86612f011e54" version="1">Morte</content>
   <content contentuid="hae6883e4gc6a3g8aaaged24ga4fca3eaef0f" version="1">This old Mimir wants to wake up and talk.</content>
   <content contentuid="h89f25f6fg526egf2e2gba52gf9320bcdc03f" version="45">Hey Chief !</content>
@@ -448,12 +451,12 @@
   <content contentuid="h3fc28911g273ag101fgc378gd304d05dae4d" version="6">Dak'kon's Zerth Blade</content>
   <content contentuid="h09e1a258g06d2g1251gd407g6d608385eb5d" version="6">This sword was the weapon of choice of a famous githzerai working for a creature known as the 'Nameless One'.</content>
   <content contentuid="hbdf89fdfg63e2g9bb0gde4ag1db6887b6995" version="2">Mimir</content>
-  <content contentuid="h86ddf0d5gb7e4g9970g06e4g93aa697ca8c4" version="26">Fall-from-Grace</content>
-  <content contentuid="h9b38f13fg0b85gbc56gd42egf80ad69d48f3" version="26">Tanar'ri</content>
+  <content contentuid="h86ddf0d5gb7e4g9970g06e4g93aa697ca8c4" version="30">Fall-from-Grace</content>
+  <content contentuid="h9b38f13fg0b85gbc56gd42egf80ad69d48f3" version="30">Tanar'ri</content>
   <content contentuid="h7810c487g87e1ge76bgd482ge0272e45cbc4" version="1">Sensates contract</content>
-  <content contentuid="h121342c7gc1c5g0542g0012g86090ddac04e" version="7">Sensates contract</content>
+  <content contentuid="h121342c7gc1c5g0542g0012g86090ddac04e" version="12">Sensates contract</content>
   <content contentuid="hb4991804ga291g1f30g2c98g163887f7cce4" version="2">A planar contract to hire a member of the Society of Sensation.</content>
-  <content contentuid="hf1deb2d4g3a59g35a3g9402gee4ba94c7107" version="7">A planar contract to hire a member of the Society of Sensation.</content>
+  <content contentuid="hf1deb2d4g3a59g35a3g9402gee4ba94c7107" version="12">A planar contract to hire a member of the Society of Sensation.</content>
   <content contentuid="h1f4a9e1bg7e38g2c4fgb9a2ga4dcb567f023" version="5">What can change the nature of a man?</content>
   <content contentuid="h67ab32c9g0d64g8a3gbe4a2gdf01e21c45b6" version="5">Are you alright?</content>
   <content contentuid="h2d4e9a3fg8b77g5f5g81b0ag9c6e21d45023" version="5">How do you feel?</content>
@@ -463,12 +466,12 @@
   <content contentuid="h2f9b7e5dg4c23g9e1gf0b5bgdbe712d045b1" version="5">Through observation, sensation and experience, the truth of the multiverse should be revealed.</content>
   <content contentuid="hf3a6d5b8g9e78g2b3g14c7ag89aef34d1204" version="5">How may I help you?</content>
   <content contentuid="h4e8c1b9fg3b22g5d1g2f4eag5db421ef6078" version="5">It's good to be journeying again! The brothel was a learning experience, but I think it was time I moved on.</content>
-  <content contentuid="h197f4dabg3eeegfb9dge10ag7280beda39e2" version="28">Annah</content>
-  <content contentuid="h12bf9b74g4fcegc003g0da1ge7151a0dca17" version="10">Fiendling</content>
+  <content contentuid="h197f4dabg3eeegfb9dge10ag7280beda39e2" version="30">Annah</content>
+  <content contentuid="h12bf9b74g4fcegc003g0da1ge7151a0dca17" version="12">Fiendling</content>
   <content contentuid="h44112202gb289gf648g7e66gfc2bd50fd990" version="1">Sharp tongue contract</content>
-  <content contentuid="hbbdccb8dg6150g46c8g4469gdf55b7ac2a72" version="7">Sharp tongue contract</content>
+  <content contentuid="hbbdccb8dg6150g46c8g4469gdf55b7ac2a72" version="12">Sharp tongue contract</content>
   <content contentuid="hda347ed4g1934g5536g2575g50b830602f72" version="1">A planar contract to hire a thief scavenger from Sigil.</content>
-  <content contentuid="h82eecc97g665fgb8b5g187fgffac3c634fd6" version="7">A planar contract to hire a thief scavenger from Sigil.</content>
+  <content contentuid="h82eecc97g665fgb8b5g187fgffac3c634fd6" version="12">A planar contract to hire a thief scavenger from Sigil.</content>
   <content contentuid="h8d2e9f4bg6a77g0a8g5b7cag79cd432e1805" version="8">Accent? What are ye on about?</content>
   <content contentuid="h3b5f7d2eg1d42g7e8g6f8b4g8cb523f6719c" version="8">Torment.</content>
   <content contentuid="h9e1c4a6fg0c64g9d5g3e6aag1cd842f3020d" version="8">What?!</content>
@@ -478,14 +481,13 @@
   <content contentuid="h7e6f8b1ag2d45g4c3g1f7b6g4ea234c5102d" version="8">Ready.</content>
   <content contentuid="h1f9b2d4fg6e39g7e8g5c4a8g3fd971d67203" version="8">I'm not that sort o' girl.</content>
   <content contentuid="hf4b3e2a9g9d76g1f4g6a8b7g2ca483e51219" version="8">Eh?</content>
-  <content contentuid="h672496b9gdce8g6d0ag8488gb67e5b5c1bbf" version="4">End the &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;charmed&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;frightened&lt;/LSTag&gt; condition.</content>
-  <content contentuid="hec9e6248g566dg208agf004g76521f10bf77" version="3">Siphon Sensation</content>
+  <content contentuid="h672496b9gdce8g6d0ag8488gb67e5b5c1bbf" version="5">End the &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;charmed&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;frightened&lt;/LSTag&gt; condition.</content>
+  <content contentuid="hec9e6248g566dg208agf004g76521f10bf77" version="4">Siphon Sensation</content>
   <content contentuid="hd3b08708g7556gd184g4e19gc2618bbfa00d" version="1">Your background and your adventure experience mean that you linked yourself to a plan a long time ago.</content>
   <content contentuid="ha2bb4d68gc28fg19a6g43bcg65b4b4652847" version="1">Planescape Pouch</content>
   <content contentuid="hf56b6440gc00cga1a5g505bg38db517ede50" version="1">A simple pouch containing planar items.</content>
-  <content contentuid="h55ecf3fbg65faga0c4g6f1cgcf35fc7c3d01" version="1">Portal Compass</content>
-  <content contentuid="hb18a258bge5f5gc59ag7f99g6b6c682f6db3" version="1">You gain a Proficienty bonus in Arcana and Perception.</content>
-  <content contentuid="h6accf78cg81b0g4769gb3c3g570e2714d57e" version="3">Having this item in inventory grants you its magical effect.</content>
+  <content contentuid="hf2654e2ag423eg54bfg049cga58d2d40c6b2" version="3">Planescape Pouch (Npc items)</content>
+  <content contentuid="h3b5ef546g4ceeg453cg03ecgffb643e42406" version="3">A simple pouch containing planar items.</content>
   <content contentuid="hf642f457gd2d9g63abgb663g925404abae05" version="1">Portal detected</content>
   <content contentuid="hb52aaae7g5a0cgd77ag0cdcgdfb890b9bbdc" version="1">You have detected portal traces.</content>
   <content contentuid="h0a5fae24g4c79g4497g04d4g20fcfdd88153" version="1">You have detected portal traces of a hag.</content>
@@ -500,4 +502,79 @@
   <content contentuid="h80da2a15g3265g7a28g7265gcf4ae4c56285" version="1">You have detected traces of a portal connecting Baldur's Gate circus and a distant jungle.</content>
   <content contentuid="h7ddde9f0g37f5g305dga991g7b7c0b889bf7" version="3">You have detected traces of a portal connecting the Sorcerous Sundries store and some secret magical rooms.</content>
   <content contentuid="h557b5d8cg0a78g38dbg5a49g38428ea8110e" version="1">You have detected traces of a portal connecting the Material Plane and a devil's lair. The key appears to be a ritual composed of multiple objects.</content>
+  <content contentuid="hebd9c2cbgc7bdgf824gbb3fge923b39d701d" version="1">Mimir Knowledge</content>
+  <content contentuid="h6bdbaaa7g5f25g5e3dg9e9cg3844a3acf6b1" version="5">Device activation</content>
+  <content contentuid="hd2f425b6gaa0cgcf5bga5f5g5256424ccdc8" version="4">Activating this device grants you some of its knowledge.</content>
+  <content contentuid="h2934311cg6fcbgaf64g1afag61f82c373b17" version="5">Use</content>
+  <content contentuid="h40684fe9gc931ge587gd987gc858d716944e" version="5">If it really is a Mimir, activating it should grant you some of its knowledge, right?</content>
+  <content contentuid="h14b0dc56g5dbfgf375ge343g78cf7ae51b0c" version="5">Use</content>
+  <content contentuid="h33fffc28g5ec9g17dbg540bg411313d49cf1" version="5">Use</content>
+  <content contentuid="h487284a8gc7e7gdf75g7001gb8055212b8b2" version="4">Using this contract allows you to hire the creature linked to it.</content>
+  <content contentuid="hf2bd0455gdf88g41f0g99c2g21683bb3da6d" version="4">Using this contract allows you to hire the creature linked to it.</content>
+  <content contentuid="hbb5bea25g6704gc77fg568agc308cbd55f8d" version="1">Sealed</content>
+  <content contentuid="hc4877bc9gf86ag4709ga9d8g4d9830dc267a" version="2">Prevents casting most teleportation or portal spells.</content>
+  <content contentuid="hb962d685g4018g8a8dge9d2gc06274e5ed66" version="6">Shining Blade</content>
+  <content contentuid="h98c8764ag7b21ga56egbdd3gf996c310b6b4" version="6">A magical sword usually associated with good used by the archons of Mount Celestia. It is very rare to come across a mortal holding such a weapon.</content>
+  <content contentuid="h02089bcegb7ebg068aga103g1426f95f699c" version="7">Barbed Javelin</content>
+  <content contentuid="h2c99692cg38d4g92b1g9f01g65f67b4c5d94" version="7">A javelin typically used by bariaurs from Ysgard.</content>
+  <content contentuid="h48c10e09gaf5dga5eeg8c04g95ecef98393d" version="1">Obstruction</content>
+  <content contentuid="h3dcf0ea8ge550g9d38g7eecg157bbd582e1e" version="1">Obstruction</content>
+  <content contentuid="hc6658301g5a8fg2016gbc73g09279e9cb0b6" version="2">When hit by a Barbed Javelin, the target's movement speed is reduced.</content>
+  <content contentuid="ha4ea0696gece4g37f1g31eeg3f39bdcb7d28" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; is reduced by [1].</content>
+  <content contentuid="hd794ab6bga5e2g6b6eg4910gc3275610a782" version="7">Enervating Trident</content>
+  <content contentuid="h2e945529g8e31g003dgb209g1ca0b3413b7a" version="7">A despicable trident from Carceri.</content>
+  <content contentuid="h5dbfde50g1c6eg14d0g0faeg791cbd77b2e7" version="5">Havoc Flask</content>
+  <content contentuid="h3d32fda7ge9cbge5c5g85a2g30d9bf01b77a" version="4">The Fire Starters, wielding these flasks, burn away oppressive systems through chaos and flame.</content>
+  <content contentuid="h3fc36651g15cfg8fd0g57ffgc3a6c7996af7" version="8">Havoc Hammer</content>
+  <content contentuid="h65e8e328gff3dg6ca0gaaedged047777e3f9" version="4">The Fire Starters, wielding these hammers, burn away oppressive systems through chaos and flame.</content>
+  <content contentuid="h1fa2b04cg935fg9a8eg19b6g48008d4836ed" version="10">Bone Blade</content>
+  <content contentuid="h3322594fg78d3gb2acg833bgc512f987123c" version="5">Electrified Mancatcher</content>
+  <content contentuid="ha5b08061gc445ga218g4ac8gfed895be15b3" version="9">Force Dagger</content>
+  <content contentuid="h9b76d8fegc962g6c90g6e84ga91b7c6150df" version="7">Harmonium Blade</content>
+  <content contentuid="hf56ee662g7bf2gd275g9246g05095158b407" version="12">Since kolyaruts have 4 arms, they very often use 4 of these weapons at the same time.</content>
+  <content contentuid="h0555e713g84c6g6e93g449dge72ba5aa5067" version="8">Burnished Blade</content>
+  <content contentuid="h35268241g93ccg1e06g4d0cg1850c2720341" version="9">Unerring Blade</content>
+  <content contentuid="h5cb30b60g66c8g7b0cg14fag9fa644b334b5" version="5">A weapon used by Harmonium patrollers.</content>
+  <content contentuid="hdd0dcadcg37ecg48a1g381eg8624c7a83c94" version="3">A weapon used for repression by representatives of the Harmonium.</content>
+  <content contentuid="h1c95414cg5d5cge0a9g3245g109d768402af" version="5">A perfectly proportioned weapon for mustevals.</content>
+  <content contentuid="h04189e49gf2f9gb38fgcae8g6167a9eed597" version="6">Cuprilachs strike surgically, following the orders of aurumachs without question or emotion.</content>
+  <content contentuid="h0aa9e328gb8a1g34d8ga58dg70538986bf1e" version="4">Nulls work in the shadows, serving as assassins and spies for the Athar.</content>
+  <content contentuid="hf489b8c2g5b0bge6f2g3f19g179b498fbf7f" version="8">Entropic Greatsword</content>
+  <content contentuid="ha8de7837ga4d7gc117g5575g8dac219499dc" version="6">Entropic Blade</content>
+  <content contentuid="hadedb95eg122eg02d2gc381g7b2c7810157f" version="3">Entropic Javelin</content>
+  <content contentuid="h52da9222g30f5gaffcg64f5g0f6a84c38601" version="5">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
+  <content contentuid="hde6d1a89g2c19g2ce6g1053ga8d0246a579a" version="7">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
+  <content contentuid="hf67f607bgfe6ag874dgd6a0gadaf001f711d" version="3">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
+  <content contentuid="h9e970a59ge7a4gdb07g04f5g0d74ce703e1c" version="6">Charm of the Dead Truce</content>
+  <content contentuid="hd9e90659g39b6g07d1ga365g6adb41d0d962" version="2">Charm of the Dead Truce</content>
+  <content contentuid="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="2">Charm of the Dead Truce</content>
+  <content contentuid="h9c1d41cfg908dgb54bgd45ag1d1827eca7fd" version="4">This charm grants you respect among the dead. During combat, hostile undead cannot directly attack the caster of this spell. Additionally, you gain advantage on Charisma checks when interacting with undead creatures. If you attack or use an offensive reaction against an undead creature, this effect disappears.</content>
+  <content contentuid="hd03eeeb1g0e99g80d2g9246g93cb8215e28f" version="4">Grants you respect among the dead. During combat, hostile undead cannot directly attack the caster of this spell. Additionally, you gain advantage on Charisma checks when interacting with undead creatures. If you attack or use an offensive reaction against an undead creature, this effect disappears.</content>
+  <content contentuid="h32b321cdg32c0g3845gfcffg54dda677fc07" version="3">Dead Truce</content>
+  <content contentuid="hf7cebf92gccc4ga6fcga716ge79dfd1c81e1" version="2">The creature is pacified towards the source of this spell.</content>
+  <content contentuid="h0100b285gc467gca8cg94d3g89064fbaa365" version="4">Charm of Incorporeality</content>
+  <content contentuid="hf9ac3656gfaf2g80d4gae2dg594efd79ef17" version="2">Charm of Incorporeality</content>
+  <content contentuid="h82e5cc2dg1ee4geaaeg6a2cgc51ff337c1a3" version="1">Charm of Incorporeality</content>
+  <content contentuid="h3375375fgf2f8g4cedg8cb5gfb53fd26ab1c" version="1">This charm allows you to assume a ghostly, incorporeal form. While in this form, you have resistance to Bludgeoning, Piercing, and Slashing damage.</content>
+  <content contentuid="hbec8085egb989g2e3fg0fc7gb473c086d489" version="1">You assume a ghostly, incorporeal form. While in this form, you have resistance to Bludgeoning, Piercing, and Slashing damage.</content>
+  <content contentuid="h97840d3ag5570gba65g009eg2cde3bb46990" version="1">This item disappears after use.</content>
+  <content contentuid="hbfbd333bg6698ge929g8e96g3a2364b3a1aa" version="1">This item disappears after use.</content>
+  <content contentuid="h2b8753d0g5a5dg5203g5cf1g87e6646a16b8" version="6">People who join the Heralds of Dust or prove themselves to the faction are sometimes rewarded with a supernatural charm.</content>
+  <content contentuid="h90d5382cgac10gce4fgfa62g30a16f8fdec4" version="4">People who join the Heralds of Dust or prove themselves to the faction are sometimes rewarded with a supernatural charm.</content>
+  <content contentuid="ha116c558g4f4bg031ega93bg0bd71f7adb5c" version="4">Use</content>
+  <content contentuid="h4d6ca746g8bbdg75bcgbb04g36301dbcf747" version="7">Use</content>
+  <content contentuid="hc5ba049bg1d5eg6404g8a09gbfe881c3e26d" version="2">Havoc Fire</content>
+  <content contentuid="h3c22c311g5c4ega574g00c7g3955c940943b" version="2">Havoc Fire</content>
+  <content contentuid="h244fa72cg8090g14f2ga028ge59a03bf16c5" version="1">Takes [1] each turn.</content>
+  <content contentuid="h4b01b315ga76age906ga70fg7336c25b0a65" version="2">Whenever you deal damage with this weapon, inflicts Havoc Fire to your target.</content>
+  <content contentuid="h9fcdae5eg0e2eg3ff0ge2aegb3383f8a81a6" version="1">Lightning Seal</content>
+  <content contentuid="hf6cc7530g18e6g0dedg7679g49df7ad6cbcb" version="1">Lightning Seal</content>
+  <content contentuid="h4f796a42gde7cgc6ccg5bf8ge753df49975d" version="2">Once per combat, whenever you deal damage with this weapon, inflicts a Lightning Seal to your target.</content>
+  <content contentuid="h7824fb26g0bdbgfd75g245agd3ea9ca52ebb" version="1">Takes [1] each turn.</content>
+  <content contentuid="hb41684b4g64e0geae3gb8f2g5961893564f2" version="1">Push</content>
+  <content contentuid="ha13cd106g9877g8ad7g41e4gcc9c61aa7f74" version="1">Whenever you deal damage with this weapon, it can push your target backwards.</content>
+  <content contentuid="h29b950f4gee17g71bdg6948g70a0371c30c8" version="1">Entropy</content>
+  <content contentuid="hb874d355ge9e4g02fcg49b8g77d11b2dad19" version="1">A creature killed by this weapon is reduced to ash.</content>
+  <content contentuid="hf871407eg4afbgba85gad7ag195a98cf6fc7" version="1">Entropic Emission</content>
+  <content contentuid="h4d9e33c6g842eg3bf3g444dg0713d909a0ce" version="2">The blade emits a burst of entropic magic. Each creature in the spell area must succeed on a Constitution saving throw or take [1].</content>
 </contentList>

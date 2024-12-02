@@ -17,8 +17,7 @@
         <field name="SlashingResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="PiercingResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="AcidResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="ColdResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="FireResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="FireResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="ForceResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="LightningResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="NecroticResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
@@ -28,7 +27,7 @@
         <field name="ThunderResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="SoundSize" type="EnumerationTableFieldDefinition" value="Tiny" enumeration_type_name="ObjectSize" version="1" />
         <field name="Flags" type="EnumerationListTableFieldDefinition" value="Floating;FloatingWhileMoving" enumeration_type_name="AttributeFlags" version="1" />
-        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="IgnoreFallDamage();ProficiencyBonus(SavingThrow,Intelligence);BlockRegainHP(Living;Construct);ApplyStatus(FLY,100,-1);UnlockSpell(Shout_Hide);UnlockSpell(Target_Paitm_Tongues_Bonus);UnlockSpell(Projectile_Fly_Spell);UnlockSpell(Target_Bite)" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="IgnoreFallDamage();ProficiencyBonus(SavingThrow,Intelligence);BlockRegainHP(Living;Construct);ApplyStatus(FLY,100,-1);UnlockSpell(Shout_Hide);UnlockSpell(Target_Paitm_MimirKnowledge_Bonus);UnlockSpell(Projectile_Fly_Spell);UnlockSpell(Target_Bite)" />
         <field name="Armor" type="IntegerTableFieldDefinition" value="22" />
         <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SG_Prone;PRONE_FALLEN;CRIPPLED;BLEEDING;GAPING_WOUND;CHEST_TRAUMA;SG_Charmed;SG_Frightened;SG_Poisoned;UNCONSCIOUS;SCL_SHADOW_CURSE" />
         <field name="Class" type="StringTableFieldDefinition" value="Wizard" />
@@ -36,6 +35,7 @@
         <field name="FOV" type="IntegerTableFieldDefinition" value="90" />
         <field name="StepsType" type="EnumerationTableFieldDefinition" value="Bare" enumeration_type_name="StepsType" version="1" />
         <field name="Proficiency Bonus Scaling" type="GuidObjectTableFieldDefinition" value="265d62c4-9b82-4ed6-9a86-da675b4ef8fe" />
+        <field name="DifficultyStatuses" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -51,7 +51,7 @@
         <field name="Wisdom" type="IntegerTableFieldDefinition" value="9" />
         <field name="Charisma" type="IntegerTableFieldDefinition" value="6" />
         <field name="Armor" type="IntegerTableFieldDefinition" value="17" />
-        <field name="Vitality" type="IntegerTableFieldDefinition" value="104" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="124" />
         <field name="XPReward" type="GuidObjectTableFieldDefinition" value="810b5510-6748-4c8e-bef0-d990880ed1dd" />
         <field name="Sight" type="IntegerTableFieldDefinition" value="600" />
         <field name="Hearing" type="IntegerTableFieldDefinition" value="600" />
@@ -60,7 +60,7 @@
         <field name="SoundSize" type="EnumerationTableFieldDefinition" value="Tiny" enumeration_type_name="ObjectSize" version="1" />
         <field name="StepsType" type="EnumerationTableFieldDefinition" value="Bare" enumeration_type_name="StepsType" version="1" />
         <field name="Flags" type="EnumerationListTableFieldDefinition" value="Floating;FloatingWhileMoving;BackstabImmunity" enumeration_type_name="AttributeFlags" version="1" />
-        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="IgnoreFallDamage();ProficiencyBonus(SavingThrow,Constitution);ApplyStatus(FLY,100,-1);UnlockSpell(Shout_Hide);UnlockSpell(Target_Paitm_Tongues_Bonus);UnlockSpell(Projectile_Fly_Spell);UnlockSpell(Target_Bite_SkeletonHound);UnlockSpell(Target_ViciousMockery);UnlockSpell(Rush_ForceTunnel)" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="IgnoreFallDamage();ProficiencyBonus(SavingThrow,Constitution);ApplyStatus(FLY,100,-1);UnlockSpell(Shout_Hide);UnlockSpell(Target_Paitm_MimirKnowledge_Bonus);UnlockSpell(Projectile_Fly_Spell);UnlockSpell(Target_Bite_SkeletonHound);UnlockSpell(Target_ViciousMockery);UnlockSpell(Rush_ForceTunnel)" />
         <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SG_Prone;PRONE_FALLEN;CRIPPLED;BLEEDING;GAPING_WOUND;CHEST_TRAUMA;SG_Poisoned;SCL_SHADOW_CURSE" />
         <field name="PathInfluence" type="StringTableFieldDefinition" value="BloodElectrified,100;BloodFrozen,30;Lava,700;Fire,40;HolyFire,40;Hellfire,100;PoisonCloud,70;WyvernPoison,70;DrowPoisonCloud,70;PurpleWormPoison,70;SerpentVenom,70;InvisibleGithAcid,70;CloudkillCloud,70;MaliceCloud,70;CrawlerMucusCloud,70;WaterElectrified,100;WaterFrozen,30;Grease,30;Web,30;Vines,40;SporeBlackCloud,100;WaterCloudElectrified,40;SporeGreenCloud,40;Acid,30;CausticBrine,40;DarknessCloud,30;FogCloud,30;Mud,30;Oil,30;Poison,30;SpikeGrowth,40;SporePinkCloud,40;StinkingCloud,40" />
         <field name="Proficiency Bonus Scaling" type="GuidObjectTableFieldDefinition" value="265d62c4-9b82-4ed6-9a86-da675b4ef8fe" />
@@ -70,19 +70,15 @@
         <field name="ActionResources" type="StringTableFieldDefinition" value="Movement:12;ActionPoint:1;BonusActionPoint:1;ReactionActionPoint:1" />
         <field name="Class" type="StringTableFieldDefinition" value="Fighter" />
         <field name="Passives" type="StringTableFieldDefinition" value="AttackOfOpportunity;Darkvision;DarknessRules;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;Paitm_PlanarInfusion_Poison" />
-        <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="SlashingResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="PiercingResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="AcidResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="ColdResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="FireResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="ForceResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="FireResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="LightningResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="NecroticResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="NecroticResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="PoisonResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="PsychicResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="RadiantResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PsychicResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="ThunderResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="DifficultyStatuses" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" value="Vulnerable" enumeration_type_name="ResistanceFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -98,7 +94,7 @@
         <field name="Wisdom" type="IntegerTableFieldDefinition" value="10" />
         <field name="Charisma" type="IntegerTableFieldDefinition" value="13" />
         <field name="Armor" type="IntegerTableFieldDefinition" value="14" />
-        <field name="Vitality" type="IntegerTableFieldDefinition" value="68" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="87" />
         <field name="XPReward" type="GuidObjectTableFieldDefinition" value="810b5510-6748-4c8e-bef0-d990880ed1dd" />
         <field name="Sight" type="IntegerTableFieldDefinition" value="1600" />
         <field name="Hearing" type="IntegerTableFieldDefinition" value="1100" />
@@ -112,15 +108,15 @@
         <field name="UnarmedAttackAbility" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
         <field name="UnarmedRangedAttackAbility" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="Ability" version="1" />
         <field name="Class" type="StringTableFieldDefinition" value="Rogue" />
-        <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="FireResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="ForceResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="PoisonResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="DarkvisionRange" type="StringTableFieldDefinition" value="9" />
         <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Leather" enumeration_type_name="ArmorType" version="1" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Daggers;HandCrossbows;Longbows;LightArmor;LightCrossbows;MediumArmor;MartialWeapons;MusicalInstrument;SimpleWeapons;Shortbows;Shortswords;Scimitars;Rapiers;Maces;Glaives;HeavyCrossbows;Handaxes;Clubs" enumeration_type_name="ProficiencyGroupFlags" version="1" />
-        <field name="ActionResources" type="StringTableFieldDefinition" value="Movement:12;ActionPoint:1;BonusActionPoint:2;ReactionActionPoint:2" />
+        <field name="ActionResources" type="StringTableFieldDefinition" value="Movement:12;ActionPoint:1;BonusActionPoint:2;ReactionActionPoint:1" />
         <field name="Passives" type="StringTableFieldDefinition" value="Tiefling_HellishResistance;AttackOfOpportunity;DarknessRules;Darkvision;Paitm_PlanarInfusion_Poison;Paitm_CohortOfChaos;DualWielder_PassiveBonuses;Alert;Mobile_PassiveBonuses;SavageAttacker;Assassinate_Initiative;Assassinate_Ambush;Assassinate_Resource" />
+        <field name="AcidResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="DifficultyStatuses" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -136,7 +132,7 @@
         <field name="Wisdom" type="IntegerTableFieldDefinition" value="16" />
         <field name="Charisma" type="IntegerTableFieldDefinition" value="19" />
         <field name="Armor" type="IntegerTableFieldDefinition" value="12" />
-        <field name="Vitality" type="IntegerTableFieldDefinition" value="72" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="87" />
         <field name="XPReward" type="GuidObjectTableFieldDefinition" value="810b5510-6748-4c8e-bef0-d990880ed1dd" />
         <field name="Sight" type="IntegerTableFieldDefinition" value="1600" />
         <field name="Hearing" type="IntegerTableFieldDefinition" value="1100" />
@@ -144,22 +140,22 @@
         <field name="Weight" type="FloatTableFieldDefinition" value="65" />
         <field name="StepsType" type="EnumerationTableFieldDefinition" value="Bare" enumeration_type_name="StepsType" version="1" />
         <field name="Flags" type="EnumerationListTableFieldDefinition" value="FloatingWhileMoving;BackstabImmunity;SlippingImmunity" enumeration_type_name="AttributeFlags" version="1" />
-        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="IgnoreFallDamage();UnlockSpell(Shout_Hide);ProficiencyBonus(SavingThrow,Charisma);UnlockSpell(Projectile_Fly_Spell);UnlockSpell(Target_HealingWord,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,,);UnlockSpell(Shout_HealingWord_Mass,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,,);UnlockSpell(Target_LesserRestoration,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,,);UnlockSpell(Target_RemoveCurse,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,,);UnlockSpell(Shout_Aid,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,,);UnlockSpell(Target_SpeakWithDead);UnlockSpell(Shout_MAG_SpellSlotRestoration);UnlockSpell(Shout_BladeWard)" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="IgnoreFallDamage();UnlockSpell(Shout_Hide);ProficiencyBonus(SavingThrow,Charisma);UnlockSpell(Projectile_Fly_Spell);UnlockSpell(Target_HealingWord,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,,);UnlockSpell(Shout_HealingWord_Mass,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,,);UnlockSpell(Target_LesserRestoration,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,,);UnlockSpell(Target_RemoveCurse,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,,);UnlockSpell(Shout_Aid,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,,);UnlockSpell(Shout_MAG_SpellSlotRestoration);UnlockSpell(Shout_BladeWard);UnlockSpell(Target_SacredFlame)" />
         <field name="Proficiency Bonus Scaling" type="GuidObjectTableFieldDefinition" value="265d62c4-9b82-4ed6-9a86-da675b4ef8fe" />
         <field name="SpellCastingAbility" type="EnumerationTableFieldDefinition" value="Charisma" enumeration_type_name="Ability" version="1" />
         <field name="UnarmedAttackAbility" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
         <field name="UnarmedRangedAttackAbility" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="Ability" version="1" />
         <field name="Class" type="StringTableFieldDefinition" value="Cleric" />
-        <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="AcidResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="NecroticResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="PoisonResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="PsychicResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
-        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor;SimpleWeapons;MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor;MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
         <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SG_Charmed" />
         <field name="ActionResources" type="StringTableFieldDefinition" value="Movement:9;ActionPoint:1;BonusActionPoint:1;ReactionActionPoint:1" />
-        <field name="Passives" type="StringTableFieldDefinition" value="Tiefling_HellishResistance;DarknessRules;Darkvision;Paitm_PlanarInfusion_Force;Paitm_AgentOfOrder;Paitm_PlanarWanderer_Acid;UncannyDodge" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Tiefling_HellishResistance;DarknessRules;Darkvision;Paitm_PlanarInfusion_Force;Paitm_AgentOfOrder" />
+        <field name="DifficultyStatuses" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
       </fields>
     </stat_object>
   </stat_objects>

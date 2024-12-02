@@ -11,6 +11,13 @@
                     <attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
                     <attribute id="UUID" type="guid" value="5b3f582f-140f-4454-b644-4d1d1dc78e8c"/>
                 </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="IsHidden" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="PaitmInterruptsPointRest"/>
+                    <attribute id="ReplenishType" type="FixedString" value="ShortRest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+                    <attribute id="UUID" type="guid" value="5ad07303-d496-4f9f-91c1-3dd405d2840b"/>
+                </node>
             </children>
         </node>
     </region>

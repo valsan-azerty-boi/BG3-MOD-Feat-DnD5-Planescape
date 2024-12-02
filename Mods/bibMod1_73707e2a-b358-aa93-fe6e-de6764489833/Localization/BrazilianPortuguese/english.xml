@@ -23,15 +23,15 @@
 <content contentuid="h3b8cb656g7968gf2dag31b8g6a98e698cd3e" version="1">Andarilho Planar</content>
 <content contentuid="h4b1b0ee0g2aabg6fb6ge12fg61d331c63717" version="2">Você pode recorrer às forças do multiverso para sobreviver a extremos cósmicos e se afirmar como um verdadeiro especialista em portais planares.</content>
 <content contentuid="h7922d8aag0730g408bg1301g0c3f6b90631b" version="1">Agente da Ordem</content>
-<content contentuid="h080c4c35gb42dgca01ge8cfg244b47407ddb" version="2">OLD_Você pode canalizar forças cósmicas de ordem para obter benefícios.</content>
+<content contentuid="h080c4c35gb42dgca01ge8cfg244b47407ddb" version="2" />
 <content contentuid="hdaeb5abfg0ad1g2443g0f5bg3f7476e0a667" version="1">Descendente Maligno</content>
-<content contentuid="h4ef18962g3deegaa6fg1f5bg35cdad9ed299" version="2">OLD_Você pode canalizar forças cósmicas do mal para obter benefícios.</content>
+<content contentuid="h4ef18962g3deegaa6fg1f5bg35cdad9ed299" version="2" />
 <content contentuid="he5256e8dg9ddfgc0a4g9bb8gc1c8c97a4058" version="1">Coorte do Caos</content>
-<content contentuid="h502bfab7gb9a0gd257gd656g099d4c09c84d" version="2">OLD_Você pode canalizar forças cósmicas do caos para obter benefícios.</content>
+<content contentuid="h502bfab7gb9a0gd257gd656g099d4c09c84d" version="2" />
 <content contentuid="h9fd845d9g641egebd9g981bg2ae35f4a9ffe" version="1">Enviado das Terras Distantes</content>
-<content contentuid="h24184e08g396cg1910gf9dcg656df71d966b" version="2">OLD_Você passou um tempo significativo nas Terras Distantes. Estar imerso em energias planares convergentes lhe concede benefícios.</content>
+<content contentuid="h24184e08g396cg1910gf9dcg656df71d966b" version="2" />
 <content contentuid="h9c19cc12g6bcag28a1g99f8gb656a4cfd87c" version="1">Herdeiro Justo</content>
-<content contentuid="h395735d3gba45gb3d8ga495gbcb55fd7702a" version="2">OLD_Você pode canalizar forças cósmicas do bem para obter benefícios.</content>
+<content contentuid="h395735d3gba45gb3d8ga495gbcb55fd7702a" version="2" />
 <content contentuid="h750430b5g480fgddabg4bc0g7dd11520f7a1" version="2">Adaptação planar ácida</content>
 <content contentuid="hffa64d14g00eage72agfbcdgf24965250c7e" version="9">Com sua experiência em viagem planar, você ganha uma Resistência Ácida e a magia &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Quebrador de portais&lt;/LSTag&gt; para criar 2 portais uma vez por descanso curto.</content>
 <content contentuid="ha210fd4fg8dddg945ege2e9gf88344ebd3a2" version="2">Adaptação Planar Fria</content>
@@ -52,10 +52,6 @@
 <content contentuid="h1876774ag4ed5g697dgf1d7gbec26f0aab8f" version="2">Você pode canalizar forças cósmicas específicas para obter benefícios e aumenta uma Habilidade em 1 até um máximo de 20.</content>
 <content contentuid="h1a1a5fd5g37f0g0d8bg6e4bg0a7864f5d8a4" version="2">Passo Nebuloso</content>
 <content contentuid="h7bc2a60ag2954gf3d4gb8a8g1d39c7db951e" version="1">Cercado por energias planas, você se teletransporta para um espaço desocupado que você pode ver.</content>
-<content contentuid="h6d4f5178g1938g00a2gf920g880454834028" version="1">Selo do Portão</content>
-<content contentuid="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="3">Você fortifica o tecido dos planos. Estranhamente, neste mundo material, esta magia parece criar uma esfera &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenciamento&lt;/LSTag&gt; sem nenhuma necessidade de concentração.</content>
-<content contentuid="h1ee85063g393bg7bb3g8fd4g24cd706369eb" version="1">Sentido de distorção</content>
-<content contentuid="h9efc7d47ga644ge2f4g79a9g781f5dfbd738" version="1">Você sente a presença de energias planas, mesmo as mais residuais.</content>
 <content contentuid="h1a4889b6gba5dg1e02gbb15g9aa6c8e7b7eb" version="2">Quebrador de portais</content>
 <content contentuid="h8a984c65g71d0g34e3g4613gfd46275b7fe6" version="4">Sua experiência com portais permite que você abra dois portais conectados sem a necessidade de se concentrar. Ao conjurar a magia, instabilidade pode ocorrer e infligir dano psíquico ao conjurador.</content>
 <content contentuid="h40448845g14b4geda1g4211g54ed4ba847a1" version="1">Mudança de plano</content>
@@ -69,7 +65,7 @@
 <content contentuid="hc635cd26ge771g46fbgaef8ga24b8487873c" version="1">A garra da avareza</content>
 <content contentuid="h38be499bg66cegfe7eg554ag39e19c04a5b9" version="1">Uma vez por turno, quando você causa dano a uma criatura, você também pode causar dano necrótico a ela. O dano necrótico é igual a 1d6, e você recupera 1d6 pontos de vida.</content>
 <content contentuid="h1c8b8d38gc2a8g380cg8a2cgc7cbaaa07449" version="1">A garra da avareza</content>
-<content contentuid="h6be0c2degf8d2gf7d4g2601g3fef053dc7fe" version="4">Como um Descendente Maligno, uma vez por turno, se você causar dano a uma criatura, você também pode causar um [1] adicional e recuperar [2].</content>
+<content contentuid="h6be0c2degf8d2gf7d4g2601g3fef053dc7fe" version="4">Como um Descendente Maligno, uma vez por turno, se você causar dano a uma criatura, você também pode causar um [1] adicional e recuperar [2]. You add your &lt;LSTag Tooltip="Proficiency"&gt;Proficiency Bonus&lt;/LSTag&gt; to these damage and healing rolls.</content>
 <content contentuid="h179c540dg33ecg394dgd2cagb075484fbbd4" version="1">Ataque de Estase</content>
 <content contentuid="heab337b1g2162gdd98gc8aag6cde93106e6c" version="3">Como um Agente da Ordem, uma vez por turno, se você causar dano a uma criatura, você também pode causar um [1] adicional e, se tiver sorte, contê-la.</content>
 <content contentuid="h1277ed5cgfce9g69bdg7ba3g5da310c9534b" version="1">Aliviar a dor</content>
@@ -81,9 +77,13 @@
 <content contentuid="h2442377eg66e9gcab1g6f99g168da3d4a5e0" version="2">Forças cósmicas de Ordem impedem que você se mova.</content>
 <content contentuid="h1fd2ebbbgb28ag61f9g122bga7e5e051cb8b" version="1">%%% VAZIO</content>
 <content contentuid="hcf9b6f82g0a03g0941g27e1g5365898a25f3" version="1">Sentido de distorção</content>
-<content contentuid="h74112800gd1b6g6d15g2b3ag99b4ef5b61e7" version="5">Você sente a presença de energias planares, como portais, mesmo as mais residuais. Estranhamente, esta magia parece muito mais duradoura neste mundo material.</content>
+<content contentuid="h1ee85063g393bg7bb3g8fd4g24cd706369eb" version="1">Sentido de distorção</content>
 <content contentuid="h19807a4dgb9b4g6a11g1ad1g33886795753c" version="1">Sentido de distorção</content>
-<content contentuid="hc53f42ecg57cagf9f1gd923gd71c1f3dee48" version="3">Bônus de Proficiência em Arcanismo.</content>
+<content contentuid="h35aae9b0g24d1g5e5cg16e9g77c09801f57c" version="1">Sentido de distorção</content>
+<content contentuid="he1077f52g85acgbc6dgbeefgc69b82ed6f2c" version="1">Você sente a presença de energias planares, como portais, mesmo as mais residuais. Você também ganha um bônus de proficiência em Arcanos. A magia termina quando você detecta um portal e obtém informações sobre esse portal.</content>
+<content contentuid="h9efc7d47ga644ge2f4g79a9g781f5dfbd738" version="1">Você sente a presença de energias planares, como portais, mesmo as mais residuais. Você também ganha um bônus de proficiência em Arcanos. A magia termina quando você detecta um portal e obtém informações sobre esse portal.</content>
+<content contentuid="h74112800gd1b6g6d15g2b3ag99b4ef5b61e7" version="5">Você sente a presença de energias planares, como portais, mesmo as mais residuais. Você também ganha um bônus de proficiência em Arcanos. A magia termina quando você detecta um portal e obtém informações sobre esse portal.</content>
+<content contentuid="hc53f42ecg57cagf9f1gd923gd71c1f3dee48" version="3">Você sente a presença de energias planares, como portais, mesmo as mais residuais. Você também ganha um bônus de proficiência em Arcanos. A magia termina quando você detecta um portal e obtém informações sobre esse portal.</content>
 <content contentuid="h4e017016g5c6bg5ce5g3ab0g22f43f822bfe" version="1">Línguas</content>
 <content contentuid="h416260c2g5063gcb28gc5d5g202db23685fd" version="1">A compreensão do seu cérebro sobe um nível, seja em termos de lógica ou linguagem. Por um tempo, você se torna melhor em conversas com todos os tipos de pessoas.</content>
 <content contentuid="he719e3e7gb7a6ge63cg73e5g0a5d2bddec22" version="1">Línguas</content>
@@ -115,17 +115,17 @@
 <content contentuid="hc0de0d99g828dga24ag5826g5173a7c17174" version="2">Forças cósmicas do Caos atacam entidades ao redor da aura.</content>
 <content contentuid="h41072ba9g1b28g1653g89c3geb945c1c6df1" version="1">Campo de Disrupção</content>
 <content contentuid="h12336d96gfb44g9ff8g5522gc851002c3ad3" version="3">Forças cósmicas do Caos atacam entidades ao redor da aura.</content>
-<content contentuid="h35aae9b0g24d1g5e5cg16e9g77c09801f57c" version="1">Sentido de distorção</content>
-<content contentuid="he1077f52g85acgbc6dgbeefgc69b82ed6f2c" version="1">Você sente a presença de energias planares, como portais, mesmo as mais residuais. Estranhamente, esta magia parece muito mais duradoura neste mundo material.</content>
 <content contentuid="h52cb2e91gf45eg4bf2gfdaeg0df82f11acc4" version="1">Selo do Portão</content>
-<content contentuid="h7cecf0f4g32e0gbeb8g1258g196d9b29cf31" version="2">Você fortifica o tecido dos planos. Estranhamente, neste mundo material, esta magia parece criar uma esfera &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenciamento&lt;/LSTag&gt; sem nenhuma necessidade de concentração.</content>
 <content contentuid="h8483d49ag1e8dg1c43g8018gfcd6bbef6e23" version="1">Selo do Portão</content>
-<content contentuid="hcedc6be9ge111g4c71g1742g013f38ae2a65" version="2">Você fortifica o tecido dos planos. Estranhamente, neste mundo material, esta magia parece criar uma esfera &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenciamento&lt;/LSTag&gt; sem nenhuma necessidade de concentração.</content>
 <content contentuid="hc9103a06g6ce1g9873gf3b6ga43de4e8a062" version="1">Selo do Portão</content>
-<content contentuid="h717a8513g3681g3750gd31eg98db9c4c5400" version="2">Você fortifica o tecido dos planos. Estranhamente, neste mundo material, esta magia parece criar uma esfera &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenciamento&lt;/LSTag&gt; sem nenhuma necessidade de concentração.</content>
 <content contentuid="hf8687996gdb03g610cg1c03g3fb532b80da1" version="1">Selo do Portão</content>
-<content contentuid="h7555f29cg9d6fg1583g4a52g55fa5b85c11e" version="2">Você fortifica o tecido dos planos. Estranhamente, neste mundo material, esta magia parece criar uma esfera &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenciamento&lt;/LSTag&gt; sem nenhuma necessidade de concentração.</content>
 <content contentuid="h522850b4ga97fg5c82g95fdg4ae3c3599792" version="1">Selo do Portão</content>
+<content contentuid="h6d4f5178g1938g00a2gf920g880454834028" version="1">Selo do Portão</content>
+<content contentuid="hcea8bb92geb56g3c06gcaa3ga721b42b0072" version="3">Você fortifica o tecido dos planos. Estranhamente, neste mundo material, esta magia parece criar uma esfera &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenciamento&lt;/LSTag&gt; sem nenhuma necessidade de concentração.</content>
+<content contentuid="h7cecf0f4g32e0gbeb8g1258g196d9b29cf31" version="2">Você fortifica o tecido dos planos. Estranhamente, neste mundo material, esta magia parece criar uma esfera &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenciamento&lt;/LSTag&gt; sem nenhuma necessidade de concentração.</content>
+<content contentuid="hcedc6be9ge111g4c71g1742g013f38ae2a65" version="2">Você fortifica o tecido dos planos. Estranhamente, neste mundo material, esta magia parece criar uma esfera &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenciamento&lt;/LSTag&gt; sem nenhuma necessidade de concentração.</content>
+<content contentuid="h717a8513g3681g3750gd31eg98db9c4c5400" version="2">Você fortifica o tecido dos planos. Estranhamente, neste mundo material, esta magia parece criar uma esfera &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenciamento&lt;/LSTag&gt; sem nenhuma necessidade de concentração.</content>
+<content contentuid="h7555f29cg9d6fg1583g4a52g55fa5b85c11e" version="2">Você fortifica o tecido dos planos. Estranhamente, neste mundo material, esta magia parece criar uma esfera &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenciamento&lt;/LSTag&gt; sem nenhuma necessidade de concentração.</content>
 <content contentuid="h9bbfa2d1g1deegb97fg56adgad0e268bcbc9" version="2">Você fortifica o tecido dos planos. Estranhamente, neste mundo material, esta magia parece criar uma esfera &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenciamento&lt;/LSTag&gt; sem nenhuma necessidade de concentração.</content>
 <content contentuid="h9cc9310dg64a8g9de3g7d93gc692b90f1447" version="1">Pedra sensorial</content>
 <content contentuid="h9202e151gdf27g6437g8e2bgbe3f68ac3676" version="3">Esta pequena e lisa pedra contém a essência de uma única experiência. Você pode jogar a pedra, quebrando-a no processo, para acabar com a condição encantada ou assustada em alguém. Ou você pode tocar e consumir a pedra e experimentar a sensação você mesmo.</content>
@@ -332,13 +332,16 @@
 <content contentuid="h11f6fe24g1b93ge170gdca1g5d79194cbfe5" version="1">Mimir</content>
 <content contentuid="h5c94facagf9ecg4524g5fcfg4db96e33cdbb" version="1">Bússola do Portal</content>
 <content contentuid="h0ecbb3b1g4632g7672g2411g10297af2e28c" version="1">Bússola do Portal</content>
+<content contentuid="h55ecf3fbg65faga0c4g6f1cgcf35fc7c3d01" version="1">Bússola do Portal</content>
+<content contentuid="h6accf78cg81b0g4769gb3c3g570e2714d57e" version="1">Ter este item no inventário concede seu efeito mágico.</content>
+<content contentuid="hb18a258bge5f5gc59ag7f99g6b6c682f6db3" version="1">Você tem um bônus de Proficiência em Arcanismo e Percepção.</content>
 <content contentuid="h82ae22f9gb470g74b9g2f81g35db749d7bf6" version="2">Você tem um bônus de Proficiência em Arcanismo e Percepção.</content>
 <content contentuid="he74c5a36gaa29g319cga756gace944dd2f43" version="30">Mimir</content>
 <content contentuid="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1">Ative o Mimir e absorva seu conhecimento.</content>
 <content contentuid="hcd937889g2ddbg0436g8d85g6b74891d554c" version="1">Livre pensador</content>
 <content contentuid="h7dd603ebg6c37g27d9gd5c2ge37c18b6d230" version="3">Para aqueles independentes de mente e pensamento, que não se referem a nenhum deus. Muitas vezes vemos essa maneira de pensar entre os moradores de Sigil. Com uma classe como Clérigo, um personagem sem deus pode às vezes ganhar poderes de suas próprias convicções e princípios.</content>
-<content contentuid="h55a58843g198fg42beg8885g5d1fa3d64808" version="11">Portão do Portal</content>
-<content contentuid="h276ab033g0890g4653g9cadg0b61a1ec93a7" version="10">Conectado com energias planares à sua duplicata, este portal permite que aqueles que o atravessam saiam de seu portão gêmeo.</content>
+<content contentuid="h55a58843g198fg42beg8885g5d1fa3d64808" version="15">Portão do Portal</content>
+<content contentuid="h276ab033g0890g4653g9cadg0b61a1ec93a7" version="14">Conectado com energias planares à sua duplicata, este portal permite que aqueles que o atravessam saiam de seu portão gêmeo.</content>
 <content contentuid="hbec64581g0ea1g8d21g6364g1d950a8f4eb4" version="1">Personagem Glitch</content>
 <content contentuid="hbd824043g2337g763eg7352gc4ca3a50f974" version="4">Você se lembra de lugares estranhos e tempos estranhos. Parece que você não é o único "você" no multiverso. Como uma anomalia, outras encarnações às vezes aparecem dando a você bônus.</content>
 <content contentuid="h8999ed50g75f7g3bf0g7ca0gbc3449663dda" version="3">Elenco de personagens de Glitch</content>
@@ -480,24 +483,98 @@
 <content contentuid="hf4b3e2a9g9d76g1f4g6a8b7g2ca483e51219" version="8">Eh?</content>
 <content contentuid="h672496b9gdce8g6d0ag8488gb67e5b5c1bbf" version="2">Acabe com a condição &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;encantada&lt;/LSTag&gt; e &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;assustada&lt;/LSTag&gt;.</content>
 <content contentuid="hec9e6248g566dg208agf004g76521f10bf77" version="1">Consumir</content>
-<content contentuid="hd3b08708g7556gd184g4e19gc2618bbfa00d" version="1">Your background and your adventure experience mean that you linked yourself to a plan a long time ago.</content>
-<content contentuid="ha2bb4d68gc28fg19a6g43bcg65b4b4652847" version="1">Planescape Pouch</content>
-<content contentuid="hf56b6440gc00cga1a5g505bg38db517ede50" version="1">A simple pouch containing planar items.</content>
-<content contentuid="h55ecf3fbg65faga0c4g6f1cgcf35fc7c3d01" version="1">Bússola do Portal</content>
-<content contentuid="hb18a258bge5f5gc59ag7f99g6b6c682f6db3" version="1">Você tem um bônus de Proficiência em Arcanismo e Percepção.</content>
-<content contentuid="h6accf78cg81b0g4769gb3c3g570e2714d57e" version="1">Having this item in inventory grants you its magical effect.</content>
-<content contentuid="hf642f457gd2d9g63abgb663g925404abae05" version="1">Portal detected</content>
-<content contentuid="hb52aaae7g5a0cgd77ag0cdcgdfb890b9bbdc" version="1">You have detected portal traces.</content>
-<content contentuid="h0a5fae24g4c79g4497g04d4g20fcfdd88153" version="1">You have detected portal traces of a hag.</content>
-<content contentuid="h5c8aac1fge9dbgcf01g9fc5g3a66db53d8f8" version="1">The ship's Helm leaves traces of multiple passages across the planes.</content>
-<content contentuid="h7fb1197cg7f41gd49bg81fdgcf3b6b1e00c6" version="1">You have detected traces of an unstable wizard portal.</content>
-<content contentuid="h7a44e987gab4bgd2e2gcc6dg7ab4ddc1cb21" version="1">You have detected traces of mushroom circles connecting the Underdark and a hag's lair.</content>
-<content contentuid="h1b653337g0d1cg6ea6g0d1ag545295f59ad5" version="1">You have detected numerous portal traces.</content>
-<content contentuid="h887bddadg06f0g915dgd434gb37ad150b633" version="1">You have detected traces of a portal connecting the Material Plane and a pocket dimension. The key appears to be the mysterious artifact you are carrying.</content>
-<content contentuid="h76a90da8ga3f3gd93ag34a4g6be15acdd8c0" version="3">You have detected evidence of a portal used by some githyanki.</content>
-<content contentuid="h20f91cbbgbd38gedeagd60dg9e46d9bc837b" version="1">You have detected traces of a portal that could lead to the heart of the shadow curse.</content>
-<content contentuid="h9080155dg06d8g842ag81e2gebca7f0833a8" version="1">You have detected traces of a portal connecting a cursed prison and the Material Plane. The key seems to be Shar's trials.</content>
-<content contentuid="h80da2a15g3265g7a28g7265gcf4ae4c56285" version="1">You have detected traces of a portal connecting Baldur's Gate circus and a distant jungle.</content>
-<content contentuid="h7ddde9f0g37f5g305dga991g7b7c0b889bf7" version="3">You have detected traces of a portal connecting the Sorcerous Sundries store and some secret magical rooms.</content>
-<content contentuid="h557b5d8cg0a78g38dbg5a49g38428ea8110e" version="1">You have detected traces of a portal connecting the Material Plane and a devil's lair. The key appears to be a ritual composed of multiple objects.</content>
+<content contentuid="hd3b08708g7556gd184g4e19gc2618bbfa00d" version="1">Sua formação e sua experiência de aventura significam que você se vinculou a um plano há muito tempo.</content>
+<content contentuid="ha2bb4d68gc28fg19a6g43bcg65b4b4652847" version="1">Bolsa Planescape</content>
+<content contentuid="hf56b6440gc00cga1a5g505bg38db517ede50" version="1">Uma bolsa simples contendo itens planares.</content>
+<content contentuid="hf2654e2ag423eg54bfg049cga58d2d40c6b2" version="2">Bolsa Planescape (Npc items)</content>
+<content contentuid="h3b5ef546g4ceeg453cg03ecgffb643e42406" version="2">Uma bolsa simples contendo itens planares.</content>
+<content contentuid="hf642f457gd2d9g63abgb663g925404abae05" version="1">Portal detectado</content>
+<content contentuid="hb52aaae7g5a0cgd77ag0cdcgdfb890b9bbdc" version="1">Você detectou rastros do portal.</content>
+<content contentuid="h0a5fae24g4c79g4497g04d4g20fcfdd88153" version="1">Você detectou vestígios de uma bruxa no portal.</content>
+<content contentuid="h5c8aac1fge9dbgcf01g9fc5g3a66db53d8f8" version="1">O leme do navio deixa rastros de múltiplas passagens pelos planos.</content>
+<content contentuid="h7fb1197cg7f41gd49bg81fdgcf3b6b1e00c6" version="1">Você detectou vestígios de um portal de assistente instável.</content>
+<content contentuid="h7a44e987gab4bgd2e2gcc6dg7ab4ddc1cb21" version="1">Você detectou vestígios de círculos de cogumelo conectando o Subterrâneo ao covil de uma bruxa.</content>
+<content contentuid="h1b653337g0d1cg6ea6g0d1ag545295f59ad5" version="1">Você detectou vários rastros de portal.</content>
+<content contentuid="h887bddadg06f0g915dgd434gb37ad150b633" version="1">Você detectou vestígios de um portal conectando o Plano Material e uma dimensão de bolsão. A chave parece ser o artefato misterioso que você carrega.</content>
+<content contentuid="h76a90da8ga3f3gd93ag34a4g6be15acdd8c0" version="3">Você detectou evidências de um portal usado por alguns githyanki.</content>
+<content contentuid="h20f91cbbgbd38gedeagd60dg9e46d9bc837b" version="1">Você detectou vestígios de um portal que pode levar ao coração da maldição das sombras.</content>
+<content contentuid="h9080155dg06d8g842ag81e2gebca7f0833a8" version="1">Você detectou vestígios de um portal conectando uma prisão amaldiçoada e o Plano Material. A chave parece ser os julgamentos de Shar.</content>
+<content contentuid="h80da2a15g3265g7a28g7265gcf4ae4c56285" version="1">Você detectou vestígios de um portal conectando o circo Baldur's Gate e uma selva distante.</content>
+<content contentuid="h7ddde9f0g37f5g305dga991g7b7c0b889bf7" version="3">Você detectou vestígios de um portal conectando a loja Sorcerous Sundries e algumas salas mágicas secretas.</content>
+<content contentuid="h557b5d8cg0a78g38dbg5a49g38428ea8110e" version="1">Você detectou vestígios de um portal conectando o Plano Material e o covil do diabo. A chave parece ser um ritual composto de múltiplos objetos.</content>
+<content contentuid="hebd9c2cbgc7bdgf824gbb3fge923b39d701d" version="1">Conhecimento Mimir</content>
+<content contentuid="h6bdbaaa7g5f25g5e3dg9e9cg3844a3acf6b1" version="3">Ativação do dispositivo</content>
+<content contentuid="hd2f425b6gaa0cgcf5bga5f5g5256424ccdc8" version="2">Ativar este dispositivo concede a você parte de seu conhecimento.</content>
+<content contentuid="h2934311cg6fcbgaf64g1afag61f82c373b17" version="2">Usar</content>
+<content contentuid="h40684fe9gc931ge587gd987gc858d716944e" version="2">Se for realmente um Mimir, ativá-lo deverá conceder a você parte de seu conhecimento, certo?</content>
+<content contentuid="h14b0dc56g5dbfgf375ge343g78cf7ae51b0c" version="3">Usar</content>
+<content contentuid="h33fffc28g5ec9g17dbg540bg411313d49cf1" version="3">Usar</content>
+<content contentuid="h487284a8gc7e7gdf75g7001gb8055212b8b2" version="2">Usar este contrato permite que você contrate a criatura vinculada a ele.</content>
+<content contentuid="hf2bd0455gdf88g41f0g99c2g21683bb3da6d" version="2">Usar este contrato permite que você contrate a criatura vinculada a ele.</content>
+<content contentuid="hbb5bea25g6704gc77fg568agc308cbd55f8d" version="1">Selado</content>
+<content contentuid="hc4877bc9gf86ag4709ga9d8g4d9830dc267a" version="2">Impede o lançamento de feitiços de teletransporte ou portal.</content>
+<content contentuid="hb962d685g4018g8a8dge9d2gc06274e5ed66" version="2">Lâmina Brilhante</content>
+<content contentuid="h98c8764ag7b21ga56egbdd3gf996c310b6b4" version="2">Uma espada mágica geralmente associada ao bem, usada pelos arcontes do Monte Celestia. É muito raro encontrar um mortal segurando tal arma.</content>
+<content contentuid="h02089bcegb7ebg068aga103g1426f95f699c" version="3">Dardo Farpado</content>
+<content contentuid="h2c99692cg38d4g92b1g9f01g65f67b4c5d94" version="3">Uma lança normalmente usada pelos bariauros de Ysgard.</content>
+<content contentuid="h48c10e09gaf5dga5eeg8c04g95ecef98393d" version="1">Obstrução</content>
+<content contentuid="h3dcf0ea8ge550g9d38g7eecg157bbd582e1e" version="1">Obstrução</content>
+<content contentuid="hc6658301g5a8fg2016gbc73g09279e9cb0b6" version="2">Quando atingido por um Javelin Farpado, a velocidade de movimento do alvo é reduzida.</content>
+<content contentuid="ha4ea0696gece4g37f1g31eeg3f39bdcb7d28" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Velocidade de movimento&lt;/LSTag&gt; é reduzida em [1].</content>
+<content contentuid="hd794ab6bga5e2g6b6eg4910gc3275610a782" version="2">Tridente Enervante</content>
+<content contentuid="h2e945529g8e31g003dgb209g1ca0b3413b7a" version="2">Um tridente desprezível de Carceri.</content>
+<content contentuid="h5dbfde50g1c6eg14d0g0faeg791cbd77b2e7" version="2">Frasco de destruição</content>
+<content contentuid="h3d32fda7ge9cbge5c5g85a2g30d9bf01b77a" version="1">Os Fire Starters, empunhando esses frascos, queimam sistemas opressivos através do caos e das chamas.</content>
+<content contentuid="h3fc36651g15cfg8fd0g57ffgc3a6c7996af7" version="6">Martelo de destruição</content>
+<content contentuid="h65e8e328gff3dg6ca0gaaedged047777e3f9" version="2">Os Fire Starters, empunhando esses martelos, queimam sistemas opressivos através do caos e das chamas.</content>
+<content contentuid="h1fa2b04cg935fg9a8eg19b6g48008d4836ed" version="6">Lâmina de Osso</content>
+<content contentuid="h3322594fg78d3gb2acg833bgc512f987123c" version="3">Caçador de Manchas Eletrificado</content>
+<content contentuid="ha5b08061gc445ga218g4ac8gfed895be15b3" version="6">Adaga de Força</content>
+<content contentuid="h9b76d8fegc962g6c90g6e84ga91b7c6150df" version="3">Lâminas de Harmônio</content>
+<content contentuid="hf56ee662g7bf2gd275g9246g05095158b407" version="5">Como os kolyaruts têm 4 braços, eles costumam usar 4 dessas armas ao mesmo tempo.</content>
+<content contentuid="h0555e713g84c6g6e93g449dge72ba5aa5067" version="5">Lâmina Polida</content>
+<content contentuid="h35268241g93ccg1e06g4d0cg1850c2720341" version="2">Folhas infalíveis</content>
+<content contentuid="h5cb30b60g66c8g7b0cg14fag9fa644b334b5" version="1">Uma arma usada pelos patrulheiros Harmonium.</content>
+<content contentuid="hdd0dcadcg37ecg48a1g381eg8624c7a83c94" version="1">Uma arma usada para repressão por representantes do Harmonium.</content>
+<content contentuid="h1c95414cg5d5cge0a9g3245g109d768402af" version="1">Uma arma perfeitamente proporcionada para mustevals.</content>
+<content contentuid="h04189e49gf2f9gb38fgcae8g6167a9eed597" version="3">Cuprilachs atacam cirurgicamente, seguindo as ordens dos aurumachs sem questionar ou emocionar.</content>
+<content contentuid="h0aa9e328gb8a1g34d8ga58dg70538986bf1e" version="1">Nulos trabalham nas sombras, servindo como assassinos e espiões para o Athar.</content>
+<content contentuid="hf489b8c2g5b0bge6f2g3f19g179b498fbf7f" version="2">Espada Entrópica</content>
+<content contentuid="ha8de7837ga4d7gc117g5575g8dac219499dc" version="2">Lâminas Entrópicas</content>
+<content contentuid="hadedb95eg122eg02d2gc381g7b2c7810157f" version="1">Dardo Entrópico</content>
+<content contentuid="h52da9222g30f5gaffcg64f5g0f6a84c38601" version="1">Essas armas entrópicas imersas em energia necrótica podem transformar os inimigos em cinzas.</content>
+<content contentuid="hde6d1a89g2c19g2ce6g1053ga8d0246a579a" version="1">Essas armas entrópicas imersas em energia necrótica podem transformar os inimigos em cinzas.</content>
+<content contentuid="hf67f607bgfe6ag874dgd6a0gadaf001f711d" version="1">Essas armas entrópicas imersas em energia necrótica podem transformar os inimigos em cinzas.</content>
+<content contentuid="h9e970a59ge7a4gdb07g04f5g0d74ce703e1c" version="5">Charme da Trégua Morta</content>
+<content contentuid="hd9e90659g39b6g07d1ga365g6adb41d0d962" version="2">Charme da Trégua Morta</content>
+<content contentuid="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="2">Charme da Trégua Morta</content>
+<content contentuid="h9c1d41cfg908dgb54bgd45ag1d1827eca7fd" version="4">Este amuleto concede respeito entre os mortos. Durante o combate, mortos-vivos hostis não podem atacar diretamente o lançador deste feitiço. Além disso, você ganha vantagem em testes de Carisma ao interagir com criaturas mortas-vivas. Se você atacar ou usar uma reação ofensiva contra uma criatura morta-viva, este efeito desaparece.</content>
+<content contentuid="hd03eeeb1g0e99g80d2g9246g93cb8215e28f" version="4">Concede-lhe respeito entre os mortos. Durante o combate, mortos-vivos hostis não podem atacar diretamente o lançador deste feitiço. Além disso, você ganha vantagem em testes de Carisma ao interagir com criaturas mortas-vivas. Se você atacar ou usar uma reação ofensiva contra uma criatura morta-viva, este efeito desaparece.</content>
+<content contentuid="h32b321cdg32c0g3845gfcffg54dda677fc07" version="2">Trégua Morta</content>
+<content contentuid="hf7cebf92gccc4ga6fcga716ge79dfd1c81e1" version="2">A criatura é pacificada em direção à fonte deste feitiço.</content>
+<content contentuid="h0100b285gc467gca8cg94d3g89064fbaa365" version="4">Encanto da Incorporeidade</content>
+<content contentuid="hf9ac3656gfaf2g80d4gae2dg594efd79ef17" version="2">Encanto da Incorporeidade</content>
+<content contentuid="h82e5cc2dg1ee4geaaeg6a2cgc51ff337c1a3" version="1">Encanto da Incorporeidade</content>
+<content contentuid="h3375375fgf2f8g4cedg8cb5gfb53fd26ab1c" version="1">Este encanto permite que você assuma uma forma fantasmagórica e incorpórea. Enquanto estiver nesta forma, você terá resistência a danos de concussão, perfurantes e cortantes.</content>
+<content contentuid="hbec8085egb989g2e3fg0fc7gb473c086d489" version="1">Você assume uma forma fantasmagórica e incorpórea. Enquanto estiver nesta forma, você terá resistência a danos de concussão, perfurantes e cortantes.</content>
+<content contentuid="h97840d3ag5570gba65g009eg2cde3bb46990" version="1">Este item desaparece após o uso.</content>
+<content contentuid="hbfbd333bg6698ge929g8e96g3a2364b3a1aa" version="1">Este item desaparece após o uso.</content>
+<content contentuid="h2b8753d0g5a5dg5203g5cf1g87e6646a16b8" version="6">Pessoas que se juntam aos Arautos da Poeira ou provam seu valor para a facção às vezes são recompensadas com um encanto sobrenatural.</content>
+<content contentuid="h90d5382cgac10gce4fgfa62g30a16f8fdec4" version="4">Pessoas que se juntam aos Arautos da Poeira ou provam seu valor para a facção às vezes são recompensadas com um encanto sobrenatural.</content>
+<content contentuid="ha116c558g4f4bg031ega93bg0bd71f7adb5c" version="4">Usar</content>
+<content contentuid="h4d6ca746g8bbdg75bcgbb04g36301dbcf747" version="7">Usar</content>
+<content contentuid="hc5ba049bg1d5eg6404g8a09gbfe881c3e26d" version="2">Fogo devastador</content>
+<content contentuid="h3c22c311g5c4ega574g00c7g3955c940943b" version="2">Fogo devastador</content>
+<content contentuid="h244fa72cg8090g14f2ga028ge59a03bf16c5" version="1">Leva [1] a cada turno.</content>
+<content contentuid="h4b01b315ga76age906ga70fg7336c25b0a65" version="2">Sempre que você causa dano com esta arma, ela inflige Havoc Fire em seu alvo.</content>
+<content contentuid="h9fcdae5eg0e2eg3ff0ge2aegb3383f8a81a6" version="1">Selo Relâmpago</content>
+<content contentuid="hf6cc7530g18e6g0dedg7679g49df7ad6cbcb" version="1">Selo Relâmpago</content>
+<content contentuid="h4f796a42gde7cgc6ccg5bf8ge753df49975d" version="2">Uma vez por combate, sempre que você causar dano com esta arma, inflige um Selo Relâmpago em seu alvo.</content>
+<content contentuid="h7824fb26g0bdbgfd75g245agd3ea9ca52ebb" version="1">Leva [1] a cada turno.</content>
+<content contentuid="hb41684b4g64e0geae3gb8f2g5961893564f2" version="1">Empurrar</content>
+<content contentuid="ha13cd106g9877g8ad7g41e4gcc9c61aa7f74" version="1">Sempre que você causa dano com esta arma, ela pode empurrar seu alvo para trás.</content>
+<content contentuid="h29b950f4gee17g71bdg6948g70a0371c30c8" version="1">Entropia</content>
+<content contentuid="hb874d355ge9e4g02fcg49b8g77d11b2dad19" version="1">Uma criatura morta por esta arma é reduzida a cinzas.</content>
+<content contentuid="hf871407eg4afbgba85gad7ag195a98cf6fc7" version="1">Emissão Entrópica</content>
+<content contentuid="h4d9e33c6g842eg3bf3g444dg0713d909a0ce" version="2">A lâmina emite uma explosão de magia entrópica. Cada criatura na área da magia deve ser bem sucedida em um teste de resistência de Constituição ou receberá [1].</content>
 </contentList>
