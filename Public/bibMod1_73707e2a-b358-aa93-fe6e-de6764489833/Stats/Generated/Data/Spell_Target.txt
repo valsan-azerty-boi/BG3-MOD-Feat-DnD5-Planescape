@@ -503,3 +503,10 @@ data "SpellType" "Target"
 using "Target_EtherealJaunt_Queen"
 data "RequirementConditions" "not HasStatus('Paitm_SEALED')"
 
+new entry "Target_Paitm_SpeakWithDead_Free"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SpeakWithDead"
+data "SpellProperties" "TARGET:ApplyStatus(SPEAK_WITH_DEAD,100,0)"
+data "UseCosts" "ActionPoint:1"
+

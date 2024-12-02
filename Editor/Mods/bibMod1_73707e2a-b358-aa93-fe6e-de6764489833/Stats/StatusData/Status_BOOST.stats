@@ -489,19 +489,6 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="d3aa4777-d73f-4973-b0f0-0973c2ea582a" />
-        <field name="Name" type="NameTableFieldDefinition" value="Paitm_ProtectionUndead" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd03eeeb1g0e99g80d2g9246g93cb8215e28f" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_ProtectionFromEvilAndGood" />
-        <field name="StackId" type="StringTableFieldDefinition" value="PROTECTION_FROM_UNDEAD" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="IF(Tagged('UNDEAD', context.Source)):Disadvantage(AttackTarget);StatusImmunity(SG_Possessed);StatusImmunity(SG_Frightened)" />
-        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
-        <field name="StatusEffect" type="GuidObjectTableFieldDefinition" value="6abba0c1-9fe0-4425-a0cc-58156988e806" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="2b699227-9b79-48cd-b600-e858a030f5f4" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_WeaponNecroticTrident_Buff" />
         <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_EnervatingTrident" />
@@ -692,6 +679,43 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_Entropy_DeathDebuff" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="IF(RemoveCause(StatusRemoveCause.Death)):SwitchDeathType(Disintegrate)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d3aa4777-d73f-4973-b0f0-0973c2ea582a" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_CharmOfTheDeadTruce_Buff" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd03eeeb1g0e99g80d2g9246g93cb8215e28f" version="3" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Necromancy_RecastSpeakWithDead" />
+        <field name="StackId" type="StringTableFieldDefinition" value="PAITM_CHARM_DEADTRUCE" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Paitm_SpeakWithDead_Free)" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
+        <field name="StatusEffect" type="GuidObjectTableFieldDefinition" value="6abba0c1-9fe0-4425-a0cc-58156988e806" />
+        <field name="AuraRadius" type="IntegerTableFieldDefinition" value="18" />
+        <field name="AuraStatuses" type="StringTableFieldDefinition" value="TARGET:IF(Tagged('UNDEAD') and not HasStatus('Paitm_CharmOfTheDeadTruce_Buff')):ApplyStatus(Paitm_UdPacified_Debuff);TARGET:IF(Tagged('HASSWDDIALOG') and FreshCorpse() and not Tagged('BEAST') and not Tagged('UNDEAD') and not Tagged('CORPSE_SPOKEN') and not Tagged('BLOCK_SPEAK_WITH_DEAD') and not Player()):ApplyStatus(SPEAK_WITH_DEAD_INTERESTING)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="84c3bd64-b3ca-4c0e-b274-cf6795ce0265" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_UdPacified_Debuff" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h32b321cdg32c0g3845gfcffg54dda677fc07" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf7cebf92gccc4ga6fcga716ge79dfd1c81e1" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Necromancy_RecastSpeakWithDead" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Purple" enumeration_type_name="FormatStringColor" version="1" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Overlay" enumeration_type_name="MaterialType" version="1" />
+        <field name="MaterialApplyBody" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="MaterialApplyArmor" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="MaterialApplyWeapon" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
+        <field name="MaterialApplyNormalMap" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
+        <field name="StillAnimationPriority" type="EnumerationTableFieldDefinition" value="Dazed" enumeration_type_name="StillAnimPriority" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="PAITM_PACIFIED" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Advantage(AttackTarget);DetectDisturbancesBlock(true);CannotHarmCauseEntity(CannotHarmCharmer);Advantage(SourceDialogue,Charisma)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="BreakConcentration()" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec;SG_Condition" enumeration_type_name="StatusGroupFlags" version="1" />
+        <field name="StatusEffect" type="GuidObjectTableFieldDefinition" value="813d0f8b-a2cd-400f-bf71-91042a7df20c" />
       </fields>
     </stat_object>
   </stat_objects>

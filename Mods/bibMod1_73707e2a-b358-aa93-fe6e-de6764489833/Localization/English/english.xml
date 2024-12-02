@@ -551,12 +551,12 @@
   <content contentuid="h90d5382cgac10gce4fgfa62g30a16f8fdec4" version="2">Charm Incorporeality lore</content>
   <content contentuid="ha116c558g4f4bg031ega93bg0bd71f7adb5c" version="2">Use</content>
   <content contentuid="h4d6ca746g8bbdg75bcgbb04g36301dbcf747" version="6">Use</content>
-  <content contentuid="hd9e90659g39b6g07d1ga365g6adb41d0d962" version="1">Shout_Paitm_CharmDeadTruce</content>
-  <content contentuid="h9c1d41cfg908dgb54bgd45ag1d1827eca7fd" version="1">desc Shout_Paitm_CharmDeadTruce</content>
-  <content contentuid="hf9ac3656gfaf2g80d4gae2dg594efd79ef17" version="1">Shout_Paitm_Paitm_CharmIncorporeality</content>
+  <content contentuid="hd9e90659g39b6g07d1ga365g6adb41d0d962" version="2">Charm of the Dead Truce</content>
+  <content contentuid="h9c1d41cfg908dgb54bgd45ag1d1827eca7fd" version="3">This charm grants you respect among the dead. During combat, hostile undead cannot directly attack the caster of this spell. Additionally, you gain advantage on Charisma checks when interacting with undead creatures. If you deal damage to an undead creature, this effect disappears.</content>
+  <content contentuid="hf9ac3656gfaf2g80d4gae2dg594efd79ef17" version="2">Charm of Incorporeality</content>
   <content contentuid="h3375375fgf2f8g4cedg8cb5gfb53fd26ab1c" version="1">desc Shout_Paitm_Paitm_CharmIncorporeality</content>
-  <content contentuid="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="1">Protection from Undead creatures</content>
-  <content contentuid="hd03eeeb1g0e99g80d2g9246g93cb8215e28f" version="1">The target is protected against undead creatures. These creatures have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against the target, and the target can't be Charmed, Frightened, or Possessed by them.</content>
+  <content contentuid="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="2">Charm of the Dead Truce</content>
+  <content contentuid="hd03eeeb1g0e99g80d2g9246g93cb8215e28f" version="3">Grants you respect among the dead. During combat, hostile undead cannot directly attack the caster of this spell. Additionally, you gain advantage on Charisma checks when interacting with undead creatures. If you deal damage to an undead creature, this effect disappears.</content>
   <content contentuid="hc5ba049bg1d5eg6404g8a09gbfe881c3e26d" version="2">Havoc Fire</content>
   <content contentuid="h244fa72cg8090g14f2ga028ge59a03bf16c5" version="1">Takes [1] each turn.</content>
   <content contentuid="h3c22c311g5c4ega574g00c7g3955c940943b" version="2">Havoc Fire</content>
@@ -571,4 +571,6 @@
   <content contentuid="hb874d355ge9e4g02fcg49b8g77d11b2dad19" version="1">A creature killed by this weapon is reduced to ash.</content>
   <content contentuid="hf871407eg4afbgba85gad7ag195a98cf6fc7" version="1">Entropic Emission</content>
   <content contentuid="h4d9e33c6g842eg3bf3g444dg0713d909a0ce" version="2">The blade emits a burst of entropic magic. Each creature in the spell area must succeed on a Constitution saving throw or take [1].</content>
+  <content contentuid="h32b321cdg32c0g3845gfcffg54dda677fc07" version="2">Dead Truce Pacification</content>
+  <content contentuid="hf7cebf92gccc4ga6fcga716ge79dfd1c81e1" version="2">The creature is pacified towards the source of this spell.</content>
 </contentList>

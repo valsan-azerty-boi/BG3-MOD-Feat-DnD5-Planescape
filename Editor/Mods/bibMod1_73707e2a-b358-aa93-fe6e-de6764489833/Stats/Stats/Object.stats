@@ -413,7 +413,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="26e97b8d-386d-4ca8-8cb9-fbcbd9fdddba" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_CharmIncorporeality_Template" />
-        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="d6378d27-882e-4b51-aee6-31e999ea1d81" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="2" />
         <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
@@ -449,15 +449,16 @@
         <field name="UUID" type="IdTableFieldDefinition" value="e1c27f71-dd23-4e39-ad91-9a7aac4a12f7" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_CharmIncorporeality" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="26e97b8d-386d-4ca8-8cb9-fbcbd9fdddba" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="11156adb-9724-4c21-863d-a6fa64b5d1b3" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="6fb5759d-c455-4054-b2b5-bed56341fc4a" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_CharmDeadTruce_Template" />
-        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="d6378d27-882e-4b51-aee6-31e999ea1d81" />
-        <field name="ValueScale" type="FloatTableFieldDefinition" value="2" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="3" />
         <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
         <field name="Value" type="IntegerTableFieldDefinition" value="300" />
         <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
@@ -491,13 +492,14 @@
         <field name="UUID" type="IdTableFieldDefinition" value="97dfa802-b5ed-4886-9541-9acd6d9c3fba" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_CharmDeadTruce" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="6fb5759d-c455-4054-b2b5-bed56341fc4a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="e96c0482-eaf2-4169-88c2-e2dc3546ef19" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="6ed54de4-d926-4e09-94c8-52e5deaab7f3" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Paitm_HavocFlask_Template" />
-        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="5" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="d6378d27-882e-4b51-aee6-31e999ea1d81" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
         <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />

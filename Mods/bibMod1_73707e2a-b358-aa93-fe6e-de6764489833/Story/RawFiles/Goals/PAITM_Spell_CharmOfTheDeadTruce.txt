@@ -1,0 +1,20 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+//REGION Paitm Charm Dead Truce
+
+IF
+AttackedBy(_UndeadDefender, _Attacker, _, _, _, _, _)
+AND
+HasActiveStatus(_Attacker, "Paitm_CharmOfTheDeadTruce_Buff", 1)
+AND
+IsTagged(_UndeadDefender, (TAG)UNDEAD_33c625aa-6982-4c27-904f-e47029a9b140, 1)
+THEN
+RemoveStatus(_Attacker, "Paitm_CharmOfTheDeadTruce_Buff");
+
+//END_REGION
+EXITSECTION
+
+ENDEXITSECTION
