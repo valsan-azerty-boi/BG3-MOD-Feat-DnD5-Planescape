@@ -513,68 +513,68 @@
 <content contentuid="hf2bd0455gdf88g41f0g99c2g21683bb3da6d" version="2">Usar este contrato permite que você contrate a criatura vinculada a ele.</content>
 <content contentuid="hbb5bea25g6704gc77fg568agc308cbd55f8d" version="1">Selado</content>
 <content contentuid="hc4877bc9gf86ag4709ga9d8g4d9830dc267a" version="2">Impede o lançamento de feitiços de teletransporte ou portal.</content>
-<content contentuid="hb962d685g4018g8a8dge9d2gc06274e5ed66" version="2">Shining Blade</content>
-<content contentuid="h98c8764ag7b21ga56egbdd3gf996c310b6b4" version="2">A magical sword usually associated with good used by the archons of Mount Celestia. It is very rare to come across a mortal holding such a weapon.</content>
-<content contentuid="h02089bcegb7ebg068aga103g1426f95f699c" version="3">Barbed Javelin</content>
-<content contentuid="h2c99692cg38d4g92b1g9f01g65f67b4c5d94" version="3">A javelin typically used by bariaurs from Ysgard.</content>
-<content contentuid="h48c10e09gaf5dga5eeg8c04g95ecef98393d" version="1">Obstruction</content>
-<content contentuid="h3dcf0ea8ge550g9d38g7eecg157bbd582e1e" version="1">Obstruction</content>
-<content contentuid="hc6658301g5a8fg2016gbc73g09279e9cb0b6" version="2">When hit by a Barbed Javelin, the target's movement speed is reduced.</content>
-<content contentuid="ha4ea0696gece4g37f1g31eeg3f39bdcb7d28" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; is reduced by [1].</content>
-<content contentuid="hd794ab6bga5e2g6b6eg4910gc3275610a782" version="2">Enervating Trident</content>
-<content contentuid="h2e945529g8e31g003dgb209g1ca0b3413b7a" version="2">A despicable trident from Carceri.</content>
-<content contentuid="h5dbfde50g1c6eg14d0g0faeg791cbd77b2e7" version="2">Havok Flask</content>
-<content contentuid="h3d32fda7ge9cbge5c5g85a2g30d9bf01b77a" version="1">The Fire Starters, wielding these flasks, burn away oppressive systems through chaos and flame.</content>
-<content contentuid="h3fc36651g15cfg8fd0g57ffgc3a6c7996af7" version="6">Havok Hammer</content>
-<content contentuid="h65e8e328gff3dg6ca0gaaedged047777e3f9" version="2">The Fire Starters, wielding these hammers, burn away oppressive systems through chaos and flame.</content>
-<content contentuid="h1fa2b04cg935fg9a8eg19b6g48008d4836ed" version="6">Bone Blade</content>
-<content contentuid="h3322594fg78d3gb2acg833bgc512f987123c" version="3">Electrified Mancatcher</content>
-<content contentuid="ha5b08061gc445ga218g4ac8gfed895be15b3" version="6">Force Dagger</content>
-<content contentuid="h9b76d8fegc962g6c90g6e84ga91b7c6150df" version="3">Harmonium Blade</content>
-<content contentuid="hf56ee662g7bf2gd275g9246g05095158b407" version="5">Since kolyaruts have 4 arms, they very often use 4 of these weapons at the same time.</content>
-<content contentuid="h0555e713g84c6g6e93g449dge72ba5aa5067" version="5">Burnished Blade</content>
-<content contentuid="h35268241g93ccg1e06g4d0cg1850c2720341" version="2">Unerring Blade</content>
-<content contentuid="h5cb30b60g66c8g7b0cg14fag9fa644b334b5" version="1">A weapon used by Harmonium patrollers.</content>
-<content contentuid="hdd0dcadcg37ecg48a1g381eg8624c7a83c94" version="1">A weapon used for repression by representatives of the Harmonium.</content>
-<content contentuid="h1c95414cg5d5cge0a9g3245g109d768402af" version="1">A perfectly proportioned weapon for mustevals.</content>
-<content contentuid="h04189e49gf2f9gb38fgcae8g6167a9eed597" version="3">Cuprilachs strike surgically, following the orders of aurumachs without question or emotion.</content>
-<content contentuid="h0aa9e328gb8a1g34d8ga58dg70538986bf1e" version="1">Nulls work in the shadows, serving as assassins and spies for the Athar.</content>
-<content contentuid="hf489b8c2g5b0bge6f2g3f19g179b498fbf7f" version="2">Entropic Greatsword</content>
-<content contentuid="ha8de7837ga4d7gc117g5575g8dac219499dc" version="2">Entropic Blade</content>
-<content contentuid="hadedb95eg122eg02d2gc381g7b2c7810157f" version="1">Entropic Javelin</content>
-<content contentuid="h52da9222g30f5gaffcg64f5g0f6a84c38601" version="1">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
-<content contentuid="hde6d1a89g2c19g2ce6g1053ga8d0246a579a" version="1">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
-<content contentuid="hf67f607bgfe6ag874dgd6a0gadaf001f711d" version="1">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
-<content contentuid="h9e970a59ge7a4gdb07g04f5g0d74ce703e1c" version="5">Charm of the Dead Truce</content>
-<content contentuid="hd9e90659g39b6g07d1ga365g6adb41d0d962" version="2">Charm of the Dead Truce</content>
-<content contentuid="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="2">Charm of the Dead Truce</content>
-<content contentuid="h9c1d41cfg908dgb54bgd45ag1d1827eca7fd" version="4">This charm grants you respect among the dead. During combat, hostile undead cannot directly attack the caster of this spell. Additionally, you gain advantage on Charisma checks when interacting with undead creatures. If you attack or use an offensive reaction against an undead creature, this effect disappears.</content>
-<content contentuid="hd03eeeb1g0e99g80d2g9246g93cb8215e28f" version="4">Grants you respect among the dead. During combat, hostile undead cannot directly attack the caster of this spell. Additionally, you gain advantage on Charisma checks when interacting with undead creatures. If you attack or use an offensive reaction against an undead creature, this effect disappears.</content>
-<content contentuid="h32b321cdg32c0g3845gfcffg54dda677fc07" version="2">Dead Truce Pacification</content>
-<content contentuid="hf7cebf92gccc4ga6fcga716ge79dfd1c81e1" version="2">The creature is pacified towards the source of this spell.</content>
-<content contentuid="h0100b285gc467gca8cg94d3g89064fbaa365" version="4">Charm of Incorporeality</content>
-<content contentuid="hf9ac3656gfaf2g80d4gae2dg594efd79ef17" version="2">Charm of Incorporeality</content>
-<content contentuid="h82e5cc2dg1ee4geaaeg6a2cgc51ff337c1a3" version="1">Charm of Incorporeality</content>
-<content contentuid="h3375375fgf2f8g4cedg8cb5gfb53fd26ab1c" version="1">This charm allows you to assume a ghostly, incorporeal form. While in this form, you have resistance to Bludgeoning, Piercing, and Slashing damage.</content>
-<content contentuid="hbec8085egb989g2e3fg0fc7gb473c086d489" version="1">You assume a ghostly, incorporeal form. While in this form, you have resistance to Bludgeoning, Piercing, and Slashing damage.</content>
-<content contentuid="h97840d3ag5570gba65g009eg2cde3bb46990" version="1">This item disappears after use.</content>
-<content contentuid="hbfbd333bg6698ge929g8e96g3a2364b3a1aa" version="1">This item disappears after use.</content>
-<content contentuid="h2b8753d0g5a5dg5203g5cf1g87e6646a16b8" version="6">People who join the Heralds of Dust or prove themselves to the faction are sometimes rewarded with a supernatural charm.</content>
-<content contentuid="h90d5382cgac10gce4fgfa62g30a16f8fdec4" version="4">People who join the Heralds of Dust or prove themselves to the faction are sometimes rewarded with a supernatural charm.</content>
+<content contentuid="hb962d685g4018g8a8dge9d2gc06274e5ed66" version="2">Lâmina Brilhante</content>
+<content contentuid="h98c8764ag7b21ga56egbdd3gf996c310b6b4" version="2">Uma espada mágica geralmente associada ao bem, usada pelos arcontes do Monte Celestia. É muito raro encontrar um mortal segurando tal arma.</content>
+<content contentuid="h02089bcegb7ebg068aga103g1426f95f699c" version="3">Dardo Farpado</content>
+<content contentuid="h2c99692cg38d4g92b1g9f01g65f67b4c5d94" version="3">Uma lança normalmente usada pelos bariauros de Ysgard.</content>
+<content contentuid="h48c10e09gaf5dga5eeg8c04g95ecef98393d" version="1">Obstrução</content>
+<content contentuid="h3dcf0ea8ge550g9d38g7eecg157bbd582e1e" version="1">Obstrução</content>
+<content contentuid="hc6658301g5a8fg2016gbc73g09279e9cb0b6" version="2">Quando atingido por um Javelin Farpado, a velocidade de movimento do alvo é reduzida.</content>
+<content contentuid="ha4ea0696gece4g37f1g31eeg3f39bdcb7d28" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Velocidade de movimento&lt;/LSTag&gt; é reduzida em [1].</content>
+<content contentuid="hd794ab6bga5e2g6b6eg4910gc3275610a782" version="2">Tridente Enervante</content>
+<content contentuid="h2e945529g8e31g003dgb209g1ca0b3413b7a" version="2">Um tridente desprezível de Carceri.</content>
+<content contentuid="h5dbfde50g1c6eg14d0g0faeg791cbd77b2e7" version="2">Frasco de destruição</content>
+<content contentuid="h3d32fda7ge9cbge5c5g85a2g30d9bf01b77a" version="1">Os Fire Starters, empunhando esses frascos, queimam sistemas opressivos através do caos e das chamas.</content>
+<content contentuid="h3fc36651g15cfg8fd0g57ffgc3a6c7996af7" version="6">Martelo de destruição</content>
+<content contentuid="h65e8e328gff3dg6ca0gaaedged047777e3f9" version="2">Os Fire Starters, empunhando esses martelos, queimam sistemas opressivos através do caos e das chamas.</content>
+<content contentuid="h1fa2b04cg935fg9a8eg19b6g48008d4836ed" version="6">Lâmina de Osso</content>
+<content contentuid="h3322594fg78d3gb2acg833bgc512f987123c" version="3">Caçador de Manchas Eletrificado</content>
+<content contentuid="ha5b08061gc445ga218g4ac8gfed895be15b3" version="6">Adaga de Força</content>
+<content contentuid="h9b76d8fegc962g6c90g6e84ga91b7c6150df" version="3">Lâminas de Harmônio</content>
+<content contentuid="hf56ee662g7bf2gd275g9246g05095158b407" version="5">Como os kolyaruts têm 4 braços, eles costumam usar 4 dessas armas ao mesmo tempo.</content>
+<content contentuid="h0555e713g84c6g6e93g449dge72ba5aa5067" version="5">Lâmina Polida</content>
+<content contentuid="h35268241g93ccg1e06g4d0cg1850c2720341" version="2">Folhas infalíveis</content>
+<content contentuid="h5cb30b60g66c8g7b0cg14fag9fa644b334b5" version="1">Uma arma usada pelos patrulheiros Harmonium.</content>
+<content contentuid="hdd0dcadcg37ecg48a1g381eg8624c7a83c94" version="1">Uma arma usada para repressão por representantes do Harmonium.</content>
+<content contentuid="h1c95414cg5d5cge0a9g3245g109d768402af" version="1">Uma arma perfeitamente proporcionada para mustevals.</content>
+<content contentuid="h04189e49gf2f9gb38fgcae8g6167a9eed597" version="3">Cuprilachs atacam cirurgicamente, seguindo as ordens dos aurumachs sem questionar ou emocionar.</content>
+<content contentuid="h0aa9e328gb8a1g34d8ga58dg70538986bf1e" version="1">Nulos trabalham nas sombras, servindo como assassinos e espiões para o Athar.</content>
+<content contentuid="hf489b8c2g5b0bge6f2g3f19g179b498fbf7f" version="2">Espada Entrópica</content>
+<content contentuid="ha8de7837ga4d7gc117g5575g8dac219499dc" version="2">Lâminas Entrópicas</content>
+<content contentuid="hadedb95eg122eg02d2gc381g7b2c7810157f" version="1">Dardo Entrópico</content>
+<content contentuid="h52da9222g30f5gaffcg64f5g0f6a84c38601" version="1">Essas armas entrópicas imersas em energia necrótica podem transformar os inimigos em cinzas.</content>
+<content contentuid="hde6d1a89g2c19g2ce6g1053ga8d0246a579a" version="1">Essas armas entrópicas imersas em energia necrótica podem transformar os inimigos em cinzas.</content>
+<content contentuid="hf67f607bgfe6ag874dgd6a0gadaf001f711d" version="1">Essas armas entrópicas imersas em energia necrótica podem transformar os inimigos em cinzas.</content>
+<content contentuid="h9e970a59ge7a4gdb07g04f5g0d74ce703e1c" version="5">Charme da Trégua Morta</content>
+<content contentuid="hd9e90659g39b6g07d1ga365g6adb41d0d962" version="2">Charme da Trégua Morta</content>
+<content contentuid="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="2">Charme da Trégua Morta</content>
+<content contentuid="h9c1d41cfg908dgb54bgd45ag1d1827eca7fd" version="4">Este amuleto concede respeito entre os mortos. Durante o combate, mortos-vivos hostis não podem atacar diretamente o lançador deste feitiço. Além disso, você ganha vantagem em testes de Carisma ao interagir com criaturas mortas-vivas. Se você atacar ou usar uma reação ofensiva contra uma criatura morta-viva, este efeito desaparece.</content>
+<content contentuid="hd03eeeb1g0e99g80d2g9246g93cb8215e28f" version="4">Concede-lhe respeito entre os mortos. Durante o combate, mortos-vivos hostis não podem atacar diretamente o lançador deste feitiço. Além disso, você ganha vantagem em testes de Carisma ao interagir com criaturas mortas-vivas. Se você atacar ou usar uma reação ofensiva contra uma criatura morta-viva, este efeito desaparece.</content>
+<content contentuid="h32b321cdg32c0g3845gfcffg54dda677fc07" version="2">Trégua Morta</content>
+<content contentuid="hf7cebf92gccc4ga6fcga716ge79dfd1c81e1" version="2">A criatura é pacificada em direção à fonte deste feitiço.</content>
+<content contentuid="h0100b285gc467gca8cg94d3g89064fbaa365" version="4">Encanto da Incorporeidade</content>
+<content contentuid="hf9ac3656gfaf2g80d4gae2dg594efd79ef17" version="2">Encanto da Incorporeidade</content>
+<content contentuid="h82e5cc2dg1ee4geaaeg6a2cgc51ff337c1a3" version="1">Encanto da Incorporeidade</content>
+<content contentuid="h3375375fgf2f8g4cedg8cb5gfb53fd26ab1c" version="1">Este encanto permite que você assuma uma forma fantasmagórica e incorpórea. Enquanto estiver nesta forma, você terá resistência a danos de concussão, perfurantes e cortantes.</content>
+<content contentuid="hbec8085egb989g2e3fg0fc7gb473c086d489" version="1">Você assume uma forma fantasmagórica e incorpórea. Enquanto estiver nesta forma, você terá resistência a danos de concussão, perfurantes e cortantes.</content>
+<content contentuid="h97840d3ag5570gba65g009eg2cde3bb46990" version="1">Este item desaparece após o uso.</content>
+<content contentuid="hbfbd333bg6698ge929g8e96g3a2364b3a1aa" version="1">Este item desaparece após o uso.</content>
+<content contentuid="h2b8753d0g5a5dg5203g5cf1g87e6646a16b8" version="6">Pessoas que se juntam aos Arautos da Poeira ou provam seu valor para a facção às vezes são recompensadas com um encanto sobrenatural.</content>
+<content contentuid="h90d5382cgac10gce4fgfa62g30a16f8fdec4" version="4">Pessoas que se juntam aos Arautos da Poeira ou provam seu valor para a facção às vezes são recompensadas com um encanto sobrenatural.</content>
 <content contentuid="ha116c558g4f4bg031ega93bg0bd71f7adb5c" version="4">Usar</content>
 <content contentuid="h4d6ca746g8bbdg75bcgbb04g36301dbcf747" version="7">Usar</content>
-<content contentuid="hc5ba049bg1d5eg6404g8a09gbfe881c3e26d" version="2">Havoc Fire</content>
-<content contentuid="h3c22c311g5c4ega574g00c7g3955c940943b" version="2">Havoc Fire</content>
-<content contentuid="h244fa72cg8090g14f2ga028ge59a03bf16c5" version="1">Takes [1] each turn.</content>
-<content contentuid="h4b01b315ga76age906ga70fg7336c25b0a65" version="2">Whenever you deal damage with this weapon, inflicts Havoc Fire to your target.</content>
-<content contentuid="h9fcdae5eg0e2eg3ff0ge2aegb3383f8a81a6" version="1">Lightning Seal</content>
-<content contentuid="hf6cc7530g18e6g0dedg7679g49df7ad6cbcb" version="1">Lighting Seal</content>
-<content contentuid="h4f796a42gde7cgc6ccg5bf8ge753df49975d" version="2">Once per combat, whenever you deal damage with this weapon, inflicts a Lightning Seal to your target.</content>
-<content contentuid="h7824fb26g0bdbgfd75g245agd3ea9ca52ebb" version="1">Takes [1] each turn.</content>
-<content contentuid="hb41684b4g64e0geae3gb8f2g5961893564f2" version="1">Push</content>
-<content contentuid="ha13cd106g9877g8ad7g41e4gcc9c61aa7f74" version="1">Whenever you deal damage with this weapon, it can push your target backwards.</content>
-<content contentuid="h29b950f4gee17g71bdg6948g70a0371c30c8" version="1">Entropy</content>
-<content contentuid="hb874d355ge9e4g02fcg49b8g77d11b2dad19" version="1">A creature killed by this weapon is reduced to ash.</content>
-<content contentuid="hf871407eg4afbgba85gad7ag195a98cf6fc7" version="1">Entropic Emission</content>
-<content contentuid="h4d9e33c6g842eg3bf3g444dg0713d909a0ce" version="2">The blade emits a burst of entropic magic. Each creature in the spell area must succeed on a Constitution saving throw or take [1].</content>
+<content contentuid="hc5ba049bg1d5eg6404g8a09gbfe881c3e26d" version="2">Fogo devastador</content>
+<content contentuid="h3c22c311g5c4ega574g00c7g3955c940943b" version="2">Fogo devastador</content>
+<content contentuid="h244fa72cg8090g14f2ga028ge59a03bf16c5" version="1">Leva [1] a cada turno.</content>
+<content contentuid="h4b01b315ga76age906ga70fg7336c25b0a65" version="2">Sempre que você causa dano com esta arma, ela inflige Havoc Fire em seu alvo.</content>
+<content contentuid="h9fcdae5eg0e2eg3ff0ge2aegb3383f8a81a6" version="1">Selo Relâmpago</content>
+<content contentuid="hf6cc7530g18e6g0dedg7679g49df7ad6cbcb" version="1">Selo Relâmpago</content>
+<content contentuid="h4f796a42gde7cgc6ccg5bf8ge753df49975d" version="2">Uma vez por combate, sempre que você causar dano com esta arma, inflige um Selo Relâmpago em seu alvo.</content>
+<content contentuid="h7824fb26g0bdbgfd75g245agd3ea9ca52ebb" version="1">Leva [1] a cada turno.</content>
+<content contentuid="hb41684b4g64e0geae3gb8f2g5961893564f2" version="1">Empurrar</content>
+<content contentuid="ha13cd106g9877g8ad7g41e4gcc9c61aa7f74" version="1">Sempre que você causa dano com esta arma, ela pode empurrar seu alvo para trás.</content>
+<content contentuid="h29b950f4gee17g71bdg6948g70a0371c30c8" version="1">Entropia</content>
+<content contentuid="hb874d355ge9e4g02fcg49b8g77d11b2dad19" version="1">Uma criatura morta por esta arma é reduzida a cinzas.</content>
+<content contentuid="hf871407eg4afbgba85gad7ag195a98cf6fc7" version="1">Emissão Entrópica</content>
+<content contentuid="h4d9e33c6g842eg3bf3g444dg0713d909a0ce" version="2">A lâmina emite uma explosão de magia entrópica. Cada criatura na área da magia deve ser bem sucedida em um teste de resistência de Constituição ou receberá [1].</content>
 </contentList>

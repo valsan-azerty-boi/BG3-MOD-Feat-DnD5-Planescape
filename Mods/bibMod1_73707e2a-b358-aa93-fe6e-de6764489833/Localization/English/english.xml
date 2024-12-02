@@ -523,9 +523,9 @@
   <content contentuid="ha4ea0696gece4g37f1g31eeg3f39bdcb7d28" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; is reduced by [1].</content>
   <content contentuid="hd794ab6bga5e2g6b6eg4910gc3275610a782" version="7">Enervating Trident</content>
   <content contentuid="h2e945529g8e31g003dgb209g1ca0b3413b7a" version="7">A despicable trident from Carceri.</content>
-  <content contentuid="h5dbfde50g1c6eg14d0g0faeg791cbd77b2e7" version="5">Havok Flask</content>
+  <content contentuid="h5dbfde50g1c6eg14d0g0faeg791cbd77b2e7" version="5">Havoc Flask</content>
   <content contentuid="h3d32fda7ge9cbge5c5g85a2g30d9bf01b77a" version="4">The Fire Starters, wielding these flasks, burn away oppressive systems through chaos and flame.</content>
-  <content contentuid="h3fc36651g15cfg8fd0g57ffgc3a6c7996af7" version="8">Havok Hammer</content>
+  <content contentuid="h3fc36651g15cfg8fd0g57ffgc3a6c7996af7" version="8">Havoc Hammer</content>
   <content contentuid="h65e8e328gff3dg6ca0gaaedged047777e3f9" version="4">The Fire Starters, wielding these hammers, burn away oppressive systems through chaos and flame.</content>
   <content contentuid="h1fa2b04cg935fg9a8eg19b6g48008d4836ed" version="10">Bone Blade</content>
   <content contentuid="h3322594fg78d3gb2acg833bgc512f987123c" version="5">Electrified Mancatcher</content>
@@ -568,7 +568,7 @@
   <content contentuid="h244fa72cg8090g14f2ga028ge59a03bf16c5" version="1">Takes [1] each turn.</content>
   <content contentuid="h4b01b315ga76age906ga70fg7336c25b0a65" version="2">Whenever you deal damage with this weapon, inflicts Havoc Fire to your target.</content>
   <content contentuid="h9fcdae5eg0e2eg3ff0ge2aegb3383f8a81a6" version="1">Lightning Seal</content>
-  <content contentuid="hf6cc7530g18e6g0dedg7679g49df7ad6cbcb" version="1">Lighting Seal</content>
+  <content contentuid="hf6cc7530g18e6g0dedg7679g49df7ad6cbcb" version="1">Lightning Seal</content>
   <content contentuid="h4f796a42gde7cgc6ccg5bf8ge753df49975d" version="2">Once per combat, whenever you deal damage with this weapon, inflicts a Lightning Seal to your target.</content>
   <content contentuid="h7824fb26g0bdbgfd75g245agd3ea9ca52ebb" version="1">Takes [1] each turn.</content>
   <content contentuid="hb41684b4g64e0geae3gb8f2g5961893564f2" version="1">Push</content>
