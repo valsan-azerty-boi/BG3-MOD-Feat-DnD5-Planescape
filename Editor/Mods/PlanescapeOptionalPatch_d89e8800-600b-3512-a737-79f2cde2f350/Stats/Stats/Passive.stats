@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3e76b74c-a5ae-4268-944a-aa9c31e2185e">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d5577c4a-f6e2-46d4-b0b3-492c44a24fd6" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_AgentOfOrder" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="281a7fbf-b4da-4f89-8bae-0fa47e95a5f5" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_StasisStrike);ActionResource(PaitmInterruptsPoint,1,0);ActionResource(PaitmInterruptsPointRest,2,0);IF(CharacterLevelGreaterThan(4)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(8)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(12)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(16)):ActionResource(PaitmInterruptsPointRest,1,0)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2d06871c-c7f1-45ac-9481-4de4f3836014" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_BalefulScion" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6fff7141-f452-47d2-b609-205e976001da" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_GraspOfAvarice);ActionResource(PaitmInterruptsPoint,1,0);ActionResource(PaitmInterruptsPointRest,2,0);IF(CharacterLevelGreaterThan(4)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(8)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(12)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(16)):ActionResource(PaitmInterruptsPointRest,1,0)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c3d1309f-9880-4666-9dab-21b433321057" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_RighteousHeritor" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="81e736cf-ad36-4b9a-bec8-8535bb1e1093" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_SoothePain);ActionResource(PaitmInterruptsPoint,1,0);ActionResource(PaitmInterruptsPointRest,2,0);IF(CharacterLevelGreaterThan(4)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(8)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(12)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(16)):ActionResource(PaitmInterruptsPointRest,1,0)" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

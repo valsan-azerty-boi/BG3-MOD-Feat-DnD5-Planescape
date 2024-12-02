@@ -1,0 +1,38 @@
+new entry "Target_Paitm_GateSeal"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Paitm_GateSeal"
+
+new entry "Target_Paitm_GateSeal_5"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Paitm_GateSeal_5"
+
+new entry "Target_Paitm_GateSeal_6"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Paitm_GateSeal_6"
+data "SpellProperties" "ApplyStatus(Paitm_SEALED, 100, -1);GROUND:Summon(e8a8b487-3ac3-4766-8509-a9c6e9b7ec3c,0,,,,,)"
+data "TooltipStatusApply" "ApplyStatus(Paitm_SEALED,100,-1)"
+
+new entry "Target_Paitm_GateSeal_7"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Paitm_GateSeal_7"
+data "SpellProperties" "ApplyStatus(Paitm_SEALED, 100, -1);GROUND:Summon(e8a8b487-3ac3-4766-8509-a9c6e9b7ec3c,0,,,,,)"
+data "TooltipStatusApply" "ApplyStatus(Paitm_SEALED,100,-1)"
+
+new entry "Target_Paitm_GateSeal_8"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Paitm_GateSeal_8"
+data "SpellProperties" "ApplyStatus(Paitm_SEALED, 100, -1);GROUND:Summon(e8a8b487-3ac3-4766-8509-a9c6e9b7ec3c,0,,,,,)"
+data "TooltipStatusApply" "ApplyStatus(Paitm_SEALED,100,-1)"
+
+new entry "Target_Paitm_GateSeal_9"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Paitm_GateSeal_9"
+data "SpellProperties" "ApplyStatus(Paitm_SEALED, 100, -1);GROUND:Summon(e8a8b487-3ac3-4766-8509-a9c6e9b7ec3c,0,,,,,)"
+data "TooltipStatusApply" "ApplyStatus(Paitm_SEALED,100,-1)"
+

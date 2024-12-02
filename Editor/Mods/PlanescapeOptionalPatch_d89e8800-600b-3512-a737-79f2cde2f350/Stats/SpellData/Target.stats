@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e988a674-28fe-49d2-a6ce-c5c1e0141f4c">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="748a6271-ea79-48be-926f-864974174ef1" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_GateSeal" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c86b6694-8f94-4b02-9b18-3c69c94de8f8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7a65e2b8-9059-4064-9355-aed180cbb99c" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_GateSeal_5" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="25565067-f2de-421f-b8c0-04b1c3aea9ed" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="957c3408-00c1-431c-8f87-101df1486c2d" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_GateSeal_6" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="541548c8-1a4b-4da2-8e34-29bb24846e1b" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_SEALED, 100, -1);GROUND:Summon(e8a8b487-3ac3-4766-8509-a9c6e9b7ec3c,0,,,,,)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_SEALED,100,-1)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f58de5a1-98d8-40e6-abe6-b3f5d917c91f" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_GateSeal_7" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7c710-b2e9-4168-9535-bd9983e05350" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_SEALED, 100, -1);GROUND:Summon(e8a8b487-3ac3-4766-8509-a9c6e9b7ec3c,0,,,,,)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_SEALED,100,-1)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="61e30096-067f-47e8-b8a2-558751190b83" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_GateSeal_8" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="af9b264a-734a-4218-95ac-43b1c2346c89" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_SEALED, 100, -1);GROUND:Summon(e8a8b487-3ac3-4766-8509-a9c6e9b7ec3c,0,,,,,)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_SEALED,100,-1)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e1073cc1-39d0-4d51-830f-c8cb2dc25fa0" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_GateSeal_9" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7567d5f0-2c4d-4ffb-84c6-badfaff2fa3d" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_SEALED, 100, -1);GROUND:Summon(e8a8b487-3ac3-4766-8509-a9c6e9b7ec3c,0,,,,,)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_SEALED,100,-1)" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="9fd4ac7a-fad7-424f-83df-0893eae93c38">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="04766c98-300c-465b-8932-3e852225ef8d" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WarpSense" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="70fc8b54-586f-4483-b7d1-7f3c8aadaef0" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,60)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,60)" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell;IsConcentration" enumeration_type_name="SpellFlagList" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="364ab6ec-5c6e-4b76-8351-a7bbecf1e1a7" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WarpSense_3" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c4f7020a-d9eb-4ec7-8a43-610cc60ccb89" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,60)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,60)" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell;IsConcentration" enumeration_type_name="SpellFlagList" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6f0a9afb-8434-4bf6-8445-4488ea069fb8" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WarpSense_4" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="efa9677b-4a2a-4269-b7e9-e2a451824c25" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,60)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,60)" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell;IsConcentration" enumeration_type_name="SpellFlagList" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7f406e3f-27a1-4974-a85d-884c83921c37" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WarpSense_5" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1cd14fc5-5a14-4fcd-8107-6e5fad685114" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,60)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,60)" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell;IsConcentration" enumeration_type_name="SpellFlagList" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e367cede-84c2-4696-8811-6abd68b0b620" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WarpSense_6" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ab268662-51de-41d1-a9eb-476f8554dd1e" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,60)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,60)" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell;IsConcentration" enumeration_type_name="SpellFlagList" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fd399b96-3083-4070-a849-4a6c9036b2ef" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WarpSense_7" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="63d1e918-5c59-4e76-bab3-a0113a3f5302" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,60)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,60)" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell;IsConcentration" enumeration_type_name="SpellFlagList" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4661222f-277e-437a-917e-5e961bf01fd0" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WarpSense_8" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="3119b951-bfd0-4fb9-936b-a935d338a4dd" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,60)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,60)" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell;IsConcentration" enumeration_type_name="SpellFlagList" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="eded06da-38f7-4364-8204-4af949776e2b" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_WarpSense_9" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="deafbc79-6087-469a-9701-53a930522db7" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,60)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,60)" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell;IsConcentration" enumeration_type_name="SpellFlagList" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

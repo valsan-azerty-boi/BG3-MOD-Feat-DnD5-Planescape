@@ -1,0 +1,15 @@
+new entry "Paitm_AgentOfOrder"
+type "PassiveData"
+using "Paitm_AgentOfOrder"
+data "Boosts" "UnlockInterrupt(Interrupt_Paitm_StasisStrike);ActionResource(PaitmInterruptsPoint,1,0);ActionResource(PaitmInterruptsPointRest,2,0);IF(CharacterLevelGreaterThan(4)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(8)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(12)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(16)):ActionResource(PaitmInterruptsPointRest,1,0)"
+
+new entry "Paitm_BalefulScion"
+type "PassiveData"
+using "Paitm_BalefulScion"
+data "Boosts" "UnlockInterrupt(Interrupt_Paitm_GraspOfAvarice);ActionResource(PaitmInterruptsPoint,1,0);ActionResource(PaitmInterruptsPointRest,2,0);IF(CharacterLevelGreaterThan(4)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(8)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(12)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(16)):ActionResource(PaitmInterruptsPointRest,1,0)"
+
+new entry "Paitm_RighteousHeritor"
+type "PassiveData"
+using "Paitm_RighteousHeritor"
+data "Boosts" "UnlockInterrupt(Interrupt_Paitm_SoothePain);ActionResource(PaitmInterruptsPoint,1,0);ActionResource(PaitmInterruptsPointRest,2,0);IF(CharacterLevelGreaterThan(4)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(8)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(12)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(16)):ActionResource(PaitmInterruptsPointRest,1,0)"
+

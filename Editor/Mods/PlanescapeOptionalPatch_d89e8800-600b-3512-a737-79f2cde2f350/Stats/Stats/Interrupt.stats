@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="c496009d-a970-44a3-b882-7ed3364dc271">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="90928c26-3db6-44d9-ad76-28b630ba111e" />
+        <field name="Name" type="NameTableFieldDefinition" value="Interrupt_Paitm_GraspOfAvarice" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="074a67d0-1691-4426-839c-10d99e3032a7" />
+        <field name="Cost" type="StringTableFieldDefinition" value="PaitmInterruptsPoint:1;PaitmInterruptsPointRest:1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bc2a821e-803e-42af-a506-540d09b50909" />
+        <field name="Name" type="NameTableFieldDefinition" value="Interrupt_Paitm_StasisStrike" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2a558143-74fb-40d6-a61c-8636d6012c99" />
+        <field name="Cost" type="StringTableFieldDefinition" value="PaitmInterruptsPoint:1;PaitmInterruptsPointRest:1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e1423e25-3caf-435b-959b-c104d97b888a" />
+        <field name="Name" type="NameTableFieldDefinition" value="Interrupt_Paitm_SoothePain" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="3140250c-f88f-4d47-ad24-698d01486377" />
+        <field name="Cost" type="StringTableFieldDefinition" value="PaitmInterruptsPoint:1;PaitmInterruptsPointRest:1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

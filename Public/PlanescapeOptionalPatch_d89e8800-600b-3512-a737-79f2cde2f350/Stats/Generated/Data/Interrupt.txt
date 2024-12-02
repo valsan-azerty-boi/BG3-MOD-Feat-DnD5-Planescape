@@ -1,0 +1,15 @@
+new entry "Interrupt_Paitm_GraspOfAvarice"
+type "InterruptData"
+using "Interrupt_Paitm_GraspOfAvarice"
+data "Cost" "PaitmInterruptsPoint:1;PaitmInterruptsPointRest:1"
+
+new entry "Interrupt_Paitm_StasisStrike"
+type "InterruptData"
+using "Interrupt_Paitm_StasisStrike"
+data "Cost" "PaitmInterruptsPoint:1;PaitmInterruptsPointRest:1"
+
+new entry "Interrupt_Paitm_SoothePain"
+type "InterruptData"
+using "Interrupt_Paitm_SoothePain"
+data "Cost" "PaitmInterruptsPoint:1;PaitmInterruptsPointRest:1"
+

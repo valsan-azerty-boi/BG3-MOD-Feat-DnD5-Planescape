@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="d89e8800-600b-3512-a737-79f2cde2f350"/>
+            <attribute id="Name" type="LSString" value="PlanescapeOptionalPatch"/>
+            <attribute id="UUID" type="LSString" value="1d70e7aa-1252-f481-60ca-8198895ae702"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
