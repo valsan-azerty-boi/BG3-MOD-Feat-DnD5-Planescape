@@ -23,15 +23,15 @@
 <content contentuid="h3b8cb656g7968gf2dag31b8g6a98e698cd3e" version="1">Andarilho Planar</content>
 <content contentuid="h4b1b0ee0g2aabg6fb6ge12fg61d331c63717" version="2">Você pode recorrer às forças do multiverso para sobreviver a extremos cósmicos e se afirmar como um verdadeiro especialista em portais planares.</content>
 <content contentuid="h7922d8aag0730g408bg1301g0c3f6b90631b" version="1">Agente da Ordem</content>
-<content contentuid="h080c4c35gb42dgca01ge8cfg244b47407ddb" version="2">OLD_Você pode canalizar forças cósmicas de ordem para obter benefícios.</content>
+<content contentuid="h080c4c35gb42dgca01ge8cfg244b47407ddb" version="2" />
 <content contentuid="hdaeb5abfg0ad1g2443g0f5bg3f7476e0a667" version="1">Descendente Maligno</content>
-<content contentuid="h4ef18962g3deegaa6fg1f5bg35cdad9ed299" version="2">OLD_Você pode canalizar forças cósmicas do mal para obter benefícios.</content>
+<content contentuid="h4ef18962g3deegaa6fg1f5bg35cdad9ed299" version="2" />
 <content contentuid="he5256e8dg9ddfgc0a4g9bb8gc1c8c97a4058" version="1">Coorte do Caos</content>
-<content contentuid="h502bfab7gb9a0gd257gd656g099d4c09c84d" version="2">OLD_Você pode canalizar forças cósmicas do caos para obter benefícios.</content>
+<content contentuid="h502bfab7gb9a0gd257gd656g099d4c09c84d" version="2" />
 <content contentuid="h9fd845d9g641egebd9g981bg2ae35f4a9ffe" version="1">Enviado das Terras Distantes</content>
-<content contentuid="h24184e08g396cg1910gf9dcg656df71d966b" version="2">OLD_Você passou um tempo significativo nas Terras Distantes. Estar imerso em energias planares convergentes lhe concede benefícios.</content>
+<content contentuid="h24184e08g396cg1910gf9dcg656df71d966b" version="2" />
 <content contentuid="h9c19cc12g6bcag28a1g99f8gb656a4cfd87c" version="1">Herdeiro Justo</content>
-<content contentuid="h395735d3gba45gb3d8ga495gbcb55fd7702a" version="2">OLD_Você pode canalizar forças cósmicas do bem para obter benefícios.</content>
+<content contentuid="h395735d3gba45gb3d8ga495gbcb55fd7702a" version="2" />
 <content contentuid="h750430b5g480fgddabg4bc0g7dd11520f7a1" version="2">Adaptação planar ácida</content>
 <content contentuid="hffa64d14g00eage72agfbcdgf24965250c7e" version="9">Com sua experiência em viagem planar, você ganha uma Resistência Ácida e a magia &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Quebrador de portais&lt;/LSTag&gt; para criar 2 portais uma vez por descanso curto.</content>
 <content contentuid="ha210fd4fg8dddg945ege2e9gf88344ebd3a2" version="2">Adaptação Planar Fria</content>
@@ -545,25 +545,31 @@
 <content contentuid="h52da9222g30f5gaffcg64f5g0f6a84c38601" version="1">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
 <content contentuid="hde6d1a89g2c19g2ce6g1053ga8d0246a579a" version="1">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
 <content contentuid="hf67f607bgfe6ag874dgd6a0gadaf001f711d" version="1">These entropic weapons immersed in necrotic energy can turn enemies to ash.</content>
-<content contentuid="h4d6ca746g8bbdg75bcgbb04g36301dbcf747" version="4">Use</content>
-<content contentuid="h9e970a59ge7a4gdb07g04f5g0d74ce703e1c" version="3">Charm of the Dead Truce</content>
-<content contentuid="h2b8753d0g5a5dg5203g5cf1g87e6646a16b8" version="3">Charm Dead Truce lore</content>
-<content contentuid="h0100b285gc467gca8cg94d3g89064fbaa365" version="1">Charm of Incorporeality</content>
-<content contentuid="ha116c558g4f4bg031ega93bg0bd71f7adb5c" version="1">Use</content>
-<content contentuid="h90d5382cgac10gce4fgfa62g30a16f8fdec4" version="1">Charm Incorporeality lore</content>
-<content contentuid="hd9e90659g39b6g07d1ga365g6adb41d0d962" version="1">Shout_Paitm_CharmDeadTruce</content>
-<content contentuid="h9c1d41cfg908dgb54bgd45ag1d1827eca7fd" version="1">desc Shout_Paitm_CharmDeadTruce</content>
-<content contentuid="hf9ac3656gfaf2g80d4gae2dg594efd79ef17" version="1">Shout_Paitm_Paitm_CharmIncorporeality</content>
-<content contentuid="h3375375fgf2f8g4cedg8cb5gfb53fd26ab1c" version="1">desc Shout_Paitm_Paitm_CharmIncorporeality</content>
-<content contentuid="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="1">Protection from Undead creatures</content>
-<content contentuid="hd03eeeb1g0e99g80d2g9246g93cb8215e28f" version="1">The target is protected against undead creatures. These creatures have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against the target, and the target can't be Charmed, Frightened, or Possessed by them.</content>
-<content contentuid="hc5ba049bg1d5eg6404g8a09gbfe881c3e26d" version="1">Havoc Flame</content>
-<content contentuid="h3c22c311g5c4ega574g00c7g3955c940943b" version="1">Havoc Flame</content>
+<content contentuid="h9e970a59ge7a4gdb07g04f5g0d74ce703e1c" version="5">Charm of the Dead Truce</content>
+<content contentuid="hd9e90659g39b6g07d1ga365g6adb41d0d962" version="2">Charm of the Dead Truce</content>
+<content contentuid="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="2">Charm of the Dead Truce</content>
+<content contentuid="h9c1d41cfg908dgb54bgd45ag1d1827eca7fd" version="3">This charm grants you respect among the dead. During combat, hostile undead cannot directly attack the caster of this spell. Additionally, you gain advantage on Charisma checks when interacting with undead creatures. If you deal damage to an undead creature, this effect disappears.</content>
+<content contentuid="hd03eeeb1g0e99g80d2g9246g93cb8215e28f" version="3">Grants you respect among the dead. During combat, hostile undead cannot directly attack the caster of this spell. Additionally, you gain advantage on Charisma checks when interacting with undead creatures. If you deal damage to an undead creature, this effect disappears.</content>
+<content contentuid="h32b321cdg32c0g3845gfcffg54dda677fc07" version="2">Dead Truce Pacification</content>
+<content contentuid="hf7cebf92gccc4ga6fcga716ge79dfd1c81e1" version="2">The creature is pacified towards the source of this spell.</content>
+<content contentuid="h0100b285gc467gca8cg94d3g89064fbaa365" version="4">Charm of Incorporeality</content>
+<content contentuid="hf9ac3656gfaf2g80d4gae2dg594efd79ef17" version="2">Charm of Incorporeality</content>
+<content contentuid="h82e5cc2dg1ee4geaaeg6a2cgc51ff337c1a3" version="1">Charm of Incorporeality</content>
+<content contentuid="h3375375fgf2f8g4cedg8cb5gfb53fd26ab1c" version="1">This charm allows you to assume a ghostly, incorporeal form. While in this form, you have resistance to Bludgeoning, Piercing, and Slashing damage.</content>
+<content contentuid="hbec8085egb989g2e3fg0fc7gb473c086d489" version="1">You assume a ghostly, incorporeal form. While in this form, you have resistance to Bludgeoning, Piercing, and Slashing damage.</content>
+<content contentuid="h97840d3ag5570gba65g009eg2cde3bb46990" version="1">This item disappears after use.</content>
+<content contentuid="hbfbd333bg6698ge929g8e96g3a2364b3a1aa" version="1">This item disappears after use.</content>
+<content contentuid="h2b8753d0g5a5dg5203g5cf1g87e6646a16b8" version="6">People who join the Heralds of Dust or prove themselves to the faction are sometimes rewarded with a supernatural charm.</content>
+<content contentuid="h90d5382cgac10gce4fgfa62g30a16f8fdec4" version="4">People who join the Heralds of Dust or prove themselves to the faction are sometimes rewarded with a supernatural charm.</content>
+<content contentuid="ha116c558g4f4bg031ega93bg0bd71f7adb5c" version="4">Usar</content>
+<content contentuid="h4d6ca746g8bbdg75bcgbb04g36301dbcf747" version="7">Usar</content>
+<content contentuid="hc5ba049bg1d5eg6404g8a09gbfe881c3e26d" version="2">Havoc Fire</content>
+<content contentuid="h3c22c311g5c4ega574g00c7g3955c940943b" version="2">Havoc Fire</content>
 <content contentuid="h244fa72cg8090g14f2ga028ge59a03bf16c5" version="1">Takes [1] each turn.</content>
-<content contentuid="h4b01b315ga76age906ga70fg7336c25b0a65" version="1">Whenever you deal damage with this weapon, inflicts Havoc Flame to your target.</content>
+<content contentuid="h4b01b315ga76age906ga70fg7336c25b0a65" version="2">Whenever you deal damage with this weapon, inflicts Havoc Fire to your target.</content>
 <content contentuid="h9fcdae5eg0e2eg3ff0ge2aegb3383f8a81a6" version="1">Lightning Seal</content>
-<content contentuid="h4f796a42gde7cgc6ccg5bf8ge753df49975d" version="2">Once per combat, whenever you deal damage with this weapon, inflicts a Lightning Seal to your target.</content>
 <content contentuid="hf6cc7530g18e6g0dedg7679g49df7ad6cbcb" version="1">Lighting Seal</content>
+<content contentuid="h4f796a42gde7cgc6ccg5bf8ge753df49975d" version="2">Once per combat, whenever you deal damage with this weapon, inflicts a Lightning Seal to your target.</content>
 <content contentuid="h7824fb26g0bdbgfd75g245agd3ea9ca52ebb" version="1">Takes [1] each turn.</content>
 <content contentuid="hb41684b4g64e0geae3gb8f2g5961893564f2" version="1">Push</content>
 <content contentuid="ha13cd106g9877g8ad7g41e4gcc9c61aa7f74" version="1">Whenever you deal damage with this weapon, it can push your target backwards.</content>

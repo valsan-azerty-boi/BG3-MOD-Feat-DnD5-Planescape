@@ -545,30 +545,36 @@
   <content contentuid="h52da9222g30f5gaffcg64f5g0f6a84c38601" version="1">Cette arme entropique imbibée d'énergie nécrotique peut réduire les ennemis en cendres.</content>
   <content contentuid="hde6d1a89g2c19g2ce6g1053ga8d0246a579a" version="1">Cette arme entropique imbibée d'énergie nécrotique peut réduire les ennemis en cendres.</content>
   <content contentuid="hf67f607bgfe6ag874dgd6a0gadaf001f711d" version="1">Cette arme entropique imbibée d'énergie nécrotique peut réduire les ennemis en cendres.</content>
-  <content contentuid="h9e970a59ge7a4gdb07g04f5g0d74ce703e1c" version="3">Charm of the Dead Truce</content>
-  <content contentuid="h2b8753d0g5a5dg5203g5cf1g87e6646a16b8" version="3">Charm Dead Truce lore</content>
-  <content contentuid="h0100b285gc467gca8cg94d3g89064fbaa365" version="1">Charm of Incorporeality</content>
-  <content contentuid="h90d5382cgac10gce4fgfa62g30a16f8fdec4" version="1">Charm Incorporeality lore</content>
+  <content contentuid="h9e970a59ge7a4gdb07g04f5g0d74ce703e1c" version="3">Breloque de trêve avec les morts</content>
+  <content contentuid="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="1">Breloque de trêve avec les morts</content>
+  <content contentuid="hd9e90659g39b6g07d1ga365g6adb41d0d962" version="1">Breloque de trêve avec les morts</content>
+  <content contentuid="h9c1d41cfg908dgb54bgd45ag1d1827eca7fd" version="1">Ce charme vous accorde un certain respect parmi les morts. Durant les combats, les morts-vivants hostiles ne peuvent pas attaquer directement le lanceur de ce sort. De plus, vous bénéficiez d'un avantage aux tests de Charisme lorsque vous interagissez avec des créatures mort-vivantes. Si vous attaquez un mort-vivant, ce charme disparaît prématurément.</content>
+  <content contentuid="hd03eeeb1g0e99g80d2g9246g93cb8215e28f" version="3">Vous avez un certain respect parmi les morts. Durant les combats, les morts-vivants hostiles ne peuvent pas attaquer directement le lanceur de ce sort. De plus, vous bénéficiez d'un avantage aux tests de Charisme lorsque vous interagissez avec des créatures mort-vivantes. Si vous attaquez un mort-vivant, ce charme disparaît prématurément.</content>
+  <content contentuid="h32b321cdg32c0g3845gfcffg54dda677fc07" version="2">Trêve avec les morts</content>
+  <content contentuid="hf7cebf92gccc4ga6fcga716ge79dfd1c81e1" version="2">La créature est pacifiée envers la source de ce sort.</content>
+  <content contentuid="h0100b285gc467gca8cg94d3g89064fbaa365" version="1">Breloque d'incorporabilité</content>
+  <content contentuid="hf9ac3656gfaf2g80d4gae2dg594efd79ef17" version="1">Breloque d'incorporabilité</content>
+  <content contentuid="h82e5cc2dg1ee4geaaeg6a2cgc51ff337c1a3" version="1">Breloque d'incorporabilité</content>
+  <content contentuid="h3375375fgf2f8g4cedg8cb5gfb53fd26ab1c" version="1">Ce charme vous permet de prendre une forme fantomatique et incorporelle. Sous cette forme, vous avez une résistance aux dégâts contondants, perçants et tranchants.</content>
+  <content contentuid="hbec8085egb989g2e3fg0fc7gb473c086d489" version="1">Vous prenez une forme fantomatique et incorporelle. Sous cette forme, vous avez une résistance aux dégâts contondants, perçants et tranchants.</content>
+  <content contentuid="h97840d3ag5570gba65g009eg2cde3bb46990" version="1">Cet objet disparait après utilisation.</content>
+  <content contentuid="hbfbd333bg6698ge929g8e96g3a2364b3a1aa" version="1">Cet objet disparait après utilisation.</content>
+  <content contentuid="h2b8753d0g5a5dg5203g5cf1g87e6646a16b8" version="3">Les personnes qui rejoignent les Hommes-Poussière sont parfois récompensées par un charme surnaturel.</content>
+  <content contentuid="h90d5382cgac10gce4fgfa62g30a16f8fdec4" version="1">Les personnes qui rejoignent les Hommes-Poussière sont parfois récompensées par un charme surnaturel.</content>
   <content contentuid="ha116c558g4f4bg031ega93bg0bd71f7adb5c" version="1">Utiliser</content>
   <content contentuid="h4d6ca746g8bbdg75bcgbb04g36301dbcf747" version="4">Utiliser</content>
-  <content contentuid="hd9e90659g39b6g07d1ga365g6adb41d0d962" version="1">Shout_Paitm_CharmDeadTruce</content>
-  <content contentuid="h9c1d41cfg908dgb54bgd45ag1d1827eca7fd" version="1">desc Shout_Paitm_CharmDeadTruce</content>
-  <content contentuid="hf9ac3656gfaf2g80d4gae2dg594efd79ef17" version="1">Shout_Paitm_Paitm_CharmIncorporeality</content>
-  <content contentuid="h3375375fgf2f8g4cedg8cb5gfb53fd26ab1c" version="1">desc Shout_Paitm_Paitm_CharmIncorporeality</content>
-  <content contentuid="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="1">Protection from Undead creatures</content>
-  <content contentuid="hd03eeeb1g0e99g80d2g9246g93cb8215e28f" version="1">The target is protected against undead creatures. These creatures have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against the target, and the target can't be Charmed, Frightened, or Possessed by them.</content>
   <content contentuid="hc5ba049bg1d5eg6404g8a09gbfe881c3e26d" version="1">Flamme de dévastation</content>
   <content contentuid="h3c22c311g5c4ega574g00c7g3955c940943b" version="1">Flamme de dévastation</content>
   <content contentuid="h244fa72cg8090g14f2ga028ge59a03bf16c5" version="1">Subit [1] à chaque tour.</content>
   <content contentuid="h4b01b315ga76age906ga70fg7336c25b0a65" version="1">Quand vous infligez des dégâts avec cette arme, votre cible subit Flamme de dévastation.</content>
-  <content contentuid="h9fcdae5eg0e2eg3ff0ge2aegb3383f8a81a6" version="1">Lightning Seal</content>
-  <content contentuid="h4f796a42gde7cgc6ccg5bf8ge753df49975d" version="2">Once per combat, whenever you deal damage with this weapon, inflicts a Lightning Seal to your target.</content>
-  <content contentuid="hf6cc7530g18e6g0dedg7679g49df7ad6cbcb" version="1">Lighting Seal</content>
-  <content contentuid="h7824fb26g0bdbgfd75g245agd3ea9ca52ebb" version="1">Takes [1] each turn.</content>
-  <content contentuid="hb41684b4g64e0geae3gb8f2g5961893564f2" version="1">Push</content>
-  <content contentuid="ha13cd106g9877g8ad7g41e4gcc9c61aa7f74" version="1">Whenever you deal damage with this weapon, it can push your target backwards.</content>
-  <content contentuid="h29b950f4gee17g71bdg6948g70a0371c30c8" version="1">Entropy</content>
-  <content contentuid="hb874d355ge9e4g02fcg49b8g77d11b2dad19" version="1">A creature killed by this weapon is reduced to ash.</content>
-  <content contentuid="hf871407eg4afbgba85gad7ag195a98cf6fc7" version="1">Entropic Emission</content>
-  <content contentuid="h4d9e33c6g842eg3bf3g444dg0713d909a0ce" version="2">The blade emits a burst of entropic magic. Each creature in the spell area must succeed on a Constitution saving throw or take [1].</content>
+  <content contentuid="h9fcdae5eg0e2eg3ff0ge2aegb3383f8a81a6" version="1">Sceau électrique</content>
+  <content contentuid="h4f796a42gde7cgc6ccg5bf8ge753df49975d" version="2">Une fois par combat, quand vous infligez des dégâts avec cette arme, votre cible subit l'effet Sceau électrique.</content>
+  <content contentuid="hf6cc7530g18e6g0dedg7679g49df7ad6cbcb" version="1">Sceau électrique</content>
+  <content contentuid="h7824fb26g0bdbgfd75g245agd3ea9ca52ebb" version="1">Subit [1] chaque tour.</content>
+  <content contentuid="hb41684b4g64e0geae3gb8f2g5961893564f2" version="1">Repousser</content>
+  <content contentuid="ha13cd106g9877g8ad7g41e4gcc9c61aa7f74" version="1">Quand vous infligez des dégâts avec cette arme, votre cible risque d'être repoussée en arrière.</content>
+  <content contentuid="h29b950f4gee17g71bdg6948g70a0371c30c8" version="1">Entropie</content>
+  <content contentuid="hb874d355ge9e4g02fcg49b8g77d11b2dad19" version="1">Une créature tuée par cette arme est réduite en cendres.</content>
+  <content contentuid="hf871407eg4afbgba85gad7ag195a98cf6fc7" version="1">Émission entropique</content>
+  <content contentuid="h4d9e33c6g842eg3bf3g444dg0713d909a0ce" version="2">La lame émet une explosion de magie entropique. Chaque créature dans la zone du sort doit réussir un jet de sauvegarde de Constitution ou subir [1].</content>
 </contentList>

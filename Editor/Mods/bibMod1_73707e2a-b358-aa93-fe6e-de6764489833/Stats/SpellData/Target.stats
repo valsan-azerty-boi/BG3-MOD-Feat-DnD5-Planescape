@@ -645,6 +645,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="d974eb02-0056-4553-92aa-fb4d05a7a021" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="TARGET:ApplyStatus(SPEAK_WITH_DEAD,100,0)" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsSpell;HasVerbalComponent;HasSomaticComponent;Temporary" enumeration_type_name="SpellFlagList" version="1" />
       </fields>
     </stat_object>
   </stat_objects>

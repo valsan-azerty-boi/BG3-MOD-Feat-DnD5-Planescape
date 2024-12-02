@@ -509,4 +509,5 @@ data "SpellType" "Target"
 using "Target_SpeakWithDead"
 data "SpellProperties" "TARGET:ApplyStatus(SPEAK_WITH_DEAD,100,0)"
 data "UseCosts" "ActionPoint:1"
+data "SpellFlags" "IsSpell;HasVerbalComponent;HasSomaticComponent;Temporary"
 

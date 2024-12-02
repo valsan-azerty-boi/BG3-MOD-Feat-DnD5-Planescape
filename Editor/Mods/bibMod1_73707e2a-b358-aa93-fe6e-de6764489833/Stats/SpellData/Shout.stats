@@ -346,9 +346,9 @@
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_CharmOfTheDeadTruce_Buff,100,-1)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="Autocast" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_CharmDeadTruce" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Necromancy_RecastSpeakWithDead" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd9e90659g39b6g07d1ga365g6adb41d0d962" version="2" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9c1d41cfg908dgb54bgd45ag1d1827eca7fd" version="3" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9c1d41cfg908dgb54bgd45ag1d1827eca7fd" version="4" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
         <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
         <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
@@ -373,10 +373,10 @@
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Necromancy" enumeration_type_name="SpellSchool" version="1" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_WarpSense_Buff,100,-1)" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_CharmOfIncorporeality_Buff,100,10)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="Autocast" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_CharmIncorporeality" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Transmutation_Blink" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf9ac3656gfaf2g80d4gae2dg594efd79ef17" version="2" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3375375fgf2f8g4cedg8cb5gfb53fd26ab1c" version="1" />
         <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
@@ -392,6 +392,7 @@
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="1" />
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="ec80b3cd-29fd-40d2-a41a-b703db1b6f8e" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="0d00be21-dd30-4b42-b5a0-afc6271033bc" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_CharmOfIncorporeality_Buff,100,10)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

@@ -461,7 +461,7 @@
         <field name="ValueScale" type="FloatTableFieldDefinition" value="3" />
         <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
         <field name="Value" type="IntegerTableFieldDefinition" value="300" />
-        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
         <field name="Weight" type="FloatTableFieldDefinition" value="0.08" />
         <field name="Vitality" type="IntegerTableFieldDefinition" value="1" />
         <field name="ArmorClass" type="IntegerTableFieldDefinition" value="0" />
