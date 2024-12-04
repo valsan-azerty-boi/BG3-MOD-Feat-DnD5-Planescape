@@ -397,7 +397,7 @@ data "RemoveConditions" "not Combat()"
 data "RemoveEvents" "OnTurn;OnCombatEnded"
 data "TickFunctors" "IF(not Combat(context.Source)):RemoveStatus(Paitm_SEALED)"
 data "OnRemoveFunctors" "RemoveStatus(Paitm_SEALED)"
-data "StatusGroups" "SG_RemoveOnRespec"
+data "StatusGroups" "SG_RemoveOnRespec;SG_Cursed"
 data "ApplyEffect" "0d1f50f9-b164-499a-9829-2ab46810597d"
 
 new entry "Paitm_WeaponNecroticTrident_Buff"
