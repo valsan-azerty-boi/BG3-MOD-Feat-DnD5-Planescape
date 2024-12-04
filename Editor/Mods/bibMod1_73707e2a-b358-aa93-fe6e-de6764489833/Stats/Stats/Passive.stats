@@ -123,7 +123,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hbc628baeg7924g2968g688ege1b27b9da425" version="9" />
         <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_AgentOfOrder" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_StasisStrike);ActionResource(PaitmInterruptsPoint,1,0);ActionResource(PaitmInterruptsPointRest,ProficiencyBonus,0)" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_StasisStrike);ActionResource(PaitmInterruptsPoint,1,0)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -134,7 +134,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha6e5632cgaf7cg4d26g70e5g1073b3542c2d" version="8" />
         <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_BalefulScion" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_GraspOfAvarice);ActionResource(PaitmInterruptsPoint,1,0);ActionResource(PaitmInterruptsPointRest,ProficiencyBonus,0)" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_GraspOfAvarice);ActionResource(PaitmInterruptsPoint,1,0)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -167,7 +167,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd0289576gccc2gcb7dg9966g992f0cb0c0f2" version="7" />
         <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_RighteousHeritor" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_SoothePain);ActionResource(PaitmInterruptsPoint,1,0);ActionResource(PaitmInterruptsPointRest,ProficiencyBonus,0)" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_SoothePain);ActionResource(PaitmInterruptsPoint,1,0)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -180,7 +180,7 @@
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsHidden" enumeration_type_name="PassiveFlags" version="1" />
         <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnCast" enumeration_type_name="StatsFunctorContext" version="1" />
         <field name="Conditions" type="StringTableFieldDefinition" value="SpellId('Teleportation_Paitm_PortalCracker')" />
-        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF(not SavingThrow(Ability.Wisdom,10)):DealDamage(SELF,2d8,Psychic,Magical)" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="IF(not SavingThrow(Ability.Intelligence,10)):DealDamage(SELF,3d8,Psychic,Magical)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
