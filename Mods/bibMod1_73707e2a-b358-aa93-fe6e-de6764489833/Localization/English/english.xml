@@ -577,6 +577,10 @@
   <content contentuid="hb874d355ge9e4g02fcg49b8g77d11b2dad19" version="1">A creature killed by this weapon is reduced to ash.</content>
   <content contentuid="hf871407eg4afbgba85gad7ag195a98cf6fc7" version="1">Entropic Emission</content>
   <content contentuid="h4d9e33c6g842eg3bf3g444dg0713d909a0ce" version="2">The blade emits a burst of entropic magic. Each creature in the spell area must succeed on a Constitution saving throw or take [1].</content>
-  <content contentuid="h12ad8a4eg1d0agd71dg7d37gcc3b7f727ed3" version="23">Lady of Pain</content>
-  <content contentuid="h1d953173g1abag5f4dg043ega6ec89584026" version="23">Her Serenity, Her Dread Majesty, The Bladed Queen</content>
+  <content contentuid="h12ad8a4eg1d0agd71dg7d37gcc3b7f727ed3" version="25">Lady of Pain</content>
+  <content contentuid="h1d953173g1abag5f4dg043ega6ec89584026" version="25">Her Serenity, Her Dread Majesty, The Bladed Queen</content>
+  <content contentuid="ha3cf2632g4740g59d4ge624gd7312f1c7fe8" version="17">Nordom</content>
+  <content contentuid="hc994992fgf730gfa42gae26gac33b919326a" version="38">Ignus</content>
+  <content contentuid="h2c1ce9b0g2ef0g73aag02bbga22c5ca449e6" version="7">Vhailor</content>
+  <content contentuid="h7fa22e66g06b8g8bb6g4d9bg238ba9ddba65" version="5">Dak'kon</content>
 </contentList>

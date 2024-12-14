@@ -12,5 +12,13 @@
         <field name="4" type="StatReferenceTableFieldDefinition" value="WPN_HandCrossbow_1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a909e935-1d1a-448c-9676-3b8b95ca1c53" />
+        <field name="Name" type="NameTableFieldDefinition" value="EQP_ZerthBlade_Dakkon" />
+        <field name="InitialWeaponSet" type="EnumerationTableFieldDefinition" value="Melee" enumeration_type_name="WeaponSet" version="1" />
+        <field name="1" type="StatReferenceTableFieldDefinition" value="MAG_Paitm_DakZerthBlade" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

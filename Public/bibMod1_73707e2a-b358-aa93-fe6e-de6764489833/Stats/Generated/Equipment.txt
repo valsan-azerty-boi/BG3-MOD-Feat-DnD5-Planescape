@@ -9,3 +9,8 @@ add equipment entry "WPN_HandCrossbow_1"
 add equipmentgroup
 add equipment entry "WPN_HandCrossbow_1"
 
+new equipment "EQP_ZerthBlade_Dakkon"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "MAG_Paitm_DakZerthBlade"
+
