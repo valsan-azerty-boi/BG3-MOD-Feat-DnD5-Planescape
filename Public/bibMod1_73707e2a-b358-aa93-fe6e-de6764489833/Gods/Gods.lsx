@@ -11,6 +11,9 @@
                     <attribute id="UUID" type="guid" value="086960a4-ebd9-4d63-ae76-68cb883682c4"/>
                     <children>
                         <node id="Tags">
+                            <attribute id="Object" type="guid" value="217239ec-9051-4c82-9dac-d83be55f1115"/>
+                        </node>
+                        <node id="Tags">
                             <attribute id="Object" type="guid" value="c1ff8a7f-c430-4671-bc4e-098f874ae302"/>
                         </node>
                     </children>

@@ -340,6 +340,12 @@
   <content contentuid="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1">Активировать Мимира</content>
   <content contentuid="hcd937889g2ddbg0436g8d85g6b74891d554c" version="1">Свободный мыслитель</content>
   <content contentuid="h7dd603ebg6c37g27d9gd5c2ge37c18b6d230" version="3">Для тех, у кого независимый разум и мышление, кто не ссылается ни на какого бога. Мы часто наблюдаем подобный образ мышления среди жителей Сигила. С таким классом, как жрец, безбожный персонаж иногда может обрести силу благодаря своим собственным убеждениям и принципам.</content>
+  <content contentuid="hc9044b13g4f33gfe1eg2110g1dd10f295343" version="4">Свободный мыслитель</content>
+  <content contentuid="hed922461g2feag4702g723bgcc89f9a25969" version="4">Для тех, у кого независимый разум и мышление, кто не ссылается ни на какого бога.</content>
+  <content contentuid="h6208ab95g66f0g5176g06a8g55e450bfcf8e" version="2">Свободомыслящий Священник</content>
+  <content contentuid="h3d11e4ccgad79gb863g5d26gae1d1852af0f" version="2">Священник, не ссылающийся ни на одного бога.</content>
+  <content contentuid="h964ffe55g44f7gcebag7c1fg42395e57f2a1" version="1">Свободомыслящий Паладин</content>
+  <content contentuid="hd2073e58g0cf5gdd5bgfe52g8a1d26aa8e3b" version="1">Паладин, не ссылающийся ни на одного бога.</content>
   <content contentuid="h55a58843g198fg42beg8885g5d1fa3d64808" version="15">Врата портала</content>
   <content contentuid="h276ab033g0890g4653g9cadg0b61a1ec93a7" version="14">Связанные планарными энергиями со своим двойником, эти врата позволяют тем, кто проходит через них, выйти из их двойных врат.</content>
   <content contentuid="hbec64581g0ea1g8d21g6364g1d950a8f4eb4" version="1">Глючный персонаж</content>
@@ -577,4 +583,10 @@
   <content contentuid="hb874d355ge9e4g02fcg49b8g77d11b2dad19" version="1">Существо, убитое этим оружием, превращается в пепел.</content>
   <content contentuid="hf871407eg4afbgba85gad7ag195a98cf6fc7" version="1">Энтропийная эмиссия</content>
   <content contentuid="h4d9e33c6g842eg3bf3g444dg0713d909a0ce" version="2">Клинок излучает взрыв энтропийной магии. Каждое существо в области заклинания должно преуспеть в спасброске Телосложения или взять [1].</content>
+  <content contentuid="h12ad8a4eg1d0agd71dg7d37gcc3b7f727ed3" version="25">Леди Боли</content>
+  <content contentuid="h1d953173g1abag5f4dg043ega6ec89584026" version="25">Ее Безмятежность, Ее Ужасное Величество, Королева Клинков</content>
+  <content contentuid="ha3cf2632g4740g59d4ge624gd7312f1c7fe8" version="17">Нордом</content>
+  <content contentuid="hc994992fgf730gfa42gae26gac33b919326a" version="38">Игнус</content>
+  <content contentuid="h2c1ce9b0g2ef0g73aag02bbga22c5ca449e6" version="7">Вайлор</content>
+  <content contentuid="h7fa22e66g06b8g8bb6g4d9bg238ba9ddba65" version="5">Дак'кон</content>
 </contentList>
