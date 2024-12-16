@@ -14,3 +14,10 @@ add initialweaponset "Melee"
 add equipmentgroup
 add equipment entry "MAG_Paitm_DakZerthBlade"
 
+new equipment "EQP_Crossb_Nordom"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Paitm_HandCrossbow_Nordom"
+add equipmentgroup
+add equipment entry "WPN_Paitm_HandCrossbow_Nordom"
+

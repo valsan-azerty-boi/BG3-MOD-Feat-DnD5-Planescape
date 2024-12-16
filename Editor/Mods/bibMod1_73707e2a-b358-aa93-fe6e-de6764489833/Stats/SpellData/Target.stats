@@ -60,6 +60,7 @@
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="1a4b0423-005b-4577-b376-815a08809675" />
         <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="5eccabb5-4b4f-4d3a-87ed-69a2c27b7f18" />
         <field name="SpellStyleGroup" type="EnumerationTableFieldDefinition" value="Intent" enumeration_type_name="SpellStyleGroup" version="1" />
+        <field name="Requirements" type="StringTableFieldDefinition" value="!Combat" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
