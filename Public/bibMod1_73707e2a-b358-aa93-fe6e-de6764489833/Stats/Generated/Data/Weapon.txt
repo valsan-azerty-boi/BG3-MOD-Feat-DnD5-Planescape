@@ -445,9 +445,3 @@ using "WPN_Paitm_ElectrifiedMancatcher_Template"
 data "RootTemplate" "c635d594-7cd4-48a1-a88f-feb25f57a3b2"
 data "PersonalStatusImmunities" "SILENCED;SG_Condition;BLEEDING;BURNING"
 
-new entry "WPN_Paitm_HandCrossbow_Nordom"
-type "Weapon"
-using "WPN_HandCrossbow_Rusty"
-data "RootTemplate" "c2f469eb-eecc-4e46-ae34-21f458ef2f17"
-data "Slot" "Ranged Main Weapon"
-

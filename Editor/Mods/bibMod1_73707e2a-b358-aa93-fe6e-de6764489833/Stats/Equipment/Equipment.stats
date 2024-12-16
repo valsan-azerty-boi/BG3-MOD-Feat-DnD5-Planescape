@@ -20,14 +20,5 @@
         <field name="1" type="StatReferenceTableFieldDefinition" value="MAG_Paitm_DakZerthBlade" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="0bbfa84a-a548-47d1-bca7-97cb02a2b499" />
-        <field name="Name" type="NameTableFieldDefinition" value="EQP_Crossb_Nordom" />
-        <field name="InitialWeaponSet" type="EnumerationTableFieldDefinition" value="Melee" enumeration_type_name="WeaponSet" version="1" />
-        <field name="1" type="StatReferenceTableFieldDefinition" value="WPN_Paitm_HandCrossbow_Nordom" />
-        <field name="2" type="StatReferenceTableFieldDefinition" value="WPN_Paitm_HandCrossbow_Nordom" />
-      </fields>
-    </stat_object>
   </stat_objects>
 </stats>

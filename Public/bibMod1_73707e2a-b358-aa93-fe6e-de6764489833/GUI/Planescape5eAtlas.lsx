@@ -243,6 +243,13 @@
                     <attribute id="V2" type="float" value="0.12402344"/>
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Plns_Item_ZerthBlade"/>
+                    <attribute id="U1" type="float" value="0.50097656"/>
+                    <attribute id="U2" type="float" value="0.62402344"/>
+                    <attribute id="V1" type="float" value="0.62597656"/>
+                    <attribute id="V2" type="float" value="0.74902344"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="Plns_Spell_GateSeal"/>
                     <attribute id="U1" type="float" value="0.25097656"/>
                     <attribute id="U2" type="float" value="0.37402344"/>

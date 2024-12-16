@@ -535,14 +535,5 @@
         <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="SILENCED;SG_Condition;BLEEDING;BURNING" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="b2e4d5bb-f382-4641-9741-21cc7ad39101" />
-        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_HandCrossbow_Nordom" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="ea667862-a40f-40d6-abec-955151bf456a" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="c2f469eb-eecc-4e46-ae34-21f458ef2f17" />
-        <field name="Slot" type="EnumerationTableFieldDefinition" value="Ranged Main Weapon" enumeration_type_name="Itemslot" version="1" />
-      </fields>
-    </stat_object>
   </stat_objects>
 </stats>
