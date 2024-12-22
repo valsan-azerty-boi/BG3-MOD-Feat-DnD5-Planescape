@@ -512,3 +512,10 @@ data "SpellProperties" "TARGET:ApplyStatus(SPEAK_WITH_DEAD,100,0)"
 data "UseCosts" "ActionPoint:1"
 data "SpellFlags" "IsSpell;HasVerbalComponent;HasSomaticComponent;Temporary"
 
+new entry "Target_Paitm_Hex_Charisma"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Hex_Charisma"
+data "UseCosts" "BonusActionPoint:1"
+data "MemoryCost" "0"
+

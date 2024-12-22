@@ -649,5 +649,14 @@
         <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsSpell;HasVerbalComponent;HasSomaticComponent;Temporary" enumeration_type_name="SpellFlagList" version="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a826761c-a690-4846-8fab-eb75d33a9618" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Hex_Charisma" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="388b9b81-bed6-4547-a035-6700c68e8343" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="SpellPrepareCost" type="IntegerTableFieldDefinition" value="0" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
