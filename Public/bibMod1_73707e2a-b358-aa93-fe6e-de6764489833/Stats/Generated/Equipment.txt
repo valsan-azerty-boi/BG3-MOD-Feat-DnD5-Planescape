@@ -1,16 +1,31 @@
 new equipment "EQP_Dagger_DW_Annah"
 add initialweaponset "Melee"
 add equipmentgroup
-add equipment entry "WPN_Dagger_1"
+add equipment entry "WPN_Paitm_AnnahDagger"
 add equipmentgroup
-add equipment entry "WPN_Dagger_1"
+add equipment entry "WPN_Paitm_AnnahDagger"
 add equipmentgroup
 add equipment entry "WPN_HandCrossbow_1"
 add equipmentgroup
 add equipment entry "WPN_HandCrossbow_1"
 
+new equipment "EQP_FinalJudgment_Vhailor"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Paitm_FinalJudgment"
+
 new equipment "EQP_ZerthBlade_Dakkon"
 add initialweaponset "Melee"
 add equipmentgroup
 add equipment entry "MAG_Paitm_DakZerthBlade"
+
+new equipment "EQP_Blade_Trias"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Paitm_CelestialFire"
+
+new equipment "EQ_ShiningBlade_Archon"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Paitm_ShiningBlade"
 

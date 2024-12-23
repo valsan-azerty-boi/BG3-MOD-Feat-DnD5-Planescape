@@ -593,3 +593,9 @@ data "Boosts" "WeaponDamageResistance(Bludgeoning);WeaponDamageResistance(Slashi
 data "StatusGroups" "SG_RemoveOnRespec"
 data "StatusEffect" "8aa59540-9ded-437f-aa13-5c7c2d3c7cac"
 
+new entry "Paitm_DISINTEGRATE_DEATH_Instant"
+type "StatusData"
+data "StatusType" "BOOST"
+using "Paitm_Entropy_DeathDebuff"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting"
+
