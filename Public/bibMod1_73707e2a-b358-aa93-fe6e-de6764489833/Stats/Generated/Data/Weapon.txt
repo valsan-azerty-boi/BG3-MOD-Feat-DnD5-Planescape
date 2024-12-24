@@ -170,6 +170,11 @@ using "WPN_Paitm_ShiningBlade_Template"
 data "RootTemplate" "f01d3a0f-dfc9-4b7d-80ce-1fdd76884f52"
 data "PersonalStatusImmunities" "SILENCED;SG_Condition;BLEEDING;BURNING"
 
+new entry "WPN_Paitm_ShiningBlade_NoSh"
+type "Weapon"
+using "WPN_Paitm_ShiningBlade"
+data "Weapon Properties" "Twohanded;Heavy;Melee;Dippable;NotSheathable"
+
 new entry "WPN_Paitm_BarbedJavelin_Template"
 type "Weapon"
 data "Level" "1"

@@ -208,6 +208,14 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="617cf3a8-300d-4e9f-94b8-001876c683a8" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_ShiningBlade_NoSh" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f7daec68-f627-4e0a-9392-a089f8035f16" />
+        <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Twohanded;Heavy;Melee;Dippable;NotSheathable" enumeration_type_name="WeaponFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="1ecabc02-49d6-4580-acfe-2d815e81af78" />
         <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_BarbedJavelin_Template" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />

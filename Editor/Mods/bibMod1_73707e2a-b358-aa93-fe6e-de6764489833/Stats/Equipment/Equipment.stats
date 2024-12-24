@@ -44,5 +44,13 @@
         <field name="1" type="StatReferenceTableFieldDefinition" value="WPN_Paitm_ShiningBlade" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="45ff4eb0-fc58-4a9a-b18e-8121a58fa638" />
+        <field name="Name" type="NameTableFieldDefinition" value="EQ_ShiningBlade_Archon_NoSh" />
+        <field name="InitialWeaponSet" type="EnumerationTableFieldDefinition" value="Melee" enumeration_type_name="WeaponSet" version="1" />
+        <field name="1" type="StatReferenceTableFieldDefinition" value="WPN_Paitm_ShiningBlade_NoSh" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

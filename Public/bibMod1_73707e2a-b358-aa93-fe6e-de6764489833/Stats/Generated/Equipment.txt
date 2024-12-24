@@ -29,3 +29,8 @@ add initialweaponset "Melee"
 add equipmentgroup
 add equipment entry "WPN_Paitm_ShiningBlade"
 
+new equipment "EQ_ShiningBlade_Archon_NoSh"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Paitm_ShiningBlade_NoSh"
+
