@@ -11,5 +11,15 @@
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="217239ec-9051-4c82-9dac-d83be55f1115;c1ff8a7f-c430-4671-bc4e-098f874ae302" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="Paitm_Aoskar" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5e2b7cec-b20e-49da-85c8-52bcfee5c4f6" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h91744a8bgcd8fg6de1gc3f3g2a668528f676" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h2326ff5fgaa6cgefd8g796age0f8559ee1f6" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="a1661a5c-9e4d-4630-8555-58ab7bb4f693;c1ff8a7f-c430-4671-bc4e-098f874ae302" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

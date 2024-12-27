@@ -1,5 +1,9 @@
 <?xml version="1.0"?>
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h80fbbb6bg7f34g3593g7667g17811914710f" version="3">Gardien du portail</content>
+  <content contentuid="hee01894agd72fgf3dbgfc8eg3ec56225ef31" version="3">Philosophe planaire</content>
+  <content contentuid="h7673e277g6538g4c2egbdabg5a38a5264c1b" version="1">Vous avez passé beaucoup de temps dans un lieu influencé par des forces planaires intenses ou un portail vers un autre plan.</content>
+  <content contentuid="h362190b9gc119gaa84gfdb3g0cf8295f61e4" version="1">Vous adhérez à une philosophie qui cherche à comprendre la nature des plans et la vérité cachée du multivers.</content>
   <content contentuid="h1c9149e8g6d95ge63ag585eg403768a29c67" version="1">Philosophe planaire</content>
   <content contentuid="h914bf037g3869g4beag9f3bg36a70f55e92d" version="2">Vous adhérez à une philosophie qui cherche à comprendre la nature des plans et la vérité cachée du multivers. Vous puisez votre force dans vos convictions. Dans vos voyages, émancipé des factions de Sigil, vous explorez les profondeurs de la compréhension et répandez votre philosophie partout où vous allez.</content>
   <content contentuid="h350fe144ga8fdg985dgc3acg5a7496bb2797" version="1">Gardien du portail</content>

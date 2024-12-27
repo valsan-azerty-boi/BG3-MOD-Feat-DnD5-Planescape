@@ -34,3 +34,17 @@ add initialweaponset "Melee"
 add equipmentgroup
 add equipment entry "WPN_Paitm_ShiningBlade_NoSh"
 
+new equipment "EQ_Musteval_DW"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Paitm_BoneBlade"
+add equipmentgroup
+add equipment entry "WPN_Paitm_BoneBlade"
+
+new equipment "EQ_Kol_Unerring_DW"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Paitm_UnerringBlade"
+add equipmentgroup
+add equipment entry "WPN_Paitm_UnerringBlade"
+

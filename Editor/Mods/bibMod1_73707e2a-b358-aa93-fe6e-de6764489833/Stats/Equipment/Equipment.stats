@@ -52,5 +52,23 @@
         <field name="1" type="StatReferenceTableFieldDefinition" value="WPN_Paitm_ShiningBlade_NoSh" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9b68b416-7bd0-4a89-93be-392ed5458a05" />
+        <field name="Name" type="NameTableFieldDefinition" value="EQ_Musteval_DW" />
+        <field name="InitialWeaponSet" type="EnumerationTableFieldDefinition" value="Melee" enumeration_type_name="WeaponSet" version="1" />
+        <field name="1" type="StatReferenceTableFieldDefinition" value="WPN_Paitm_BoneBlade" />
+        <field name="2" type="StatReferenceTableFieldDefinition" value="WPN_Paitm_BoneBlade" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4da13669-43bf-4c4f-abfb-9f524b14465a" />
+        <field name="Name" type="NameTableFieldDefinition" value="EQ_Kol_Unerring_DW" />
+        <field name="InitialWeaponSet" type="EnumerationTableFieldDefinition" value="Melee" enumeration_type_name="WeaponSet" version="1" />
+        <field name="1" type="StatReferenceTableFieldDefinition" value="WPN_Paitm_UnerringBlade" />
+        <field name="2" type="StatReferenceTableFieldDefinition" value="WPN_Paitm_UnerringBlade" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

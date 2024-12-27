@@ -1,5 +1,9 @@
 <?xml version="1.0"?>
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h80fbbb6bg7f34g3593g7667g17811914710f" version="3">Gate Warden</content>
+  <content contentuid="hee01894agd72fgf3dbgfc8eg3ec56225ef31" version="3">Planar Philosopher</content>
+  <content contentuid="h7673e277g6538g4c2egbdabg5a38a5264c1b" version="1">You spent a significant amount of time somewhere influenced by intense planar forces or a portal to another plane of existence.</content>
+  <content contentuid="h362190b9gc119gaa84gfdb3g0cf8295f61e4" version="1">You subscribe to a philosophy that seeks to understand the nature of the planes or some hidden truth of the multiverse.</content>
   <content contentuid="h1c9149e8g6d95ge63ag585eg403768a29c67" version="1">Planar Philosopher</content>
   <content contentuid="h914bf037g3869g4beag9f3bg36a70f55e92d" version="2">You subscribe to a philosophy that seeks to understand the nature of the planes or some hidden truth of the multiverse. You draw strength from your conviction. In your travels, emancipated from the factions of Sigil, you explore the depths of your understanding and spread your philosophy wherever you go.</content>
   <content contentuid="h350fe144ga8fdg985dgc3acg5a7496bb2797" version="1">Gate Warden</content>
@@ -336,7 +340,7 @@
   <content contentuid="h6accf78cg81b0g4769gb3c3g570e2714d57e" version="5">Having this item in inventory grants you its magical effect.</content>
   <content contentuid="hb18a258bge5f5gc59ag7f99g6b6c682f6db3" version="1">You gain a Proficienty bonus in Arcana and Perception.</content>
   <content contentuid="h82ae22f9gb470g74b9g2f81g35db749d7bf6" version="2">You gain a Proficienty bonus in Arcana and Perception.</content>
-  <content contentuid="he74c5a36gaa29g319cga756gace944dd2f43" version="33">Mimir</content>
+  <content contentuid="he74c5a36gaa29g319cga756gace944dd2f43" version="34">Mimir</content>
   <content contentuid="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1">Activate the Mimir and absorb its knowledge.</content>
   <content contentuid="hcd937889g2ddbg0436g8d85g6b74891d554c" version="1">Free thinker</content>
   <content contentuid="h7dd603ebg6c37g27d9gd5c2ge37c18b6d230" version="3">For those independent of mind and thought, who does not refer to any god. We often see this way of thinking among residents of Sigil. With a class like Cleric, a godless character can gain powers from their own convictions and principles.</content>
@@ -421,8 +425,8 @@
   <content contentuid="h4fbec60cg9b97gd573g5cf2g30b438699523" version="1">Glitch on cast</content>
   <content contentuid="he2d44030gd930g2688gb270g23d185e3ee5f" version="1">Sometimes other versions of you melt with you during a cast.</content>
   <content contentuid="hbec539bdgfe54g30abg37caga453d77caef8" version="5">*Crrrkkk*</content>
-  <content contentuid="h3a0ff6c2ge915g1a79g400agaab25e37fbd9" version="17">Morte</content>
-  <content contentuid="h78db741fgb55cg325cg3153gd1f5d62b5f87" version="17">Mimir</content>
+  <content contentuid="h3a0ff6c2ge915g1a79g400agaab25e37fbd9" version="18">Morte</content>
+  <content contentuid="h78db741fgb55cg325cg3153gd1f5d62b5f87" version="18">Mimir</content>
   <content contentuid="hbdfa7db9g426agb016g1e61g43e526925235" version="16">Morte</content>
   <content contentuid="h12bb70d7ga5d5g3412g4e03gf2c0b249875b" version="16">This old Mimir wants to wake up and talk.</content>
   <content contentuid="h7b481653g323ag3461gcd1ag86612f011e54" version="1">Morte</content>
@@ -457,8 +461,8 @@
   <content contentuid="h3fc28911g273ag101fgc378gd304d05dae4d" version="8">Dak'kon's Zerth Blade</content>
   <content contentuid="h09e1a258g06d2g1251gd407g6d608385eb5d" version="8">This sword was the weapon of choice of a famous githzerai working for a creature known as the 'Nameless One'.</content>
   <content contentuid="hbdf89fdfg63e2g9bb0gde4ag1db6887b6995" version="2">Mimir</content>
-  <content contentuid="h86ddf0d5gb7e4g9970g06e4g93aa697ca8c4" version="30">Fall-from-Grace</content>
-  <content contentuid="h9b38f13fg0b85gbc56gd42egf80ad69d48f3" version="30">Tanar'ri</content>
+  <content contentuid="h86ddf0d5gb7e4g9970g06e4g93aa697ca8c4" version="31">Fall-from-Grace</content>
+  <content contentuid="h9b38f13fg0b85gbc56gd42egf80ad69d48f3" version="31">Tanar'ri</content>
   <content contentuid="h7810c487g87e1ge76bgd482ge0272e45cbc4" version="1">Sensates contract</content>
   <content contentuid="h121342c7gc1c5g0542g0012g86090ddac04e" version="12">Sensates contract</content>
   <content contentuid="hb4991804ga291g1f30g2c98g163887f7cce4" version="2">A planar contract to hire a member of the Society of Sensation.</content>
@@ -472,8 +476,8 @@
   <content contentuid="h2f9b7e5dg4c23g9e1gf0b5bgdbe712d045b1" version="5">Through observation, sensation and experience, the truth of the multiverse should be revealed.</content>
   <content contentuid="hf3a6d5b8g9e78g2b3g14c7ag89aef34d1204" version="5">How may I help you?</content>
   <content contentuid="h4e8c1b9fg3b22g5d1g2f4eag5db421ef6078" version="5">It's good to be journeying again! The brothel was a learning experience, but I think it was time I moved on.</content>
-  <content contentuid="h197f4dabg3eeegfb9dge10ag7280beda39e2" version="30">Annah</content>
-  <content contentuid="h12bf9b74g4fcegc003g0da1ge7151a0dca17" version="12">Fiendling</content>
+  <content contentuid="h197f4dabg3eeegfb9dge10ag7280beda39e2" version="31">Annah</content>
+  <content contentuid="h12bf9b74g4fcegc003g0da1ge7151a0dca17" version="13">Fiendling</content>
   <content contentuid="h44112202gb289gf648g7e66gfc2bd50fd990" version="1">Sharp tongue contract</content>
   <content contentuid="hbbdccb8dg6150g46c8g4469gdf55b7ac2a72" version="12">Sharp tongue contract</content>
   <content contentuid="hda347ed4g1934g5536g2575g50b830602f72" version="1">A planar contract to hire a thief scavenger from Sigil.</content>
@@ -599,44 +603,60 @@
   <content contentuid="h79a05212g041fgc43age50ag49de98de0c05" version="9">Wandering Githzerai</content>
   <content contentuid="h8244ad34g7aecg6119ga384g7e3aa0d3e245" version="7">Annah's Dagger</content>
   <content contentuid="h215d145dg7b60gaea3g6556g07b6c90a4c1f" version="6">"If you shut your trap, then I'll stop waving my tail."</content>
-  <content contentuid="h058f9715gd892g1cdcg259dg70611e9e3419" version="8">Ravel</content>
-  <content contentuid="h0c60149egab5ag2449gf3cfg74f860cb1913" version="7">Grey Hag</content>
-  <content contentuid="h3fb6deefg91efg7ed4g8522gc21586bffd2b" version="7">Trigit</content>
+  <content contentuid="h058f9715gd892g1cdcg259dg70611e9e3419" version="9">Ravel</content>
+  <content contentuid="h0c60149egab5ag2449gf3cfg74f860cb1913" version="8">Grey Hag</content>
+  <content contentuid="h3fb6deefg91efg7ed4g8522gc21586bffd2b" version="8">Trigit</content>
   <content contentuid="hae5490eag5890gd35ag4932gf28b570215f1" version="8">Trigit</content>
   <content contentuid="h32349a2bge9a6g8a80g576ag030c4ac40dd5" version="14">Tricha</content>
   <content contentuid="hf05eb324gf2b6g50f3g8b8cgef3063198104" version="14">Lim-Lim</content>
-  <content contentuid="h926288d3g4dc3g168cg49e7gd7d2cd47887a" version="4">Hollyphant</content>
-  <content contentuid="hcb770bb2g222dgd7c1g7883g29dbf1b25eab" version="5">Vargouille</content>
-  <content contentuid="h975ee734g8827gca5ag885bg2f565c3936a7" version="18">Lemure</content>
+  <content contentuid="h926288d3g4dc3g168cg49e7gd7d2cd47887a" version="5">Hollyphant</content>
+  <content contentuid="hcb770bb2g222dgd7c1g7883g29dbf1b25eab" version="8">Vargouille</content>
+  <content contentuid="h975ee734g8827gca5ag885bg2f565c3936a7" version="25">Lemure</content>
   <content contentuid="h4e30b8a8g3dc4g7d40g9b8cg8b3429eb8482" version="12">Trias</content>
   <content contentuid="h0ad9e969ga50bg7fa1gc2bag0fc2b6fdb5b1" version="12">The Betrayer</content>
   <content contentuid="h631290adgfbbegbe95gabb8g88b429133958" version="4">Celestial Fire</content>
   <content contentuid="h4f3dfaf2g76d8g3f8egf7a2gd3dceb5e6711" version="4">The sword looks several millennia old.</content>
   <content contentuid="h7ecb422fg6550gb945g7457g71945f2e78d7" version="24">The Transcendent One</content>
   <content contentuid="h08b8c000g29efg6a26g1abfg0e7e4d7c94a6" version="4" />
-  <content contentuid="ha4ee9c9cgd950g879egf1cag3b1d0de8d777" version="2">Hound Archon</content>
+  <content contentuid="ha4ee9c9cgd950g879egf1cag3b1d0de8d777" version="10">Hound Archon</content>
   <content contentuid="h294a7824g826fgcb92gc845gaf26cac269c8" version="3">Hound Archon</content>
-  <content contentuid="hbed6c9b8g86e0ge6eeg8b87g1f1d36781476" version="3">Lantern Archon</content>
-  <content contentuid="hd0cddb0ag6952g5898g16e5ga3147ed61766" version="1">Warden Archon</content>
+  <content contentuid="hbed6c9b8g86e0ge6eeg8b87g1f1d36781476" version="9">Lantern Archon</content>
+  <content contentuid="hd0cddb0ag6952g5898g16e5ga3147ed61766" version="6">Warden Archon</content>
   <content contentuid="h3098e04dg16b1g3868g1d42g2bda7a9b382b" version="3" />
-  <content contentuid="hd8bc137fg201eg60fag35f2g9a826f0f8540" version="2">Cornugon</content>
-  <content contentuid="h656446b9g5301g12a7g2462g7dfdf1da2c76" version="2">Greater Baatezu, Horned Devil</content>
-  <content contentuid="h478ef67ag8abeg2632g67d2g5f9c84c01250" version="3">Black Abishai</content>
-  <content contentuid="h4e6e5701ge98cgab35g1e6dgd7c4a41d01ba" version="3">Red Abishai</content>
-  <content contentuid="h4113b765g5440g7b51gf303ge1a57b5e2365" version="2">Green Abishai</content>
-  <content contentuid="h39e83b4ag0412g64d3gf3efgabdd37a952a8" version="2">White Abishai</content>
-  <content contentuid="h218f2668gd95dg420dg69c4ge8bef8524387" version="2">Blue Abishai</content>
-  <content contentuid="h9b593a71g70f2g6cedgff2dg7e870f58a6eb" version="3">Baatezu</content>
-  <content contentuid="h9a0a8740g7619g8b1agc02dg54b81a389b5a" version="3">Baatezu</content>
-  <content contentuid="h337a7260gdfa5g55bag125eg0cd064cc6ffa" version="2">Baatezu</content>
-  <content contentuid="he0c4ff9aga4dfge56bgea41g76f5aa8a7a4d" version="2">Baatezu</content>
-  <content contentuid="he21793dbgd68cgf222g874ag6dcb349abbfb" version="2">Baatezu</content>
-  <content contentuid="hd0acf3c7g5253gc0a3gd572gf64f7c347446" version="3">Gehreleth</content>
-  <content contentuid="h0cffe1acg6045gfe30gc54ag72e54ced2ff9" version="3">Demodand</content>
-  <content contentuid="h3cefeb2cg9c56ge356gd825ga94ef542ebdd" version="10">Larval Worm</content>
-  <content contentuid="haa7c9c32ga821g9ce9gea7bga7db8fdac785" version="10">Soul Larvae</content>
-  <content contentuid="hbed227c5g6bfegc312gd3a7g5100dc3e04bd" version="3">Nupperibo</content>
+  <content contentuid="hd8bc137fg201eg60fag35f2g9a826f0f8540" version="12">Cornugon</content>
+  <content contentuid="h656446b9g5301g12a7g2462g7dfdf1da2c76" version="12">Greater Baatezu, Horned Devil</content>
+  <content contentuid="h478ef67ag8abeg2632g67d2g5f9c84c01250" version="9">Black Abishai</content>
+  <content contentuid="h4e6e5701ge98cgab35g1e6dgd7c4a41d01ba" version="9">Red Abishai</content>
+  <content contentuid="h4113b765g5440g7b51gf303ge1a57b5e2365" version="8">Green Abishai</content>
+  <content contentuid="h39e83b4ag0412g64d3gf3efgabdd37a952a8" version="8">White Abishai</content>
+  <content contentuid="h218f2668gd95dg420dg69c4ge8bef8524387" version="8">Blue Abishai</content>
+  <content contentuid="h9b593a71g70f2g6cedgff2dg7e870f58a6eb" version="9">Baatezu</content>
+  <content contentuid="h9a0a8740g7619g8b1agc02dg54b81a389b5a" version="9">Baatezu</content>
+  <content contentuid="h337a7260gdfa5g55bag125eg0cd064cc6ffa" version="8">Baatezu</content>
+  <content contentuid="he0c4ff9aga4dfge56bgea41g76f5aa8a7a4d" version="8">Baatezu</content>
+  <content contentuid="he21793dbgd68cgf222g874ag6dcb349abbfb" version="8">Baatezu</content>
+  <content contentuid="hd0acf3c7g5253gc0a3gd572gf64f7c347446" version="9">Gehreleth</content>
+  <content contentuid="h0cffe1acg6045gfe30gc54ag72e54ced2ff9" version="9">Demodand</content>
+  <content contentuid="h3cefeb2cg9c56ge356gd825ga94ef542ebdd" version="12">Larval Worm</content>
+  <content contentuid="haa7c9c32ga821g9ce9gea7bga7db8fdac785" version="12">Damned Soul</content>
+  <content contentuid="hbed227c5g6bfegc312gd3a7g5100dc3e04bd" version="14">Nupperibo</content>
   <content contentuid="h978e6163g0fbbg24d4g0328g5b54b6a1edd7" version="3">Thokola</content>
   <content contentuid="h2aa05783ga864gf839g2eb7g01ba4dffbd3a" version="3">Thokola</content>
-  <content contentuid="hece8f81eg3275g7f8bgd74dg143636f357e1" version="5">Trocopotaca</content>
+  <content contentuid="hece8f81eg3275g7f8bgd74dg143636f357e1" version="6">Trocopotaca</content>
+  <content contentuid="h79c946e4gc109g84a8g9d62gf53dc1fd0a07" version="1">Damned Soul</content>
+  <content contentuid="h8965257ag38a6g1d31gb63eg3bd88e566a13" version="1">Damned Soul</content>
+  <content contentuid="hb27161fdg3ee4ga82bgc9f7g047653c80b4a" version="6">Musteval</content>
+  <content contentuid="h1736abd1g2cb3g48d7ga22bgec75f3f328e7" version="5">Darkweaver</content>
+  <content contentuid="h413940e8g00bag53afg150agaad5ad407e60" version="4">Dabus</content>
+  <content contentuid="h6152312age6f5gd166g4718gd135810b8fa6" version="6">Fell</content>
+  <content contentuid="hf080fa59g0a6dg3241ga173gdc4599ea5746" version="6">Fallen Dabus</content>
+  <content contentuid="h91744a8bgcd8fg6de1gc3f3g2a668528f676" version="1">Aoskar</content>
+  <content contentuid="h2326ff5fgaa6cgefd8g796age0f8559ee1f6" version="1">Aoskar was the god of portals. After being slain and cast out by the Lady of Pain, he remained adrift in the Astral Plane.</content>
+  <content contentuid="h27212040g203dgef8eg9308g5a5c4584d26d" version="3">Aoskar</content>
+  <content contentuid="h4bbbb3c7g60b9gd007g328fgf1c38e791946" version="3">Paladin of Aoskar</content>
+  <content contentuid="h3889fde3g841fg96a1gd8dagacfa01072358" version="3">Cleric of Aoskar</content>
+  <content contentuid="hb451be62gd5f3g5cb4gba60g0ea2acc92532" version="2">Aoskar was the self-appointed god of portals.</content>
+  <content contentuid="hfad34841gcdadg68b3ga535g2982a45d4dc6" version="2">A Paladin of Aoskar, the self-appointed god of portals.</content>
+  <content contentuid="h3b75d09bgd64cg89b7gf256gb23c0170ca1f" version="2">A Cleric of Aoskar, the self-appointed god of portals.</content>
+  <content contentuid="h87c75118g3b28ge534gacf2g00af0f2b19ce" version="7">Old Kolyarut Prototype</content>
 </contentList>

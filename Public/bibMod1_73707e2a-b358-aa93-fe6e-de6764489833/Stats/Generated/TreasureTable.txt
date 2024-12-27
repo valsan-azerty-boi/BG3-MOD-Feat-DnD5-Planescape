@@ -55,6 +55,12 @@ new subtable "1,1"
 object category "I_WPN_Paitm_HarmoniumBlade",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_WPN_Paitm_ElectrifiedMancatcher",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Paitm_AnnahDagger",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Paitm_FinalJudgment",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Paitm_CelestialFire",1,0,0,0,0,0,0,0
 new treasuretable "TUT_Chest_Potions"
 CanMerge 1
 IgnoreLevelDiff 1
