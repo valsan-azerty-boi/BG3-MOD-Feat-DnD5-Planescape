@@ -30,6 +30,22 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cf366390-44bb-401c-9346-28b2d860190c" />
+        <field name="Name" type="NameTableFieldDefinition" value="EQP_ZerthBlade_Dakkon_NoSh" />
+        <field name="InitialWeaponSet" type="EnumerationTableFieldDefinition" value="Melee" enumeration_type_name="WeaponSet" version="1" />
+        <field name="1" type="StatReferenceTableFieldDefinition" value="MAG_Paitm_DakZerthBlade_NoSh" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f3b15f6d-f028-4289-b061-baa96dbae2db" />
+        <field name="Name" type="NameTableFieldDefinition" value="EQP_ZerthBlade_Dakkon_Ghost_NoSh" />
+        <field name="InitialWeaponSet" type="EnumerationTableFieldDefinition" value="Melee" enumeration_type_name="WeaponSet" version="1" />
+        <field name="1" type="StatReferenceTableFieldDefinition" value="MAG_Paitm_DakZerthBlade_Ghost_NoSh" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="8421b85e-adac-4649-b38b-979de2617ea6" />
         <field name="Name" type="NameTableFieldDefinition" value="EQP_Blade_Trias" />
         <field name="InitialWeaponSet" type="EnumerationTableFieldDefinition" value="Melee" enumeration_type_name="WeaponSet" version="1" />

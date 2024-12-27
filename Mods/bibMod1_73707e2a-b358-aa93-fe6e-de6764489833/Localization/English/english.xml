@@ -589,8 +589,8 @@
   <content contentuid="h4d9e33c6g842eg3bf3g444dg0713d909a0ce" version="2">The blade emits a burst of entropic magic. Each creature in the spell area must succeed on a Constitution saving throw or take [1].</content>
   <content contentuid="h12ad8a4eg1d0agd71dg7d37gcc3b7f727ed3" version="30">Lady of Pain</content>
   <content contentuid="h1d953173g1abag5f4dg043ega6ec89584026" version="30">Her Serenity, Her Dread Majesty, The Bladed Queen</content>
-  <content contentuid="ha3cf2632g4740g59d4ge624gd7312f1c7fe8" version="37">Nordom</content>
-  <content contentuid="h7df2af48g623egd061g4da2gc49cbe1aece9" version="20">Modron</content>
+  <content contentuid="ha3cf2632g4740g59d4ge624gd7312f1c7fe8" version="51">Nordom</content>
+  <content contentuid="h7df2af48g623egd061g4da2gc49cbe1aece9" version="34">Modron</content>
   <content contentuid="hc994992fgf730gfa42gae26gac33b919326a" version="47">Ignus</content>
   <content contentuid="hdd568600g82c7g5e35gc328gbe3f63be86a5" version="19">Ignus</content>
   <content contentuid="h5a0e5480gd7feg0849g9370g8e7dcc5812ad" version="8">Pyromaniacal Mage</content>
@@ -599,8 +599,8 @@
   <content contentuid="h83454ef2g71c2gd305g8edbg5be8fa427be5" version="9">Restless Spirit</content>
   <content contentuid="h0f96aab6g8be1g2f8dgef93gba38709fe4b7" version="5">Final Judgment</content>
   <content contentuid="h335a9079gfe25g049dg005eg7a4dab35d9b7" version="5">The axe itself is huge; even wielded two-handed, it would require tremendous strength to use effectively.</content>
-  <content contentuid="h7fa22e66g06b8g8bb6g4d9bg238ba9ddba65" version="14">Dak'kon</content>
-  <content contentuid="h79a05212g041fgc43age50ag49de98de0c05" version="9">Wandering Githzerai</content>
+  <content contentuid="h7fa22e66g06b8g8bb6g4d9bg238ba9ddba65" version="21">Dak'kon</content>
+  <content contentuid="h79a05212g041fgc43age50ag49de98de0c05" version="16">Wandering Githzerai</content>
   <content contentuid="h8244ad34g7aecg6119ga384g7e3aa0d3e245" version="7">Annah's Dagger</content>
   <content contentuid="h215d145dg7b60gaea3g6556g07b6c90a4c1f" version="6">"If you shut your trap, then I'll stop waving my tail."</content>
   <content contentuid="h058f9715gd892g1cdcg259dg70611e9e3419" version="9">Ravel</content>
@@ -623,18 +623,18 @@
   <content contentuid="hbed6c9b8g86e0ge6eeg8b87g1f1d36781476" version="9">Lantern Archon</content>
   <content contentuid="hd0cddb0ag6952g5898g16e5ga3147ed61766" version="6">Warden Archon</content>
   <content contentuid="h3098e04dg16b1g3868g1d42g2bda7a9b382b" version="3" />
-  <content contentuid="hd8bc137fg201eg60fag35f2g9a826f0f8540" version="12">Cornugon</content>
-  <content contentuid="h656446b9g5301g12a7g2462g7dfdf1da2c76" version="12">Greater Baatezu, Horned Devil</content>
-  <content contentuid="h478ef67ag8abeg2632g67d2g5f9c84c01250" version="9">Black Abishai</content>
-  <content contentuid="h4e6e5701ge98cgab35g1e6dgd7c4a41d01ba" version="9">Red Abishai</content>
-  <content contentuid="h4113b765g5440g7b51gf303ge1a57b5e2365" version="8">Green Abishai</content>
-  <content contentuid="h39e83b4ag0412g64d3gf3efgabdd37a952a8" version="8">White Abishai</content>
-  <content contentuid="h218f2668gd95dg420dg69c4ge8bef8524387" version="8">Blue Abishai</content>
-  <content contentuid="h9b593a71g70f2g6cedgff2dg7e870f58a6eb" version="9">Baatezu</content>
-  <content contentuid="h9a0a8740g7619g8b1agc02dg54b81a389b5a" version="9">Baatezu</content>
-  <content contentuid="h337a7260gdfa5g55bag125eg0cd064cc6ffa" version="8">Baatezu</content>
-  <content contentuid="he0c4ff9aga4dfge56bgea41g76f5aa8a7a4d" version="8">Baatezu</content>
-  <content contentuid="he21793dbgd68cgf222g874ag6dcb349abbfb" version="8">Baatezu</content>
+  <content contentuid="hd8bc137fg201eg60fag35f2g9a826f0f8540" version="13">Cornugon</content>
+  <content contentuid="h656446b9g5301g12a7g2462g7dfdf1da2c76" version="13">Greater Baatezu, Horned Devil</content>
+  <content contentuid="h478ef67ag8abeg2632g67d2g5f9c84c01250" version="10">Black Abishai</content>
+  <content contentuid="h4e6e5701ge98cgab35g1e6dgd7c4a41d01ba" version="10">Red Abishai</content>
+  <content contentuid="h4113b765g5440g7b51gf303ge1a57b5e2365" version="9">Green Abishai</content>
+  <content contentuid="h39e83b4ag0412g64d3gf3efgabdd37a952a8" version="9">White Abishai</content>
+  <content contentuid="h218f2668gd95dg420dg69c4ge8bef8524387" version="9">Blue Abishai</content>
+  <content contentuid="h9b593a71g70f2g6cedgff2dg7e870f58a6eb" version="10">Baatezu</content>
+  <content contentuid="h9a0a8740g7619g8b1agc02dg54b81a389b5a" version="10">Baatezu</content>
+  <content contentuid="h337a7260gdfa5g55bag125eg0cd064cc6ffa" version="9">Baatezu</content>
+  <content contentuid="he0c4ff9aga4dfge56bgea41g76f5aa8a7a4d" version="9">Baatezu</content>
+  <content contentuid="he21793dbgd68cgf222g874ag6dcb349abbfb" version="9">Baatezu</content>
   <content contentuid="hd0acf3c7g5253gc0a3gd572gf64f7c347446" version="9">Gehreleth</content>
   <content contentuid="h0cffe1acg6045gfe30gc54ag72e54ced2ff9" version="9">Demodand</content>
   <content contentuid="h3cefeb2cg9c56ge356gd825ga94ef542ebdd" version="12">Larval Worm</content>
@@ -647,9 +647,9 @@
   <content contentuid="h8965257ag38a6g1d31gb63eg3bd88e566a13" version="1">Damned Soul</content>
   <content contentuid="hb27161fdg3ee4ga82bgc9f7g047653c80b4a" version="6">Musteval</content>
   <content contentuid="h1736abd1g2cb3g48d7ga22bgec75f3f328e7" version="5">Darkweaver</content>
-  <content contentuid="h413940e8g00bag53afg150agaad5ad407e60" version="4">Dabus</content>
-  <content contentuid="h6152312age6f5gd166g4718gd135810b8fa6" version="6">Fell</content>
-  <content contentuid="hf080fa59g0a6dg3241ga173gdc4599ea5746" version="6">Fallen Dabus</content>
+  <content contentuid="h413940e8g00bag53afg150agaad5ad407e60" version="9">Dabus</content>
+  <content contentuid="h6152312age6f5gd166g4718gd135810b8fa6" version="8">Fell</content>
+  <content contentuid="hf080fa59g0a6dg3241ga173gdc4599ea5746" version="8">Fallen Dabus</content>
   <content contentuid="h91744a8bgcd8fg6de1gc3f3g2a668528f676" version="1">Aoskar</content>
   <content contentuid="h2326ff5fgaa6cgefd8g796age0f8559ee1f6" version="1">Aoskar was the god of portals. After being slain and cast out by the Lady of Pain, he remained adrift in the Astral Plane.</content>
   <content contentuid="h27212040g203dgef8eg9308g5a5c4584d26d" version="3">Aoskar</content>
@@ -659,4 +659,10 @@
   <content contentuid="hfad34841gcdadg68b3ga535g2982a45d4dc6" version="2">A Paladin of Aoskar, the self-appointed god of portals.</content>
   <content contentuid="h3b75d09bgd64cg89b7gf256gb23c0170ca1f" version="2">A Cleric of Aoskar, the self-appointed god of portals.</content>
   <content contentuid="h87c75118g3b28ge534gacf2g00af0f2b19ce" version="7">Old Kolyarut Prototype</content>
+  <content contentuid="hb3ec902fg4e39g79ebg07d0g848d57d98749" version="16">Nordom</content>
+  <content contentuid="h613ff7adg4963ga925g9e43gf763b96e2a31" version="16">Clone</content>
+  <content contentuid="h10733adcgfb24g189egeae2g40ebb7361a76" version="5">Dak'kon</content>
+  <content contentuid="h6e18c113g3360g89efg2c8eg45fff0179555" version="5">Wandering Githzerai</content>
+  <content contentuid="hbfdf76d3g6174gbbb4g92e5g62a8b3ad890c" version="2">Dak'kon's Zerth Blade</content>
+  <content contentuid="h7a2a1170g6cdeg49fdg9350g9785355dced7" version="2">This sword was the weapon of choice of a famous githzerai working for a creature known as the 'Nameless One'.</content>
 </contentList>

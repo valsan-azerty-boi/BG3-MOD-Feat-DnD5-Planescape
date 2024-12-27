@@ -47,6 +47,16 @@ using "Template_MAG_Paitm_DakZerthBlade"
 data "RootTemplate" "6fbcf989-38d4-4459-b7db-a9aa5cf3d4ac"
 data "PersonalStatusImmunities" "SILENCED;SG_Condition;BLEEDING;BURNING"
 
+new entry "MAG_Paitm_DakZerthBlade_NoSh"
+type "Weapon"
+using "MAG_Paitm_DakZerthBlade"
+data "Weapon Properties" "Versatile;Melee;Dippable;Finesse;NotSheathable"
+
+new entry "MAG_Paitm_DakZerthBlade_Ghost_NoSh"
+type "Weapon"
+using "MAG_Paitm_DakZerthBlade_NoSh"
+data "RootTemplate" "97c49f06-b29e-497c-9799-e23eb398afde"
+
 new entry "WPN_Paitm_AnnahDagger_Template"
 type "Weapon"
 data "Level" "1"

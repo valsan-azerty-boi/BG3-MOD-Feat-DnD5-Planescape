@@ -61,6 +61,22 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="98be524f-fbe5-4fb8-aa3e-4a3b92fdfc79" />
+        <field name="Name" type="NameTableFieldDefinition" value="MAG_Paitm_DakZerthBlade_NoSh" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="3d3673f2-1367-4cdd-98d8-f7b74bec27a9" />
+        <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Versatile;Melee;Dippable;Finesse;NotSheathable" enumeration_type_name="WeaponFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f849095b-3c74-47de-8de2-ca0901d34a76" />
+        <field name="Name" type="NameTableFieldDefinition" value="MAG_Paitm_DakZerthBlade_Ghost_NoSh" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="98be524f-fbe5-4fb8-aa3e-4a3b92fdfc79" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="97c49f06-b29e-497c-9799-e23eb398afde" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="7dcd835b-fefc-423e-81fc-7722096973e3" />
         <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_AnnahDagger_Template" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
