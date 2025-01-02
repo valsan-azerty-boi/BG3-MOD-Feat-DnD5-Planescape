@@ -86,7 +86,7 @@ new treasuretable "LOW_VoicelessPenitent"
 CanMerge 1
 IgnoreLevelDiff 1
 new subtable "1,1"
-object category "I_OBJ_Paitm_Mimir",1,0,0,0,0,0,0,0
+object category "I_OBJ_Paitm_Mimir",1,0,0,0,0,0,0,1
 new subtable "1,1"
 object category "I_OBJ_Paitm_PortalCompass",1,0,0,0,0,0,0,0
 new treasuretable "MOO_ZhentQuartermaster"
@@ -109,7 +109,7 @@ new treasuretable "LOW_MysticCarrion_Trade"
 CanMerge 1
 IgnoreLevelDiff 1
 new subtable "1,1"
-object category "I_OBJ_Paitm_Mimir",1,0,0,0,0,0,0,0
+object category "I_OBJ_Paitm_Mimir",1,0,0,0,0,0,0,1
 new subtable "3,1"
 object category "I_OBJ_Paitm_SensoryStone",1,0,0,0,0,0,0,0
 new treasuretable "UND_SocietyOfBrilliance_Hobgoblin"
@@ -140,12 +140,12 @@ new treasuretable "CRE_Expeditioner_Trade"
 CanMerge 1
 IgnoreLevelDiff 1
 new subtable "1,1"
-object category "I_OBJ_Paitm_Mimir",1,0,0,0,0,0,0,0
+object category "I_OBJ_Paitm_Mimir",1,0,0,0,0,0,0,1
 new treasuretable "SHA_MerregonTrader"
 CanMerge 1
 IgnoreLevelDiff 1
 new subtable "1,1"
-object category "I_OBJ_Paitm_Mimir",1,0,0,0,0,0,0,0
+object category "I_OBJ_Paitm_Mimir",1,0,0,0,0,0,0,1
 new treasuretable "LOW_SteepsTrader_BooksAndScrolls"
 CanMerge 1
 IgnoreLevelDiff 1
@@ -166,7 +166,7 @@ new treasuretable "LOW_DevilsFee_Diabolist_Trade_Magic"
 CanMerge 1
 IgnoreLevelDiff 1
 new subtable "1,1"
-object category "I_OBJ_Paitm_Mimir",1,0,0,0,0,0,0,0
+object category "I_OBJ_Paitm_Mimir",1,0,0,0,0,0,0,1
 new subtable "1,1"
 object category "I_OBJ_Paitm_FallFromGrace",1,0,0,0,0,0,0,1
 new treasuretable "LOW_Guildhall_Bartender"
@@ -174,3 +174,9 @@ CanMerge 1
 IgnoreLevelDiff 1
 new subtable "1,1"
 object category "I_OBJ_Paitm_Annah",1,0,0,0,0,0,0,1
+new treasuretable "Paitm_Act2_DeadDuster"
+IgnoreLevelDiff 1
+new subtable "1,1"
+object category "I_OBJ_Paitm_CharmIncorporeality",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Paitm_CharmDeadTruce",1,0,0,0,0,0,0,0
