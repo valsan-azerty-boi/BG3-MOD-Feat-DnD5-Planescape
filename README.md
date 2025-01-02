@@ -31,7 +31,7 @@ This mod implements features from the D&D 5E Planescape sourcebooks into Baldur'
 - CFLO
 - And Larian for the game and Mod Toolkit
 
-## CC credits
+## External CC credits
 - AD&D2 Lady of Pain mask 3D model from [chrisgo](https://www.thingiverse.com/thing:2407798)
 - Planescape Torment Nordom 3D model from [Xavier L.](https://www.myminifactory.com/object/3d-print-nordom-planescape-torment-208680)
 

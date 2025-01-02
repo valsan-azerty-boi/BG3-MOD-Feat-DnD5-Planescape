@@ -88,6 +88,11 @@ using "WPN_Paitm_AnnahDagger_Template"
 data "RootTemplate" "b1ed7bce-b1d7-4226-a553-2b12a0e49627"
 data "PersonalStatusImmunities" "SILENCED;SG_Condition;BLEEDING;BURNING"
 
+new entry "WPN_Paitm_AnnahDagger_NoSh"
+type "Weapon"
+using "WPN_Paitm_AnnahDagger"
+data "Weapon Properties" "Finesse;Light;Melee;Dippable;NotSheathable;Magical"
+
 new entry "WPN_Paitm_FinalJudgment_Template"
 type "Weapon"
 data "Level" "1"
@@ -109,7 +114,6 @@ data "BoostsOnEquipMainHand" "UnlockSpell(Zone_Cleave);UnlockSpell(Target_Slash_
 data "InventoryTab" "Equipment"
 data "ItemColor" "DefaultGray"
 data "Weapon Group" "MartialMeleeWeapon"
-data "VersatileDamage" "1d12+4"
 data "Weapon Properties" "Heavy;Twohanded;Melee;Dippable;Magical"
 data "Proficiency Group" "Greataxes;MartialWeapons"
 
@@ -140,7 +144,6 @@ data "BoostsOnEquipMainHand" "UnlockSpell(Target_PommelStrike);UnlockSpell(Targe
 data "InventoryTab" "Equipment"
 data "ItemColor" "DefaultGray"
 data "Weapon Group" "MartialMeleeWeapon"
-data "VersatileDamage" "3d6+10"
 data "Weapon Properties" "Twohanded;Heavy;Melee"
 data "Proficiency Group" "Greatswords;MartialWeapons"
 

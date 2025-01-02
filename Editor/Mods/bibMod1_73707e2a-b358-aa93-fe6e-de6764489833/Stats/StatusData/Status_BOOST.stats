@@ -667,6 +667,24 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fb23ef4c-fd86-4187-8dc1-a38bd3a33de3" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_FinalJudgment_Buff" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_FinalJudgment" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(4,Slashing)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0cc41213-6708-4c33-83db-57f6477c56b8" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_CelestialFire_Buff" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_CelestialFire" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(10,Fire)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="d3aa4777-d73f-4973-b0f0-0973c2ea582a" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_CharmOfTheDeadTruce_Buff" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="2" />

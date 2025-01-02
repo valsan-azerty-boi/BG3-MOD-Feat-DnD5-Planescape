@@ -114,6 +114,14 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d354c76d-465e-4a27-90d7-680df2925449" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_AnnahDagger_NoSh" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="63712838-469e-4b7c-bf63-733ab6c11036" />
+        <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Finesse;Light;Melee;Dippable;NotSheathable;Magical" enumeration_type_name="WeaponFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="1ee9f67f-150f-4e9a-91da-3423c8f49fef" />
         <field name="Name" type="NameTableFieldDefinition" value="WPN_Paitm_FinalJudgment_Template" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
@@ -135,7 +143,6 @@
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
         <field name="ItemColor" type="StringTableFieldDefinition" value="DefaultGray" />
         <field name="Weapon Group" type="EnumerationTableFieldDefinition" value="MartialMeleeWeapon" enumeration_type_name="Weapon Group" version="1" />
-        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="1d12+4" />
         <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Heavy;Twohanded;Melee;Dippable;Magical" enumeration_type_name="WeaponFlags" version="1" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Greataxes;MartialWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
@@ -172,7 +179,6 @@
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
         <field name="ItemColor" type="StringTableFieldDefinition" value="DefaultGray" />
         <field name="Weapon Group" type="EnumerationTableFieldDefinition" value="MartialMeleeWeapon" enumeration_type_name="Weapon Group" version="1" />
-        <field name="VersatileDamage" type="DiceTableFieldDefinition" value="3d6+10" />
         <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Twohanded;Heavy;Melee" enumeration_type_name="WeaponFlags" version="1" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Greatswords;MartialWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>

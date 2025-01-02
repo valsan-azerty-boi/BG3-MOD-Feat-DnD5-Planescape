@@ -1,13 +1,9 @@
 new equipment "EQP_Dagger_DW_Annah"
 add initialweaponset "Melee"
 add equipmentgroup
-add equipment entry "WPN_Paitm_AnnahDagger"
+add equipment entry "WPN_Paitm_AnnahDagger_NoSh"
 add equipmentgroup
-add equipment entry "WPN_Paitm_AnnahDagger"
-add equipmentgroup
-add equipment entry "WPN_HandCrossbow_1"
-add equipmentgroup
-add equipment entry "WPN_HandCrossbow_1"
+add equipment entry "WPN_Paitm_AnnahDagger_NoSh"
 
 new equipment "EQP_FinalJudgment_Vhailor"
 add initialweaponset "Melee"
