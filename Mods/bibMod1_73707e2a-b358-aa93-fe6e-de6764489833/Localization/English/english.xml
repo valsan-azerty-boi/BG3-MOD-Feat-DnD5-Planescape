@@ -589,8 +589,8 @@
   <content contentuid="h4d9e33c6g842eg3bf3g444dg0713d909a0ce" version="2">The blade emits a burst of entropic magic. Each creature in the spell area must succeed on a Constitution saving throw or take [1].</content>
   <content contentuid="h12ad8a4eg1d0agd71dg7d37gcc3b7f727ed3" version="30">Lady of Pain</content>
   <content contentuid="h1d953173g1abag5f4dg043ega6ec89584026" version="30">Her Serenity, Her Dread Majesty, The Bladed Queen</content>
-  <content contentuid="ha3cf2632g4740g59d4ge624gd7312f1c7fe8" version="52">Nordom</content>
-  <content contentuid="h7df2af48g623egd061g4da2gc49cbe1aece9" version="35">Modron</content>
+  <content contentuid="ha3cf2632g4740g59d4ge624gd7312f1c7fe8" version="53">Nordom</content>
+  <content contentuid="h7df2af48g623egd061g4da2gc49cbe1aece9" version="36">Modron</content>
   <content contentuid="hc994992fgf730gfa42gae26gac33b919326a" version="47">Ignus</content>
   <content contentuid="hdd568600g82c7g5e35gc328gbe3f63be86a5" version="19">Ignus</content>
   <content contentuid="h5a0e5480gd7feg0849g9370g8e7dcc5812ad" version="8">Pyromaniacal Mage</content>
@@ -659,8 +659,8 @@
   <content contentuid="hfad34841gcdadg68b3ga535g2982a45d4dc6" version="2">A Paladin of Aoskar, the self-appointed god of portals.</content>
   <content contentuid="h3b75d09bgd64cg89b7gf256gb23c0170ca1f" version="2">A Cleric of Aoskar, the self-appointed god of portals.</content>
   <content contentuid="h87c75118g3b28ge534gacf2g00af0f2b19ce" version="7">Old Kolyarut Prototype</content>
-  <content contentuid="hb3ec902fg4e39g79ebg07d0g848d57d98749" version="17">Nordom</content>
-  <content contentuid="h613ff7adg4963ga925g9e43gf763b96e2a31" version="17">Clone</content>
+  <content contentuid="hb3ec902fg4e39g79ebg07d0g848d57d98749" version="18">Nordom</content>
+  <content contentuid="h613ff7adg4963ga925g9e43gf763b96e2a31" version="18">Clone</content>
   <content contentuid="h10733adcgfb24g189egeae2g40ebb7361a76" version="5">Dak'kon</content>
   <content contentuid="h6e18c113g3360g89efg2c8eg45fff0179555" version="5">Wandering Githzerai</content>
   <content contentuid="hbfdf76d3g6174gbbb4g92e5g62a8b3ad890c" version="2">Dak'kon's Zerth Blade</content>
@@ -668,6 +668,6 @@
   <content contentuid="h992fcffbg616egb425g8514g973d2f91eb92" version="1">Avoral</content>
   <content contentuid="h9acc3044g7aefgbb08g00a0g4dae136a3156" version="1">Duster</content>
   <content contentuid="h5dc2be45g0211gc2daga25fgad12591aec38" version="1">Missionary of The Heralds of Dust</content>
-  <content contentuid="hdd9c4493gea86ge134g9861g36bfa3d42488" version="5">Monodrone</content>
-  <content contentuid="hcdeb3a88g9a1ag2a20g5bffgc6b9385ba9d7" version="5">Modron</content>
+  <content contentuid="hdd9c4493gea86ge134g9861g36bfa3d42488" version="6">Monodrone</content>
+  <content contentuid="hcdeb3a88g9a1ag2a20g5bffgc6b9385ba9d7" version="6">Modron</content>
 </contentList>
