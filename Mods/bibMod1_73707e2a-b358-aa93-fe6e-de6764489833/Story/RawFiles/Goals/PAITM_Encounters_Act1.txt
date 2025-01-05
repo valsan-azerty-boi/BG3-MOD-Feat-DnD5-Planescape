@@ -1,0 +1,18 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+//REGION PAITM Encounter Act 1 monodrones in underdark
+
+IF
+DB_GlobalFlag((FLAG)Paitm_EncounterAct1_MonodroneDialog_3_0b65726f-2fd2-4fb8-8771-c7aa5cb495a0)
+THEN
+SetRelation((FACTION)Paitm_EncounterAct1_Monodrones_0c23542f-f63a-41aa-9407-1c5f7bd334d6, (FACTION)Hero_a1542c81-6895-929e-4522-10ce218bb360, 0);
+SetRelation((FACTION)Hero_a1542c81-6895-929e-4522-10ce218bb360, (FACTION)Paitm_EncounterAct1_Monodrones_0c23542f-f63a-41aa-9407-1c5f7bd334d6, 0);
+ClearFlag((FLAG)Paitm_EncounterAct1_MonodroneDialog_3_0b65726f-2fd2-4fb8-8771-c7aa5cb495a0, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
+
+//END_REGION
+EXITSECTION
+
+ENDEXITSECTION

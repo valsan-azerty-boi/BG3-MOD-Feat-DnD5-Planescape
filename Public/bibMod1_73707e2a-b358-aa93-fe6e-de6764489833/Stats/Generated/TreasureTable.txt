@@ -174,6 +174,10 @@ CanMerge 1
 IgnoreLevelDiff 1
 new subtable "1,1"
 object category "I_OBJ_Paitm_Annah",1,0,0,0,0,0,0,1
+new treasuretable "Paitm_Act1_Monodrones"
+IgnoreLevelDiff 1
+new subtable "1,1"
+object category "I_OBJ_Paitm_ModronCubeReplica",1,0,0,0,0,0,0,0
 new treasuretable "Paitm_Act2_DeadDuster"
 IgnoreLevelDiff 1
 new subtable "1,1"

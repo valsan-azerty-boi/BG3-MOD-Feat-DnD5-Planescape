@@ -684,6 +684,16 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="661a1aa6-cf76-4784-aa87-a45b3a4708ff" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Act1_Monodrones" />
+        <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Paitm_ModronCubeReplica" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="80e24a74-ee83-4e9a-be08-2986c9817983" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_Act2_DeadDuster" />
         <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
