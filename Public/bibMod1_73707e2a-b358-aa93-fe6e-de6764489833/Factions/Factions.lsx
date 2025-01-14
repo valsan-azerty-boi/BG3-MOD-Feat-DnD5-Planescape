@@ -9,6 +9,11 @@
                     <attribute id="ParentGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <attribute id="UUID" type="guid" value="0c23542f-f63a-41aa-9407-1c5f7bd334d6"/>
                 </node>
+                <node id="Faction">
+                    <attribute id="Faction" type="FixedString" value="Paitm_EncounterAct2_COL_TadpoledAbishai"/>
+                    <attribute id="ParentGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="UUID" type="guid" value="ccfd6ea5-b0db-4577-ab59-0249b99096ce"/>
+                </node>
             </children>
         </node>
     </region>

@@ -16,6 +16,76 @@
                             <attribute id="Target" type="guid" value="a1542c81-6895-929e-4522-10ce218bb360"/>
                             <attribute id="Value" type="int32" value="50"/>
                         </node>
+                        <node id="Relation">
+                            <attribute id="Source" type="guid" value="ccfd6ea5-b0db-4577-ab59-0249b99096ce"/>
+                            <attribute id="Target" type="guid" value="154d8920-33d0-43c4-a834-9dbf3e6a604f"/>
+                            <attribute id="Value" type="int32" value="100"/>
+                        </node>
+                        <node id="Relation">
+                            <attribute id="Source" type="guid" value="154d8920-33d0-43c4-a834-9dbf3e6a604f"/>
+                            <attribute id="Target" type="guid" value="ccfd6ea5-b0db-4577-ab59-0249b99096ce"/>
+                            <attribute id="Value" type="int32" value="100"/>
+                        </node>
+                        <node id="Relation">
+                            <attribute id="Source" type="guid" value="ccfd6ea5-b0db-4577-ab59-0249b99096ce"/>
+                            <attribute id="Target" type="guid" value="2762926d-2d97-4a9c-808f-1690f5f6a4dd"/>
+                            <attribute id="Value" type="int32" value="100"/>
+                        </node>
+                        <node id="Relation">
+                            <attribute id="Source" type="guid" value="2762926d-2d97-4a9c-808f-1690f5f6a4dd"/>
+                            <attribute id="Target" type="guid" value="ccfd6ea5-b0db-4577-ab59-0249b99096ce"/>
+                            <attribute id="Value" type="int32" value="100"/>
+                        </node>
+                        <node id="Relation">
+                            <attribute id="Source" type="guid" value="ccfd6ea5-b0db-4577-ab59-0249b99096ce"/>
+                            <attribute id="Target" type="guid" value="a1542c81-6895-929e-4522-10ce218bb360"/>
+                            <attribute id="Value" type="int32" value="0"/>
+                        </node>
+                        <node id="Relation">
+                            <attribute id="Source" type="guid" value="a1542c81-6895-929e-4522-10ce218bb360"/>
+                            <attribute id="Target" type="guid" value="ccfd6ea5-b0db-4577-ab59-0249b99096ce"/>
+                            <attribute id="Value" type="int32" value="0"/>
+                        </node>
+                        <node id="Relation">
+                            <attribute id="Source" type="guid" value="a00a759c-c3e1-41cd-b7be-abb321aa9e0f"/>
+                            <attribute id="Target" type="guid" value="ccfd6ea5-b0db-4577-ab59-0249b99096ce"/>
+                            <attribute id="Value" type="int32" value="100"/>
+                        </node>
+                        <node id="Relation">
+                            <attribute id="Source" type="guid" value="ccfd6ea5-b0db-4577-ab59-0249b99096ce"/>
+                            <attribute id="Target" type="guid" value="a00a759c-c3e1-41cd-b7be-abb321aa9e0f"/>
+                            <attribute id="Value" type="int32" value="100"/>
+                        </node>
+                        <node id="Relation">
+                            <attribute id="Source" type="guid" value="ae10677b-e394-4bb3-84aa-5b37418d8c75"/>
+                            <attribute id="Target" type="guid" value="ccfd6ea5-b0db-4577-ab59-0249b99096ce"/>
+                            <attribute id="Value" type="int32" value="50"/>
+                        </node>
+                        <node id="Relation">
+                            <attribute id="Source" type="guid" value="ccfd6ea5-b0db-4577-ab59-0249b99096ce"/>
+                            <attribute id="Target" type="guid" value="ae10677b-e394-4bb3-84aa-5b37418d8c75"/>
+                            <attribute id="Value" type="int32" value="50"/>
+                        </node>
+                        <node id="Relation">
+                            <attribute id="Source" type="guid" value="633d2d0f-5f50-41c3-bc41-831fc8bdd1c2"/>
+                            <attribute id="Target" type="guid" value="ccfd6ea5-b0db-4577-ab59-0249b99096ce"/>
+                            <attribute id="Value" type="int32" value="100"/>
+                        </node>
+                        <node id="Relation">
+                            <attribute id="Source" type="guid" value="ccfd6ea5-b0db-4577-ab59-0249b99096ce"/>
+                            <attribute id="Target" type="guid" value="633d2d0f-5f50-41c3-bc41-831fc8bdd1c2"/>
+                            <attribute id="Value" type="int32" value="100"/>
+                        </node>
+                        <node id="Relation">
+                            <attribute id="Source" type="guid" value="04637de8-a921-4c0f-80b3-1f25ed3e4f8c"/>
+                            <attribute id="Target" type="guid" value="ccfd6ea5-b0db-4577-ab59-0249b99096ce"/>
+                            <attribute id="Value" type="int32" value="100"/>
+                        </node>
+                        <node id="Relation">
+                            <attribute id="Source" type="guid" value="ccfd6ea5-b0db-4577-ab59-0249b99096ce"/>
+                            <attribute id="Target" type="guid" value="04637de8-a921-4c0f-80b3-1f25ed3e4f8c"/>
+                            <attribute id="Value" type="int32" value="100"/>
+                        </node>
                     </children>
                 </node>
             </children>
