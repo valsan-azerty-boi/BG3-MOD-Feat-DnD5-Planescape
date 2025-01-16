@@ -1478,7 +1478,7 @@ data "Proficiency Group" "None"
 new entry "Paitm_Bestiary_Tridrone_EncounterAct1"
 type "Character"
 using "Paitm_Bestiary_Tridrone"
-data "Vitality" "81"
+data "Vitality" "64"
 data "DifficultyStatuses" "STATUS_EASY: HEALTHREDUCTION_EASYMODE"
 
 new entry "Paitm_Bestiary_Monodrone"

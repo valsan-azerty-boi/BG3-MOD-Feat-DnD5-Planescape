@@ -1615,7 +1615,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="b7b933bd-e9b9-4e3b-9e08-b333a4f1c7dc" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_Bestiary_Tridrone_EncounterAct1" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="9adcec46-422b-4fed-af1b-85cd357ea449" />
-        <field name="Vitality" type="IntegerTableFieldDefinition" value="81" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="64" />
         <field name="DifficultyStatuses" type="StringTableFieldDefinition" value="STATUS_EASY: HEALTHREDUCTION_EASYMODE" />
       </fields>
     </stat_object>

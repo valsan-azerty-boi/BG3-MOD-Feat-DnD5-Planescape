@@ -4,7 +4,7 @@
 [Nexus](https://www.nexusmods.com/baldursgate3/mods/12096) - [mod.io](https://mod.io/g/baldursgate3/m/features-from-dnd-5e-planescape) - [Source](https://github.com/valsan-azerty-boi/BG3-MOD-Feat-DnD5-Planescape)
 
 ## Features
-This mod implements features from the D&D 5E Planescape sourcebooks into Baldur's Gate 3. These mechanics have been adapted to better match the way the game works. Contains backgrounds, goals, feats, spells, items, etc.
+This mod implements features from the D&D 5E Planescape sourcebooks into Baldur's Gate 3. These mechanics have been adapted to better match the way the game works. Contains backgrounds, goals, feats, spells, items, bestiary, etc.
 
 ## Languages
 - English 
