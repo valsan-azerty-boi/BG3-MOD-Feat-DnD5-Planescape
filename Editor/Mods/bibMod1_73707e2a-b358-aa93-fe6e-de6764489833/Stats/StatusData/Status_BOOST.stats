@@ -740,5 +740,14 @@
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7301e297-31df-433b-9c27-56d7bcb94368" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_RavelsNail_Buff" />
+        <field name="StackId" type="StringTableFieldDefinition" value="PAITM_RAVELSNAIL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Skill(Nature,2)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

@@ -613,3 +613,10 @@ data "StatusType" "BOOST"
 using "Paitm_Entropy_DeathDebuff"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting"
 
+new entry "Paitm_RavelsNail_Buff"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "PAITM_RAVELSNAIL"
+data "Boosts" "Skill(Nature,2)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+
