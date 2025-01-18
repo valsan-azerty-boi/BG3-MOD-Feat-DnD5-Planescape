@@ -9,21 +9,21 @@
   <content contentuid="h350fe144ga8fdg985dgc3acg5a7496bb2797" version="1">Gate Warden</content>
   <content contentuid="h5e8faeefg485ag5e10g8484gf32865d861f9" version="1">You spent a significant amount of time somewhere influenced by intense planar forces or a portal to another plane of existence. You’re accustomed to experiences that would leave others reeling in terror or enraptured by otherworldly beauty, and you’re comfortable dealing with Celestials and Fiends.</content>
   <content contentuid="h5044a308g8643g0253g4ba6ge2057b7fba3a" version="1">Planar Philosopher</content>
-  <content contentuid="hcb31dc8bga795g55aegb3ebge686e0b3ef7c" version="1">You have &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Arcana"&gt;Arcana&lt;/LSTag&gt; and, regarding your distance from the factions of Sigil, &lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt;.</content>
+  <content contentuid="hcb31dc8bga795g55aegb3ebge686e0b3ef7c" version="1">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Arcana"&gt;Arcana&lt;/LSTag&gt; and, regarding your distance from the factions of Sigil, &lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt;.</content>
   <content contentuid="hbe28ccc0gde5cgb934gba26gb9d93b9ea01a" version="1">Gate Warden</content>
-  <content contentuid="h930657efg00d8gecb5g8facg5b9b23e9e0ee" version="1">You have &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Persuasion"&gt;Persuasion&lt;/LSTag&gt; and &lt;LSTag Tooltip="Survival"&gt;Survival&lt;/LSTag&gt;.</content>
+  <content contentuid="h930657efg00d8gecb5g8facg5b9b23e9e0ee" version="1">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Persuasion"&gt;Persuasion&lt;/LSTag&gt; and &lt;LSTag Tooltip="Survival"&gt;Survival&lt;/LSTag&gt;.</content>
   <content contentuid="h847ddcd7g272ag0430g716ag7f16375fc360" version="1">Scion of the Outer Planes</content>
   <content contentuid="hbe53f43dgeeacg8f37gd1d5g3cf9b78e6290" version="3">Your connection to an Outer Plane infuses you with its energies and you gain an appropriate cantrip.</content>
   <content contentuid="hf64a139cgc948ga643gaf46g387aed0092f2" version="1">Chaotic Outer Plane</content>
-  <content contentuid="ha428d52dg1e57g58b8gbe02g8d2c9933c779" version="4">Your connection to Chaotic Outer Plane infuses you with a Poison &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and give you the minor spell &lt;LSTag Tooltip="MinorIllusion"&gt;Minor illusion&lt;/LSTag&gt;.</content>
+  <content contentuid="ha428d52dg1e57g58b8gbe02g8d2c9933c779" version="4">Your connection to a Chaotic Outer Plane infuses you with Poison &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and grants you the spell &lt;LSTag Tooltip="MinorIllusion"&gt;Minor Illusion&lt;/LSTag&gt;.</content>
   <content contentuid="heef34103gf7d6g0291g8ee3gcf8d552b9124" version="1">Evil Outer Plane</content>
-  <content contentuid="h25332eefge01cg4b69g5faag55fd585718a1" version="5">Your connection to Evil Outer Plane infuses you with a Necrotic &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and give you the minor spell &lt;LSTag Tooltip="ChillTouch"&gt;Chill touch&lt;/LSTag&gt; (also known as &lt;LSTag Tooltip="ChillTouch"&gt;Bone chill&lt;/LSTag&gt;).</content>
+  <content contentuid="h25332eefge01cg4b69g5faag55fd585718a1" version="5">Your connection to an Evil Outer Plane infuses you with Necrotic &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and grants you the spell &lt;LSTag Tooltip="CHILL_TOUCH"&gt;Bone Chill&lt;/LSTag&gt;.</content>
   <content contentuid="h11d6a73dg4fd4ged75g2e08g319314a0224c" version="1">Good Outer Plane</content>
-  <content contentuid="hcc33cf7agd7b9g00eage804g41b8a1eee356" version="4">Your connection to Good Outer Plane infuses you with a Radiant &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and give you the minor spell &lt;LSTag Tooltip="SacredFlame"&gt;Sacred flame&lt;/LSTag&gt;.</content>
+  <content contentuid="hcc33cf7agd7b9g00eage804g41b8a1eee356" version="4">Your connection to a Good Outer Plane infuses you with Radiant &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and grants you the spell &lt;LSTag Tooltip="SacredFlame"&gt;Sacred Flame&lt;/LSTag&gt;.</content>
   <content contentuid="h3039dca7g4e3dgb8cfgc231g881d97ebf543" version="1">Lawful Outer Plane</content>
-  <content contentuid="h93f08ce1g78ccg7688gd450g22dd21334e0e" version="4">Your connection to Lawful Outer Plane infuses you with a Force &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and give you the minor spell &lt;LSTag Tooltip="Guidance"&gt;Guidance&lt;/LSTag&gt;.</content>
+  <content contentuid="h93f08ce1g78ccg7688gd450g22dd21334e0e" version="4">Your connection to a Lawful Outer Plane infuses you with Force &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and grants you the spell &lt;LSTag Tooltip="Guidance"&gt;Guidance&lt;/LSTag&gt;.</content>
   <content contentuid="hf4fbbe54g075dg035cge463g187b3f9dbea7" version="1">The Outlands</content>
-  <content contentuid="h5e30a580g99b8g4dfcg2abcgb2650539f572" version="4">Your connection to Outlands infuses you with a Psychic &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and give you the minor spell &lt;LSTag Tooltip="MageHand"&gt;Mage hand&lt;/LSTag&gt;.</content>
+  <content contentuid="h5e30a580g99b8g4dfcg2abcgb2650539f572" version="4">Your connection to the Outlands infuses you with Psychic &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and grants you the spell &lt;LSTag Tooltip="MageHand"&gt;Mage Hand&lt;/LSTag&gt;.</content>
   <content contentuid="h3b8cb656g7968gf2dag31b8g6a98e698cd3e" version="1">Planar Wanderer</content>
   <content contentuid="h4b1b0ee0g2aabg6fb6ge12fg61d331c63717" version="2">You can draw on the forces of the multiverse to survive cosmic extremes and you assert yourself as a true expert in planar portals.</content>
   <content contentuid="h7922d8aag0730g408bg1301g0c3f6b90631b" version="1">Agent of Order</content>
@@ -37,23 +37,23 @@
   <content contentuid="h9c19cc12g6bcag28a1g99f8gb656a4cfd87c" version="1">Righteous Heritor</content>
   <content contentuid="h395735d3gba45gb3d8ga495gbcb55fd7702a" version="2" />
   <content contentuid="h750430b5g480fgddabg4bc0g7dd11520f7a1" version="2">Acid Planar Adaptation</content>
-  <content contentuid="hffa64d14g00eage72agfbcdgf24965250c7e" version="9">With your experience of planar travel, you gain an Acid &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and the spell &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Portal cracker&lt;/LSTag&gt; to create 2 portals one time per short rest.</content>
+  <content contentuid="hffa64d14g00eage72agfbcdgf24965250c7e" version="9">From your experiences with planar travel, you gain Acid &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and the spell &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Portal Cracker&lt;/LSTag&gt;, which lets you create 2 portals once per short rest.</content>
   <content contentuid="ha210fd4fg8dddg945ege2e9gf88344ebd3a2" version="2">Cold Planar Adaptation</content>
-  <content contentuid="h7a135195g8d7fg68cdg6fdfg5123354e16ac" version="9">With your experience of planar travel, you gain a Cold &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and the spell &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Portal cracker&lt;/LSTag&gt; to create 2 portals one time per short rest.</content>
+  <content contentuid="h7a135195g8d7fg68cdg6fdfg5123354e16ac" version="9">From your experiences with planar travel, you gain Cold &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and the spell &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Portal Cracker&lt;/LSTag&gt;, which lets you create 2 portals once per short rest.</content>
   <content contentuid="hdc672450g0e4dg4549g46c3g488968729677" version="2">Fire Planar Adaptation</content>
-  <content contentuid="h9f23fc0eg5eb8geb7bg3cebg93d2cbf3009f" version="10">With your experience of planar travel, you gain a Fire &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and the spell &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Portal Cracker&lt;/LSTag&gt; to create 2 portals one time per short rest.</content>
+  <content contentuid="h9f23fc0eg5eb8geb7bg3cebg93d2cbf3009f" version="10">From your experiences with planar travel, you gain Fire &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and the spell &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;Portal Cracker&lt;/LSTag&gt;, which lets you create 2 portals once per short rest.</content>
   <content contentuid="hce1cd424g90f9gea76gb72dg44fdf98a3f8b" version="1">Agent of Order</content>
-  <content contentuid="hbc628baeg7924g2968g688ege1b27b9da425" version="9">You can channel cosmic forces of Order to gain benefits. You gain the force reaction &lt;LSTag Tooltip="Interrupt_Paitm_StasisStrike"&gt;Stasis Strike&lt;/LSTag&gt; to deal additional Force damage with a Restrain chance.</content>
+  <content contentuid="hbc628baeg7924g2968g688ege1b27b9da425" version="9">You can channel cosmic forces of Order. You gain the reaction &lt;LSTag Tooltip="Interrupt_Paitm_StasisStrike"&gt;Stasis Strike&lt;/LSTag&gt;, which deals additional Force damage with a chance to &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;restrain&lt;/LSTag&gt; the target.</content>
   <content contentuid="h5ff73c39g2f01g0d15g8d66ga682c91ea8eb" version="1">Baleful Scion</content>
-  <content contentuid="ha6e5632cgaf7cg4d26g70e5g1073b3542c2d" version="8">You can channel cosmic forces of Evil to gain benefits. You gain the necrotic reaction &lt;LSTag Tooltip="Interrupt_Paitm_GraspOfAvarice"&gt;Grasp of Avarice&lt;/LSTag&gt; to deal additional Necrotic damage and Heal yourself.</content>
+  <content contentuid="ha6e5632cgaf7cg4d26g70e5g1073b3542c2d" version="8">You can channel cosmic forces of Evil. You gain the reaction &lt;LSTag Tooltip="Interrupt_Paitm_GraspOfAvarice"&gt;Grasp of Avarice&lt;/LSTag&gt;, which deals additional Necrotic damage and heals yourself.</content>
   <content contentuid="h6da757f1g64bbgef99g5eadg9ccaa0af91e5" version="1">Cohort of Chaos</content>
-  <content contentuid="hcb521ec4ge75ega4f2gee7cga136f770cf66" version="9">You can channel cosmic forces of Chaos to gain benefits. You gain the reaction &lt;LSTag Tooltip="Paitm_ChaoticFlare"&gt;Chaotic flare&lt;/LSTag&gt; to gain chaotic powers on Critical Miss and Critical Hit attacks.</content>
+  <content contentuid="hcb521ec4ge75ega4f2gee7cga136f770cf66" version="9">You can channel cosmic forces of Chaos. You gain &lt;LSTag Tooltip="Paitm_ChaoticFlare"&gt;Chaotic Flare&lt;/LSTag&gt;, which grants you chaotic powers on Critical Miss and &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; attacks.</content>
   <content contentuid="h200b8582g0000g60deg6dcbg03ea70e221e0" version="1">Outlands Envoy</content>
-  <content contentuid="hf85ca431g8eaag85fegbadegd62822b34e33" version="12">You have spent significant time in the Outlands, being steeped in converging planar energies grants you benefits. You gain a planar &lt;LSTag Tooltip="Paitm_MistyStep"&gt;Misty Step&lt;/LSTag&gt; spell to teleport and a &lt;LSTag Tooltip="Paitm_Tongues"&gt;Tongues&lt;/LSTag&gt; spell for conversations one time per short rest.</content>
+  <content contentuid="hf85ca431g8eaag85fegbadegd62822b34e33" version="12">You have spent significant time in the Outlands. You gain the planar &lt;LSTag Tooltip="Paitm_MistyStep"&gt;Misty Step&lt;/LSTag&gt; spell to teleport and the &lt;LSTag Tooltip="Paitm_Tongues"&gt;Tongues&lt;/LSTag&gt; spell for conversations. Each spell can be used once per short rest.</content>
   <content contentuid="h4d785b39gae96ge296gd520gd6f9fabfd7f9" version="1">Righteous Heritor</content>
-  <content contentuid="hd0289576gccc2gcb7dg9966g992f0cb0c0f2" version="7">You can channel cosmic forces of Good to gain benefits. You gain the protective reaction &lt;LSTag Tooltip="Interrupt_Paitm_SoothePain"&gt;Soothe Pain&lt;/LSTag&gt; to try to reduce the damage suffered by you or an ally.</content>
+  <content contentuid="hd0289576gccc2gcb7dg9966g992f0cb0c0f2" version="7">You can channel cosmic forces of Good. Once per turn, when you or an ally are attacked, you can use the &lt;LSTag Tooltip="Interrupt_Paitm_SoothePain"&gt;Soothe Pain&lt;/LSTag&gt; reaction to grant the target &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Slashing, Piercing, and Bludgeoning damage and increase their &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 1 for the rest of the turn.</content>
   <content contentuid="h2e927036gebe3g0230gb9f4g4f25d8efeb09" version="1">Planar Agent</content>
-  <content contentuid="h1876774ag4ed5g697dgf1d7gbec26f0aab8f" version="2">You can channel specific cosmic forces to gain benefits and you increase one Ability by 1 to a maximum of 20.</content>
+  <content contentuid="h1876774ag4ed5g697dgf1d7gbec26f0aab8f" version="2">You can channel specific cosmic forces and you increase one Ability by 1 to a maximum of 20.</content>
   <content contentuid="h1a1a5fd5g37f0g0d8bg6e4bg0a7864f5d8a4" version="2">Misty Step</content>
   <content contentuid="h7bc2a60ag2954gf3d4gb8a8g1d39c7db951e" version="1">Surrounded by planar energies, you teleport to an unoccupied space you can see.</content>
   <content contentuid="h1a4889b6gba5dg1e02gbb15g9aa6c8e7b7eb" version="2">Portal Cracker</content>
@@ -67,16 +67,16 @@
   <content contentuid="hffefc047ge9aag4369gb494g6b5827064dfa" version="1">You open two linked portals.</content>
   <content contentuid="h95e5ad46gcbeagd4cag1762gb51be2e9dfcb" version="1">Outlander</content>
   <content contentuid="hc635cd26ge771g46fbgaef8ga24b8487873c" version="1">Grasp of Avarice</content>
-  <content contentuid="h38be499bg66cegfe7eg554ag39e19c04a5b9" version="1">Once per turn, when you damage a creature, you can also deal necrotic damage to it. The necrotic damage equals 1d6, and you regain 1d6 hit points.</content>
+  <content contentuid="h38be499bg66cegfe7eg554ag39e19c04a5b9" version="1">Once per turn, when you damage a creature, you can also deal Necrotic damage to it. The Necrotic damage equals 1d6, and you also regain 1d6 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
   <content contentuid="h1c8b8d38gc2a8g380cg8a2cgc7cbaaa07449" version="1">Grasp of Avarice</content>
-  <content contentuid="h6be0c2degf8d2gf7d4g2601g3fef053dc7fe" version="6">As a Baleful Scion, once per turn, if you damage a creature you can also deal an additional [1] and you regain [2]. You add your &lt;LSTag Tooltip="Proficiency"&gt;Proficiency Bonus&lt;/LSTag&gt; to these damage and healing rolls.</content>
+  <content contentuid="h6be0c2degf8d2gf7d4g2601g3fef053dc7fe" version="6">As a Baleful Scion, once per turn, if you damage a creature, you can also deal an additional [1] and you regain [2]. You add your &lt;LSTag Tooltip="Proficiency"&gt;Proficiency Bonus&lt;/LSTag&gt; to these damage and healing rolls.</content>
   <content contentuid="h179c540dg33ecg394dgd2cagb075484fbbd4" version="1">Stasis Strike</content>
-  <content contentuid="heab337b1g2162gdd98gc8aag6cde93106e6c" version="3">As an Agent of Order, once per turn, if you damage a creature you can also deal an additional [1] and, if lucky, restrain it.</content>
+  <content contentuid="heab337b1g2162gdd98gc8aag6cde93106e6c" version="3">As an Agent of Order, once per turn, if you damage a creature, you can also deal an additional [1] and possibly &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;restrain&lt;/LSTag&gt; it.</content>
   <content contentuid="h1277ed5cgfce9g69bdg7ba3g5da310c9534b" version="1">Soothe Pain</content>
-  <content contentuid="hee33068dgb4edg1702gcc1cga51de5ad3d5f" version="4">As a Righteous Heritor, once per turn, you can use this reaction and try to reduce damage suffered by you or an ally for the current turn.</content>
+  <content contentuid="hee33068dgb4edg1702gcc1cga51de5ad3d5f" version="4">As a Righteous Heritor, once per turn, when you or an ally are attacked, you can grant the target &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Slashing, Piercing, and Bludgeoning damage and increase their &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 1 for the rest of the turn.</content>
   <content contentuid="h772d8616gf778g0bd8gc9efge2f5b95f85ce" version="2">Heal through Avarice</content>
   <content contentuid="h2ffb529dgfbdeg648bg9421g3f1b503ed664" version="1">Soothe Pain</content>
-  <content contentuid="h429acdddg853fg9bfeg3e1ag3dcd338f5bf4" version="3">Cosmic forces of Good gave you a temporary protection to reduce damage suffered.</content>
+  <content contentuid="h429acdddg853fg9bfeg3e1ag3dcd338f5bf4" version="3">Cosmic forces of Good grant you temporary protection to reduce damage suffered.</content>
   <content contentuid="he44d3a3eg97abge426g3092gdbe21b5d95ad" version="1">Restrictive Stasis</content>
   <content contentuid="h2442377eg66e9gcab1g6f99g168da3d4a5e0" version="2">Cosmic forces of Order prevent you from moving.</content>
   <content contentuid="h1fd2ebbbgb28ag61f9g122bga7e5e051cb8b" version="1">%%% EMPTY</content>
@@ -84,36 +84,36 @@
   <content contentuid="h19807a4dgb9b4g6a11g1ad1g33886795753c" version="1">Warp Sense</content>
   <content contentuid="h1ee85063g393bg7bb3g8fd4g24cd706369eb" version="1">Warp Sense</content>
   <content contentuid="h35aae9b0g24d1g5e5cg16e9g77c09801f57c" version="1">Warp Sense</content>
-  <content contentuid="he1077f52g85acgbc6dgbeefgc69b82ed6f2c" version="1">You sense the presence of planar energies, like portals, even the most residual. Additionally, you gain a Proficienty bonus in Arcana. The spell ends when you detect a portal and obtain information about that portal.</content>
-  <content contentuid="h9efc7d47ga644ge2f4g79a9g781f5dfbd738" version="1">You sense the presence of planar energies, like portals, even the most residual. Additionally, you gain a Proficienty bonus in Arcana. The spell ends when you detect a portal and obtain information about that portal.</content>
-  <content contentuid="h74112800gd1b6g6d15g2b3ag99b4ef5b61e7" version="7">You sense the presence of planar energies, like portals, even the most residual. Additionally, you gain a Proficienty bonus in Arcana. The spell ends when you detect a portal and obtain information about that portal.</content>
-  <content contentuid="hc53f42ecg57cagf9f1gd923gd71c1f3dee48" version="5">You sense the presence of planar energies, like portals, even the most residual. Additionally, you gain a Proficienty bonus in Arcana. The spell ends when you detect a portal and obtain information about that portal.</content>
+  <content contentuid="he1077f52g85acgbc6dgbeefgc69b82ed6f2c" version="1">You sense the presence of planar energies, like portals, even the most residual. Additionally, you become &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; in &lt;LSTag Tooltip="Arcana"&gt;Arcana&lt;/LSTag&gt;. The spell ends when you detect a portal and obtain information about that portal.</content>
+  <content contentuid="h9efc7d47ga644ge2f4g79a9g781f5dfbd738" version="1">You sense the presence of planar energies, like portals, even the most residual. Additionally, you become &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; in &lt;LSTag Tooltip="Arcana"&gt;Arcana&lt;/LSTag&gt;. The spell ends when you detect a portal and obtain information about that portal.</content>
+  <content contentuid="h74112800gd1b6g6d15g2b3ag99b4ef5b61e7" version="7">You sense the presence of planar energies, like portals, even the most residual. Additionally, you become &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; in &lt;LSTag Tooltip="Arcana"&gt;Arcana&lt;/LSTag&gt;. The spell ends when you detect a portal and obtain information about that portal.</content>
+  <content contentuid="hc53f42ecg57cagf9f1gd923gd71c1f3dee48" version="5">You sense the presence of planar energies, like portals, even the most residual. Additionally, you become &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; in &lt;LSTag Tooltip="Arcana"&gt;Arcana&lt;/LSTag&gt;. The spell ends when you detect a portal and obtain information about that portal.</content>
   <content contentuid="h4e017016g5c6bg5ce5g3ab0g22f43f822bfe" version="1">Tongues</content>
   <content contentuid="he719e3e7gb7a6ge63cg73e5g0a5d2bddec22" version="1">Tongues</content>
   <content contentuid="h3f0810e4g6c6bgb62bg26fag878f03d8f4e2" version="1">Tongues</content>
-  <content contentuid="h416260c2g5063gcb28gc5d5g202db23685fd" version="1">Your brain's understanding goes up a notch, whether in terms of logic or language. For a little while you become better at conversations with all types of people.</content>
-  <content contentuid="hd2dec18dg5019g8bbdga4d8g1c1d2e3c4626" version="2">The understanding of your target goes up a notch, whether in terms of logic or language. For a little while your target become better at conversations with all types of people.</content>
+  <content contentuid="h416260c2g5063gcb28gc5d5g202db23685fd" version="1">Your brain's understanding goes up a notch, whether in terms of logic or language. For a little while, you become better at conversations with all types of people.</content>
+  <content contentuid="hd2dec18dg5019g8bbdga4d8g1c1d2e3c4626" version="2">The understanding of your target goes up a notch, whether in terms of logic or language. For a little while, your target becomes better at conversations with all types of people.</content>
   <content contentuid="h30f00253g6a92g9d58g7d82g39a60cd5e31b" version="3">You are better at conversations with all types of people.</content>
   <content contentuid="h7d291fffgc234gea18gd43bg4116082efaf9" version="2">Battle Fury</content>
-  <content contentuid="h2f8fef43g97a8g45bfgeec3ga414ed8d5448" version="2">Cosmic forces of Chaos fill you with a reckless fury. You gain advantage on attack rolls and disadvantage on ability checks.</content>
+  <content contentuid="h2f8fef43g97a8g45bfgeec3ga414ed8d5448" version="2">Cosmic forces of Chaos fill you with a reckless fury. You gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
   <content contentuid="h864543e4g81a6g163bg5d94g21aa181f7f48" version="2">Disruption Field</content>
   <content contentuid="h19a9a274gcdc2g340cg4c77ga5b523369756" version="2">Unbound</content>
   <content contentuid="hd4f12e4fgbbbbgb03cgfdf9g91407993bcf8" version="2">Wailing Winds</content>
   <content contentuid="h22d0cc80g2a3fg2da9g74e3g4b750be30c23" version="3">Cosmic forces of Chaos ripple waves of energy around you. This effect damages nearby creatures.</content>
   <content contentuid="h03832da7gc05bga637gbfd8gcc89d6335336" version="3">Cosmic forces of Chaos allow you to teleport.</content>
-  <content contentuid="h8b867102g7084gfa8ag806dgcef27324f5df" version="3">Cosmic forces of Chaos affects the Wisdom saving throws of entities surrounding the aura.</content>
+  <content contentuid="h8b867102g7084gfa8ag806dgcef27324f5df" version="3">Cosmic forces of Chaos affect the Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; of entities surrounding the aura.</content>
   <content contentuid="h01740d57gb618g3b71g416cgd6fb78f59454" version="1">Unbound</content>
   <content contentuid="h0150b07ageb11g8fddg1619g048d8caefad1" version="2">Cosmic forces of Chaos allow you to teleport.</content>
   <content contentuid="haf7bfe00g5b51g2e49gf6bbg33a5f79ba0cf" version="1">Chaotic Flare</content>
-  <content contentuid="habbd4ca6gd7b9gb061gcf44gb220701f10dd" version="2">As an Agent of Chaos, on a Critical Hit or Critical Miss attack roll, you can randomly gain a chaotic effect for the current turn.</content>
+  <content contentuid="habbd4ca6gd7b9gb061gcf44gb220701f10dd" version="2">As an Agent of Chaos, on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; or Critical Miss with an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, you can randomly gain a chaotic effect for the current turn.</content>
   <content contentuid="h2151ec82ge6beg66bege538g9d5cfc9795c6" version="2">Applying Chaotic Flare</content>
-  <content contentuid="h42589640g788cg1485g4e38gda5fce54fb78" version="1">As an Agent of Chaos, on an attack roll, you can randomly gain a chaotic effect for the current turn.</content>
+  <content contentuid="h42589640g788cg1485g4e38gda5fce54fb78" version="1">As an Agent of Chaos, on an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, you can randomly gain a chaotic effect for the current turn.</content>
   <content contentuid="ha6b6349ege712ge389ge8e4g34555c999327" version="2">Random Chaotic Flare</content>
-  <content contentuid="h39b8eabagc511g5197g0ad2g228857a732f8" version="1">As an Agent of Chaos, on an attack roll, you can randomly gain a chaotic effect for the current turn.</content>
+  <content contentuid="h39b8eabagc511g5197g0ad2g228857a732f8" version="1">As an Agent of Chaos, on an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, you can randomly gain a chaotic effect for the current turn.</content>
   <content contentuid="hdf8de10cg455cg9379gf463gb50959cfcb46" version="1">Disruption Field</content>
   <content contentuid="h174d21e6gad79g9e5eg412cg823a6bf46744" version="2">Cosmic forces of Chaos ripple waves of energy around you. This effect damages nearby creatures.</content>
   <content contentuid="hd283775dg53b9g6f1fg1cecgdad08464eec5" version="1">Wailing Winds</content>
-  <content contentuid="h377a8762g5050g2747gbc46g9ca597b67200" version="2">Cosmic forces of Chaos affects the Wisdom saving throws of entities surrounding the aura.</content>
+  <content contentuid="h377a8762g5050g2747gbc46g9ca597b67200" version="2">Cosmic forces of Chaos affects the Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; of entities surrounding the aura.</content>
   <content contentuid="h133dda90ga151gb786g3c9ag898a5aeaedeb" version="1">%%% EMPTY</content>
   <content contentuid="h1098086fg5fd1g4096g0be0g7878cbfbb02c" version="1">Disruption Field</content>
   <content contentuid="hc0de0d99g828dga24ag5826g5173a7c17174" version="2">Cosmic forces of Chaos assail entities surrounding the aura.</content>
@@ -139,7 +139,7 @@
   <content contentuid="h8024147dg80b7gb119g7b89g833eba6f1dc5" version="1">Portal Compass</content>
   <content contentuid="h026975dbg5f2eg8fdbgb4b3g6667c385e92e" version="1">Mimir</content>
   <content contentuid="h3f7528ffg6fb3g3eceg1e48g1a30d3cf0062" version="1">Planescape</content>
-  <content contentuid="h642eba50g33edg2d5cgdb25gc572ea36a0fc" version="1">A Planescape themed dice.</content>
+  <content contentuid="h642eba50g33edg2d5cgdb25gc572ea36a0fc" version="1">A Planescape-themed dice.</content>
   <content contentuid="h49168b8dgdae4g28c4g3177gc8c45ad987b3" version="2">Child's Play</content>
   <content contentuid="h44b878a9g95a6g2a7dg2279gb236093a7ca0" version="2">Beat Oliver at hide and seek without alerting the shadow creatures.</content>
   <content contentuid="hcafedefcg6871g3143gb866g88998ef575f0" version="2">Grove Keeper's Keeper</content>
@@ -338,8 +338,8 @@
   <content contentuid="h0ecbb3b1g4632g7672g2411g10297af2e28c" version="1">Portal Compass</content>
   <content contentuid="h55ecf3fbg65faga0c4g6f1cgcf35fc7c3d01" version="1">Portal Compass</content>
   <content contentuid="h6accf78cg81b0g4769gb3c3g570e2714d57e" version="5">Having this item in inventory grants you its magical effect.</content>
-  <content contentuid="hb18a258bge5f5gc59ag7f99g6b6c682f6db3" version="1">You gain a Proficienty bonus in Arcana and Perception.</content>
-  <content contentuid="h82ae22f9gb470g74b9g2f81g35db749d7bf6" version="2">You gain a Proficienty bonus in Arcana and Perception.</content>
+  <content contentuid="hb18a258bge5f5gc59ag7f99g6b6c682f6db3" version="1">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Arcana"&gt;Arcana&lt;/LSTag&gt; and &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;.</content>
+  <content contentuid="h82ae22f9gb470g74b9g2f81g35db749d7bf6" version="2">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Arcana"&gt;Arcana&lt;/LSTag&gt; and &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;.</content>
   <content contentuid="he74c5a36gaa29g319cga756gace944dd2f43" version="34">Mimir</content>
   <content contentuid="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1">Activate the Mimir and absorb its knowledge.</content>
   <content contentuid="hcd937889g2ddbg0436g8d85g6b74891d554c" version="1">Free thinker</content>
@@ -357,7 +357,7 @@
   <content contentuid="h8999ed50g75f7g3bf0g7ca0gbc3449663dda" version="3">Glitch Character Cast</content>
   <content contentuid="h98e63255g6aa2g812cgfd8fg7bac7889a0f8" version="1">Glitch Character</content>
   <content contentuid="ha002d7dfg9b65gbc68g1d45ga4ebfc362dc4" version="2">Glitch Character Attack</content>
-  <content contentuid="hc2e022a7geca5gfc47gf4a5g7bb004f7aad4" version="2">You are an anomaly in the multiverse. Sometimes other versions of you melt with your existence.</content>
+  <content contentuid="hc2e022a7geca5gfc47gf4a5g7bb004f7aad4" version="2">You are an anomaly in the multiverse. Sometimes other versions of you meld with your existence when you attack or cast a spell, granting you a random buff.</content>
   <content contentuid="h133adffdg9b55gdb84ge031gefd6eacd21b8" version="3">A glitched incarnation appears on a cast.</content>
   <content contentuid="h111127a8g8cafg59f4g35a3g28a89b4c0890" version="2">A glitched incarnation appears on an attack.</content>
   <content contentuid="h3a87da69gf06eg8120g0b04gac1189fa61a1" version="2">Glitch Character Rest</content>
@@ -421,9 +421,9 @@
   <content contentuid="h143f4421g9dc8g90afg06ceg975570e22ee8" version="1">Glitch Character Cast</content>
   <content contentuid="h5a3b53e1g7b03gac72g2c0bgba03ebdb267f" version="1">A glitched incarnation appears on a cast.</content>
   <content contentuid="h3f399b4bg34cag8f0bga515gb5e29655926d" version="1">Glitch on attack</content>
-  <content contentuid="heda10324g76b0gc44ag2065gb92aac937f9d" version="1">Sometimes other versions of you melt with you during an attack.</content>
+  <content contentuid="heda10324g76b0gc44ag2065gb92aac937f9d" version="1">Sometimes other versions of you meld with you during an attack, granting you a random buff.</content>
   <content contentuid="h4fbec60cg9b97gd573g5cf2g30b438699523" version="1">Glitch on cast</content>
-  <content contentuid="he2d44030gd930g2688gb270g23d185e3ee5f" version="1">Sometimes other versions of you melt with you during a cast.</content>
+  <content contentuid="he2d44030gd930g2688gb270g23d185e3ee5f" version="1">Sometimes other versions of you meld with you when you cast a spell, granting you a random buff.</content>
   <content contentuid="hbec539bdgfe54g30abg37caga453d77caef8" version="5">*Crrrkkk*</content>
   <content contentuid="h3a0ff6c2ge915g1a79g400agaab25e37fbd9" version="19">Morte</content>
   <content contentuid="h78db741fgb55cg325cg3153gd1f5d62b5f87" version="19">Mimir</content>
@@ -558,8 +558,8 @@
   <content contentuid="h9e970a59ge7a4gdb07g04f5g0d74ce703e1c" version="6">Charm of the Dead Truce</content>
   <content contentuid="hd9e90659g39b6g07d1ga365g6adb41d0d962" version="2">Charm of the Dead Truce</content>
   <content contentuid="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="2">Charm of the Dead Truce</content>
-  <content contentuid="h9c1d41cfg908dgb54bgd45ag1d1827eca7fd" version="4">This charm grants you respect among the dead. During combat, hostile undead cannot directly attack the caster of this spell. Additionally, you gain advantage on Charisma checks when interacting with undead creatures. If you attack or use an offensive reaction against an undead creature, this effect disappears.</content>
-  <content contentuid="hd03eeeb1g0e99g80d2g9246g93cb8215e28f" version="4">Grants you respect among the dead. During combat, hostile undead cannot directly attack the caster of this spell. Additionally, you gain advantage on Charisma checks when interacting with undead creatures. If you attack or use an offensive reaction against an undead creature, this effect disappears.</content>
+  <content contentuid="h9c1d41cfg908dgb54bgd45ag1d1827eca7fd" version="4">This charm grants you respect among the dead. During combat, hostile undead cannot directly attack the caster of this spell. Additionally, you gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Charisma &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; when interacting with undead creatures. If you attack or use an offensive reaction against an undead creature, this effect disappears.</content>
+  <content contentuid="hd03eeeb1g0e99g80d2g9246g93cb8215e28f" version="4">Grants you respect among the dead. During combat, hostile undead cannot directly attack the caster of this spell. Additionally, you gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Charisma &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; when interacting with undead creatures. If you attack or use an offensive reaction against an undead creature, this effect disappears.</content>
   <content contentuid="h32b321cdg32c0g3845gfcffg54dda677fc07" version="3">Dead Truce</content>
   <content contentuid="hf7cebf92gccc4ga6fcga716ge79dfd1c81e1" version="2">The creature is pacified towards the source of this spell.</content>
   <content contentuid="h0100b285gc467gca8cg94d3g89064fbaa365" version="4">Charm of Incorporeality</content>
@@ -576,17 +576,17 @@
   <content contentuid="hc5ba049bg1d5eg6404g8a09gbfe881c3e26d" version="2">Havoc Fire</content>
   <content contentuid="h3c22c311g5c4ega574g00c7g3955c940943b" version="2">Havoc Fire</content>
   <content contentuid="h244fa72cg8090g14f2ga028ge59a03bf16c5" version="1">Takes [1] each turn.</content>
-  <content contentuid="h4b01b315ga76age906ga70fg7336c25b0a65" version="2">Whenever you deal damage with this weapon, inflicts Havoc Fire to your target.</content>
+  <content contentuid="h4b01b315ga76age906ga70fg7336c25b0a65" version="2">Whenever you deal damage with this weapon, you inflict &lt;LSTag Type="Status" Tooltip="Paitm_HavocHammer_FireDot"&gt;Havoc Fire&lt;/LSTag&gt; on your target.</content>
   <content contentuid="h9fcdae5eg0e2eg3ff0ge2aegb3383f8a81a6" version="1">Lightning Seal</content>
   <content contentuid="hf6cc7530g18e6g0dedg7679g49df7ad6cbcb" version="1">Lightning Seal</content>
-  <content contentuid="h4f796a42gde7cgc6ccg5bf8ge753df49975d" version="2">Once per combat, whenever you deal damage with this weapon, inflicts a Lightning Seal to your target.</content>
+  <content contentuid="h4f796a42gde7cgc6ccg5bf8ge753df49975d" version="2">Once per combat, whenever you deal damage with this weapon, you inflict a &lt;LSTag Type="Status" Tooltip="Paitm_SEALED"&gt;Lightning Seal&lt;/LSTag&gt; on your target.</content>
   <content contentuid="h7824fb26g0bdbgfd75g245agd3ea9ca52ebb" version="1">Takes [1] each turn.</content>
   <content contentuid="hb41684b4g64e0geae3gb8f2g5961893564f2" version="1">Push</content>
   <content contentuid="ha13cd106g9877g8ad7g41e4gcc9c61aa7f74" version="1">Whenever you deal damage with this weapon, it can push your target backwards.</content>
   <content contentuid="h29b950f4gee17g71bdg6948g70a0371c30c8" version="1">Entropy</content>
   <content contentuid="hb874d355ge9e4g02fcg49b8g77d11b2dad19" version="1">A creature killed by this weapon is reduced to ash.</content>
   <content contentuid="hf871407eg4afbgba85gad7ag195a98cf6fc7" version="1">Entropic Emission</content>
-  <content contentuid="h4d9e33c6g842eg3bf3g444dg0713d909a0ce" version="2">The blade emits a burst of entropic magic. Each creature in the spell area must succeed on a Constitution saving throw or take [1].</content>
+  <content contentuid="h4d9e33c6g842eg3bf3g444dg0713d909a0ce" version="2">The blade emits a burst of entropic magic. Each creature in the spell area must succeed on a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or take [1].</content>
   <content contentuid="h12ad8a4eg1d0agd71dg7d37gcc3b7f727ed3" version="30">Lady of Pain</content>
   <content contentuid="h1d953173g1abag5f4dg043ega6ec89584026" version="30">Her Serenity, Her Dread Majesty, The Bladed Queen</content>
   <content contentuid="ha3cf2632g4740g59d4ge624gd7312f1c7fe8" version="54">Nordom</content>

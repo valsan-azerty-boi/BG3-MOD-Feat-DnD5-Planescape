@@ -233,8 +233,7 @@
                     <attribute id="UUID" type="guid" value="01699dda-6901-4945-898c-65199f223b80"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="MergedInto" type="guid" value="12150e11-267a-4ecc-a3cc-292c9e2a198d"/>
-                    <attribute id="Name" type="FixedString" value="Draconic Bloodline Sorcerer 11"/>
+                    <attribute id="Name" type="FixedString" value="Draconic Bloodline Sorcerer 11 (outdated plns)"/>
                     <attribute id="Spells" type="LSString" value="Shout_Paitm_WarpSense;Target_Paitm_GateSeal"/>
                     <attribute id="UUID" type="guid" value="10a299a4-e975-463a-b89f-93625f74032e"/>
                 </node>
