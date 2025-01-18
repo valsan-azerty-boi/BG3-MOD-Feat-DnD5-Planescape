@@ -172,9 +172,8 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="10a299a4-e975-463a-b89f-93625f74032e" />
-        <field name="Name" type="NameTableFieldDefinition" value="Draconic Bloodline Sorcerer 11" />
+        <field name="Name" type="NameTableFieldDefinition" value="Draconic Bloodline Sorcerer 11 (outdated plns)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Shout_Paitm_WarpSense;Target_Paitm_GateSeal" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="12150e11-267a-4ecc-a3cc-292c9e2a198d" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

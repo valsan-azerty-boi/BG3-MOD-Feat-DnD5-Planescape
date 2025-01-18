@@ -1,5 +1,9 @@
 <?xml version="1.0"?>
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<content contentuid="h80fbbb6bg7f34g3593g7667g17811914710f" version="3">Guardião do Portão</content>
+<content contentuid="hee01894agd72fgf3dbgfc8eg3ec56225ef31" version="3">Filósofo Planar</content>
+<content contentuid="h7673e277g6538g4c2egbdabg5a38a5264c1b" version="1">Você passou uma quantidade significativa de tempo em algum lugar influenciado por intensas forças planares ou um portal para outro plano de existência.</content>
+<content contentuid="h362190b9gc119gaa84gfdb3g0cf8295f61e4" version="1">Você adere a uma filosofia que busca entender a natureza dos planos ou alguma verdade oculta do multiverso.</content>
 <content contentuid="h1c9149e8g6d95ge63ag585eg403768a29c67" version="1">Filósofo Planar</content>
 <content contentuid="h914bf037g3869g4beag9f3bg36a70f55e92d" version="2">Você adere a uma filosofia que busca entender a natureza dos planos ou alguma verdade oculta do multiverso. Você extrai força de sua convicção. Em suas viagens, emancipado das facções de Sigil, você explora as profundezas de sua compreensão e espalha sua filosofia por onde quer que vá.</content>
 <content contentuid="h350fe144ga8fdg985dgc3acg5a7496bb2797" version="1">Guardião do Portão</content>
@@ -340,6 +344,12 @@
 <content contentuid="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1">Ative o Mimir e absorva seu conhecimento.</content>
 <content contentuid="hcd937889g2ddbg0436g8d85g6b74891d554c" version="1">Livre pensador</content>
 <content contentuid="h7dd603ebg6c37g27d9gd5c2ge37c18b6d230" version="3">Para aqueles independentes de mente e pensamento, que não se referem a nenhum deus. Muitas vezes vemos essa maneira de pensar entre os moradores de Sigil. Com uma classe como Clérigo, um personagem sem deus pode às vezes ganhar poderes de suas próprias convicções e princípios.</content>
+<content contentuid="hc9044b13g4f33gfe1eg2110g1dd10f295343" version="4">Livre pensador</content>
+<content contentuid="hed922461g2feag4702g723bgcc89f9a25969" version="4">Para aqueles independentes de mente e pensamento, que não se referem a nenhum deus.</content>
+<content contentuid="h6208ab95g66f0g5176g06a8g55e450bfcf8e" version="2">Clérigo livre pensador</content>
+<content contentuid="h3d11e4ccgad79gb863g5d26gae1d1852af0f" version="2">Um clérigo que não se refere a nenhum deus.</content>
+<content contentuid="h964ffe55g44f7gcebag7c1fg42395e57f2a1" version="1">Paladino livre pensador</content>
+<content contentuid="hd2073e58g0cf5gdd5bgfe52g8a1d26aa8e3b" version="1">Um paladino que não se refere a nenhum deus.</content>
 <content contentuid="h55a58843g198fg42beg8885g5d1fa3d64808" version="15">Portão do Portal</content>
 <content contentuid="h276ab033g0890g4653g9cadg0b61a1ec93a7" version="14">Conectado com energias planares à sua duplicata, este portal permite que aqueles que o atravessam saiam de seu portão gêmeo.</content>
 <content contentuid="hbec64581g0ea1g8d21g6364g1d950a8f4eb4" version="1">Personagem Glitch</content>
@@ -577,4 +587,104 @@
 <content contentuid="hb874d355ge9e4g02fcg49b8g77d11b2dad19" version="1">Uma criatura morta por esta arma é reduzida a cinzas.</content>
 <content contentuid="hf871407eg4afbgba85gad7ag195a98cf6fc7" version="1">Emissão Entrópica</content>
 <content contentuid="h4d9e33c6g842eg3bf3g444dg0713d909a0ce" version="2">A lâmina emite uma explosão de magia entrópica. Cada criatura na área da magia deve ser bem sucedida em um teste de resistência de Constituição ou receberá [1].</content>
+<content contentuid="h12ad8a4eg1d0agd71dg7d37gcc3b7f727ed3" version="25">A Senhora da Dor</content>
+<content contentuid="h1d953173g1abag5f4dg043ega6ec89584026" version="25">Guardiã de Sigil</content>
+<content contentuid="ha3cf2632g4740g59d4ge624gd7312f1c7fe8" version="17">Nordom</content>
+<content contentuid="h7df2af48g623egd061g4da2gc49cbe1aece9" version="1">Modron</content>
+<content contentuid="hc994992fgf730gfa42gae26gac33b919326a" version="38">Ignus</content>
+<content contentuid="hdd568600g82c7g5e35gc328gbe3f63be86a5" version="19">Ignus</content>
+<content contentuid="h5a0e5480gd7feg0849g9370g8e7dcc5812ad" version="1">Mago Piromaníaco</content>
+<content contentuid="h3a6afca8ga435g7e45ga1a6g739436c10808" version="19">Mago Piromaníaco</content>
+<content contentuid="h2c1ce9b0g2ef0g73aag02bbga22c5ca449e6" version="7">Vhailor</content>
+<content contentuid="h83454ef2g71c2gd305g8edbg5be8fa427be5" version="1">Espírito Inquieto</content>
+<content contentuid="h0f96aab6g8be1g2f8dgef93gba38709fe4b7" version="4">Julgamento Final</content>
+<content contentuid="h335a9079gfe25g049dg005eg7a4dab35d9b7" version="4">O machado em si é enorme; mesmo empunhado com as duas mãos, seria necessária uma força tremenda para ser usado com eficácia.</content>
+<content contentuid="h7fa22e66g06b8g8bb6g4d9bg238ba9ddba65" version="5">Dak'kon</content>
+<content contentuid="h79a05212g041fgc43age50ag49de98de0c05" version="2">Githzerai Errante</content>
+<content contentuid="h8244ad34g7aecg6119ga384g7e3aa0d3e245" version="7">Adaga de Ana</content>
+<content contentuid="h215d145dg7b60gaea3g6556g07b6c90a4c1f" version="6">"Se você calar a boca, eu paro de abanar o rabo."</content>
+<content contentuid="h058f9715gd892g1cdcg259dg70611e9e3419" version="7">Ravel</content>
+<content contentuid="h0c60149egab5ag2449gf3cfg74f860cb1913" version="6">Bruxa Cinzenta</content>
+<content contentuid="h3fb6deefg91efg7ed4g8522gc21586bffd2b" version="2">Trígit</content>
+<content contentuid="hae5490eag5890gd35ag4932gf28b570215f1" version="2">Trígit</content>
+<content contentuid="h32349a2bge9a6g8a80g576ag030c4ac40dd5" version="9">Tricha</content>
+<content contentuid="hf05eb324gf2b6g50f3g8b8cgef3063198104" version="11">Lim-Lim</content>
+<content contentuid="h926288d3g4dc3g168cg49e7gd7d2cd47887a" version="3">Hollyfante</content>
+<content contentuid="hcb770bb2g222dgd7c1g7883g29dbf1b25eab" version="5">Vargouille</content>
+<content contentuid="h975ee734g8827gca5ag885bg2f565c3936a7" version="18">Lêmure</content>
+<content contentuid="h4e30b8a8g3dc4g7d40g9b8cg8b3429eb8482" version="11">Trias</content>
+<content contentuid="h0ad9e969ga50bg7fa1gc2bag0fc2b6fdb5b1" version="11">O Traidor</content>
+<content contentuid="h631290adgfbbegbe95gabb8g88b429133958" version="4">Fogo Celestial</content>
+<content contentuid="h4f3dfaf2g76d8g3f8egf7a2gd3dceb5e6711" version="4">A espada parece ter vários milênios de idade.</content>
+<content contentuid="h7ecb422fg6550gb945g7457g71945f2e78d7" version="23">O Transcendente</content>
+<content contentuid="h08b8c000g29efg6a26g1abfg0e7e4d7c94a6" version="4" />
+<content contentuid="ha4ee9c9cgd950g879egf1cag3b1d0de8d777" version="10">Arconte Cão</content>
+<content contentuid="h294a7824g826fgcb92gc845gaf26cac269c8" version="3">Arconte Cão</content>
+<content contentuid="hbed6c9b8g86e0ge6eeg8b87g1f1d36781476" version="9">Arconte Lanterna</content>
+<content contentuid="hd0cddb0ag6952g5898g16e5ga3147ed61766" version="6">Diretor Arconte</content>
+<content contentuid="h3098e04dg16b1g3868g1d42g2bda7a9b382b" version="3" />
+<content contentuid="hd8bc137fg201eg60fag35f2g9a826f0f8540" version="13">Cornugão</content>
+<content contentuid="h656446b9g5301g12a7g2462g7dfdf1da2c76" version="13">Grande Baatezu, Diabo Chifrudo</content>
+<content contentuid="h478ef67ag8abeg2632g67d2g5f9c84c01250" version="10">Abisai Black</content>
+<content contentuid="h4e6e5701ge98cgab35g1e6dgd7c4a41d01ba" version="10">Abisai Vermelho</content>
+<content contentuid="h4113b765g5440g7b51gf303ge1a57b5e2365" version="9">Abisai Verde</content>
+<content contentuid="h39e83b4ag0412g64d3gf3efgabdd37a952a8" version="9">Abisai Branco</content>
+<content contentuid="h218f2668gd95dg420dg69c4ge8bef8524387" version="9">Abisai Azul</content>
+<content contentuid="h9b593a71g70f2g6cedgff2dg7e870f58a6eb" version="10">Baatezu</content>
+<content contentuid="h9a0a8740g7619g8b1agc02dg54b81a389b5a" version="10">Baatezu</content>
+<content contentuid="h337a7260gdfa5g55bag125eg0cd064cc6ffa" version="9">Baatezu</content>
+<content contentuid="he0c4ff9aga4dfge56bgea41g76f5aa8a7a4d" version="9">Baatezu</content>
+<content contentuid="he21793dbgd68cgf222g874ag6dcb349abbfb" version="9">Baatezu</content>
+<content contentuid="hd0acf3c7g5253gc0a3gd572gf64f7c347446" version="9">Gehreleth</content>
+<content contentuid="h0cffe1acg6045gfe30gc54ag72e54ced2ff9" version="9">Demodand</content>
+<content contentuid="h3cefeb2cg9c56ge356gd825ga94ef542ebdd" version="12">Verme Larval</content>
+<content contentuid="haa7c9c32ga821g9ce9gea7bga7db8fdac785" version="12">Alma Amaldiçoada</content>
+<content contentuid="hbed227c5g6bfegc312gd3a7g5100dc3e04bd" version="14">Nupperibo</content>
+<content contentuid="h978e6163g0fbbg24d4g0328g5b54b6a1edd7" version="3">Thokola</content>
+<content contentuid="h2aa05783ga864gf839g2eb7g01ba4dffbd3a" version="3">Thokola</content>
+<content contentuid="hece8f81eg3275g7f8bgd74dg143636f357e1" version="6">Trocopotaca</content>
+<content contentuid="h79c946e4gc109g84a8g9d62gf53dc1fd0a07" version="1">Alma Amaldiçoada</content>
+<content contentuid="h8965257ag38a6g1d31gb63eg3bd88e566a13" version="1">Alma Amaldiçoada</content>
+<content contentuid="hb27161fdg3ee4ga82bgc9f7g047653c80b4a" version="6">Musteval</content>
+<content contentuid="h1736abd1g2cb3g48d7ga22bgec75f3f328e7" version="5">Tecelão das Trevas</content>
+<content contentuid="h413940e8g00bag53afg150agaad5ad407e60" version="9">Dabus</content>
+<content contentuid="h6152312age6f5gd166g4718gd135810b8fa6" version="8">Fell</content>
+<content contentuid="hf080fa59g0a6dg3241ga173gdc4599ea5746" version="8">Dabus caído</content>
+<content contentuid="h91744a8bgcd8fg6de1gc3f3g2a668528f676" version="1">Aoskar</content>
+<content contentuid="h2326ff5fgaa6cgefd8g796age0f8559ee1f6" version="1">Aoskar era o deus dos portais. Após ser morto e expulso pela Senhora da Dor, ele permaneceu à deriva no Plano Astral.</content>
+<content contentuid="h27212040g203dgef8eg9308g5a5c4584d26d" version="3">Aoskar</content>
+<content contentuid="h4bbbb3c7g60b9gd007g328fgf1c38e791946" version="3">Paladino de Aoskar</content>
+<content contentuid="h3889fde3g841fg96a1gd8dagacfa01072358" version="3">Clérigo de Aoskar</content>
+<content contentuid="hb451be62gd5f3g5cb4gba60g0ea2acc92532" version="2">Aoskar era o autoproclamado deus dos portais.</content>
+<content contentuid="hfad34841gcdadg68b3ga535g2982a45d4dc6" version="2">Um Paladino de Aoskar, o autoproclamado deus dos portais.</content>
+<content contentuid="h3b75d09bgd64cg89b7gf256gb23c0170ca1f" version="2">Um clérigo de Aoskar, o autoproclamado deus dos portais.</content>
+<content contentuid="h87c75118g3b28ge534gacf2g00af0f2b19ce" version="7">Antigo protótipo de Kolyarut</content>
+<content contentuid="hb3ec902fg4e39g79ebg07d0g848d57d98749" version="16">Nordom</content>
+<content contentuid="h613ff7adg4963ga925g9e43gf763b96e2a31" version="16">Clone</content>
+<content contentuid="h10733adcgfb24g189egeae2g40ebb7361a76" version="5">Dak'kon</content>
+<content contentuid="h6e18c113g3360g89efg2c8eg45fff0179555" version="5">Githzerai Errante</content>
+<content contentuid="hbfdf76d3g6174gbbb4g92e5g62a8b3ad890c" version="2">Lâmina Zerth de Dak'kon</content>
+<content contentuid="h7a2a1170g6cdeg49fdg9350g9785355dced7" version="2">Esta espada era a arma escolhida por um famoso githzerai que trabalhava para uma criatura conhecida como "O Sem Nome".</content>
+<content contentuid="h992fcffbg616egb425g8514g973d2f91eb92" version="1">Avoral</content>
+<content contentuid="h9acc3044g7aefgbb08g00a0g4dae136a3156" version="1">Espanador</content>
+<content contentuid="h5dc2be45g0211gc2daga25fgad12591aec38" version="1">Missionário dos Arautos do Pó</content>
+<content contentuid="hdd9c4493gea86ge134g9861g36bfa3d42488" version="6">Monodrone</content>
+<content contentuid="hbad90deag0d83g0359ge02fg1a73ffd7be9c" version="9">Monodrone</content>
+<content contentuid="h587479c1gc003gf824gbc02gb454a316df02" version="8">Tridrone</content>
+<content contentuid="hcdeb3a88g9a1ag2a20g5bffgc6b9385ba9d7" version="6">Modron</content>
+<content contentuid="he38c5697g1f46gc4c0gaec8g0e5069a074da" version="9">Modron</content>
+<content contentuid="he7a0ed6eg42c7g5279ge1aag133a09f1fade" version="8">Modron</content>
+<content contentuid="h301ed574g7a83g06acgd0f0g09dfa08e91ee" version="15">Réplica do cubo Modron</content>
+<content contentuid="hae7dfcc8g2086g03aag9f55ga565d8c7224b" version="16">Este item parece ser uma réplica sem valor.</content>
+<content contentuid="hb3fb087bga2cfgddb3g0c6dgffb5d1e9d66d" version="3">Diretriz pouco clara. Estrada para a Grande Marcha, fale a resposta. Propósito requer movimento.</content>
+<content contentuid="h3935faf8gda10g4051g01e5geaabc35cc908" version="3">Ótimo caminho de março! Dê! ERRO DE FALHA DE SEGMENTAÇÃO</content>
+<content contentuid="ha458db21g9806g4d6bga7c1g7ec041e6654b" version="3">Falha detectada. Interferência na missão! ELIMINAÇÃO!</content>
+<content contentuid="ha0337445gf0a7gab21g7bd6geb9be6b2bb2b" version="6">Abisai infectado</content>
+<content contentuid="hc7993b36g55cdg9a2cg7b0dg53e47d9c7474" version="12">Musteval infectado</content>
+<content contentuid="h357bca52g9063g3360g90c7g616210938a3c" version="12">Avoral infectado</content>
+<content contentuid="h357cb2f7g371egacb3g8c3cgfa11c4da7359" version="1">O Absoluto me possui.</content>
+<content contentuid="h42dfdb0cg6ecfg0e18g3291g20fc48248dae" version="1">O Absoluto me mostrou o caminho.</content>
+<content contentuid="h07a2d4a1ga292ge7d2g2cabgd064445ad406" version="1">Cada vitória do Absoluto é um passo em direção à eternidade.</content>
+<content contentuid="h5eeb7f86g2c9bgc33dg2072gd74d9ed247a2" version="6">Unha de Ravel</content>
+<content contentuid="hd628e9b2g4ec2g9842gc889g512c7f223ea5" version="6">Um prego mágico que pertencia a uma Bruxa Cinzenta.</content>
 </contentList>

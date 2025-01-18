@@ -6,10 +6,82 @@
         <field name="UUID" type="IdTableFieldDefinition" value="cf498aa2-8d17-451d-92ac-1ca28a881849" />
         <field name="Name" type="NameTableFieldDefinition" value="EQP_Dagger_DW_Annah" />
         <field name="InitialWeaponSet" type="EnumerationTableFieldDefinition" value="Melee" enumeration_type_name="WeaponSet" version="1" />
-        <field name="1" type="StatReferenceTableFieldDefinition" value="WPN_Dagger_1" />
-        <field name="2" type="StatReferenceTableFieldDefinition" value="WPN_Dagger_1" />
-        <field name="3" type="StatReferenceTableFieldDefinition" value="WPN_HandCrossbow_1" />
-        <field name="4" type="StatReferenceTableFieldDefinition" value="WPN_HandCrossbow_1" />
+        <field name="1" type="StatReferenceTableFieldDefinition" value="WPN_Paitm_AnnahDagger_NoSh" />
+        <field name="2" type="StatReferenceTableFieldDefinition" value="WPN_Paitm_AnnahDagger_NoSh" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="90dd69f7-c8a5-46cd-b19c-9af16ece8d2c" />
+        <field name="Name" type="NameTableFieldDefinition" value="EQP_FinalJudgment_Vhailor" />
+        <field name="InitialWeaponSet" type="EnumerationTableFieldDefinition" value="Melee" enumeration_type_name="WeaponSet" version="1" />
+        <field name="1" type="StatReferenceTableFieldDefinition" value="WPN_Paitm_FinalJudgment" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a909e935-1d1a-448c-9676-3b8b95ca1c53" />
+        <field name="Name" type="NameTableFieldDefinition" value="EQP_ZerthBlade_Dakkon" />
+        <field name="InitialWeaponSet" type="EnumerationTableFieldDefinition" value="Melee" enumeration_type_name="WeaponSet" version="1" />
+        <field name="1" type="StatReferenceTableFieldDefinition" value="MAG_Paitm_DakZerthBlade" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cf366390-44bb-401c-9346-28b2d860190c" />
+        <field name="Name" type="NameTableFieldDefinition" value="EQP_ZerthBlade_Dakkon_NoSh" />
+        <field name="InitialWeaponSet" type="EnumerationTableFieldDefinition" value="Melee" enumeration_type_name="WeaponSet" version="1" />
+        <field name="1" type="StatReferenceTableFieldDefinition" value="MAG_Paitm_DakZerthBlade_NoSh" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f3b15f6d-f028-4289-b061-baa96dbae2db" />
+        <field name="Name" type="NameTableFieldDefinition" value="EQP_ZerthBlade_Dakkon_Ghost_NoSh" />
+        <field name="InitialWeaponSet" type="EnumerationTableFieldDefinition" value="Melee" enumeration_type_name="WeaponSet" version="1" />
+        <field name="1" type="StatReferenceTableFieldDefinition" value="MAG_Paitm_DakZerthBlade_Ghost_NoSh" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8421b85e-adac-4649-b38b-979de2617ea6" />
+        <field name="Name" type="NameTableFieldDefinition" value="EQP_Blade_Trias" />
+        <field name="InitialWeaponSet" type="EnumerationTableFieldDefinition" value="Melee" enumeration_type_name="WeaponSet" version="1" />
+        <field name="1" type="StatReferenceTableFieldDefinition" value="WPN_Paitm_CelestialFire" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="88793313-5aa7-4855-bf6f-27c70fe469de" />
+        <field name="Name" type="NameTableFieldDefinition" value="EQ_ShiningBlade_Archon" />
+        <field name="InitialWeaponSet" type="EnumerationTableFieldDefinition" value="Melee" enumeration_type_name="WeaponSet" version="1" />
+        <field name="1" type="StatReferenceTableFieldDefinition" value="WPN_Paitm_ShiningBlade" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="45ff4eb0-fc58-4a9a-b18e-8121a58fa638" />
+        <field name="Name" type="NameTableFieldDefinition" value="EQ_ShiningBlade_Archon_NoSh" />
+        <field name="InitialWeaponSet" type="EnumerationTableFieldDefinition" value="Melee" enumeration_type_name="WeaponSet" version="1" />
+        <field name="1" type="StatReferenceTableFieldDefinition" value="WPN_Paitm_ShiningBlade_NoSh" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9b68b416-7bd0-4a89-93be-392ed5458a05" />
+        <field name="Name" type="NameTableFieldDefinition" value="EQ_Musteval_DW" />
+        <field name="InitialWeaponSet" type="EnumerationTableFieldDefinition" value="Melee" enumeration_type_name="WeaponSet" version="1" />
+        <field name="1" type="StatReferenceTableFieldDefinition" value="WPN_Paitm_BoneBlade" />
+        <field name="2" type="StatReferenceTableFieldDefinition" value="WPN_Paitm_BoneBlade" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4da13669-43bf-4c4f-abfb-9f524b14465a" />
+        <field name="Name" type="NameTableFieldDefinition" value="EQ_Kol_Unerring_DW" />
+        <field name="InitialWeaponSet" type="EnumerationTableFieldDefinition" value="Melee" enumeration_type_name="WeaponSet" version="1" />
+        <field name="1" type="StatReferenceTableFieldDefinition" value="WPN_Paitm_UnerringBlade" />
+        <field name="2" type="StatReferenceTableFieldDefinition" value="WPN_Paitm_UnerringBlade" />
       </fields>
     </stat_object>
   </stat_objects>

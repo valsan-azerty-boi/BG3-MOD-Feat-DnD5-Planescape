@@ -492,10 +492,8 @@
         <field name="UUID" type="IdTableFieldDefinition" value="2b699227-9b79-48cd-b600-e858a030f5f4" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_WeaponNecroticTrident_Buff" />
         <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_EnervatingTrident" />
-        <field name="StackId" type="StringTableFieldDefinition" value="DIPPED" />
         <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(1d10,Necrotic)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_WeaponCoating" enumeration_type_name="StatusGroupFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -508,9 +506,7 @@
         <field name="SoundStart" type="StringTableFieldDefinition" value="Action_Cast_Dipped_Fire" />
         <field name="SoundStop" type="StringTableFieldDefinition" value="Action_Prepare_Dipped_Fire_Loop_Stop" />
         <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(2d8,Fire)" />
-        <field name="StackId" type="StringTableFieldDefinition" value="DIPPED" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_WeaponCoating" enumeration_type_name="StatusGroupFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -521,9 +517,7 @@
         <field name="SoundStart" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="SoundStop" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(3d8,Force)" />
-        <field name="StackId" type="StringTableFieldDefinition" value="DIPPED" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_WeaponCoating" enumeration_type_name="StatusGroupFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -532,9 +526,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_WeaponRadiantBone_Buff" />
         <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_BoneBlade" />
         <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(1d6,Radiant)" />
-        <field name="StackId" type="StringTableFieldDefinition" value="DIPPED" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_WeaponCoating" enumeration_type_name="StatusGroupFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -545,9 +537,7 @@
         <field name="SoundStart" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="SoundStop" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(2d12,Psychic)" />
-        <field name="StackId" type="StringTableFieldDefinition" value="DIPPED" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_WeaponCoating" enumeration_type_name="StatusGroupFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -558,9 +548,7 @@
         <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(3d6,Necrotic)" />
         <field name="SoundStart" type="StringTableFieldDefinition" value="Action_Cast_Dipped_Poison" />
         <field name="SoundStop" type="StringTableFieldDefinition" value="Action_Prepare_Dipped_Poison_Loop_Stop" />
-        <field name="StackId" type="StringTableFieldDefinition" value="DIPPED" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_WeaponCoating" enumeration_type_name="StatusGroupFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -593,9 +581,7 @@
         <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(3d6,Lightning)" />
         <field name="StatusEffectOverrideForItems" type="StringTableFieldDefinition" value="f1c5a7d3-c966-4d7f-87b7-376f1e64edbd" />
         <field name="StatusEffectOverride" type="StringTableFieldDefinition" value="f1c5a7d3-c966-4d7f-87b7-376f1e64edbd" />
-        <field name="StackId" type="StringTableFieldDefinition" value="DIPPED" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_WeaponCoating" enumeration_type_name="StatusGroupFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -606,9 +592,7 @@
         <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(1d8,Lightning)" />
         <field name="StatusEffectOverrideForItems" type="StringTableFieldDefinition" value="f1c5a7d3-c966-4d7f-87b7-376f1e64edbd" />
         <field name="StatusEffectOverride" type="StringTableFieldDefinition" value="f1c5a7d3-c966-4d7f-87b7-376f1e64edbd" />
-        <field name="StackId" type="StringTableFieldDefinition" value="DIPPED" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_WeaponCoating" enumeration_type_name="StatusGroupFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -683,6 +667,24 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fb23ef4c-fd86-4187-8dc1-a38bd3a33de3" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_FinalJudgment_Buff" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_FinalJudgment" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(4,Slashing)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0cc41213-6708-4c33-83db-57f6477c56b8" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_CelestialFire_Buff" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Plns_Item_CelestialFire" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamage(10,Fire)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;IgnoreResting;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="d3aa4777-d73f-4973-b0f0-0973c2ea582a" />
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_CharmOfTheDeadTruce_Buff" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="2" />
@@ -728,6 +730,23 @@
         <field name="Boosts" type="StringTableFieldDefinition" value="WeaponDamageResistance(Bludgeoning);WeaponDamageResistance(Slashing);WeaponDamageResistance(Piercing)" />
         <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_RemoveOnRespec" enumeration_type_name="StatusGroupFlags" version="1" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" value="8aa59540-9ded-437f-aa13-5c7c2d3c7cac" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="97b35edd-436e-4c84-8539-8c1bb7a36a7d" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_DISINTEGRATE_DEATH_Instant" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6b4cac07-997f-4f9d-8e9a-73b5d9a7f4f7" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting" enumeration_type_name="StatusPropertyFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7301e297-31df-433b-9c27-56d7bcb94368" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_RavelsNail_Buff" />
+        <field name="StackId" type="StringTableFieldDefinition" value="PAITM_RAVELSNAIL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Skill(Nature,2)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
   </stat_objects>

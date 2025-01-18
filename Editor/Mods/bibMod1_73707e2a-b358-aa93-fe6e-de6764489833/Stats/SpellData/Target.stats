@@ -60,6 +60,7 @@
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="1a4b0423-005b-4577-b376-815a08809675" />
         <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="5eccabb5-4b4f-4d3a-87ed-69a2c27b7f18" />
         <field name="SpellStyleGroup" type="EnumerationTableFieldDefinition" value="Intent" enumeration_type_name="SpellStyleGroup" version="1" />
+        <field name="Requirements" type="StringTableFieldDefinition" value="!Combat" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -646,6 +647,28 @@
         <field name="SpellProperties" type="StringTableFieldDefinition" value="TARGET:ApplyStatus(SPEAK_WITH_DEAD,100,0)" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
         <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsSpell;HasVerbalComponent;HasSomaticComponent;Temporary" enumeration_type_name="SpellFlagList" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a826761c-a690-4846-8fab-eb75d33a9618" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Hex_Charisma" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="388b9b81-bed6-4547-a035-6700c68e8343" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="SpellPrepareCost" type="IntegerTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasSomaticComponent;IsConcentration;IsHarmful;IsSpell" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="RechargeValues" type="StringTableFieldDefinition" value="3-4" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7bcd8f6f-b4c7-46c5-a1db-3e525d11506c" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_LadyOfPain_Claw" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="08d2ea13-5f90-4f27-8253-b00c2928d77f" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(1d10+100,Slashing);DealDamage(1d10+100,Piercing);DealDamage(1d10+100,Force)" />
+        <field name="SpellFail" type="StringTableFieldDefinition" value="DealDamage(1d10+100,Slashing);DealDamage(1d10+100,Piercing);DealDamage(1d10+100,Force)" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(1d10+100,Force)" />
+        <field name="CycleConditions" type="StringTableFieldDefinition" value="Character()" />
       </fields>
     </stat_object>
   </stat_objects>

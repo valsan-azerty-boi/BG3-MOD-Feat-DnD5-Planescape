@@ -1,5 +1,9 @@
 <?xml version="1.0"?>
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h80fbbb6bg7f34g3593g7667g17811914710f" version="3">Gardien du portail</content>
+  <content contentuid="hee01894agd72fgf3dbgfc8eg3ec56225ef31" version="3">Philosophe planaire</content>
+  <content contentuid="h7673e277g6538g4c2egbdabg5a38a5264c1b" version="1">Vous avez passé beaucoup de temps dans un lieu influencé par des forces planaires intenses ou un portail vers un autre plan.</content>
+  <content contentuid="h362190b9gc119gaa84gfdb3g0cf8295f61e4" version="1">Vous adhérez à une philosophie qui cherche à comprendre la nature des plans et la vérité cachée du multivers.</content>
   <content contentuid="h1c9149e8g6d95ge63ag585eg403768a29c67" version="1">Philosophe planaire</content>
   <content contentuid="h914bf037g3869g4beag9f3bg36a70f55e92d" version="2">Vous adhérez à une philosophie qui cherche à comprendre la nature des plans et la vérité cachée du multivers. Vous puisez votre force dans vos convictions. Dans vos voyages, émancipé des factions de Sigil, vous explorez les profondeurs de la compréhension et répandez votre philosophie partout où vous allez.</content>
   <content contentuid="h350fe144ga8fdg985dgc3acg5a7496bb2797" version="1">Gardien du portail</content>
@@ -340,6 +344,12 @@
   <content contentuid="h3d973d54g5fdegaa76gc98fgace2e42dd954" version="1">Active le Mimir et absorbe ses connaissances.</content>
   <content contentuid="hcd937889g2ddbg0436g8d85g6b74891d554c" version="1">Libre penseur</content>
   <content contentuid="h7dd603ebg6c37g27d9gd5c2ge37c18b6d230" version="3">Pour ceux qui ne se réfère à aucun dieu. On retrouve souvent cette manière de penser chez les habitants de Sigil. Un clerc sans dieu, par exemple, obtiendra souvent ses pouvoirs de convictions fortes et de principes forts.</content>
+  <content contentuid="hc9044b13g4f33gfe1eg2110g1dd10f295343" version="4">Libre penseur</content>
+  <content contentuid="hed922461g2feag4702g723bgcc89f9a25969" version="4">Pour ceux qui ne se réfère à aucun dieu.</content>
+  <content contentuid="h6208ab95g66f0g5176g06a8g55e450bfcf8e" version="2">Clerc libre penseur</content>
+  <content contentuid="h3d11e4ccgad79gb863g5d26gae1d1852af0f" version="2">Un clerc qui ne se réfère à aucun dieu.</content>
+  <content contentuid="h964ffe55g44f7gcebag7c1fg42395e57f2a1" version="1">Paladin libre penseur</content>
+  <content contentuid="hd2073e58g0cf5gdd5bgfe52g8a1d26aa8e3b" version="1">Un paladin qui ne se réfère à aucun dieu.</content>
   <content contentuid="h55a58843g198fg42beg8885g5d1fa3d64808" version="15">Portail</content>
   <content contentuid="h276ab033g0890g4653g9cadg0b61a1ec93a7" version="14">Cette porte téléporte vers son portail jumeau.</content>
   <content contentuid="hbec64581g0ea1g8d21g6364g1d950a8f4eb4" version="1">Persona glitch</content>
@@ -451,7 +461,7 @@
   <content contentuid="h3fc28911g273ag101fgc378gd304d05dae4d" version="5">Lame Zerth de Dak'kon</content>
   <content contentuid="h09e1a258g06d2g1251gd407g6d608385eb5d" version="5">L'arme de choix d'un célèbre githzerai accompagnant une créature sans nom.</content>
   <content contentuid="hbdf89fdfg63e2g9bb0gde4ag1db6887b6995" version="1">Mimir</content>
-  <content contentuid="h86ddf0d5gb7e4g9970g06e4g93aa697ca8c4" version="26">Grâce</content>
+  <content contentuid="h86ddf0d5gb7e4g9970g06e4g93aa697ca8c4" version="26">Tombée-en-Disgrâce</content>
   <content contentuid="h9b38f13fg0b85gbc56gd42egf80ad69d48f3" version="26">Tanar'ri</content>
   <content contentuid="h7810c487g87e1ge76bgd482ge0272e45cbc4" version="1">Contrat pour une Sensat</content>
   <content contentuid="h121342c7gc1c5g0542g0012g86090ddac04e" version="6">Contrat pour une Sensat</content>
@@ -577,4 +587,104 @@
   <content contentuid="hb874d355ge9e4g02fcg49b8g77d11b2dad19" version="1">Une créature tuée par cette arme est réduite en cendres.</content>
   <content contentuid="hf871407eg4afbgba85gad7ag195a98cf6fc7" version="1">Émission entropique</content>
   <content contentuid="h4d9e33c6g842eg3bf3g444dg0713d909a0ce" version="2">La lame émet une explosion de magie entropique. Chaque créature dans la zone du sort doit réussir un jet de sauvegarde de Constitution ou subir [1].</content>
+  <content contentuid="h12ad8a4eg1d0agd71dg7d37gcc3b7f727ed3" version="25">Dame des douleurs</content>
+  <content contentuid="h1d953173g1abag5f4dg043ega6ec89584026" version="25">Sa Sérénité, Sa Redoutable Majesté, La Reine des Lames</content>
+  <content contentuid="ha3cf2632g4740g59d4ge624gd7312f1c7fe8" version="17">Nordom</content>
+  <content contentuid="h7df2af48g623egd061g4da2gc49cbe1aece9" version="1">Modron</content>
+  <content contentuid="hc994992fgf730gfa42gae26gac33b919326a" version="38">Ignus</content>
+  <content contentuid="hdd568600g82c7g5e35gc328gbe3f63be86a5" version="19">Ignus</content>
+  <content contentuid="h5a0e5480gd7feg0849g9370g8e7dcc5812ad" version="1">Mage pyromane</content>
+  <content contentuid="h3a6afca8ga435g7e45ga1a6g739436c10808" version="19">Mage pyromane</content>
+  <content contentuid="h2c1ce9b0g2ef0g73aag02bbga22c5ca449e6" version="7">Vhailor</content>
+  <content contentuid="h83454ef2g71c2gd305g8edbg5be8fa427be5" version="1">Esprit sans repos</content>
+  <content contentuid="h0f96aab6g8be1g2f8dgef93gba38709fe4b7" version="4">Jugement dernier</content>
+  <content contentuid="h335a9079gfe25g049dg005eg7a4dab35d9b7" version="4">Même en la prenant à deux mains, il faut une force colossale pour poivoir la manier convenablement.</content>
+  <content contentuid="h7fa22e66g06b8g8bb6g4d9bg238ba9ddba65" version="5">Dak'kon</content>
+  <content contentuid="h79a05212g041fgc43age50ag49de98de0c05" version="2">Githzerai errant</content>
+  <content contentuid="h8244ad34g7aecg6119ga384g7e3aa0d3e245" version="7">Poignard d'Annah</content>
+  <content contentuid="h215d145dg7b60gaea3g6556g07b6c90a4c1f" version="6">"Si tu la fermes, j'arrêterai de remuer la queue."</content>
+  <content contentuid="h058f9715gd892g1cdcg259dg70611e9e3419" version="7">Ravel</content>
+  <content contentuid="h0c60149egab5ag2449gf3cfg74f860cb1913" version="6">Guenaude noire</content>
+  <content contentuid="h3fb6deefg91efg7ed4g8522gc21586bffd2b" version="2">Trigit</content>
+  <content contentuid="hae5490eag5890gd35ag4932gf28b570215f1" version="2">Trigit</content>
+  <content contentuid="h32349a2bge9a6g8a80g576ag030c4ac40dd5" version="9">Tricha</content>
+  <content contentuid="hf05eb324gf2b6g50f3g8b8cgef3063198104" version="11">Lim-Lim</content>
+  <content contentuid="h926288d3g4dc3g168cg49e7gd7d2cd47887a" version="3">Hollyphant</content>
+  <content contentuid="hcb770bb2g222dgd7c1g7883g29dbf1b25eab" version="5">Vargouille</content>
+  <content contentuid="h975ee734g8827gca5ag885bg2f565c3936a7" version="18">Lémure</content>
+  <content contentuid="h4e30b8a8g3dc4g7d40g9b8cg8b3429eb8482" version="11">Trias</content>
+  <content contentuid="h0ad9e969ga50bg7fa1gc2bag0fc2b6fdb5b1" version="11">Le Traître</content>
+  <content contentuid="h631290adgfbbegbe95gabb8g88b429133958" version="4">Feu céleste</content>
+  <content contentuid="h4f3dfaf2g76d8g3f8egf7a2gd3dceb5e6711" version="4">L'épée a l'air d'avoir plusieurs milliers d'années.</content>
+  <content contentuid="h7ecb422fg6550gb945g7457g71945f2e78d7" version="23">Le Transcendant</content>
+  <content contentuid="h08b8c000g29efg6a26g1abfg0e7e4d7c94a6" version="4" />
+  <content contentuid="ha4ee9c9cgd950g879egf1cag3b1d0de8d777" version="10">Archonte valet</content>
+  <content contentuid="h294a7824g826fgcb92gc845gaf26cac269c8" version="3">Archonte valet</content>
+  <content contentuid="hbed6c9b8g86e0ge6eeg8b87g1f1d36781476" version="9">Archonte lanterne</content>
+  <content contentuid="hd0cddb0ag6952g5898g16e5ga3147ed61766" version="6">Archonte gardien</content>
+  <content contentuid="h3098e04dg16b1g3868g1d42g2bda7a9b382b" version="3" />
+  <content contentuid="hd8bc137fg201eg60fag35f2g9a826f0f8540" version="13">Cornugon</content>
+  <content contentuid="h656446b9g5301g12a7g2462g7dfdf1da2c76" version="13">Baatezu supérieur, Diable cornu</content>
+  <content contentuid="h478ef67ag8abeg2632g67d2g5f9c84c01250" version="10">Abishaï noir</content>
+  <content contentuid="h4e6e5701ge98cgab35g1e6dgd7c4a41d01ba" version="10">Abishaï rouge</content>
+  <content contentuid="h4113b765g5440g7b51gf303ge1a57b5e2365" version="9">Abishaï vert</content>
+  <content contentuid="h39e83b4ag0412g64d3gf3efgabdd37a952a8" version="9">Abishaï blanc</content>
+  <content contentuid="h218f2668gd95dg420dg69c4ge8bef8524387" version="9">Abishaï bleu</content>
+  <content contentuid="h9b593a71g70f2g6cedgff2dg7e870f58a6eb" version="10">Baatezu</content>
+  <content contentuid="h9a0a8740g7619g8b1agc02dg54b81a389b5a" version="10">Baatezu</content>
+  <content contentuid="h337a7260gdfa5g55bag125eg0cd064cc6ffa" version="9">Baatezu</content>
+  <content contentuid="he0c4ff9aga4dfge56bgea41g76f5aa8a7a4d" version="9">Baatezu</content>
+  <content contentuid="he21793dbgd68cgf222g874ag6dcb349abbfb" version="9">Baatezu</content>
+  <content contentuid="hd0acf3c7g5253gc0a3gd572gf64f7c347446" version="9">Gehreleth</content>
+  <content contentuid="h0cffe1acg6045gfe30gc54ag72e54ced2ff9" version="9">Démodande</content>
+  <content contentuid="h3cefeb2cg9c56ge356gd825ga94ef542ebdd" version="12">Larve</content>
+  <content contentuid="haa7c9c32ga821g9ce9gea7bga7db8fdac785" version="12">Âme damnée</content>
+  <content contentuid="hbed227c5g6bfegc312gd3a7g5100dc3e04bd" version="14">Nupperibo</content>
+  <content contentuid="h978e6163g0fbbg24d4g0328g5b54b6a1edd7" version="3">Thokola</content>
+  <content contentuid="h2aa05783ga864gf839g2eb7g01ba4dffbd3a" version="3">Thokola</content>
+  <content contentuid="hece8f81eg3275g7f8bgd74dg143636f357e1" version="6">Trocopotaca</content>
+  <content contentuid="h79c946e4gc109g84a8g9d62gf53dc1fd0a07" version="1">Âme damnée</content>
+  <content contentuid="h8965257ag38a6g1d31gb63eg3bd88e566a13" version="1">Âme damnée</content>
+  <content contentuid="hb27161fdg3ee4ga82bgc9f7g047653c80b4a" version="6">Musteval</content>
+  <content contentuid="h1736abd1g2cb3g48d7ga22bgec75f3f328e7" version="5">Tissombre</content>
+  <content contentuid="h413940e8g00bag53afg150agaad5ad407e60" version="9">Dabus</content>
+  <content contentuid="h6152312age6f5gd166g4718gd135810b8fa6" version="8">Fell</content>
+  <content contentuid="hf080fa59g0a6dg3241ga173gdc4599ea5746" version="8">Dabus déchu</content>
+  <content contentuid="h91744a8bgcd8fg6de1gc3f3g2a668528f676" version="1">Aoskar</content>
+  <content contentuid="h2326ff5fgaa6cgefd8g796age0f8559ee1f6" version="1">Aoskar était le dieu des portails. Il mourut de la main de la Dame et son corps semble désormais dériver dans le plan astral.</content>
+  <content contentuid="h27212040g203dgef8eg9308g5a5c4584d26d" version="3">Aoskar</content>
+  <content contentuid="h4bbbb3c7g60b9gd007g328fgf1c38e791946" version="3">Paladin d'Aoskar</content>
+  <content contentuid="h3889fde3g841fg96a1gd8dagacfa01072358" version="3">Clerc d'Aoskar</content>
+  <content contentuid="hb451be62gd5f3g5cb4gba60g0ea2acc92532" version="2">Aoskar était le dieu autoproclamé des portails.</content>
+  <content contentuid="hfad34841gcdadg68b3ga535g2982a45d4dc6" version="2">Un paladin d'Aoskar, le dieu autoproclamé des portails.</content>
+  <content contentuid="h3b75d09bgd64cg89b7gf256gb23c0170ca1f" version="2">Un clerc d'Aoskar, le dieu autoproclamé des portails.</content>
+  <content contentuid="h87c75118g3b28ge534gacf2g00af0f2b19ce" version="7">Ancien prototype Kolyarut</content>
+  <content contentuid="hb3ec902fg4e39g79ebg07d0g848d57d98749" version="16">Nordom</content>
+  <content contentuid="h613ff7adg4963ga925g9e43gf763b96e2a31" version="16">Clone</content>
+  <content contentuid="h10733adcgfb24g189egeae2g40ebb7361a76" version="5">Dak'kon</content>
+  <content contentuid="h6e18c113g3360g89efg2c8eg45fff0179555" version="5">Githzerai errant</content>
+  <content contentuid="hbfdf76d3g6174gbbb4g92e5g62a8b3ad890c" version="2">Lame Zerth de Dak'kon</content>
+  <content contentuid="h7a2a1170g6cdeg49fdg9350g9785355dced7" version="2">L'arme de choix d'un célèbre githzerai accompagnant une créature sans nom.</content>
+  <content contentuid="h992fcffbg616egb425g8514g973d2f91eb92" version="1">Avoral</content>
+  <content contentuid="h9acc3044g7aefgbb08g00a0g4dae136a3156" version="1">Homme-Poussière</content>
+  <content contentuid="h5dc2be45g0211gc2daga25fgad12591aec38" version="1">Missionnaire des Hérauts de la Poussière</content>
+  <content contentuid="hdd9c4493gea86ge134g9861g36bfa3d42488" version="6">Monodrone</content>
+  <content contentuid="hbad90deag0d83g0359ge02fg1a73ffd7be9c" version="9">Monodrone</content>
+  <content contentuid="h587479c1gc003gf824gbc02gb454a316df02" version="8">Tridrone</content>
+  <content contentuid="hcdeb3a88g9a1ag2a20g5bffgc6b9385ba9d7" version="6">Modron</content>
+  <content contentuid="he38c5697g1f46gc4c0gaec8g0e5069a074da" version="9">Modron</content>
+  <content contentuid="he7a0ed6eg42c7g5279ge1aag133a09f1fade" version="8">Modron</content>
+  <content contentuid="h301ed574g7a83g06acgd0f0g09dfa08e91ee" version="15">Réplique du Cube Modron</content>
+  <content contentuid="hae7dfcc8g2086g03aag9f55ga565d8c7224b" version="16">Cet objet semble être une réplique sans valeur.</content>
+  <content contentuid="hb3fb087bga2cfgddb3g0c6dgffb5d1e9d66d" version="3">Directive peu claire. Route vers la Grande Marche, répondez par la parole. L'objectif nécessite un mouvement défini.</content>
+  <content contentuid="h3935faf8gda10g4051g01e5geaabc35cc908" version="3">Chemin vers la Grande Marche ! Donnez-le ! ERREUR SEGMENTATION.</content>
+  <content contentuid="ha458db21g9806g4d6bga7c1g7ec041e6654b" version="3">Échec détecté. Interférence avec la mission ! ÉLIMINATION !</content>
+  <content contentuid="ha0337445gf0a7gab21g7bd6geb9be6b2bb2b" version="6">Abishaï infecté</content>
+  <content contentuid="hc7993b36g55cdg9a2cg7b0dg53e47d9c7474" version="12">Musteval infecté</content>
+  <content contentuid="h357bca52g9063g3360g90c7g616210938a3c" version="12">Avoral infecté</content>
+  <content contentuid="h357cb2f7g371egacb3g8c3cgfa11c4da7359" version="1">J'appartiens à l'Absolu.</content>
+  <content contentuid="h42dfdb0cg6ecfg0e18g3291g20fc48248dae" version="1">L'Absolu me montre la voie.</content>
+  <content contentuid="h07a2d4a1ga292ge7d2g2cabgd064445ad406" version="1">Chaque victoire pour l'Absolu est un pas vers notre salvation.</content>
+  <content contentuid="h5eeb7f86g2c9bgc33dg2072gd74d9ed247a2" version="6">Ongle de Ravel</content>
+  <content contentuid="hd628e9b2g4ec2g9842gc889g512c7f223ea5" version="6">Un ongle magique ayant appartenu à une guenaude noire.</content>
 </contentList>

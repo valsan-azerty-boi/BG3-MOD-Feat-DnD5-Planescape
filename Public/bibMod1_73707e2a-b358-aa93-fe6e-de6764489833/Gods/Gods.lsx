@@ -11,6 +11,23 @@
                     <attribute id="UUID" type="guid" value="086960a4-ebd9-4d63-ae76-68cb883682c4"/>
                     <children>
                         <node id="Tags">
+                            <attribute id="Object" type="guid" value="217239ec-9051-4c82-9dac-d83be55f1115"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c1ff8a7f-c430-4671-bc4e-098f874ae302"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="God">
+                    <attribute id="Description" type="TranslatedString" handle="h2326ff5fgaa6cgefd8g796age0f8559ee1f6" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h91744a8bgcd8fg6de1gc3f3g2a668528f676" version="1"/>
+                    <attribute id="Name" type="FixedString" value="Paitm_Aoskar"/>
+                    <attribute id="UUID" type="guid" value="5e2b7cec-b20e-49da-85c8-52bcfee5c4f6"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a1661a5c-9e4d-4630-8555-58ab7bb4f693"/>
+                        </node>
+                        <node id="Tags">
                             <attribute id="Object" type="guid" value="c1ff8a7f-c430-4671-bc4e-098f874ae302"/>
                         </node>
                     </children>

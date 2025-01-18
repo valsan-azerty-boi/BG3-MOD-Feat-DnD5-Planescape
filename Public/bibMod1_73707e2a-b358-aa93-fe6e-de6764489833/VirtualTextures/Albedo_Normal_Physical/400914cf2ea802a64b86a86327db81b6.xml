@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StackedTexture>
+  <Layers>
+    <Layer type="Albedo" source="($DATA)\Public\($MOD)\VirtualTextures\Paitm_MaskOfPain_Albedo" />
+    <Layer type="Normal" source="($DATA)\Public\($MOD)\VirtualTextures\Paitm_MaskOfPain_Normal" />
+    <Layer type="Physical" source="($DATA)\Public\($MOD)\VirtualTextures\Paitm_MaskOfPain_Physical" />
+  </Layers>
+</StackedTexture>
