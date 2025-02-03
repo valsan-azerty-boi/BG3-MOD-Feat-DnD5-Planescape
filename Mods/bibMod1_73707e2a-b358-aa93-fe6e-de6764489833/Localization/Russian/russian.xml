@@ -9,15 +9,15 @@
   <content contentuid="h350fe144ga8fdg985dgc3acg5a7496bb2797" version="1">Хранитель врат</content>
   <content contentuid="h5e8faeefg485ag5e10g8484gf32865d861f9" version="1">Вы провели значительное количество времени где-то под влиянием мощных планарных сил или портала в другой план существования, например, в одном из городов-ворот в Внешних землях. Вы привыкли к событиям, которые заставили бы других шататься от ужаса или восхищаться потусторонней красотой и вам так же комфортно иметь дело с небожителями и бестиями, как и с городскими торговцами (которые могут быть ими же).</content>
   <content contentuid="h5044a308g8643g0253g4ba6ge2057b7fba3a" version="1">Планарный философ</content>
-  <content contentuid="hcb31dc8bga795g55aegb3ebge686e0b3ef7c" version="1">У вас есть &lt;LSTag Tooltip="Proficiency"&gt;умение&lt;/LSTag&gt; в &lt;LSTag Tooltip="Arcana"&gt;магии&lt;/LSTag&gt; и, касательно вашей удаленности от фракций Сигила, &lt;LSTag Tooltip="Investigation"&gt;расследовании&lt;/LSTag&gt;.</content>
+  <content contentuid="hcb31dc8bga795g55aegb3ebge686e0b3ef7c" version="1">Вы получаете &lt;LSTag Tooltip="Proficiency"&gt;умение&lt;/LSTag&gt; в &lt;LSTag Tooltip="Arcana"&gt;магии&lt;/LSTag&gt; и, касательно вашей удаленности от фракций Сигила, &lt;LSTag Tooltip="Investigation"&gt;расследовании&lt;/LSTag&gt;.</content>
   <content contentuid="hbe28ccc0gde5cgb934gba26gb9d93b9ea01a" version="1">Хранитель врат</content>
-  <content contentuid="h930657efg00d8gecb5g8facg5b9b23e9e0ee" version="1">У вас имеется &lt;LSTag Tooltip="Proficiency"&gt;умение&lt;/LSTag&gt; в &lt;LSTag Tooltip="Persuasion"&gt;убеждении&lt;/LSTag&gt; и &lt;LSTag Tooltip="Survival"&gt;выживании&lt;/LSTag&gt;.</content>
+  <content contentuid="h930657efg00d8gecb5g8facg5b9b23e9e0ee" version="1">Вы получаете &lt;LSTag Tooltip="Proficiency"&gt;умение&lt;/LSTag&gt; в &lt;LSTag Tooltip="Persuasion"&gt;убеждении&lt;/LSTag&gt; и &lt;LSTag Tooltip="Survival"&gt;выживании&lt;/LSTag&gt;.</content>
   <content contentuid="h847ddcd7g272ag0430g716ag7f16375fc360" version="1">Наследник внешних планов</content>
   <content contentuid="hbe53f43dgeeacg8f37gd1d5g3cf9b78e6290" version="3">Ваша связь с Внешним планом наполняет вас энергией этого места и дарует соответсвующий фокус.</content>
   <content contentuid="hf64a139cgc948ga643gaf46g387aed0092f2" version="1">Хаотичный Внешний план</content>
   <content contentuid="ha428d52dg1e57g58b8gbe02g8d2c9933c779" version="4">Ваша связь с Хаотичным Внешним планом наполняет вас &lt;LSTag Tooltip="Resistant"&gt;устойчивостью&lt;/LSTag&gt; к яду и дарует фокус &lt;LSTag Tooltip="MinorIllusion"&gt;«Малая иллюзия»&lt;/LSTag&gt;.</content>
   <content contentuid="heef34103gf7d6g0291g8ee3gcf8d552b9124" version="1">Злой Внешний план</content>
-  <content contentuid="h25332eefge01cg4b69g5faag55fd585718a1" version="5">Ваша связь с Злым Внешним планом наполняет вас &lt;LSTag Tooltip="Resistant"&gt;устойчивостью&lt;/LSTag&gt; к некротическому урону и дарует вам фокус &lt;LSTag Tooltip="ChillTouch"&gt;«Леденящее прикосновние»&lt;/LSTag&gt; (также известное как &lt;LSTag Tooltip="ChillTouch"&gt;«Пробирающий до костей холод»&lt;/LSTag&gt;).</content>
+  <content contentuid="h25332eefge01cg4b69g5faag55fd585718a1" version="5">Ваша связь с Злым Внешним планом наполняет вас &lt;LSTag Tooltip="Resistant"&gt;устойчивостью&lt;/LSTag&gt; к некротическому урону и дарует вам фокус &lt;LSTag Tooltip="CHILL_TOUCH"&gt;«Пробирающий до костей холод»&lt;/LSTag&gt;.</content>
   <content contentuid="h11d6a73dg4fd4ged75g2e08g319314a0224c" version="1">Добрый Внешний план</content>
   <content contentuid="hcc33cf7agd7b9g00eage804g41b8a1eee356" version="4">Ваша связь с Добрым Внешним планом наполняет вас &lt;LSTag Tooltip="Resistant"&gt;устойчивостью&lt;/LSTag&gt; к лучистому урону и дарует вам фокус &lt;LSTag Tooltip="SacredFlame"&gt;«Священное пламя»&lt;/LSTag&gt;.</content>
   <content contentuid="h3039dca7g4e3dgb8cfgc231g881d97ebf543" version="1">Законный Внешний план</content>
@@ -43,17 +43,17 @@
   <content contentuid="hdc672450g0e4dg4549g46c3g488968729677" version="2">Адаптация к огненным планам</content>
   <content contentuid="h9f23fc0eg5eb8geb7bg3cebg93d2cbf3009f" version="10">С вашим опытом путешествий по планам вы получаете &lt;LSTag Tooltip="Resistant"&gt;устойчивость&lt;/LSTag&gt; к огню и заклинание &lt;LSTag Tooltip="Paitm_PortalCracker"&gt;«Взломщик порталов»&lt;/LSTag&gt;, создающее 2 портала один раз до следующего короткого отдыха.</content>
   <content contentuid="hce1cd424g90f9gea76gb72dg44fdf98a3f8b" version="1">Агент порядка</content>
-  <content contentuid="hbc628baeg7924g2968g688ege1b27b9da425" version="9">Вы можете направлять космические силы порядка, которые связывают мультивселенную в закономерности. Вы получаете ответное действие &lt;LSTag Tooltip="Interrupt_Paitm_StasisStrike"&gt;«Стазисный удар»&lt;/LSTag&gt;, чтобы нанести дополнительный урон силой и, возможно, обездвижить цель.</content>
+  <content contentuid="hbc628baeg7924g2968g688ege1b27b9da425" version="9">Вы можете направлять космические силы порядка, которые связывают мультивселенную в закономерности. Вы получаете ответное действие &lt;LSTag Tooltip="Interrupt_Paitm_StasisStrike"&gt;«Стазисный удар»&lt;/LSTag&gt;, чтобы нанести дополнительный урон силой и, возможно, &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;обездвижить&lt;/LSTag&gt; цель.</content>
   <content contentuid="h5ff73c39g2f01g0d15g8d66ga682c91ea8eb" version="1">Зловещий наследник</content>
-  <content contentuid="ha6e5632cgaf7cg4d26g70e5g1073b3542c2d" version="8">Вы можете направлять космические силы зла, которые причиняют боль, но укрепляют ваше существо. Вы получаете некротическую реакцию &lt;LSTag Tooltip="Interrupt_Paitm_GraspOfAvarice"&gt;«Хватка алчности»&lt;/LSTag&gt;, чтобы нанести дополнительный некротический урон и исцелить себя.</content>
+  <content contentuid="ha6e5632cgaf7cg4d26g70e5g1073b3542c2d" version="8">Вы можете направлять космические силы зла, которые причиняют боль, но укрепляют ваше существо. Вы получаете ответное действие &lt;LSTag Tooltip="Interrupt_Paitm_GraspOfAvarice"&gt;«Хватка алчности»&lt;/LSTag&gt;, чтобы нанести дополнительный некротический урон и исцелить себя.</content>
   <content contentuid="h6da757f1g64bbgef99g5eadg9ccaa0af91e5" version="1">Когорт хаоса</content>
-  <content contentuid="hcb521ec4ge75ega4f2gee7cga136f770cf66" version="9">Вы можете направить космические силы хаоса, чтобы получить следующие преимущества. Вы получаете ответное действие &lt;LSTag Tooltip="Paitm_ChaoticFlare"&gt;«Хаотическая вспышка»&lt;/LSTag&gt;, чтобы получить силы хаоса при критических промахах и ударах.</content>
+  <content contentuid="hcb521ec4ge75ega4f2gee7cga136f770cf66" version="9">Вы можете направить космические силы хаоса. Вы получаете ответное действие &lt;LSTag Tooltip="Paitm_ChaoticFlare"&gt;«Хаотическая вспышка»&lt;/LSTag&gt;, чтобы получить силы хаоса при критических промахах и &lt;LSTag Tooltip="CriticalHit"&gt;критических ударах&lt;/LSTag&gt;.</content>
   <content contentuid="h200b8582g0000g60deg6dcbg03ea70e221e0" version="1">Посол Внешних земель</content>
-  <content contentuid="hf85ca431g8eaag85fegbadegd62822b34e33" version="12">Вы провели много времени в Сигиле или где-то ещё во Внешних землях, на перекрестке мультивселенной. Погружение в сходящиеся планарные энергии даёт вам следующие преимущества. Вы получаете планарный &lt;LSTag Tooltip="Paitm_MistyStep"&gt;«Туманный шаг»&lt;/LSTag&gt; и &lt;LSTag Tooltip="Paitm_Tongues"&gt;«Языки»&lt;/LSTag&gt;, которые можно использовать раз, до следующего короткого отдыха.</content>
+  <content contentuid="hf85ca431g8eaag85fegbadegd62822b34e33" version="12">Вы провели много времени в Сигиле или где-то ещё во Внешних землях, на перекрестке мультивселенной. Вы получаете планарный &lt;LSTag Tooltip="Paitm_MistyStep"&gt;«Туманный шаг»&lt;/LSTag&gt; и &lt;LSTag Tooltip="Paitm_Tongues"&gt;«Языки»&lt;/LSTag&gt;, которые можно использовать раз, до следующего короткого отдыха.</content>
   <content contentuid="h4d785b39gae96ge296gd520gd6f9fabfd7f9" version="1">Праведный наследник</content>
-  <content contentuid="hd0289576gccc2gcb7dg9966g992f0cb0c0f2" version="7">Вы можете направить космические силы добра, чтобы получить следующие преимущества. Вы получаете защитную реакцию &lt;LSTag Tooltip="Interrupt_Paitm_SoothePain"&gt;«Успокоить боль»&lt;/LSTag&gt;, чтобы попытаться уменьшить полученный вами или вашим союзником урон.</content>
+  <content contentuid="hd0289576gccc2gcb7dg9966g992f0cb0c0f2" version="7">Вы можете направить космические силы добра. Раз за ход, когда вас или вашего союзника атакуют, вы можете использовать ответное действие &lt;LSTag Tooltip="Interrupt_Paitm_SoothePain"&gt;«Смягчить боль»&lt;/LSTag&gt;, чтобы даровать цели &lt;LSTag Tooltip="Resistant"&gt;устойчивость&lt;/LSTag&gt; к колющему, режущему и дробящему урону и увеличить их &lt;LSTag Tooltip="ArmourClass"&gt;класс брони&lt;/LSTag&gt; на 1 до конца хода.</content> 
   <content contentuid="h2e927036gebe3g0230gb9f4g4f25d8efeb09" version="1">Планарный агент</content>
-  <content contentuid="h1876774ag4ed5g697dgf1d7gbec26f0aab8f" version="2">Вы направляете определенные космические силы для получения преимуществ и увеличить одну Характеристику на 1, максимум до 20.</content>
+  <content contentuid="h1876774ag4ed5g697dgf1d7gbec26f0aab8f" version="2">Вы направляете определенные космические силы и увеличить одну характеристику на 1, максимум до 20.</content>
   <content contentuid="h1a1a5fd5g37f0g0d8bg6e4bg0a7864f5d8a4" version="2">Туманный шаг</content>
   <content contentuid="h7bc2a60ag2954gf3d4gb8a8g1d39c7db951e" version="1">Окруженный энергией планов, вы телепортируетесь в незанятое пространство, которое можете видеть.</content>
   <content contentuid="h1a4889b6gba5dg1e02gbb15g9aa6c8e7b7eb" version="2">Взломщик порталов</content>
@@ -67,58 +67,58 @@
   <content contentuid="hffefc047ge9aag4369gb494g6b5827064dfa" version="1">Вы открываете два связанных портала.</content>
   <content contentuid="h95e5ad46gcbeagd4cag1762gb51be2e9dfcb" version="1">Чужеземец</content>
   <content contentuid="hc635cd26ge771g46fbgaef8ga24b8487873c" version="1">Хватка алчности</content>
-  <content contentuid="h38be499bg66cegfe7eg554ag39e19c04a5b9" version="1">Один раз за ход, когда вы наносите урон существу, вы также можете нанести ему некротический урон. Некротический урон равен 1d6, и вы восстанавливаете 1d6 очков жизни.</content>
+  <content contentuid="h38be499bg66cegfe7eg554ag39e19c04a5b9" version="1">Один раз за ход, когда вы наносите урон существу, вы также можете нанести ему некротический урон. Некротический урон равен 1d6, и вы также восстанавливаете 1d6 &lt;LSTag Tooltip="HitPoints"&gt;очков здоровья&lt;/LSTag&gt;.</content>
   <content contentuid="h1c8b8d38gc2a8g380cg8a2cgc7cbaaa07449" version="1">Хватка алчности</content>
-  <content contentuid="h6be0c2degf8d2gf7d4g2601g3fef053dc7fe" version="4">Как Зловещий наследник, раз за ход, один раз за ход, если вы наносите урон существу, вы также можете нанести дополнительно [1] и восстановить себе [2]. You add your &lt;LSTag Tooltip="Proficiency"&gt;Proficiency Bonus&lt;/LSTag&gt; to these damage and healing rolls.</content>
+  <content contentuid="h6be0c2degf8d2gf7d4g2601g3fef053dc7fe" version="6">Как Зловещий наследник, раз за ход, один раз за ход, если вы наносите урон существу, вы также можете нанести дополнительно [1] и восстановить себе [2]. Вы добавляете ваш &lt;LSTag Tooltip="Proficiency"&gt;бонус умения&lt;/LSTag&gt; к этим броскам урона и броскам лечения.</content>
   <content contentuid="h179c540dg33ecg394dgd2cagb075484fbbd4" version="1">Стазисный удар</content>
-  <content contentuid="heab337b1g2162gdd98gc8aag6cde93106e6c" version="3">Как Агент порядка, один раз за ход, если вы наносите урон существу, вы также можете нанести дополнительно [1] и, если повезет, обездвижить его.</content>
+  <content contentuid="heab337b1g2162gdd98gc8aag6cde93106e6c" version="3">Как Агент порядка, один раз за ход, если вы наносите урон существу, вы также можете нанести дополнительно [1] и, если повезет, &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;обездвижить&lt;/LSTag&gt; его.</content>
   <content contentuid="h1277ed5cgfce9g69bdg7ba3g5da310c9534b" version="1">Успокоить боль</content>
-  <content contentuid="hee33068dgb4edg1702gcc1cga51de5ad3d5f" version="4">Как Праведный наследник, один раз за ход вы можете использовать эту реакцию и попытаться уменьшить урон, получаемый вами или союзником в текущем ходе.</content>
+  <content contentuid="hee33068dgb4edg1702gcc1cga51de5ad3d5f" version="4">Как Праведный наследник, один раз за ход, когда вас или вашего союзника атакуют, вы можете даровать цели &lt;LSTag Tooltip="Resistant"&gt;устойчивость&lt;/LSTag&gt; к колющему, режущему и дробящему урону и увеличить их &lt;LSTag Tooltip="ArmourClass"&gt;класс брони&lt;/LSTag&gt; на 1 до конца хода.</content>
   <content contentuid="h772d8616gf778g0bd8gc9efge2f5b95f85ce" version="2">Алое исцеление</content>
   <content contentuid="h2ffb529dgfbdeg648bg9421g3f1b503ed664" version="1">Успокоить боль</content>
   <content contentuid="h429acdddg853fg9bfeg3e1ag3dcd338f5bf4" version="3">Космические силы Добра дали вам временную защиту, уменьшая входящий урон.</content>
   <content contentuid="he44d3a3eg97abge426g3092gdbe21b5d95ad" version="1">Ограничиваемый стазис</content>
   <content contentuid="h2442377eg66e9gcab1g6f99g168da3d4a5e0" version="2">Космические силы Порядка мешают вам двигаться.</content>
   <content contentuid="h1fd2ebbbgb28ag61f9g122bga7e5e051cb8b" version="1">%%% EMPTY</content>
+  <content contentuid="hcf9b6f82g0a03g0941g27e1g5365898a25f3" version="1">Чувсто искажения</content>
+  <content contentuid="h19807a4dgb9b4g6a11g1ad1g33886795753c" version="1">Чувсто искажения</content>
+  <content contentuid="h1ee85063g393bg7bb3g8fd4g24cd706369eb" version="1">Чувсто искажения</content>
+  <content contentuid="h35aae9b0g24d1g5e5cg16e9g77c09801f57c" version="1">Чувсто искажения</content>
+  <content contentuid="he1077f52g85acgbc6dgbeefgc69b82ed6f2c" version="1">Вы чувствуете присутствие планарных энергий, таких как порталы, даже самых остаточных. Вы также получаете &lt;LSTag Tooltip="Proficiency"&gt;умение&lt;/LSTag&gt; в &lt;LSTag Tooltip="Arcana"&gt;магии&lt;/LSTag&gt;. Заклинание заканчивается, когда вы обнаруживаете портал и получаете информацию о нем.</content>
+  <content contentuid="h9efc7d47ga644ge2f4g79a9g781f5dfbd738" version="1">Вы чувствуете присутствие планарных энергий, таких как порталы, даже самых остаточных. Вы также получаете &lt;LSTag Tooltip="Proficiency"&gt;умение&lt;/LSTag&gt; в &lt;LSTag Tooltip="Arcana"&gt;магии&lt;/LSTag&gt;. Заклинание заканчивается, когда вы обнаруживаете портал и получаете информацию о нем.</content>
+  <content contentuid="h74112800gd1b6g6d15g2b3ag99b4ef5b61e7" version="7">Вы чувствуете присутствие планарных энергий, таких как порталы, даже самых остаточных. Вы также получаете &lt;LSTag Tooltip="Proficiency"&gt;умение&lt;/LSTag&gt; в &lt;LSTag Tooltip="Arcana"&gt;магии&lt;/LSTag&gt;. Заклинание заканчивается, когда вы обнаруживаете портал и получаете информацию о нем.</content>
+  <content contentuid="hc53f42ecg57cagf9f1gd923gd71c1f3dee48" version="5">Вы чувствуете присутствие планарных энергий, таких как порталы, даже самых остаточных. Вы также получаете &lt;LSTag Tooltip="Proficiency"&gt;умение&lt;/LSTag&gt; в &lt;LSTag Tooltip="Arcana"&gt;магии&lt;/LSTag&gt;. Заклинание заканчивается, когда вы обнаруживаете портал и получаете информацию о нем.</content>
   <content contentuid="h4e017016g5c6bg5ce5g3ab0g22f43f822bfe" version="1">Языки</content>
-  <content contentuid="h416260c2g5063gcb28gc5d5g202db23685fd" version="1">Уровень понимания вашего мозга повышается, как в плане логики, так и в плане языка. На какое-то время вы научитесь лучше общаться с самыми разными людьми.</content>
   <content contentuid="he719e3e7gb7a6ge63cg73e5g0a5d2bddec22" version="1">Языки</content>
-  <content contentuid="hd2dec18dg5019g8bbdga4d8g1c1d2e3c4626" version="2">Понимание вашей цели значительно улучшается, как с точки зрения логики, так и с точки зрения языка. На какое-то время ваша цель научится лучше общаться с самыми разными людьми.</content>
   <content contentuid="h3f0810e4g6c6bgb62bg26fag878f03d8f4e2" version="1">Языки</content>
+  <content contentuid="h416260c2g5063gcb28gc5d5g202db23685fd" version="1">Уровень понимания вашего мозга повышается, как в плане логики, так и в плане языка. На какое-то время вы научитесь лучше общаться с самыми разными людьми.</content>
+  <content contentuid="hd2dec18dg5019g8bbdga4d8g1c1d2e3c4626" version="2">Понимание вашей цели значительно улучшается, как с точки зрения логики, так и с точки зрения языка. На какое-то время ваша цель научится лучше общаться с самыми разными людьми.</content>
   <content contentuid="h30f00253g6a92g9d58g7d82g39a60cd5e31b" version="3">У вас лучше получается общаться с самыми разными людьми.</content>
   <content contentuid="h7d291fffgc234gea18gd43bg4116082efaf9" version="2">Боевая ярость</content>
-  <content contentuid="h2f8fef43g97a8g45bfgeec3ga414ed8d5448" version="2">Космические силы Хаоса наполняют вас безрассудной яростью. Вы получаете преимущество при бросках атаки и помеху при проверках навыков.</content>
+  <content contentuid="h2f8fef43g97a8g45bfgeec3ga414ed8d5448" version="2">Космические силы Хаоса наполняют вас безрассудной яростью. Вы получаете &lt;LSTag Tooltip="Advantage"&gt;преимущество&lt;/LSTag&gt; при &lt;LSTag Tooltip="AttackRoll"&gt;бросках атаки&lt;/LSTag&gt; и &lt;LSTag Tooltip="Disadvantage"&gt;помеху&lt;/LSTag&gt; при &lt;LSTag Tooltip="AbilityCheck"&gt;проверках навыков&lt;/LSTag&gt;.</content>
   <content contentuid="h864543e4g81a6g163bg5d94g21aa181f7f48" version="2">Поле разрушения</content>
   <content contentuid="h19a9a274gcdc2g340cg4c77ga5b523369756" version="2">Свободный</content>
   <content contentuid="hd4f12e4fgbbbbgb03cgfdf9g91407993bcf8" version="2">Воющие ветры</content>
   <content contentuid="h22d0cc80g2a3fg2da9g74e3g4b750be30c23" version="3">Космические силы Хаоса создают вокруг вас энергетические волны. Этот эффект наносит урон находящимся поблизости существам.</content>
   <content contentuid="h03832da7gc05bga637gbfd8gcc89d6335336" version="3">Космические силы Хаоса позволяют вам телепортироваться.</content>
-  <content contentuid="h8b867102g7084gfa8ag806dgcef27324f5df" version="3">Космические силы Хаоса воздействуют на испытания Мудрости сущностей в этом радиусе.</content>
+  <content contentuid="h8b867102g7084gfa8ag806dgcef27324f5df" version="3">Космические силы Хаоса воздействуют на &lt;LSTag Tooltip="SavingThrow"&gt;испытания&lt;/LSTag&gt; Мудрости существ в этом радиусе.</content>
   <content contentuid="h01740d57gb618g3b71g416cgd6fb78f59454" version="1">Свободный</content>
   <content contentuid="h0150b07ageb11g8fddg1619g048d8caefad1" version="2">Космические силы Хаоса позволяют вам телепортироваться.</content>
   <content contentuid="haf7bfe00g5b51g2e49gf6bbg33a5f79ba0cf" version="1">Хаотическая вспышка</content>
-  <content contentuid="habbd4ca6gd7b9gb061gcf44gb220701f10dd" version="2">Как агент Хаоса, при критическом ударе или критическом промахе вы можете случайным образом получить эффект хаоса на текущий ход.</content>
+  <content contentuid="habbd4ca6gd7b9gb061gcf44gb220701f10dd" version="2">Как агент Хаоса, при &lt;LSTag Tooltip="CriticalHit"&gt;критическом ударе&lt;/LSTag&gt; или критическом промахе &lt;LSTag Tooltip="AttackRoll"&gt;броском атаки&lt;/LSTag&gt; вы можете случайным образом получить эффект хаоса на текущий ход.</content>
   <content contentuid="h2151ec82ge6beg66bege538g9d5cfc9795c6" version="2">Применение хаотической вспышки</content>
-  <content contentuid="h42589640g788cg1485g4e38gda5fce54fb78" version="1">Как Агент Хаоса, при броске атаки вы можете случайным образом получить эффект хаоса на текущий ход.</content>
+  <content contentuid="h42589640g788cg1485g4e38gda5fce54fb78" version="1">Как Агент Хаоса, при &lt;LSTag Tooltip="AttackRoll"&gt;броске атаки&lt;/LSTag&gt; вы можете случайным образом получить эффект хаоса на текущий ход.</content>
   <content contentuid="ha6b6349ege712ge389ge8e4g34555c999327" version="2">Рандомная хаотическая вспышка</content>
-  <content contentuid="h39b8eabagc511g5197g0ad2g228857a732f8" version="1">Как Агент Хаоса, при броске атаки вы можете случайным образом получить эффект хаоса на текущий ход.</content>
+  <content contentuid="h39b8eabagc511g5197g0ad2g228857a732f8" version="1">Как Агент Хаоса, при &lt;LSTag Tooltip="AttackRoll"&gt;броске атаки&lt;/LSTag&gt; вы можете случайным образом получить эффект хаоса на текущий ход.</content>
   <content contentuid="hdf8de10cg455cg9379gf463gb50959cfcb46" version="1">Поле разрушения</content>
   <content contentuid="h174d21e6gad79g9e5eg412cg823a6bf46744" version="2">Космические силы Хаоса создают вокруг вас энергетические волны. Этот эффект наносит урон находящимся поблизости существам.</content>
   <content contentuid="hd283775dg53b9g6f1fg1cecgdad08464eec5" version="1">Воющие ветры</content>
-  <content contentuid="h377a8762g5050g2747gbc46g9ca597b67200" version="2">Космические силы Хаоса воздействуют на испытания Мудрости сущностей в этом радиусе.</content>
+  <content contentuid="h377a8762g5050g2747gbc46g9ca597b67200" version="2">Космические силы Хаоса воздействуют на &lt;LSTag Tooltip="SavingThrow"&gt;испытания&lt;/LSTag&gt; Мудрости существ в этом радиусе.</content>
   <content contentuid="h133dda90ga151gb786g3c9ag898a5aeaedeb" version="1">%%% EMPTY</content>
   <content contentuid="h1098086fg5fd1g4096g0be0g7878cbfbb02c" version="1">Поле разрушения</content>
   <content contentuid="hc0de0d99g828dga24ag5826g5173a7c17174" version="2">Космические силы Хаоса атакуют сущности, окружающие ауру.</content>
   <content contentuid="h41072ba9g1b28g1653g89c3geb945c1c6df1" version="1">Поле разрушения</content>
   <content contentuid="h12336d96gfb44g9ff8g5522gc851002c3ad3" version="3">Космические силы Хаоса атакуют сущности, окружающие ауру.</content>
-  <content contentuid="h35aae9b0g24d1g5e5cg16e9g77c09801f57c" version="1">Чувсто искажения</content>
-  <content contentuid="hcf9b6f82g0a03g0941g27e1g5365898a25f3" version="1">Чувсто искажения</content>
-  <content contentuid="h19807a4dgb9b4g6a11g1ad1g33886795753c" version="1">Чувсто искажения</content>
-  <content contentuid="h1ee85063g393bg7bb3g8fd4g24cd706369eb" version="1">Чувсто искажения</content>
-  <content contentuid="h74112800gd1b6g6d15g2b3ag99b4ef5b61e7" version="5">Вы чувствуете присутствие планарных энергий, таких как порталы, даже самых остаточных. Вы также получаете бонус к магическому навыку. Заклинание заканчивается, когда вы обнаруживаете портал и получаете информацию о нем.</content>
-  <content contentuid="hc53f42ecg57cagf9f1gd923gd71c1f3dee48" version="3">Вы чувствуете присутствие планарных энергий, таких как порталы, даже самых остаточных. Вы также получаете бонус к магическому навыку. Заклинание заканчивается, когда вы обнаруживаете портал и получаете информацию о нем.</content>
-  <content contentuid="he1077f52g85acgbc6dgbeefgc69b82ed6f2c" version="1">Вы чувствуете присутствие планарных энергий, таких как порталы, даже самых остаточных. Вы также получаете бонус к магическому навыку. Заклинание заканчивается, когда вы обнаруживаете портал и получаете информацию о нем.</content>
-  <content contentuid="h9efc7d47ga644ge2f4g79a9g781f5dfbd738" version="1">Вы чувствуете присутствие планарных энергий, таких как порталы, даже самых остаточных. Вы также получаете бонус к магическому навыку. Заклинание заканчивается, когда вы обнаруживаете портал и получаете информацию о нем.</content>
   <content contentuid="h52cb2e91gf45eg4bf2gfdaeg0df82f11acc4" version="1">Запечатывание врат</content>
   <content contentuid="h8483d49ag1e8dg1c43g8018gfcd6bbef6e23" version="1">Запечатывание врат</content>
   <content contentuid="hc9103a06g6ce1g9873gf3b6ga43de4e8a062" version="1">Запечатывание врат</content>
@@ -346,9 +346,9 @@
   <content contentuid="h7dd603ebg6c37g27d9gd5c2ge37c18b6d230" version="3">Для тех, у кого независимый разум и мышление, кто не ссылается ни на какого бога. Мы часто наблюдаем подобный образ мышления среди жителей Сигила. С таким классом, как жрец, безбожный персонаж иногда может обрести силу благодаря своим собственным убеждениям и принципам.</content>
   <content contentuid="hc9044b13g4f33gfe1eg2110g1dd10f295343" version="4">Свободный мыслитель</content>
   <content contentuid="hed922461g2feag4702g723bgcc89f9a25969" version="4">Для тех, у кого независимый разум и мышление, кто не ссылается ни на какого бога.</content>
-  <content contentuid="h6208ab95g66f0g5176g06a8g55e450bfcf8e" version="2">Свободомыслящий Священник</content>
-  <content contentuid="h3d11e4ccgad79gb863g5d26gae1d1852af0f" version="2">Священник, не ссылающийся ни на одного бога.</content>
-  <content contentuid="h964ffe55g44f7gcebag7c1fg42395e57f2a1" version="1">Свободомыслящий Паладин</content>
+  <content contentuid="h6208ab95g66f0g5176g06a8g55e450bfcf8e" version="2">Свободомыслящий жрец</content>
+  <content contentuid="h3d11e4ccgad79gb863g5d26gae1d1852af0f" version="2">Жрец, не ссылающийся ни на одного бога.</content>
+  <content contentuid="h964ffe55g44f7gcebag7c1fg42395e57f2a1" version="1">Свободомыслящий паладин</content>
   <content contentuid="hd2073e58g0cf5gdd5bgfe52g8a1d26aa8e3b" version="1">Паладин, не ссылающийся ни на одного бога.</content>
   <content contentuid="h55a58843g198fg42beg8885g5d1fa3d64808" version="15">Врата портала</content>
   <content contentuid="h276ab033g0890g4653g9cadg0b61a1ec93a7" version="14">Связанные планарными энергиями со своим двойником, эти врата позволяют тем, кто проходит через них, выйти из их двойных врат.</content>
@@ -492,31 +492,31 @@
   <content contentuid="h1f9b2d4fg6e39g7e8g5c4a8g3fd971d67203" version="8">Ты за кого меня держишь, а? Я не такая.</content>
   <content contentuid="hf4b3e2a9g9d76g1f4g6a8b7g2ca483e51219" version="8">А?</content>
   <content contentuid="h672496b9gdce8g6d0ag8488gb67e5b5c1bbf" version="2">Оканчивает эффекты &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;очарования&lt;/LSTag&gt; и &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;испуга&lt;/LSTag&gt;.</content>
-  <content contentuid="hec9e6248g566dg208agf004g76521f10bf77" version="1">Потреблять</content>
-  <content contentuid="hd3b08708g7556gd184g4e19gc2618bbfa00d" version="1">Ваше прошлое и опыт приключений означают, что вы уже давно связали себя с планом.</content>
+  <content contentuid="hec9e6248g566dg208agf004g76521f10bf77" version="1">Поглотить ощущение</content>
+  <content contentuid="hd3b08708g7556gd184g4e19gc2618bbfa00d" version="1">Ваше прошлое и ваш приключенческий опыт означают, что вы давным-давно связали себя с каким-то планом.</content>
   <content contentuid="ha2bb4d68gc28fg19a6g43bcg65b4b4652847" version="1">Сумка Planescape</content>
-  <content contentuid="hf56b6440gc00cga1a5g505bg38db517ede50" version="1">Простой мешочек с плоскими предметами.</content>
-  <content contentuid="hf2654e2ag423eg54bfg049cga58d2d40c6b2" version="2">Сумка Planescape (Npc items)</content>
-  <content contentuid="h3b5ef546g4ceeg453cg03ecgffb643e42406" version="2">Простой мешочек с плоскими предметами.</content>
+  <content contentuid="hf56b6440gc00cga1a5g505bg38db517ede50" version="1">Простой мешочек с вещами Planescape.</content>
+  <content contentuid="hf2654e2ag423eg54bfg049cga58d2d40c6b2" version="2">Сумка Planescape (предметы НИП)</content>
+  <content contentuid="h3b5ef546g4ceeg453cg03ecgffb643e42406" version="2">Простой мешочек с вещами Planescape.</content>
   <content contentuid="hf642f457gd2d9g63abgb663g925404abae05" version="1">Портал обнаружен</content>
   <content contentuid="hb52aaae7g5a0cgd77ag0cdcgdfb890b9bbdc" version="1">Вы обнаружили следы портала.</content>
-  <content contentuid="h0a5fae24g4c79g4497g04d4g20fcfdd88153" version="1">Вы обнаружили портальные следы ведьмы.</content>
-  <content contentuid="h5c8aac1fge9dbgcf01g9fc5g3a66db53d8f8" version="1">Шлем корабля оставляет следы многочисленных проходов по планам.</content>
-  <content contentuid="h7fb1197cg7f41gd49bg81fdgcf3b6b1e00c6" version="1">Вы обнаружили следы нестабильного портала мастера.</content>
-  <content contentuid="h7a44e987gab4bgd2e2gcc6dg7ab4ddc1cb21" version="1">Вы обнаружили следы грибных кругов, соединяющих Подземье и логово ведьмы.</content>
+  <content contentuid="h0a5fae24g4c79g4497g04d4g20fcfdd88153" version="1">Вы обнаружили следы портала карги.</content>
+  <content contentuid="h5c8aac1fge9dbgcf01g9fc5g3a66db53d8f8" version="1">Руль корабля оставляет следы многочисленных проходов по планам.</content>
+  <content contentuid="h7fb1197cg7f41gd49bg81fdgcf3b6b1e00c6" version="1">Вы обнаружили следы нестабильного волшебного портала.</content>
+  <content contentuid="h7a44e987gab4bgd2e2gcc6dg7ab4ddc1cb21" version="1">Вы обнаружили следы грибных кругов, соединяющих Подземье и логово карги.</content>
   <content contentuid="h1b653337g0d1cg6ea6g0d1ag545295f59ad5" version="1">Вы обнаружили многочисленные следы портала.</content>
   <content contentuid="h887bddadg06f0g915dgd434gb37ad150b633" version="1">Вы обнаружили следы портала, соединяющего Материальный План и карманное измерение. Ключом, похоже, является таинственный артефакт, который вы несете.</content>
-  <content contentuid="h76a90da8ga3f3gd93ag34a4g6be15acdd8c0" version="3">Вы обнаружили доказательства существования портала, который использовали некоторые гитианки.</content>
+  <content contentuid="h76a90da8ga3f3gd93ag34a4g6be15acdd8c0" version="3">Вы обнаружили доказательства существования портала, который использовали некоторые гитьянки.</content>
   <content contentuid="h20f91cbbgbd38gedeagd60dg9e46d9bc837b" version="1">Вы обнаружили следы портала, который может привести к сердцу теневого проклятия.</content>
   <content contentuid="h9080155dg06d8g842ag81e2gebca7f0833a8" version="1">Вы обнаружили следы портала, соединяющего проклятую тюрьму и Материальный План. Ключом, похоже, являются испытания Шар.</content>
-  <content contentuid="h80da2a15g3265g7a28g7265gcf4ae4c56285" version="1">Вы обнаружили следы портала, соединяющего цирк Baldur's Gate и далекие джунгли.</content>
-  <content contentuid="h7ddde9f0g37f5g305dga991g7b7c0b889bf7" version="3">Вы обнаружили следы портала, соединяющего магазин Sorcerous Sundries и несколько секретных магических комнат.</content>
+  <content contentuid="h80da2a15g3265g7a28g7265gcf4ae4c56285" version="1">Вы обнаружили следы портала, соединяющего цирк Врат Балдура и далекие джунгли.</content>
+  <content contentuid="h7ddde9f0g37f5g305dga991g7b7c0b889bf7" version="3">Вы обнаружили следы портала, соединяющего «Волшебные принадлежности» и несколько секретных магических комнат.</content>
   <content contentuid="h557b5d8cg0a78g38dbg5a49g38428ea8110e" version="1">Вы обнаружили следы портала, соединяющего Материальный План и логово дьявола. Ключ, похоже, представляет собой ритуал, состоящий из нескольких предметов.</content>
-  <content contentuid="hebd9c2cbgc7bdgf824gbb3fge923b39d701d" version="1">Мимир Знание</content>
+  <content contentuid="hebd9c2cbgc7bdgf824gbb3fge923b39d701d" version="1">Знание мимира</content>
   <content contentuid="h6bdbaaa7g5f25g5e3dg9e9cg3844a3acf6b1" version="3">Активация устройства</content>
   <content contentuid="hd2f425b6gaa0cgcf5bga5f5g5256424ccdc8" version="2">Активация этого устройства дает вам часть его знаний.</content>
   <content contentuid="h2934311cg6fcbgaf64g1afag61f82c373b17" version="2">Использовать</content>
-  <content contentuid="h40684fe9gc931ge587gd987gc858d716944e" version="2">Если это действительно Мимир, его активация должна предоставить вам часть его знаний, верно?</content>
+  <content contentuid="h40684fe9gc931ge587gd987gc858d716944e" version="2">Если это действительно мимир, его активация должна предоставить вам часть его знаний, верно?</content>
   <content contentuid="h14b0dc56g5dbfgf375ge343g78cf7ae51b0c" version="3">Использовать</content>
   <content contentuid="h33fffc28g5ec9g17dbg540bg411313d49cf1" version="3">Использовать</content>
   <content contentuid="h487284a8gc7e7gdf75g7001gb8055212b8b2" version="2">Использование этого контракта позволяет вам нанять связанное с ним существо.</content>
@@ -555,18 +555,18 @@
   <content contentuid="h52da9222g30f5gaffcg64f5g0f6a84c38601" version="1">Это энтропийное оружие, пропитанное некротической энергией, способно превратить врагов в пепел.</content>
   <content contentuid="hde6d1a89g2c19g2ce6g1053ga8d0246a579a" version="1">Это энтропийное оружие, пропитанное некротической энергией, способно превратить врагов в пепел.</content>
   <content contentuid="hf67f607bgfe6ag874dgd6a0gadaf001f711d" version="1">Это энтропийное оружие, пропитанное некротической энергией, способно превратить врагов в пепел.</content>
-  <content contentuid="h9e970a59ge7a4gdb07g04f5g0d74ce703e1c" version="5">Очарование мертвого перемирия</content>
-  <content contentuid="hd9e90659g39b6g07d1ga365g6adb41d0d962" version="2">Очарование мертвого перемирия</content>
-  <content contentuid="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="2">Очарование мертвого перемирия</content>
-  <content contentuid="h9c1d41cfg908dgb54bgd45ag1d1827eca7fd" version="4">Этот амулет дарует вам уважение среди мертвых. Во время боя враждебная нежить не может напрямую атаковать заклинателя этого заклинания. Кроме того, вы получаете преимущество на проверки Харизмы при взаимодействии с нежитью. Если вы атакуете или используете атакующую реакцию против существа-нежити, этот эффект исчезает.</content>
-  <content contentuid="hd03eeeb1g0e99g80d2g9246g93cb8215e28f" version="4">Дает вам уважение среди мертвых. Во время боя враждебная нежить не может напрямую атаковать заклинателя этого заклинания. Кроме того, вы получаете преимущество на проверки Харизмы при взаимодействии с нежитью. Если вы атакуете или используете атакующую реакцию против существа-нежити, этот эффект исчезает.</content>
+  <content contentuid="h9e970a59ge7a4gdb07g04f5g0d74ce703e1c" version="5">Амулет мертвого перемирия</content>
+  <content contentuid="hd9e90659g39b6g07d1ga365g6adb41d0d962" version="2">Амулет мертвого перемирия</content>
+  <content contentuid="h8be2a08dg633dg0bdega60bgb6f61a602e28" version="2">Амулет мертвого перемирия</content>
+  <content contentuid="h9c1d41cfg908dgb54bgd45ag1d1827eca7fd" version="4">Этот амулет дарует вам уважение среди мертвых. Во время боя враждебная нежить не может напрямую атаковать заклинателя. Кроме того, вы получаете &lt;LSTag Tooltip="Advantage"&gt;преимущество&lt;/LSTag&gt; при &lt;LSTag Tooltip="AbilityCheck"&gt;проверках&lt;/LSTag&gt; Харизмы при взаимодействии с нежитью. Если вы атакуете или используете атакующее ответное действие против нежити, этот эффект исчезает.</content> 
+  <content contentuid="hd03eeeb1g0e99g80d2g9246g93cb8215e28f" version="4">Дает вам уважение среди мертвых. Во время боя враждебная нежить не может напрямую атаковать вас. Кроме того, вы получаете &lt;LSTag Tooltip="Advantage"&gt;преимущество&lt;/LSTag&gt; при &lt;LSTag Tooltip="AbilityCheck"&gt;проверках&lt;/LSTag&gt; Харизмы при взаимодействии с нежитью. Если вы атакуете или используете атакующее ответное действие против нежити, этот эффект исчезает.</content> 
   <content contentuid="h32b321cdg32c0g3845gfcffg54dda677fc07" version="2">Мертвое перемирие</content>
   <content contentuid="hf7cebf92gccc4ga6fcga716ge79dfd1c81e1" version="2">Существо умиротворяется по отношению к источнику этого заклинания.</content>
-  <content contentuid="h0100b285gc467gca8cg94d3g89064fbaa365" version="4">Очарование Бестелесности</content>
-  <content contentuid="hf9ac3656gfaf2g80d4gae2dg594efd79ef17" version="2">Очарование Бестелесности</content>
-  <content contentuid="h82e5cc2dg1ee4geaaeg6a2cgc51ff337c1a3" version="1">Очарование Бестелесности</content>
-  <content contentuid="h3375375fgf2f8g4cedg8cb5gfb53fd26ab1c" version="1">Этот амулет позволяет вам принять призрачную, бестелесную форму. В этой форме вы обладаете сопротивлением дробящему, колющему и рубящему урону.</content>
-  <content contentuid="hbec8085egb989g2e3fg0fc7gb473c086d489" version="1">Вы принимаете призрачную, бестелесную форму. В этой форме вы обладаете сопротивлением дробящему, колющему и рубящему урону.</content>
+  <content contentuid="h0100b285gc467gca8cg94d3g89064fbaa365" version="4">Амулет бестелесности</content>
+  <content contentuid="hf9ac3656gfaf2g80d4gae2dg594efd79ef17" version="2">Амулет бестелесности</content>
+  <content contentuid="h82e5cc2dg1ee4geaaeg6a2cgc51ff337c1a3" version="1">Амулет бестелесности</content>
+  <content contentuid="h3375375fgf2f8g4cedg8cb5gfb53fd26ab1c" version="1">Этот амулет позволяет вам принять призрачную, бестелесную форму. В этой форме вы обладаете устойчивостью к дробящему, колющему и рубящему урону.</content>
+  <content contentuid="hbec8085egb989g2e3fg0fc7gb473c086d489" version="1">Вы принимаете призрачную, бестелесную форму. В этой форме вы обладаете устойчивостью к дробящему, колющему и рубящему урону.</content>
   <content contentuid="h97840d3ag5570gba65g009eg2cde3bb46990" version="1">Этот предмет исчезает после использования.</content>
   <content contentuid="hbfbd333bg6698ge929g8e96g3a2364b3a1aa" version="1">Этот предмет исчезает после использования.</content>
   <content contentuid="h2b8753d0g5a5dg5203g5cf1g87e6646a16b8" version="6">Люди, которые присоединяются к Вестникам Пыли или доказывают свою принадлежность к фракции, иногда награждаются сверхъестественным обаянием.</content>
@@ -575,20 +575,20 @@
   <content contentuid="h4d6ca746g8bbdg75bcgbb04g36301dbcf747" version="7">Использовать</content>
   <content contentuid="hc5ba049bg1d5eg6404g8a09gbfe881c3e26d" version="2">Опустошительный огонь</content>
   <content contentuid="h3c22c311g5c4ega574g00c7g3955c940943b" version="2">Опустошительный огонь</content>
-  <content contentuid="h244fa72cg8090g14f2ga028ge59a03bf16c5" version="1">Требуется [1] за каждый ход.</content>
-  <content contentuid="h4b01b315ga76age906ga70fg7336c25b0a65" version="2">Каждый раз, когда вы наносите урон этим оружием, на вашу цель наносится разрушительный огонь.</content>
+  <content contentuid="h244fa72cg8090g14f2ga028ge59a03bf16c5" version="1">Наносит [1] каждый ход.</content>
+  <content contentuid="h4b01b315ga76age906ga70fg7336c25b0a65" version="2">Каждый раз, когда вы наносите урон этим оружием, на вашу цель накладывается &lt;LSTag Type="Status" Tooltip="Paitm_HavocHammer_FireDot"&gt;«Опустошительный огонь»&lt;/LSTag&gt;.</content>
   <content contentuid="h9fcdae5eg0e2eg3ff0ge2aegb3383f8a81a6" version="1">Печать молнии</content>
   <content contentuid="hf6cc7530g18e6g0dedg7679g49df7ad6cbcb" version="1">Печать молнии</content>
-  <content contentuid="h4f796a42gde7cgc6ccg5bf8ge753df49975d" version="2">Один раз за бой, когда вы наносите урон этим оружием, на вашу цель накладывается печать молнии.</content>
-  <content contentuid="h7824fb26g0bdbgfd75g245agd3ea9ca52ebb" version="1">Требуется [1] за каждый ход.</content>
+  <content contentuid="h4f796a42gde7cgc6ccg5bf8ge753df49975d" version="2">Один раз за бой, когда вы наносите урон этим оружием, на вашу цель накладывается &lt;LSTag Type="Status" Tooltip="Paitm_SEALED"&gt;«Печать молнии»&lt;/LSTag&gt;.</content>
+  <content contentuid="h7824fb26g0bdbgfd75g245agd3ea9ca52ebb" version="1">Наносит [1] каждый ход.</content>
   <content contentuid="hb41684b4g64e0geae3gb8f2g5961893564f2" version="1">Толкать</content>
   <content contentuid="ha13cd106g9877g8ad7g41e4gcc9c61aa7f74" version="1">Всякий раз, когда вы наносите урон этим оружием, оно может отбросить вашу цель назад.</content>
   <content contentuid="h29b950f4gee17g71bdg6948g70a0371c30c8" version="1">Энтропия</content>
   <content contentuid="hb874d355ge9e4g02fcg49b8g77d11b2dad19" version="1">Существо, убитое этим оружием, превращается в пепел.</content>
-  <content contentuid="hf871407eg4afbgba85gad7ag195a98cf6fc7" version="1">Энтропийная эмиссия</content>
-  <content contentuid="h4d9e33c6g842eg3bf3g444dg0713d909a0ce" version="2">Клинок излучает взрыв энтропийной магии. Каждое существо в области заклинания должно преуспеть в спасброске Телосложения или взять [1].</content>
+  <content contentuid="hf871407eg4afbgba85gad7ag195a98cf6fc7" version="1">Энтропийное излучение</content>
+  <content contentuid="h4d9e33c6g842eg3bf3g444dg0713d909a0ce" version="2">Клинок испускает поток энтропийной магии. Каждое существо в области заклинания должно преуспеть в &lt;LSTag Tooltip="SavingThrow"&gt;испытании&lt;/LSTag&gt; Выносливости или получит [1].</content>
   <content contentuid="h12ad8a4eg1d0agd71dg7d37gcc3b7f727ed3" version="25">Леди Боли</content>
-  <content contentuid="h1d953173g1abag5f4dg043ega6ec89584026" version="25">Ее Безмятежность, Ее Ужасное Величество, Королева Клинков</content>
+  <content contentuid="h1d953173g1abag5f4dg043ega6ec89584026" version="25">Её Безмятежность, Ее Ужасное Величество, Королева Клинков</content>
   <content contentuid="ha3cf2632g4740g59d4ge624gd7312f1c7fe8" version="17">Нордом</content>
   <content contentuid="h7df2af48g623egd061g4da2gc49cbe1aece9" version="1">Модрон</content>
   <content contentuid="hc994992fgf730gfa42gae26gac33b919326a" version="38">Игнус</content>
@@ -596,27 +596,27 @@
   <content contentuid="h5a0e5480gd7feg0849g9370g8e7dcc5812ad" version="1">Маг-пироман</content>
   <content contentuid="h3a6afca8ga435g7e45ga1a6g739436c10808" version="19">Маг-пироман</content>
   <content contentuid="h2c1ce9b0g2ef0g73aag02bbga22c5ca449e6" version="7">Вайлор</content>
-  <content contentuid="h83454ef2g71c2gd305g8edbg5be8fa427be5" version="1">Беспокойный Дух</content>
+  <content contentuid="h83454ef2g71c2gd305g8edbg5be8fa427be5" version="1">Беспокойный дух</content>
   <content contentuid="h0f96aab6g8be1g2f8dgef93gba38709fe4b7" version="4">Окончательный приговор</content>
   <content contentuid="h335a9079gfe25g049dg005eg7a4dab35d9b7" version="4">Топор сам по себе огромен; даже если держать его двумя руками, для эффективного использования потребуется огромная сила.</content>
   <content contentuid="h7fa22e66g06b8g8bb6g4d9bg238ba9ddba65" version="5">Дак'кон</content>
-  <content contentuid="h79a05212g041fgc43age50ag49de98de0c05" version="2">Странствующий Гитзерай</content>
-  <content contentuid="h8244ad34g7aecg6119ga384g7e3aa0d3e245" version="7">Кинжал Анна</content>
-  <content contentuid="h215d145dg7b60gaea3g6556g07b6c90a4c1f" version="6">«Если ты заткнешься, я перестану махать хвостом».</content>
+  <content contentuid="h79a05212g041fgc43age50ag49de98de0c05" version="2">Странствующий гитзерай</content>
+  <content contentuid="h8244ad34g7aecg6119ga384g7e3aa0d3e245" version="7">Кинжал Анны</content>
+  <content contentuid="h215d145dg7b60gaea3g6556g07b6c90a4c1f" version="6">"Если ты заткнешься, я перестану махать хвостом".</content>
   <content contentuid="h058f9715gd892g1cdcg259dg70611e9e3419" version="7">Равель</content>
-  <content contentuid="h0c60149egab5ag2449gf3cfg74f860cb1913" version="6">Серая Ведьма</content>
+  <content contentuid="h0c60149egab5ag2449gf3cfg74f860cb1913" version="6">Серая карга</content>
   <content contentuid="h3fb6deefg91efg7ed4g8522gc21586bffd2b" version="2">Тригит</content>
   <content contentuid="hae5490eag5890gd35ag4932gf28b570215f1" version="2">Тригит</content>
   <content contentuid="h32349a2bge9a6g8a80g576ag030c4ac40dd5" version="9">Трича</content>
   <content contentuid="hf05eb324gf2b6g50f3g8b8cgef3063198104" version="11">Лим-Лим</content>
-  <content contentuid="h926288d3g4dc3g168cg49e7gd7d2cd47887a" version="3">Холлифант</content>
+  <content contentuid="h926288d3g4dc3g168cg49e7gd7d2cd47887a" version="3">Крылослон</content>
   <content contentuid="hcb770bb2g222dgd7c1g7883g29dbf1b25eab" version="5">Варгуй</content>
   <content contentuid="h975ee734g8827gca5ag885bg2f565c3936a7" version="18">Лемур</content>
   <content contentuid="h4e30b8a8g3dc4g7d40g9b8cg8b3429eb8482" version="11">Триас</content>
   <content contentuid="h0ad9e969ga50bg7fa1gc2bag0fc2b6fdb5b1" version="11">Предатель</content>
   <content contentuid="h631290adgfbbegbe95gabb8g88b429133958" version="4">Небесный огонь</content>
   <content contentuid="h4f3dfaf2g76d8g3f8egf7a2gd3dceb5e6711" version="4">Мечу на вид несколько тысяч лет.</content>
-  <content contentuid="h7ecb422fg6550gb945g7457g71945f2e78d7" version="23">Трансцендентный</content>
+  <content contentuid="h7ecb422fg6550gb945g7457g71945f2e78d7" version="23">Возвышенный</content>
   <content contentuid="h08b8c000g29efg6a26g1abfg0e7e4d7c94a6" version="4" />
   <content contentuid="ha4ee9c9cgd950g879egf1cag3b1d0de8d777" version="10">Гончая Архонт</content>
   <content contentuid="h294a7824g826fgcb92gc845gaf26cac269c8" version="3">Гончая Архонт</content>
@@ -624,12 +624,12 @@
   <content contentuid="hd0cddb0ag6952g5898g16e5ga3147ed61766" version="6">Страж Архонт</content>
   <content contentuid="h3098e04dg16b1g3868g1d42g2bda7a9b382b" version="3" />
   <content contentuid="hd8bc137fg201eg60fag35f2g9a826f0f8540" version="13">Корнугон</content>
-  <content contentuid="h656446b9g5301g12a7g2462g7dfdf1da2c76" version="13">Большой Баатезу, Рогатый Дьявол</content>
-  <content contentuid="h478ef67ag8abeg2632g67d2g5f9c84c01250" version="10">Черный Абишай</content>
-  <content contentuid="h4e6e5701ge98cgab35g1e6dgd7c4a41d01ba" version="10">Красный Абишай</content>
-  <content contentuid="h4113b765g5440g7b51gf303ge1a57b5e2365" version="9">Зеленый Абишай</content>
-  <content contentuid="h39e83b4ag0412g64d3gf3efgabdd37a952a8" version="9">Белый Абишай</content>
-  <content contentuid="h218f2668gd95dg420dg69c4ge8bef8524387" version="9">Синий Абишай</content>
+  <content contentuid="h656446b9g5301g12a7g2462g7dfdf1da2c76" version="13">Большой баатезу, рогатый дьявол</content>
+  <content contentuid="h478ef67ag8abeg2632g67d2g5f9c84c01250" version="10">Черный абишай</content>
+  <content contentuid="h4e6e5701ge98cgab35g1e6dgd7c4a41d01ba" version="10">Красный абишай</content>
+  <content contentuid="h4113b765g5440g7b51gf303ge1a57b5e2365" version="9">Зеленый абишай</content>
+  <content contentuid="h39e83b4ag0412g64d3gf3efgabdd37a952a8" version="9">Белый абишай</content>
+  <content contentuid="h218f2668gd95dg420dg69c4ge8bef8524387" version="9">Синий абишай</content>
   <content contentuid="h9b593a71g70f2g6cedgff2dg7e870f58a6eb" version="10">Баатезу</content>
   <content contentuid="h9a0a8740g7619g8b1agc02dg54b81a389b5a" version="10">Баатезу</content>
   <content contentuid="h337a7260gdfa5g55bag125eg0cd064cc6ffa" version="9">Баатезу</content>
@@ -646,23 +646,23 @@
   <content contentuid="h79c946e4gc109g84a8g9d62gf53dc1fd0a07" version="1">Проклятая душа</content>
   <content contentuid="h8965257ag38a6g1d31gb63eg3bd88e566a13" version="1">Проклятая душа</content>
   <content contentuid="hb27161fdg3ee4ga82bgc9f7g047653c80b4a" version="6">Мустеваль</content>
-  <content contentuid="h1736abd1g2cb3g48d7ga22bgec75f3f328e7" version="5">Ткач Тьмы</content>
+  <content contentuid="h1736abd1g2cb3g48d7ga22bgec75f3f328e7" version="5">Ткач тьмы</content>
   <content contentuid="h413940e8g00bag53afg150agaad5ad407e60" version="9">Дабус</content>
   <content contentuid="h6152312age6f5gd166g4718gd135810b8fa6" version="8">Упал</content>
-  <content contentuid="hf080fa59g0a6dg3241ga173gdc4599ea5746" version="8">Падший Дабус</content>
+  <content contentuid="hf080fa59g0a6dg3241ga173gdc4599ea5746" version="8">Падший дабус</content>
   <content contentuid="h91744a8bgcd8fg6de1gc3f3g2a668528f676" version="1">Аоскар</content>
   <content contentuid="h2326ff5fgaa6cgefd8g796age0f8559ee1f6" version="1">Аоскар был богом порталов. После того, как его убила и изгнала Леди Боли, он остался дрейфовать в Астральном Плане.</content>
   <content contentuid="h27212040g203dgef8eg9308g5a5c4584d26d" version="3">Аоскар</content>
   <content contentuid="h4bbbb3c7g60b9gd007g328fgf1c38e791946" version="3">Паладин Аоскара</content>
-  <content contentuid="h3889fde3g841fg96a1gd8dagacfa01072358" version="3">Клирик Аоскара</content>
+  <content contentuid="h3889fde3g841fg96a1gd8dagacfa01072358" version="3">Жрец Аоскара</content>
   <content contentuid="hb451be62gd5f3g5cb4gba60g0ea2acc92532" version="2">Аоскар был самопровозглашенным богом порталов.</content>
   <content contentuid="hfad34841gcdadg68b3ga535g2982a45d4dc6" version="2">Паладин Аоскара, самопровозглашенного бога порталов.</content>
-  <content contentuid="h3b75d09bgd64cg89b7gf256gb23c0170ca1f" version="2">Клирик Аоскара, самопровозглашенного бога порталов.</content>
+  <content contentuid="h3b75d09bgd64cg89b7gf256gb23c0170ca1f" version="2">Жрец Аоскара, самопровозглашенного бога порталов.</content>
   <content contentuid="h87c75118g3b28ge534gacf2g00af0f2b19ce" version="7">Старый прототип Кольярута</content>
   <content contentuid="hb3ec902fg4e39g79ebg07d0g848d57d98749" version="16">Нордом</content>
   <content contentuid="h613ff7adg4963ga925g9e43gf763b96e2a31" version="16">Клонировать</content>
   <content contentuid="h10733adcgfb24g189egeae2g40ebb7361a76" version="5">Дак'кон</content>
-  <content contentuid="h6e18c113g3360g89efg2c8eg45fff0179555" version="5">Странствующий Гитзерай</content>
+  <content contentuid="h6e18c113g3360g89efg2c8eg45fff0179555" version="5">Странствующий гитзерай</content>
   <content contentuid="hbfdf76d3g6174gbbb4g92e5g62a8b3ad890c" version="2">Зерт-клинок Да'кона</content>
   <content contentuid="h7a2a1170g6cdeg49fdg9350g9785355dced7" version="2">Этот меч был оружием знаменитого гитзерая, служившего существу, известному как "Безымянный".</content>
   <content contentuid="h992fcffbg616egb425g8514g973d2f91eb92" version="1">Аворал</content>
@@ -677,14 +677,14 @@
   <content contentuid="h301ed574g7a83g06acgd0f0g09dfa08e91ee" version="15">Реплика куба Модрон</content>
   <content contentuid="hae7dfcc8g2086g03aag9f55ga565d8c7224b" version="16">Похоже, этот предмет — бесполезная копия.</content>
   <content contentuid="hb3fb087bga2cfgddb3g0c6dgffb5d1e9d66d" version="3">Директива неясна. Дорога к Великому Маршу, говори ответ. Цель требует движения.</content>
-  <content contentuid="h3935faf8gda10g4051g01e5geaabc35cc908" version="3">Великий мартовский путь! Дай его! Протокол даёт сбои ОШИБКА.</content>
+  <content contentuid="h3935faf8gda10g4051g01e5geaabc35cc908" version="3">Великий мартовский путь! Дай его! Протокол даёт сбои. ОШИБКА.</content>
   <content contentuid="ha458db21g9806g4d6bga7c1g7ec041e6654b" version="3">Обнаружен сбой. Помехи миссии! УСТРАНЕНИЕ!</content>
-  <content contentuid="ha0337445gf0a7gab21g7bd6geb9be6b2bb2b" version="6">Инфицированный Абишай</content>
-  <content contentuid="hc7993b36g55cdg9a2cg7b0dg53e47d9c7474" version="12">Инфицированный Мустеваль</content>
-  <content contentuid="h357bca52g9063g3360g90c7g616210938a3c" version="12">Инфицированный Аворал</content>
+  <content contentuid="ha0337445gf0a7gab21g7bd6geb9be6b2bb2b" version="6">Зараженный личинкой абишай</content>
+  <content contentuid="hc7993b36g55cdg9a2cg7b0dg53e47d9c7474" version="12">Зараженный личинкой мустеваль</content>
+  <content contentuid="h357bca52g9063g3360g90c7g616210938a3c" version="12">Зараженный личинкой аворал</content>
   <content contentuid="h357cb2f7g371egacb3g8c3cgfa11c4da7359" version="1">Мною владеет Абсолют.</content>
-  <content contentuid="h42dfdb0cg6ecfg0e18g3291g20fc48248dae" version="1">Абсолют указал мне путь.</content>
-  <content contentuid="h07a2d4a1ga292ge7d2g2cabgd064445ad406" version="1">Каждая победа Абсолюта — это шаг к вечности.</content>
-  <content contentuid="h5eeb7f86g2c9bgc33dg2072gd74d9ed247a2" version="6">Гвоздь Равель</content>
-  <content contentuid="hd628e9b2g4ec2g9842gc889g512c7f223ea5" version="6">Волшебный гвоздь, принадлежавший Серая Ведьма.</content>
+  <content contentuid="h42dfdb0cg6ecfg0e18g3291g20fc48248dae" version="1">Абсолют указала мне путь.</content>
+  <content contentuid="h07a2d4a1ga292ge7d2g2cabgd064445ad406" version="1">Каждая победа во имя Абсолют — это шаг к вечности.</content>
+  <content contentuid="h5eeb7f86g2c9bgc33dg2072gd74d9ed247a2" version="6">Гвоздь Рэйвеля</content>
+  <content contentuid="hd628e9b2g4ec2g9842gc889g512c7f223ea5" version="6">Волшебный гвоздь, принадлежавший Серой карге.</content>
 </contentList>
