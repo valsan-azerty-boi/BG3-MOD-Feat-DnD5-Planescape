@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="2a49a0e0-e32d-ed89-8656-a93624013b84"/>
+            <attribute id="Name" type="LSString" value="PlanescapeVoiced"/>
+            <attribute id="UUID" type="LSString" value="651a9d49-6f79-d9fd-9378-30cff0305469"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
