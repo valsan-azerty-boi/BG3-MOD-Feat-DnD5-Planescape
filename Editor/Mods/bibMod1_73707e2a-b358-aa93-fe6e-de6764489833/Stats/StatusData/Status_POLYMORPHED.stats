@@ -262,5 +262,73 @@
         <field name="TemplateID" type="StringTableFieldDefinition" value="7abd78c4-41cc-4910-aaf2-4e06fd314303" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="13b5f416-32d4-497a-ae44-e6489e093419" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Showcase_Npcs_Annah" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BenignTransposition_Swap" />
+        <field name="StackId" type="StringTableFieldDefinition" value="DISGUISE_SELF" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Paitm_GlitchedIncarnation_Cancel)" />
+        <field name="TemplateID" type="StringTableFieldDefinition" value="c651ce10-f8ff-46ea-86d2-b89ef119b901" />
+        <field name="Rules" type="GuidObjectTableFieldDefinition" value="ceccc4eb-d774-4cd5-9147-12322b81b763" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Disguise" enumeration_type_name="StatusGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a0c6baec-b75f-4ac1-a083-f370f3857e16" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Showcase_Npcs_Morte" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="13b5f416-32d4-497a-ae44-e6489e093419" />
+        <field name="TemplateID" type="StringTableFieldDefinition" value="7dbd681a-da33-4ef4-8eac-d03c418dc701" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="23df7df0-10de-49f9-966f-681db94ceb35" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Showcase_Npcs_Ffg" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="13b5f416-32d4-497a-ae44-e6489e093419" />
+        <field name="TemplateID" type="StringTableFieldDefinition" value="69159db8-b313-43da-b699-0129288e8bb7" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c8853092-1acf-4f57-8b5c-c50a11d07415" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Showcase_Npcs_Vhailor" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="13b5f416-32d4-497a-ae44-e6489e093419" />
+        <field name="TemplateID" type="StringTableFieldDefinition" value="865af259-1cb9-4925-a9c3-75f0974e777a" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="33e17616-81d4-40b5-9b8c-4407fef27338" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Showcase_Npcs_LadyOfPain" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="13b5f416-32d4-497a-ae44-e6489e093419" />
+        <field name="TemplateID" type="StringTableFieldDefinition" value="69772248-eac4-4f98-b4b6-2f1eff8c5f9b" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="dafe8af6-f089-4f65-b0e4-c6a4a32a01a0" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Showcase_Npcs_Ignus" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="13b5f416-32d4-497a-ae44-e6489e093419" />
+        <field name="TemplateID" type="StringTableFieldDefinition" value="0fe32aa4-8556-4564-b28a-5a4a087bd9c6" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4bb9cd2d-1154-4b74-a6b2-30027c9049bf" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Showcase_Npcs_Nordom" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="13b5f416-32d4-497a-ae44-e6489e093419" />
+        <field name="TemplateID" type="StringTableFieldDefinition" value="541ccde2-990d-463d-ba07-fbc8e2fc03ff" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="da6d9176-13f7-49d4-8f1d-78fcd3f76caf" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Showcase_Npcs_Dakkon" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="13b5f416-32d4-497a-ae44-e6489e093419" />
+        <field name="TemplateID" type="StringTableFieldDefinition" value="d61f7efc-59fb-461a-8265-6a2444141983" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

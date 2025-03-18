@@ -437,5 +437,125 @@
         <field name="Sheathing" type="EnumerationTableFieldDefinition" value="Melee" enumeration_type_name="SpellSheathing" version="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="20c08c44-1021-4a1c-a38f-842ce045aae1" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Showcase_Npcs" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Transmutation" enumeration_type_name="SpellSchool" version="1" />
+        <field name="ContainerSpells" type="StringTableFieldDefinition" value="Shout_Paitm_Showcase_Npcs_Annah;Shout_Paitm_Showcase_Npcs_Morte;Shout_Paitm_Showcase_Npcs_Ffg;Shout_Paitm_Showcase_Npcs_Vhailor;Shout_Paitm_Showcase_Npcs_LadyOfPain;Shout_Paitm_Showcase_Npcs_Ignus;Shout_Paitm_Showcase_Npcs_Nordom;Shout_Paitm_Showcase_Npcs_Dakkon" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="CooldownType" version="1" />
+        <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Illusion_DisguiseSelf" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0c6ce85dg7a18g8931g954bgfbf0882c5b1f" version="1" />
+        <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Utility_DisguiseSelf_L1to3" />
+        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Utility_DisguiseSelf_L1to3" />
+        <field name="VocalComponentSound" type="StringTableFieldDefinition" value="Vocal_Component_PolymorphGeneric" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="dd86aa43-8189-4d9f-9a5c-454b5fe4a197,,;,,;bcc3b0d9-f04f-4448-aab0-e0ad641167cc,,;bf924cc6-8b39-4c3b-b1c0-eda264cf6150,,;cc5b0caf-3ed1-4711-a50d-11dc3f1fdc6a,,;,,;1715b877-4512-472e-9bd0-fd568a112e90,,;,,;,," />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Utility" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsSpell;HasVerbalComponent;HasSomaticComponent;IsLinkedSpellContainer" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellPrepareCost" type="IntegerTableFieldDefinition" value="1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="9e7ec23c-4b13-4a88-b3d6-1df1782e4359" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="c33c578f-fc5c-4a9d-a961-78b7bfff73d7" />
+        <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="ebcd0860-3695-4762-b9f5-4e441c4bf888" />
+        <field name="RitualCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="046aa303-778b-458c-9328-7424d0a5f451" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Showcase_Npcs_Annah" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Transmutation" enumeration_type_name="SpellSchool" version="1" />
+        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Shout_Paitm_Showcase_Npcs" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="CooldownType" version="1" />
+        <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_Showcase_Npcs_Annah,100,-1)" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Illusion_DisguiseSelf" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9ab0947egb5b4g3877g93dcga123678923cf" version="1" />
+        <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Utility_DisguiseSelf_L1to3" />
+        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Utility_DisguiseSelf_L1to3" />
+        <field name="VocalComponentSound" type="StringTableFieldDefinition" value="Vocal_Component_PolymorphGeneric" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="dd86aa43-8189-4d9f-9a5c-454b5fe4a197,,;,,;bcc3b0d9-f04f-4448-aab0-e0ad641167cc,,;bf924cc6-8b39-4c3b-b1c0-eda264cf6150,,;cc5b0caf-3ed1-4711-a50d-11dc3f1fdc6a,,;,,;1715b877-4512-472e-9bd0-fd568a112e90,,;,,;,," />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Utility" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsSpell;HasVerbalComponent;HasSomaticComponent;IsLinkedSpellContainer" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellPrepareCost" type="IntegerTableFieldDefinition" value="1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="9e7ec23c-4b13-4a88-b3d6-1df1782e4359" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="c33c578f-fc5c-4a9d-a961-78b7bfff73d7" />
+        <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="ebcd0860-3695-4762-b9f5-4e441c4bf888" />
+        <field name="RitualCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0e9d8daf-2025-4299-a5d0-7bbff937b680" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Showcase_Npcs_Morte" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="046aa303-778b-458c-9328-7424d0a5f451" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_Showcase_Npcs_Morte,100,-1)" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0caf398cgadbbg2866gc4b5g9c56f8237860" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="eca4cbce-0f8a-4a08-a671-3600623ec1cf" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Showcase_Npcs_Ffg" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="046aa303-778b-458c-9328-7424d0a5f451" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_Showcase_Npcs_Ffg,100,-1)" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5e317d2fg56bbg8085gcb84gc5d94d996f80" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="21ceff1b-91db-4edc-8dda-d508685b84f6" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Showcase_Npcs_Vhailor" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="046aa303-778b-458c-9328-7424d0a5f451" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_Showcase_Npcs_Vhailor,100,-1)" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h90f97953g4407g96e8g3affga796910c7aac" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f936488f-59da-4c9f-8670-339890349970" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Showcase_Npcs_LadyOfPain" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="046aa303-778b-458c-9328-7424d0a5f451" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_Showcase_Npcs_LadyOfPain,100,-1)" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb580e68fg0cdfg05f0gde25g547a5d292602" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a3a73e8a-fe94-43ba-a442-bd6268079829" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Showcase_Npcs_Ignus" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="046aa303-778b-458c-9328-7424d0a5f451" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_Showcase_Npcs_Ignus,100,-1)" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h509695c6gb128g06edgff97g515dc6f40bd2" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5382bece-3706-46da-b43b-f091a68a0b05" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Showcase_Npcs_Nordom" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="046aa303-778b-458c-9328-7424d0a5f451" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_Showcase_Npcs_Nordom,100,-1)" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3259a551g4777gbc6cgf3ceg639f3b80c3bc" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="84a112b0-8834-4d86-a1e1-b5c47379b51d" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_Showcase_Npcs_Dakkon" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="046aa303-778b-458c-9328-7424d0a5f451" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Paitm_Showcase_Npcs_Dakkon,100,-1)" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hff950465g6e66ge5d1g26ecg611b8181593c" version="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

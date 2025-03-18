@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StackedTexture>
+  <Layers>
+    <Layer type="Albedo" source="($DATA)\Public\($MOD)\VirtualTextures\SKEL_HUM_M_NKD_Body_A_Morte_Albedo" />
+    <Layer type="Normal" source="($DATA)\Public\($MOD)\VirtualTextures\SKEL_HUM_M_NKD_Body_A_Morte_Normal" />
+    <Layer type="Physical" source="($DATA)\Public\($MOD)\VirtualTextures\SKEL_HUM_M_NKD_Body_A_Morte_Physical" />
+  </Layers>
+</StackedTexture>
