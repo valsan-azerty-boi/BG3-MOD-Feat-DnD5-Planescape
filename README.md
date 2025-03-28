@@ -26,7 +26,8 @@ This mod implements features from the D&D 5E Planescape sourcebooks into Baldur'
 - Brazilian Portuguese (by [AlucardTraducao](https://next.nexusmods.com/profile/AlucardTraducao))
 
 ## Voice actors
-- 
+- xoktoberkindx
+- DavidKouw
 
 ## Special thanks
 - The entire BG3 modding community
