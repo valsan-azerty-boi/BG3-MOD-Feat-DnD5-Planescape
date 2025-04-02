@@ -676,9 +676,9 @@
   <content contentuid="he7a0ed6eg42c7g5279ge1aag133a09f1fade" version="9">Modron</content>
   <content contentuid="h301ed574g7a83g06acgd0f0g09dfa08e91ee" version="15">Modron Cube Replica</content>
   <content contentuid="hae7dfcc8g2086g03aag9f55ga565d8c7224b" version="16">This item appears to be a worthless replica.</content>
-  <content contentuid="hb3fb087bga2cfgddb3g0c6dgffb5d1e9d66d" version="3">Directive unclear. Road to Great March, speak answer. Purpose requires movement.</content>
-  <content contentuid="h3935faf8gda10g4051g01e5geaabc35cc908" version="3">Great March path! Give it! SEGMENTATION FAULT ERROR.</content>
-  <content contentuid="ha458db21g9806g4d6bga7c1g7ec041e6654b" version="3">Failure detected. Interference to mission! ELIMINATION!</content>
+  <content contentuid="hb3fb087bga2cfgddb3g0c6dgffb5d1e9d66d" version="5">Directive unclear. Road to Great March, speak answer. Purpose requires movement.</content>
+  <content contentuid="h3935faf8gda10g4051g01e5geaabc35cc908" version="5">Great March path! Give it! SEGMENTATION FAULT ERROR.</content>
+  <content contentuid="ha458db21g9806g4d6bga7c1g7ec041e6654b" version="5">Failure detected. Interference to mission! ELIMINATION!</content>
   <content contentuid="ha0337445gf0a7gab21g7bd6geb9be6b2bb2b" version="6">Tadpoled Abishai</content>
   <content contentuid="hc7993b36g55cdg9a2cg7b0dg53e47d9c7474" version="12">Tadpoled Musteval</content>
   <content contentuid="h357bca52g9063g3360g90c7g616210938a3c" version="12">Tadpoled Avoral</content>
@@ -696,4 +696,5 @@
   <content contentuid="h509695c6gb128g06edgff97g515dc6f40bd2" version="1">Paitm_Showcase_Npcs_Ignus</content>
   <content contentuid="h3259a551g4777gbc6cgf3ceg639f3b80c3bc" version="1">Paitm_Showcase_Npcs_Nordom</content>
   <content contentuid="hff950465g6e66ge5d1g26ecg611b8181593c" version="1">Paitm_Showcase_Npcs_Dakkon</content>
+  <content contentuid="hb2ce743bg1162geefbg8d54g837cfa71fedf" version="1">What are you doing here?!</content>
 </contentList>

@@ -61,7 +61,7 @@
                                                 "TagText" : {
                                                    "handle" : "hb3fb087bga2cfgddb3g0c6dgffb5d1e9d66d",
                                                    "type" : "TranslatedString",
-                                                   "version" : 3
+                                                   "version" : 5
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -252,7 +252,7 @@
                                                 "TagText" : {
                                                    "handle" : "h3935faf8gda10g4051g01e5geaabc35cc908",
                                                    "type" : "TranslatedString",
-                                                   "version" : 3
+                                                   "version" : 5
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -443,7 +443,7 @@
                                                 "TagText" : {
                                                    "handle" : "ha458db21g9806g4d6bga7c1g7ec041e6654b",
                                                    "type" : "TranslatedString",
-                                                   "version" : 3
+                                                   "version" : 5
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -614,7 +614,7 @@
                      {
                         "SpeakerMappingId" : {"type" : "guid", "value" : "a4b9c078-27da-4e88-85a4-fda560d802d9"},
                         "index" : {"type" : "FixedString", "value" : "0"},
-                        "list" : {"type" : "LSString", "value" : "bdb23ffb-a36d-428b-abe7-4a77a4d405fa;a99f53b7-c06f-4b28-8c8d-02b7ba516111"}
+                        "list" : {"type" : "LSString", "value" : "bdb23ffb-a36d-428b-abe7-4a77a4d405fa;a99f53b7-c06f-4b28-8c8d-02b7ba516111;98553392-ab32-4bd4-8858-b902b14e8f0c"}
                      }
                   ]
                }
