@@ -1,15 +1,28 @@
 new entry "Paitm_AgentOfOrder"
 type "PassiveData"
 using "Paitm_AgentOfOrder"
+// You can channel cosmic forces of Order. Once per turn, if you damage a creature, you can also deal an additional [1] and possibly &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;restrain&lt;/LSTag&gt; it. You can use this feature a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and regain all uses on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.
+data "Description" "h8a404bedgd2dfg42f6ga3b9g66dc94a800d9;1"
+data "DescriptionParams" "DealDamage(1d8,Force)"
 data "Boosts" "UnlockInterrupt(Interrupt_Paitm_StasisStrike);ActionResource(PaitmInterruptsPoint,1,0);ActionResource(PaitmInterruptsPointRest,2,0);IF(CharacterLevelGreaterThan(4)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(8)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(12)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(16)):ActionResource(PaitmInterruptsPointRest,1,0)"
 
 new entry "Paitm_BalefulScion"
 type "PassiveData"
 using "Paitm_BalefulScion"
+// You can channel cosmic forces of Evil. Once per battle, if you damage a creature, you can also deal an additional [1] and you regain [2]. You add your &lt;LSTag Tooltip="Proficiency"&gt;Proficiency Bonus&lt;/LSTag&gt; to these damage and healing rolls. You can use this feature a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and regain all uses on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.
+data "Description" "hf75406bfgd380g4071gbd3ag6cc48679020c;1"
+data "DescriptionParams" "DealDamage(1d6,Necrotic);RegainHitPoints(1d6)"
 data "Boosts" "UnlockInterrupt(Interrupt_Paitm_GraspOfAvarice);ActionResource(PaitmInterruptsPoint,1,0);ActionResource(PaitmInterruptsPointRest,2,0);IF(CharacterLevelGreaterThan(4)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(8)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(12)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(16)):ActionResource(PaitmInterruptsPointRest,1,0)"
 
 new entry "Paitm_RighteousHeritor"
 type "PassiveData"
 using "Paitm_RighteousHeritor"
+// You can channel cosmic forces of Good. Once per battle, when you or an ally are attacked, you can grant the target &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Slashing, Piercing, and Bludgeoning damage and increase their &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 1 for the rest of the turn. You can use this feature a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and regain all uses on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.
+data "Description" "h5e8e5122g1b4cg41aega543g28ad872d3b2b;1"
 data "Boosts" "UnlockInterrupt(Interrupt_Paitm_SoothePain);ActionResource(PaitmInterruptsPoint,1,0);ActionResource(PaitmInterruptsPointRest,2,0);IF(CharacterLevelGreaterThan(4)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(8)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(12)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(16)):ActionResource(PaitmInterruptsPointRest,1,0)"
 
+new entry "Paitm_OutlandsEnvoy"
+type "PassiveData"
+using "Paitm_OutlandsEnvoy"
+// You have spent significant time in the Outlands. You gain the planar &lt;LSTag Type="Spell" Tooltip="Target_Paitm_MistyStep"&gt;Misty Step&lt;/LSTag&gt; spell to teleport and the &lt;LSTag Type="Spell" Tooltip="Target_Paitm_Tongues"&gt;Tongues&lt;/LSTag&gt; spell for conversations. Each spell can be used once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.<
+data "Description" "h693dfa07gcaa3g4d1ag800bgf582e191214b;1"
