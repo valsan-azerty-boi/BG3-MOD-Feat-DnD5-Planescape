@@ -1,21 +1,18 @@
 new entry "Interrupt_Paitm_GraspOfAvarice"
 type "InterruptData"
 using "Interrupt_Paitm_GraspOfAvarice"
-// As a Baleful Scion, once per battle, if you damage a creature, you can also deal an additional [1] and you regain [2]. You add your &lt;LSTag Tooltip="Proficiency"&gt;Proficiency Bonus&lt;/LSTag&gt; to these damage and healing rolls. You can use this feature a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and regain all uses on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.
 data "Description" "hf616dd6cg3550g4303g9a5egd33c476ae678;1"
 data "Cost" "PaitmInterruptsPoint:1;PaitmInterruptsPointRest:1"
 
 new entry "Interrupt_Paitm_StasisStrike"
 type "InterruptData"
 using "Interrupt_Paitm_StasisStrike"
-// As an Agent of Order, once per turn, if you damage a creature, you can also deal an additional [1] and possibly &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;restrain&lt;/LSTag&gt; it. You can use this feature a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and regain all uses on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.
 data "Description" "h70b6b5c2gbcafg485dgafb4g6dab17229ef7;1"
 data "Cost" "PaitmInterruptsPoint:1;PaitmInterruptsPointRest:1"
 
 new entry "Interrupt_Paitm_SoothePain"
 type "InterruptData"
 using "Interrupt_Paitm_SoothePain"
-// As a Righteous Heritor, once per battle, when you or an ally are attacked, you can grant the target &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Slashing, Piercing, and Bludgeoning damage and increase their &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 1 for the rest of the turn. You can use this feature a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and regain all uses on a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.
 data "Description" "h2f04e4e7g1412g46beg9d7bgfecd623f2dd2;1"
 data "Cost" "PaitmInterruptsPoint:1;PaitmInterruptsPointRest:1"
 
