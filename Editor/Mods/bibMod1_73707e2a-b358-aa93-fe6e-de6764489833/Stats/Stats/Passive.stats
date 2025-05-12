@@ -121,6 +121,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_AgentOfOrder" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hce1cd424g90f9gea76gb72dg44fdf98a3f8b" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hbc628baeg7924g2968g688ege1b27b9da425" version="9" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(1d8,Force)" />
         <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_AgentOfOrder" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_StasisStrike);ActionResource(PaitmInterruptsPoint,1,0)" />
@@ -132,6 +133,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_BalefulScion" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5ff73c39g2f01g0d15g8d66ga682c91ea8eb" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha6e5632cgaf7cg4d26g70e5g1073b3542c2d" version="8" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(1d6,Necrotic);RegainHitPoints(1d6)" />
         <field name="Icon" type="StringTableFieldDefinition" value="Paitm_Spell_BalefulScion" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_GraspOfAvarice);ActionResource(PaitmInterruptsPoint,1,0)" />

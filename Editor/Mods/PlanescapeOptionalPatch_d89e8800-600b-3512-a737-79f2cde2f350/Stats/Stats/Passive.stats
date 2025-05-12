@@ -7,6 +7,8 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_AgentOfOrder" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="281a7fbf-b4da-4f89-8bae-0fa47e95a5f5" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_StasisStrike);ActionResource(PaitmInterruptsPoint,1,0);ActionResource(PaitmInterruptsPointRest,2,0);IF(CharacterLevelGreaterThan(4)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(8)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(12)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(16)):ActionResource(PaitmInterruptsPointRest,1,0)" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h8a404bedgd2dfg42f6ga3b9g66dc94a800d9" version="1" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(1d8,Force)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -15,6 +17,8 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_BalefulScion" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="6fff7141-f452-47d2-b609-205e976001da" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_GraspOfAvarice);ActionResource(PaitmInterruptsPoint,1,0);ActionResource(PaitmInterruptsPointRest,2,0);IF(CharacterLevelGreaterThan(4)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(8)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(12)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(16)):ActionResource(PaitmInterruptsPointRest,1,0)" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf75406bfgd380g4071gbd3ag6cc48679020c" version="1" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(1d6,Necrotic);RegainHitPoints(1d6)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -23,6 +27,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Paitm_RighteousHeritor" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="81e736cf-ad36-4b9a-bec8-8535bb1e1093" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_Paitm_SoothePain);ActionResource(PaitmInterruptsPoint,1,0);ActionResource(PaitmInterruptsPointRest,2,0);IF(CharacterLevelGreaterThan(4)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(8)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(12)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(16)):ActionResource(PaitmInterruptsPointRest,1,0)" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h5e8e5122g1b4cg41aega543g28ad872d3b2b" version="1" />
       </fields>
     </stat_object>
   </stat_objects>

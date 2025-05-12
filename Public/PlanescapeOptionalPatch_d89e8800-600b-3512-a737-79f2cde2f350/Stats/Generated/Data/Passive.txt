@@ -17,3 +17,4 @@ type "PassiveData"
 using "Paitm_RighteousHeritor"
 data "Description" "h5e8e5122g1b4cg41aega543g28ad872d3b2b;1"
 data "Boosts" "UnlockInterrupt(Interrupt_Paitm_SoothePain);ActionResource(PaitmInterruptsPoint,1,0);ActionResource(PaitmInterruptsPointRest,2,0);IF(CharacterLevelGreaterThan(4)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(8)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(12)):ActionResource(PaitmInterruptsPointRest,1,0);IF(CharacterLevelGreaterThan(16)):ActionResource(PaitmInterruptsPointRest,1,0)"
+
