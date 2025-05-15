@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MultiEffectInfos UUID="bc609fb2-5e63-4b45-b228-31a3494b65e0" OwnerUUID="0efe9b7a-ac0b-4f39-9582-e8f127558f83" Name="Paitm_VFX_NamelessOneEcho_StatusEffect">
+  <EffectInfo UUID="e61e23d4-2dd8-4dd2-832b-2409057872f1" EffectResourceGuid="789becff-53b0-350f-71e7-a2f950e6850b" DetachSource="false" DetachTarget="false" KeepRotation="false" UseOrientDirection="false" UseDistance="false" UseScaleOverride="false" KeepScale="true" MainHand="false" OffHand="false" MinDistance="0" MaxDistance="0" BindSourceTo="SourceEntity" BindTargetTo="TargetEntity" Pivot="Target" Enabled="true" DamageType="None" VerbalIntent="None" TargetBone="Dummy_BodyFX" SourceCheckEquipmentTagConditions="true" TargetCheckEquipmentTagConditions="true" />
+</MultiEffectInfos>

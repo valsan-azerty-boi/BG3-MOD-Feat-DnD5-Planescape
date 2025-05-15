@@ -751,5 +751,13 @@
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="14753516-8858-473c-8511-adb4afff76a4" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_NamelessOne_Echo_Red_VFX" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusEffect" type="GuidObjectTableFieldDefinition" value="bc609fb2-5e63-4b45-b228-31a3494b65e0" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

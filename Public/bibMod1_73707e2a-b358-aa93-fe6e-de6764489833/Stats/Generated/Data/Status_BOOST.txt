@@ -622,3 +622,9 @@ data "StackId" "PAITM_RAVELSNAIL"
 data "Boosts" "Skill(Nature,2)"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting"
 
+new entry "Paitm_NamelessOne_Echo_Red_VFX"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting"
+data "StatusEffect" "bc609fb2-5e63-4b45-b228-31a3494b65e0"
+
