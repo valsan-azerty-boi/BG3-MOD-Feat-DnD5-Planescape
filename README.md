@@ -22,12 +22,16 @@ This mod implements features from the D&D 5E Planescape sourcebooks into Baldur'
 ## Languages
 - English 
 - French
-- Russian (by [Hecctus](https://next.nexusmods.com/profile/Hecctus))
-- Brazilian Portuguese (by [AlucardTraducao](https://next.nexusmods.com/profile/AlucardTraducao))
+- Russian
+- Brazilian Portuguese
 
-## Voice actors
-- xoktoberkindx
-- DavidKouw
+## Contributors
+- [bibsan](https://next.nexusmods.com/profile/bibsan) for the mod implementation and french translation
+- [Cahoot](https://next.nexusmods.com/profile/cahooots) for some fixes on the english translation and the optional patch
+- [Hecctus](https://next.nexusmods.com/profile/Hecctus) for the russian translation
+- [AlucardTraducao](https://next.nexusmods.com/profile/AlucardTraducao) for the brazilian portuguese translation
+- xoktoberkindx for voice acting
+- DavidKouw for voice acting
 
 ## Special thanks
 - The entire BG3 modding community

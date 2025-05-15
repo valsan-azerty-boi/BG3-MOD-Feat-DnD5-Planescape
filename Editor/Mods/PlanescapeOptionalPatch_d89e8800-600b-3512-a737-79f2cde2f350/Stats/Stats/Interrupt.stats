@@ -7,6 +7,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Interrupt_Paitm_GraspOfAvarice" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="074a67d0-1691-4426-839c-10d99e3032a7" />
         <field name="Cost" type="StringTableFieldDefinition" value="PaitmInterruptsPoint:1;PaitmInterruptsPointRest:1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf616dd6cg3550g4303g9a5egd33c476ae678" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -15,6 +16,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Interrupt_Paitm_StasisStrike" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="2a558143-74fb-40d6-a61c-8636d6012c99" />
         <field name="Cost" type="StringTableFieldDefinition" value="PaitmInterruptsPoint:1;PaitmInterruptsPointRest:1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h70b6b5c2gbcafg485dgafb4g6dab17229ef7" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -23,6 +25,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Interrupt_Paitm_SoothePain" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="3140250c-f88f-4d47-ad24-698d01486377" />
         <field name="Cost" type="StringTableFieldDefinition" value="PaitmInterruptsPoint:1;PaitmInterruptsPointRest:1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h2f04e4e7g1412g46beg9d7bgfecd623f2dd2" version="1" />
       </fields>
     </stat_object>
   </stat_objects>

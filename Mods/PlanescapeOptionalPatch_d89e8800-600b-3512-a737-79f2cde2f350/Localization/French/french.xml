@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h8d0b8febg6dffg41ecgbd4fg74a2f8ebbafc" version="1">Agent planaire</content>
+  <content contentuid="hf5cfc90cg7ea1g42c4g9571gb4e6dbefc921" version="1">Le nombre d'utilisations de réaction d'agent planaire.</content>
+  <content contentuid="h5e8e5122g1b4cg41aega543g28ad872d3b2b" version="1">En tant qu'héritier vertueux, vous pouvez utiliser cette réaction et tenter de réduire les dégâts subis par vous ou un allié pour le tour en cours.</content>
+  <content contentuid="h2f04e4e7g1412g46beg9d7bgfecd623f2dd2" version="1">En tant qu'héritier vertueux, vous pouvez utiliser cette réaction et tenter de réduire les dégâts subis par vous ou un allié pour le tour en cours.</content>
+  <content contentuid="hf75406bfgd380g4071gbd3ag6cc48679020c" version="1">En tant que funeste scion, si vous infligez des dégâts à une créature, vous pouvez également lui infliger [1] supplémentaire et vous regagnez [2]. Votre &lt;LSTag Tooltip="Proficiency"&gt;Bonus de compétence&lt;/LSTag&gt; est ajouté à ces jets de dégâts et de soins.</content>
+  <content contentuid="hf616dd6cg3550g4303g9a5egd33c476ae678" version="1">En tant que funeste scion, si vous infligez des dégâts à une créature, vous pouvez également lui infliger [1] supplémentaire et vous regagnez [2]. Votre &lt;LSTag Tooltip="Proficiency"&gt;Bonus de compétence&lt;/LSTag&gt; est ajouté à ces jets de dégâts et de soins.</content>
+  <content contentuid="h8a404bedgd2dfg42f6ga3b9g66dc94a800d9" version="1">En tant qu'agent de l'ordre, si vous infligez des dégâts à une créature, vous pouvez également lui infliger un [1] supplémentaire et, si vous avez de la chance, l'immobiliser.</content>
+  <content contentuid="h70b6b5c2gbcafg485dgafb4g6dab17229ef7" version="1">En tant qu'agent de l'ordre, si vous infligez des dégâts à une créature, vous pouvez également lui infliger un [1] supplémentaire et, si vous avez de la chance, l'immobiliser.</content>
+</contentList>

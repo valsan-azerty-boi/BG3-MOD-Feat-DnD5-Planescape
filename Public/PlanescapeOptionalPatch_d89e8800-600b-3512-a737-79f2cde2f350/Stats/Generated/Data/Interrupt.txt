@@ -1,15 +1,18 @@
 new entry "Interrupt_Paitm_GraspOfAvarice"
 type "InterruptData"
 using "Interrupt_Paitm_GraspOfAvarice"
+data "Description" "hf616dd6cg3550g4303g9a5egd33c476ae678;1"
 data "Cost" "PaitmInterruptsPoint:1;PaitmInterruptsPointRest:1"
 
 new entry "Interrupt_Paitm_StasisStrike"
 type "InterruptData"
 using "Interrupt_Paitm_StasisStrike"
+data "Description" "h70b6b5c2gbcafg485dgafb4g6dab17229ef7;1"
 data "Cost" "PaitmInterruptsPoint:1;PaitmInterruptsPointRest:1"
 
 new entry "Interrupt_Paitm_SoothePain"
 type "InterruptData"
 using "Interrupt_Paitm_SoothePain"
+data "Description" "h2f04e4e7g1412g46beg9d7bgfecd623f2dd2;1"
 data "Cost" "PaitmInterruptsPoint:1;PaitmInterruptsPointRest:1"
 

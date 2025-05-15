@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="7" revision="1" build="3"/>
+    <version major="4" minor="8" revision="0" build="10"/>
     <region id="ActionResourceDefinitions">
         <node id="root">
             <children>
                 <node id="ActionResourceDefinition">
-                    <attribute id="IsHidden" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="hf5cfc90cg7ea1g42c4g9571gb4e6dbefc921" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8d0b8febg6dffg41ecgbd4fg74a2f8ebbafc" version="1"/>
+                    <attribute id="IsHidden" type="bool" value="false"/>
                     <attribute id="Name" type="FixedString" value="PaitmInterruptsPointRest"/>
                     <attribute id="ReplenishType" type="FixedString" value="Rest"/>
-                    <attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
                     <attribute id="UUID" type="guid" value="5ad07303-d496-4f9f-91c1-3dd405d2840b"/>
                 </node>
             </children>
