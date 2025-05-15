@@ -1,0 +1,22 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+
+//TODO
+IF
+CastedSpell(_, "Target_END_Mindflayer_CrownDomination", _, _, _)
+AND
+NOT DB_GlobalFlag(END_BrainBattle_Event_CompulsionAttempt_91f9cf79-2ba8-ce1c-9380-4282464328be)
+AND
+QRY_OnlyOnce("Paitm_BrainBattle_NamelessOne_Summon")
+AND
+CreateAtObject(ac29a883-c059-44bd-bd01-c215a91124f6,PAITM_BrainFinalBattle_NamelessOne_TeleportTrigger_1182b3a2-ccc8-482d-8f30-a99764eb527c,1,1,"",1,(GUIDSTRING)_PaitmTempNamelessOneSummon)
+THEN
+DB_PaitmTempCreature((CHARACTER)_PaitmTempNamelessOneSummon);
+
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "Act3c_END_BrainBattle"

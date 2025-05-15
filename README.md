@@ -40,5 +40,6 @@ This mod implements features from the D&D 5E Planescape sourcebooks into Baldur'
 ## External CC credits
 - AD&D2 Lady of Pain mask 3D model from [chrisgo](https://www.thingiverse.com/thing:2407798)
 - Planescape Torment Nordom 3D model from [Xavier L.](https://www.myminifactory.com/object/3d-print-nordom-planescape-torment-208680)
+- Planescape Torment Nameless One Hair 3D model from [Samize](https://sketchfab.com/3d-models/the-nameless-one-f32709175a904df7b359d8b1180aa212)
 
 ![Planescape](./Projects/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/images/planescape_pres_morte.png)

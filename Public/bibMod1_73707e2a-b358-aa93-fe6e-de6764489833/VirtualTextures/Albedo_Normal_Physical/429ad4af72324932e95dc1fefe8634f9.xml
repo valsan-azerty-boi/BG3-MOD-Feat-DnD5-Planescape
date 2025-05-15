@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StackedTexture>
+  <Layers>
+    <Layer type="Albedo" source="($DATA)\Public\($MOD)\VirtualTextures\Hair_NamelessOne_1_Albedo" />
+    <Layer type="Normal" source="($DATA)\Public\($MOD)\VirtualTextures\Hair_NamelessOne_1_Normal" />
+    <Layer type="Physical" source="($DATA)\Public\($MOD)\VirtualTextures\Hair_NamelessOne_1_Physical" />
+  </Layers>
+</StackedTexture>
