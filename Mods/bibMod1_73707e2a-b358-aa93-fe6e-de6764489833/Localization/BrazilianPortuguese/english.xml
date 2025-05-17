@@ -688,4 +688,12 @@
 <content contentuid="h5eeb7f86g2c9bgc33dg2072gd74d9ed247a2" version="6">Unha de Ravel</content>
 <content contentuid="hd628e9b2g4ec2g9842gc889g512c7f223ea5" version="6">Um prego mágico que pertencia a uma Bruxa Cinzenta.</content>
 <content contentuid="hb2ce743bg1162geefbg8d54g837cfa71fedf" version="1">O que você está fazendo aqui?!</content>
+<content contentuid="h8d0b8febg6dffg41ecgbd4fg74a2f8ebbafc" version="1">Slots de Agente Planar</content>
+<content contentuid="hf5cfc90cg7ea1g42c4g9571gb4e6dbefc921" version="1">O número de usos que você tem da sua reação de agente planar.</content>
+<content contentuid="h5e8e5122g1b4cg41aega543g28ad872d3b2b" version="1">Você pode canalizar forças cósmicas do Bem para ganhar benefícios. Você ganha a reação protetora &lt;LSTag Tooltip="Interrupt_Paitm_SoothePain"&gt;Soothe Pain&lt;/LSTag&gt; para tentar reduzir o dano sofrido por você ou um aliado.</content>
+<content contentuid="h2f04e4e7g1412g46beg9d7bgfecd623f2dd2" version="1">Você pode canalizar forças cósmicas do Bem para ganhar benefícios. Você ganha a reação protetora &lt;LSTag Tooltip="Interrupt_Paitm_SoothePain"&gt;Soothe Pain&lt;/LSTag&gt; para tentar reduzir o dano sofrido por você ou um aliado.</content>
+<content contentuid="hf75406bfgd380g4071gbd3ag6cc48679020c" version="1">Você pode canalizar forças cósmicas do Mal para ganhar benefícios. Você ganha a reação necrótica &lt;LSTag Tooltip="Interrupt_Paitm_GraspOfAvarice"&gt;Agarrar a Avareza&lt;/LSTag&gt; para causar dano necrótico adicional e se curar.</content>
+<content contentuid="hf616dd6cg3550g4303g9a5egd33c476ae678" version="1">Você pode canalizar forças cósmicas do Mal para ganhar benefícios. Você ganha a reação necrótica &lt;LSTag Tooltip="Interrupt_Paitm_GraspOfAvarice"&gt;Agarrar a Avareza&lt;/LSTag&gt; para causar dano necrótico adicional e se curar.</content>
+<content contentuid="h8a404bedgd2dfg42f6ga3b9g66dc94a800d9" version="1">Você pode canalizar forças cósmicas da Ordem para ganhar benefícios. Você ganha a reação de força &lt;LSTag Tooltip="Interrupt_Paitm_StasisStrike"&gt;Stasis Strike&lt;/LSTag&gt; para causar dano de Força adicional com uma chance de Restrain.</content>
+<content contentuid="h70b6b5c2gbcafg485dgafb4g6dab17229ef7" version="1">Você pode canalizar forças cósmicas da Ordem para ganhar benefícios. Você ganha a reação de força &lt;LSTag Tooltip="Interrupt_Paitm_StasisStrike"&gt;Stasis Strike&lt;/LSTag&gt; para causar dano de Força adicional com uma chance de Restrain.</content>
 </contentList>
