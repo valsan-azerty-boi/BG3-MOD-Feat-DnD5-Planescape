@@ -236,7 +236,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="dc5cabfc-8cf4-4b17-8622-525c9cb1578d" />
         <field name="Name" type="NameTableFieldDefinition" value="ShadowStrike_Instant" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="760eb209-d970-48e8-8cc1-7c8cfa338ad6" />
-        <field name="RequirementConditions" type="StringTableFieldDefinition" value="IsSneakingOrInvisible() and not not HasStatus('Paitm_SEALED')" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="IsSneakingOrInvisible() and not HasStatus('Paitm_SEALED')" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -244,7 +244,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="adddab52-5396-4195-ad70-762667b881d2" />
         <field name="Name" type="NameTableFieldDefinition" value="ShadowStrike_Instant_Unarmed" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="78734e0d-45bb-4b31-af6d-ce62f5a92b65" />
-        <field name="RequirementConditions" type="StringTableFieldDefinition" value="IsSneakingOrInvisible() and not not HasStatus('Paitm_SEALED')" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="IsSneakingOrInvisible() and not HasStatus('Paitm_SEALED')" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
