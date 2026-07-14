@@ -1,0 +1,81 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+//REGION Paitm Free Thinker faith rewards
+
+IF
+LevelGameplayStarted(_Level,_IsEditor)
+AND
+DB_Players(_Character)
+AND
+IsTagged(_Character, (TAG)PAITM_FREE_THINKER_217239ec-9051-4c82-9dac-d83be55f1115, 1)
+AND
+NOT IsTagged(_Character, (TAG)DIVINE_INTERVENTION_USED_37ad267f-7295-4c1e-9ca4-769c8c06441d, 1)
+THEN
+SetTag(_Character, (TAG)DIVINE_INTERVENTION_USED_37ad267f-7295-4c1e-9ca4-769c8c06441d);
+
+IF
+TagSet(_Character, DIVINE_INTERVENTION_0aa50ec5-f0a5-4a9d-a3c8-3ae49a37941e)
+AND
+IsTagged(_Character, (TAG)PAITM_FREE_THINKER_217239ec-9051-4c82-9dac-d83be55f1115, 1)
+AND
+NOT HasPassive(_Character, "Paitm_DivineIntervention_FreeThinker", 1)
+THEN
+SetTag(_Character, (TAG)DIVINE_INTERVENTION_USED_37ad267f-7295-4c1e-9ca4-769c8c06441d);
+AddPassive(_Character, "Paitm_DivineIntervention_FreeThinker");
+
+IF
+RespecCompleted(_Character)
+AND
+IsTagged(_Character, DIVINE_INTERVENTION_0aa50ec5-f0a5-4a9d-a3c8-3ae49a37941e, 1)
+AND
+IsTagged(_Character, (TAG)PAITM_FREE_THINKER_217239ec-9051-4c82-9dac-d83be55f1115, 1)
+AND
+NOT HasPassive(_Character, "Paitm_DivineIntervention_FreeThinker", 1)
+THEN
+SetTag(_Character, (TAG)DIVINE_INTERVENTION_USED_37ad267f-7295-4c1e-9ca4-769c8c06441d);
+AddPassive(_Character, "Paitm_DivineIntervention_FreeThinker");
+
+//END_REGION
+
+//REGION Paitm Aoskar faith rewards
+
+IF
+LevelGameplayStarted(_Level,_IsEditor)
+AND
+DB_Players(_Character)
+AND
+IsTagged(_Character, (TAG)PAITM_AOSKAR_a1661a5c-9e4d-4630-8555-58ab7bb4f693, 1)
+AND
+NOT IsTagged(_Character, (TAG)DIVINE_INTERVENTION_USED_37ad267f-7295-4c1e-9ca4-769c8c06441d, 1)
+THEN
+SetTag(_Character, (TAG)DIVINE_INTERVENTION_USED_37ad267f-7295-4c1e-9ca4-769c8c06441d);
+
+IF
+TagSet(_Character, DIVINE_INTERVENTION_0aa50ec5-f0a5-4a9d-a3c8-3ae49a37941e)
+AND
+IsTagged(_Character, (TAG)PAITM_AOSKAR_a1661a5c-9e4d-4630-8555-58ab7bb4f693, 1)
+AND
+NOT HasPassive(_Character, "Paitm_DivineIntervention_Aoskar", 1)
+THEN
+SetTag(_Character, (TAG)DIVINE_INTERVENTION_USED_37ad267f-7295-4c1e-9ca4-769c8c06441d);
+AddPassive(_Character, "Paitm_DivineIntervention_Aoskar");
+
+IF
+RespecCompleted(_Character)
+AND
+IsTagged(_Character, DIVINE_INTERVENTION_0aa50ec5-f0a5-4a9d-a3c8-3ae49a37941e, 1)
+AND
+IsTagged(_Character, (TAG)PAITM_AOSKAR_a1661a5c-9e4d-4630-8555-58ab7bb4f693, 1)
+AND
+NOT HasPassive(_Character, "Paitm_DivineIntervention_Aoskar", 1)
+THEN
+SetTag(_Character, (TAG)DIVINE_INTERVENTION_USED_37ad267f-7295-4c1e-9ca4-769c8c06441d);
+AddPassive(_Character, "Paitm_DivineIntervention_Aoskar");
+
+//END_REGION
+EXITSECTION
+
+ENDEXITSECTION

@@ -266,5 +266,27 @@
         <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(Paitm_Entropy_DeathDebuff,100,0)" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b511198b-c244-4ce0-86b6-ff4fc2122787" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_DivineIntervention_Aoskar" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb3d1e50bgfa1dg36d8g1eebg527e7c89b742" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9cae6d0fg72a6gc78fg85abgcdeeb369be0d" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_DivineIntervention_Attack" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="StatusImmunity(BANISHED);StatusImmunity(SILENCED)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5acc6f78-8bd1-48e4-a0c5-5234a75cb842" />
+        <field name="Name" type="NameTableFieldDefinition" value="Paitm_DivineIntervention_FreeThinker" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd7010dc0g5920g9131g4691g696b8220259c" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h35856bcbg1888g71f5g2e84g8e08be9110a0" version="3" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_DivineIntervention_Attack" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Wisdom,1);StatusImmunity(CHARMED)" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

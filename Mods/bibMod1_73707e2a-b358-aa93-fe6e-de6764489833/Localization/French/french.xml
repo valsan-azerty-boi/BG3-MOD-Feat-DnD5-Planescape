@@ -687,6 +687,15 @@
   <content contentuid="h07a2d4a1ga292ge7d2g2cabgd064445ad406" version="1">Chaque victoire pour l'Absolu est un pas vers notre salvation.</content>
   <content contentuid="h5eeb7f86g2c9bgc33dg2072gd74d9ed247a2" version="6">Ongle de Ravel</content>
   <content contentuid="hd628e9b2g4ec2g9842gc889g512c7f223ea5" version="6">Un ongle magique ayant appartenu à une guenaude noire.</content>
+  <content contentuid="h0c6ce85dg7a18g8931g954bgfbf0882c5b1f" version="1">Paitm_Showcase_Npcs</content>
+  <content contentuid="h9ab0947egb5b4g3877g93dcga123678923cf" version="1">Paitm_Showcase_Npcs_Annah</content>
+  <content contentuid="h0caf398cgadbbg2866gc4b5g9c56f8237860" version="1">Paitm_Showcase_Npcs_Morte</content>
+  <content contentuid="h5e317d2fg56bbg8085gcb84gc5d94d996f80" version="1">Paitm_Showcase_Npcs_Ffg</content>
+  <content contentuid="h90f97953g4407g96e8g3affga796910c7aac" version="1">Paitm_Showcase_Npcs_Vhailor</content>
+  <content contentuid="hb580e68fg0cdfg05f0gde25g547a5d292602" version="1">Paitm_Showcase_Npcs_LadyOfPain</content>
+  <content contentuid="h509695c6gb128g06edgff97g515dc6f40bd2" version="1">Paitm_Showcase_Npcs_Ignus</content>
+  <content contentuid="h3259a551g4777gbc6cgf3ceg639f3b80c3bc" version="1">Paitm_Showcase_Npcs_Nordom</content>
+  <content contentuid="hff950465g6e66ge5d1g26ecg611b8181593c" version="1">Paitm_Showcase_Npcs_Dakkon</content>
   <content contentuid="hb2ce743bg1162geefbg8d54g837cfa71fedf" version="1">Que faites-vous ici ?!</content>
   <content contentuid="h8d0b8febg6dffg41ecgbd4fg74a2f8ebbafc" version="1">Agent planaire</content>
   <content contentuid="hf5cfc90cg7ea1g42c4g9571gb4e6dbefc921" version="1">Le nombre d'utilisations de réaction d'agent planaire.</content>
@@ -696,4 +705,17 @@
   <content contentuid="hf616dd6cg3550g4303g9a5egd33c476ae678" version="1">En tant que funeste scion, si vous infligez des dégâts à une créature, vous pouvez également lui infliger [1] supplémentaire et vous regagnez [2]. Votre &lt;LSTag Tooltip="Proficiency"&gt;Bonus de compétence&lt;/LSTag&gt; est ajouté à ces jets de dégâts et de soins.</content>
   <content contentuid="h8a404bedgd2dfg42f6ga3b9g66dc94a800d9" version="1">En tant qu'agent de l'ordre, si vous infligez des dégâts à une créature, vous pouvez également lui infliger un [1] supplémentaire et, si vous avez de la chance, l'immobiliser.</content>
   <content contentuid="h70b6b5c2gbcafg485dgafb4g6dab17229ef7" version="1">En tant qu'agent de l'ordre, si vous infligez des dégâts à une créature, vous pouvez également lui infliger un [1] supplémentaire et, si vous avez de la chance, l'immobiliser.</content>
+  <content contentuid="h05568ce5gef6egc265g1bc4gc5fa5d5e6c10" version="12">(Test Dialog Nodes Pln5e) Bonjour joueur, ceci est un dialogue de test</content>
+  <content contentuid="h4881e99agaa4bgef06gdd70g786e11377e7f" version="11">(Test Dialog Nodes Pln5e) Bye joueur !</content>
+  <content contentuid="hb3512be6g737dge981g2023g4cc3835de2d5" version="11">(Test Dialog Nodes Pln5e) Joueur a choisi de quitter le dialogue !</content>
+  <content contentuid="he8c350b1g8ac7gc4d8g9702g028ef0ae4130" version="9">(Test Dialog Nodes Pln5e) Outlander tagged dialog</content>
+  <content contentuid="hdb8cb1a3g2105gc0c6g8619g65431d39b38a" version="8">(Test Dialog Nodes Pln5e) Planar tagged dialog</content>
+  <content contentuid="h9b2956ddg215eg36e6ge821g8e832cdfa070" version="7">(Test Dialog Nodes Pln5e) ReallyPlanar tagged dialog</content>
+  <content contentuid="h37c6ebdcg7e8dg7f59g19d3g055174ab3d88" version="6">(Test Dialog Nodes Pln5e) AoskarCleric tagged dialog</content>
+  <content contentuid="hfc7f462bgd91bg088cgbc72gfa08f2b64c94" version="6">(Test Dialog Nodes Pln5e) FreeThinkerCleric tagged dialog</content>
+  <content contentuid="h50da355fgdf3cge095gfa70ga45946effa78" version="1">(Test Dialog Nodes Pln5e) Baldurian tagged dialog</content>
+  <content contentuid="hd7010dc0g5920g9131g4691g696b8220259c" version="1">Libre penseur accompli</content>
+  <content contentuid="h35856bcbg1888g71f5g2e84g8e08be9110a0" version="3">N'ayant pas de dieu pour répondre à votre appel, vous comptez plutôt sur la force de vos propres convictions. Vous n'avez pas accès à Intervention Divine, mais vous bénéficiez d'un bonus permanent de +1 en <LSTag Tooltip="Wisdom">Sagesse</LSTag> et êtes désormais immunisé à l'effet <LSTag Type="Status" Tooltip="CHARMED">Charmé</LSTag>.</content>
+  <content contentuid="hb3d1e50bgfa1dg36d8g1eebg527e7c89b742" version="2">Présence d'Aoskar</content>
+  <content contentuid="h9cae6d0fg72a6gc78fg85abgcdeeb369be0d" version="2">Un très léger reflet d'Aoskar semble désormais résider en vous. Vous n'avez pas accès à Intervention Divine, mais vous êtes immunisé aux effets <LSTag Type="Status" Tooltip="BANISHED">Bannissement</LSTag> et <LSTag Type="Status" Tooltip="SILENCED">Silence</LSTag>.</content>
 </contentList>
