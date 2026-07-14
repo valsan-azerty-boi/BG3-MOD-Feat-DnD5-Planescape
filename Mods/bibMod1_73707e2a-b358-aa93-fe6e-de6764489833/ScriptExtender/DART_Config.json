@@ -4,50 +4,18 @@
     "Tags": [
         {
             "d81df6f9-9f6e-4146-841a-9f285e6ee879": {
-                "Source": "9dbe29e4-17eb-4310-bafd-23abfa35c369",
-                "GrantTag": true,
-                "DisplayName": "h1c9149e8g6d95ge63ag585eg403768a29c67",
-                "Description": "h362190b9gc119gaa84gfdb3g0cf8295f61e4"
+                "Source": "3100ddc6-70b9-4988-a6de-3df7c528f486",
+                "GrantTag": false,
+                "DisplayName": "h350fe144ga8fdg985dgc3acg5a7496bb2797",
+                "Description": "h7673e277g6538g4c2egbdabg5a38a5264c1b"
             }
         },
-        {
+                {
             "d81df6f9-9f6e-4146-841a-9f285e6ee879": {
-                "Source": "3100ddc6-70b9-4988-a6de-3df7c528f486",
-                "GrantTag": true,
-                "DisplayName": "h350fe144ga8fdg985dgc3acg5a7496bb2797",
-                "Description": "h7673e277g6538g4c2egbdabg5a38a5264c1b"
-            }
-        },
-        {
-            "bad00ba2-8a49-450c-8387-af47681717f1": {
                 "Source": "9dbe29e4-17eb-4310-bafd-23abfa35c369",
-                "GrantTag": true,
+                "GrantTag": false,
                 "DisplayName": "h1c9149e8g6d95ge63ag585eg403768a29c67",
                 "Description": "h362190b9gc119gaa84gfdb3g0cf8295f61e4"
-            }
-        },
-        {
-            "bad00ba2-8a49-450c-8387-af47681717f1": {
-                "Source": "3100ddc6-70b9-4988-a6de-3df7c528f486",
-                "GrantTag": true,
-                "DisplayName": "h350fe144ga8fdg985dgc3acg5a7496bb2797",
-                "Description": "h7673e277g6538g4c2egbdabg5a38a5264c1b"
-            }
-        },
-        {
-            "4cb02915-7ad7-4141-907e-93253c6a8644": {
-                "Source": "9dbe29e4-17eb-4310-bafd-23abfa35c369",
-                "GrantTag": true,
-                "DisplayName": "h1c9149e8g6d95ge63ag585eg403768a29c67",
-                "Description": "h362190b9gc119gaa84gfdb3g0cf8295f61e4"
-            }
-        },
-        {
-            "4cb02915-7ad7-4141-907e-93253c6a8644": {
-                "Source": "3100ddc6-70b9-4988-a6de-3df7c528f486",
-                "GrantTag": true,
-                "DisplayName": "h350fe144ga8fdg985dgc3acg5a7496bb2797",
-                "Description": "h7673e277g6538g4c2egbdabg5a38a5264c1b"
             }
         }
     ]

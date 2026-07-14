@@ -19,6 +19,12 @@ The project itself is completely open to contributions.
 ## Features
 This mod implements features from the D&D 5E Planescape sourcebooks into Baldur's Gate 3. These mechanics have been adapted to better match the way the game works. Contains backgrounds, goals, feats, spells, items, bestiary, etc.
 
+### Optional/Not mandatory: ImpUI -> To properly display Planescape background icons
+To test if it works, when creating a new character, check if background icons are visible
+
+### Optional/Not mandatory: ScriptExtender with DART -> To properly display Planescape background dialog options
+To test if it works, create a new character with some tags from this mod, in the first room execute command `Osi.Resurrect("7514c055-e0a8-4fc7-9def-b2d3be5ed9e5")` and talk to the Abishaï
+
 ## Languages
 - English 
 - French
@@ -28,6 +34,7 @@ This mod implements features from the D&D 5E Planescape sourcebooks into Baldur'
 ## Contributors
 - [bibsan](https://next.nexusmods.com/profile/bibsan) for the mod implementation and french translation
 - [Cahoot](https://next.nexusmods.com/profile/cahooots) for some fixes on the english translation and the optional patch
+- [Goonsack](https://github.com/BaldursGoonsack) for some fixes and for his enthusiasm
 - [Hecctus](https://next.nexusmods.com/profile/Hecctus) for the russian translation
 - [AlucardTraducao](https://next.nexusmods.com/profile/AlucardTraducao) for the brazilian portuguese translation
 - xoktoberkindx for voice acting
