@@ -21,7 +21,7 @@
                     <attribute id="Author" type="LSString" value="bibsan"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
                     <attribute id="Description" type="LSString" value="This mod implements features from the DnD 5E Planescape sourcebooks into Baldur&apos;s Gate 3. These features have been adapted to better match the way the game works. Contains backgrounds, goals, feats, spells, items, bestiary, etc."/>
-                    <attribute id="FileSize" type="uint64" value="222381843"/>
+                    <attribute id="FileSize" type="uint64" value="222441164"/>
                     <attribute id="Folder" type="LSString" value="bibMod1_73707e2a-b358-aa93-fe6e-de6764489833"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
                     <attribute id="MD5" type="LSString" value="a806f95a471d92ed0f06961bbb06bb62"/>
