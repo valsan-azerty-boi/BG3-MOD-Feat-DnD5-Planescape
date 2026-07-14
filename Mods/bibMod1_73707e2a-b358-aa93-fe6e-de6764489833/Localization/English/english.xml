@@ -714,4 +714,8 @@
   <content contentuid="h37c6ebdcg7e8dg7f59g19d3g055174ab3d88" version="6">(Test Dialog Nodes Pln5e) AoskarCleric tagged dialog</content>
   <content contentuid="hfc7f462bgd91bg088cgbc72gfa08f2b64c94" version="6">(Test Dialog Nodes Pln5e) FreeThinkerCleric tagged dialog</content>
   <content contentuid="h50da355fgdf3cge095gfa70ga45946effa78" version="1">(Test Dialog Nodes Pln5e) Baldurian tagged dialog</content>
+  <content contentuid="hd7010dc0g5920g9131g4691g696b8220259c" version="1">Accomplished Free Thinker</content>
+  <content contentuid="h35856bcbg1888g71f5g2e84g8e08be9110a0" version="3">Having no god to respond to your call, you rely instead on the strength of your own convictions. You gain no access to Divine Intervention, but you are granted a permanent +1 &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; and you are now immune to being &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt;.</content>
+  <content contentuid="hb3d1e50bgfa1dg36d8g1eebg527e7c89b742" version="2">Aoskar's Presence</content>
+  <content contentuid="h9cae6d0fg72a6gc78fg85abgcdeeb369be0d" version="2">A faint presence of Aoskar now seems to dwell within you. You gain no access to Divine Intervention, but you are immune to being &lt;LSTag Type="Status" Tooltip="BANISHED"&gt;Banished&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.</content>
 </contentList>
