@@ -1,7 +1,7 @@
 # BG3-MOD-Feat-DnD5-Planescape
 ![Features from DnD 5E Planescape](./Projects/bibMod1_73707e2a-b358-aa93-fe6e-de6764489833/images/nexus_banner_mod_bg3_paitm_title.png)
 
-[Nexus](https://www.nexusmods.com/baldursgate3/mods/12096) - [mod.io](https://mod.io/g/baldursgate3/m/features-from-dnd-5e-planescape) - [Source](https://github.com/valsan-azerty-boi/BG3-MOD-Feat-DnD5-Planescape)
+[Nexus](https://www.nexusmods.com/baldursgate3/mods/12096) - [Source](https://github.com/valsan-azerty-boi/BG3-MOD-Feat-DnD5-Planescape)
 
 Features from DnD 5E Planescape is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
 
