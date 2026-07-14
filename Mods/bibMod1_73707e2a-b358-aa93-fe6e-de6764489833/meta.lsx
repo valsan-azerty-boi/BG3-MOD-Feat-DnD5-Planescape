@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="8" revision="0" build="100"/>
+    <version major="4" minor="8" revision="0" build="500"/>
     <region id="Config">
         <node id="root">
             <children>
@@ -9,11 +9,11 @@
                     <children>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="GustavDev"/>
-                            <attribute id="MD5" type="LSString" value="33c1655f7ae3559b579ff3b9d2c45413"/>
+                            <attribute id="MD5" type="LSString" value="8d5c1594b20c2cd0600ea84efb1ad916"/>
                             <attribute id="Name" type="LSString" value="GustavDev"/>
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="28ac9ce2-2aba-8cda-b3b5-6e922f71b6b8"/>
-                            <attribute id="Version64" type="int64" value="145100779997082619"/>
+                            <attribute id="Version64" type="int64" value="145242591228395316"/>
                         </node>
                     </children>
                 </node>
@@ -24,7 +24,7 @@
                     <attribute id="FileSize" type="uint64" value="222381843"/>
                     <attribute id="Folder" type="LSString" value="bibMod1_73707e2a-b358-aa93-fe6e-de6764489833"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="bff335cec6030cee403181c46a28ccf0"/>
+                    <attribute id="MD5" type="LSString" value="a806f95a471d92ed0f06961bbb06bb62"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
                     <attribute id="Name" type="LSString" value="Features from DnD 5E Planescape"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
@@ -32,7 +32,7 @@
                     <attribute id="PublishHandle" type="uint64" value="4320885"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="73707e2a-b358-aa93-fe6e-de6764489833"/>
-                    <attribute id="Version64" type="int64" value="72198344411185420"/>
+                    <attribute id="Version64" type="int64" value="72198346558669069"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717549775"/>
