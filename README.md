@@ -39,6 +39,7 @@ To test if it works, create a new character with some tags from this mod, in the
 - [AlucardTraducao](https://next.nexusmods.com/profile/AlucardTraducao) for the brazilian portuguese translation
 - xoktoberkindx for voice acting
 - DavidKouw for voice acting
+- Ruojo
 
 ## Special thanks
 - The entire BG3 modding community
